@@ -67,7 +67,7 @@ Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn 
 | **`REF_MOH_2023_QD2755`** | Quyết định 2755/QĐ-BYT Hướng dẫn chẩn đoán và điều trị Bệnh phổi tắc nghẽn mạn tính | `Quyết định` | Bộ Y tế Việt Nam | 2023-11-06 | [Download 📥](raw_sources/REF_MOH_2023_QD2755.pdf) |
 | **`REF_MOH_2020_QD2151`** | Quyết định 2151/QĐ-BYT Hướng dẫn chẩn đoán và điều trị Tăng huyết áp | `Quyết định` | Bộ Y tế Việt Nam | 2020-05-18 | [Download 📥](raw_sources/REF_MOH_2020_QD2151.pdf) |
 | **`REF_MOH_2020_QD5481`** | Quyết định 5481/QĐ-BYT Hướng dẫn chẩn đoán và điều trị đái tháo đường typ 2 | `Quyết định` | Bộ Y tế Việt Nam | 2020-12-24 | [Download 📥](raw_sources/REF_MOH_2020_QD5481.pdf) |
-| **`REF_MOH_2021_QD3319`** | Quyết định 3319/QĐ-BYT Hướng dẫn chẩn đoán và xử trí đột quỵ não | `Quyết định` | Bộ Y tế Việt Nam | 2021-07-09 | *Pending 🟡* |
+| **`REF_MOH_2024_QD3312`** | Quyết định 3312/QĐ-BYT Hướng dẫn chẩn đoán và điều trị đột quỵ não | `Quyết định` | Bộ Y tế Việt Nam | 2024-11-05 | [Download 📥](raw_sources/REF_MOH_2024_QD3312.pdf) |
 | **`REF_MOH_2020_QD2603`** | Quyết định 2603/QĐ-BYT Hướng dẫn chẩn đoán và điều trị viêm gan vi rút B | `Quyết định` | Bộ Y tế Việt Nam | 2020-06-16 | [Download 📥](raw_sources/REF_MOH_2020_QD2603.pdf) |
 | **`REF_MOH_2018_QD2673`** | Quyết định 2673/QĐ-BYT Hướng dẫn Quốc gia về tiêm chủng | `Quyết định` | Bộ Y tế Việt Nam | 2018-05-30 | [Download 📥](raw_sources/REF_MOH_2018_QD2673.pdf) |
 | **`REF_MOH_2021_QD2910`** | Quyết định 2910/QĐ-BYT Hướng dẫn chẩn đoán và điều trị các bệnh tim mạch | `Quyết định` | Bộ Y tế Việt Nam | 2021-06-15 | *Pending 🟡* |

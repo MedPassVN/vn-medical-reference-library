@@ -14,7 +14,7 @@
       "Phản vệ"
     ],
     "version": "1.0",
-    "local_path": "docs/references/raw_sources/REF_MOH_2017_TT51.pdf"
+    "local_path": "raw_sources/REF_MOH_2017_TT51.pdf"
   },
   {
     "ref_id": "REF_LAW_2023_KCB",
@@ -30,7 +30,7 @@
       "Chính sách y tế"
     ],
     "version": "2023",
-    "local_path": "docs/references/raw_sources/REF_LAW_2023_KCB.pdf"
+    "local_path": "raw_sources/REF_LAW_2023_KCB.pdf"
   },
   {
     "ref_id": "REF_MOH_2015_QD1904",
@@ -49,7 +49,7 @@
       "RHEUMATOLOGY_ORTHOPEDICS"
     ],
     "version": "1.0",
-    "local_path": "docs/references/raw_sources/REF_MOH_2015_QD1904.pdf"
+    "local_path": "raw_sources/REF_MOH_2015_QD1904.pdf"
   },
   {
     "ref_id": "REF_MOH_2022_QD2919",
@@ -67,7 +67,7 @@
       "Cơ xương khớp"
     ],
     "version": "1.0",
-    "local_path": "docs/references/raw_sources/REF_MOH_2022_QD2919.pdf"
+    "local_path": "raw_sources/REF_MOH_2022_QD2919.pdf"
   },
   {
     "ref_id": "REF_MOH_2020_QD2767",
@@ -85,7 +85,7 @@
       "Nhi khoa"
     ],
     "version": "1.0",
-    "local_path": "docs/references/raw_sources/REF_MOH_2020_QD2767.pdf"
+    "local_path": "raw_sources/REF_MOH_2020_QD2767.pdf"
   },
   {
     "ref_id": "REF_MOH_2015_QD3126",
@@ -103,7 +103,7 @@
       "Sức khỏe sinh sản"
     ],
     "version": "2015",
-    "local_path": "docs/references/raw_sources/REF_MOH_2015_QD3126.pdf"
+    "local_path": "raw_sources/REF_MOH_2015_QD3126.pdf"
   },
   {
     "ref_id": "REF_MOH_2020_QD5683",
@@ -120,7 +120,7 @@
       "Hen phế quản"
     ],
     "version": "1.0",
-    "local_path": "docs/references/raw_sources/REF_MOH_2020_QD5683.pdf"
+    "local_path": "raw_sources/REF_MOH_2020_QD5683.pdf"
   },
   {
     "ref_id": "REF_MOH_2023_QD2755",
@@ -137,7 +137,7 @@
       "COPD"
     ],
     "version": "1.0",
-    "local_path": "docs/references/raw_sources/REF_MOH_2023_QD2755.pdf"
+    "local_path": "raw_sources/REF_MOH_2023_QD2755.pdf"
   },
   {
     "ref_id": "REF_MOH_2020_QD2151",
@@ -153,7 +153,7 @@
       "Tăng huyết áp"
     ],
     "version": "1.0",
-    "local_path": "docs/references/raw_sources/REF_MOH_2020_QD2151.pdf"
+    "local_path": "raw_sources/REF_MOH_2020_QD2151.pdf"
   },
   {
     "ref_id": "REF_MOH_2020_QD5481",
@@ -169,23 +169,24 @@
       "Đái tháo đường"
     ],
     "version": "1.0",
-    "local_path": "docs/references/raw_sources/REF_MOH_2020_QD5481.pdf"
+    "local_path": "raw_sources/REF_MOH_2020_QD5481.pdf"
   },
   {
-    "ref_id": "REF_MOH_2021_QD3319",
-    "title": "Quyết định số 3319/QĐ-BYT ngày 09/07/2021 ban hành tài liệu Hướng dẫn chẩn đoán và xử trí đột quỵ não",
+    "ref_id": "REF_MOH_2024_QD3312",
+    "title": "Quyết định số 3312/QĐ-BYT ngày 05/11/2024 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị đột quỵ não",
     "document_type": "MOH_GUIDELINE",
-    "document_number": "3319/QĐ-BYT",
+    "document_number": "3312/QĐ-BYT",
     "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2021-07-09",
-    "source_url": "",
+    "effective_date": "2024-11-05",
+    "source_url": "http://cms.benhvienthanhphovinh.vn/Assets/Media/Uploads/1-KHTH/CD-DT/Q%C4%90-BYT-20241105-3312%20HD%20CD-DT%20%C4%90%E1%BB%99t%20qu%E1%BB%B5%20n%C3%A3o.pdf",
     "tags": [
       "EMERGENCY_MEDICINE",
       "NEUROLOGY_SENSES",
       "VĐ 114",
       "Đột quỵ"
     ],
-    "version": "1.0"
+    "version": "2024",
+    "local_path": "raw_sources/REF_MOH_2024_QD3312.pdf"
   },
   {
     "ref_id": "REF_MOH_2020_QD2603",
@@ -202,7 +203,7 @@
       "Viêm gan B"
     ],
     "version": "1.0",
-    "local_path": "docs/references/raw_sources/REF_MOH_2020_QD2603.pdf"
+    "local_path": "raw_sources/REF_MOH_2020_QD2603.pdf"
   },
   {
     "ref_id": "REF_MOH_2018_QD2673",
@@ -218,7 +219,7 @@
       "Tiêm chủng"
     ],
     "version": "2018",
-    "local_path": "docs/references/raw_sources/REF_MOH_2018_QD2673.pdf"
+    "local_path": "raw_sources/REF_MOH_2018_QD2673.pdf"
   },
   {
     "ref_id": "REF_MOH_2021_QD2910",
@@ -252,7 +253,7 @@
       "Đái tháo đường thai kỳ"
     ],
     "version": "1.0",
-    "local_path": "docs/references/raw_sources/REF_MOH_2020_QD3931.pdf"
+    "local_path": "raw_sources/REF_MOH_2020_QD3931.pdf"
   },
   {
     "ref_id": "REF_MOH_2021_QD5099",
@@ -381,7 +382,7 @@
       "Kháng sinh"
     ],
     "version": "1.0",
-    "local_path": "docs/references/raw_sources/REF_MOH_2015_QD708.pdf"
+    "local_path": "raw_sources/REF_MOH_2015_QD708.pdf"
   },
   {
     "ref_id": "REF_MOH_2024_QD162",
@@ -397,7 +398,7 @@
       "Lao"
     ],
     "version": "2024",
-    "local_path": "docs/references/raw_sources/REF_MOH_2024_QD162.pdf"
+    "local_path": "raw_sources/REF_MOH_2024_QD162.pdf"
   },
   {
     "ref_id": "REF_MOH_2021_QD5968",
@@ -413,7 +414,7 @@
       "HIV/AIDS"
     ],
     "version": "2021",
-    "local_path": "docs/references/raw_sources/REF_MOH_2021_QD5968.pdf"
+    "local_path": "raw_sources/REF_MOH_2021_QD5968.pdf"
   },
   {
     "ref_id": "REF_MOH_2015_QD5642",
@@ -430,7 +431,7 @@
       "Truyền nhiễm"
     ],
     "version": "1.0",
-    "local_path": "docs/references/raw_sources/REF_MOH_2015_QD5642.pdf"
+    "local_path": "raw_sources/REF_MOH_2015_QD5642.pdf"
   },
   {
     "ref_id": "REF_MOH_2021_QD5165",
@@ -447,6 +448,6 @@
       "STDs"
     ],
     "version": "1.0",
-    "local_path": "docs/references/raw_sources/REF_MOH_2021_QD5165.pdf"
+    "local_path": "raw_sources/REF_MOH_2021_QD5165.pdf"
   }
 ]
