@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thư viện Tài liệu Tham khảo Y khoa Trung tâm | CDN Portal</title>
+    
+    <!-- SEO Meta Tags -->
+    <meta name="description" content="Thư viện tài liệu tham khảo y khoa trung tâm phục vụ tra cứu, lưu trữ và kết nối dữ liệu (CDN) cho hệ thống thi đánh giá năng lực bác sĩ y khoa Việt Nam.">
+    <meta name="author" content="Medical Reference Library Team">
+    <meta name="keywords" content="MOH, Bộ Y tế Việt Nam, Hướng dẫn điều trị, Y khoa Việt Nam, Medical Reference CDN, Đánh giá năng lực y khoa">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <!-- Custom Style -->
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <!-- Background Elements for Glassmorphism -->
+    <div class="bg-glow bg-glow-1"></div>
+    <div class="bg-glow bg-glow-2"></div>
+    
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="sidebar-brand">
+                <i class="fa-solid fa-laptop-medical brand-icon"></i>
+                <div>
+                    <h1>MRef Library</h1>
+                    <span>VN MEDICAL CDN</span>
+                </div>
+            </div>
+            
+            <nav class="sidebar-nav">
+                <a href="#dashboard" class="nav-item active"><i class="fa-solid fa-table-list"></i> Danh mục tài liệu</a>
+                <a href="#cdn-guide" class="nav-item"><i class="fa-solid fa-code"></i> Tích hợp CDN</a>
+                <a href="#about" class="nav-item"><i class="fa-solid fa-circle-info"></i> Giới thiệu dự án</a>
+            </nav>
+            
+            <div class="sidebar-footer">
+                <p>Phiên bản 1.2.0</p>
+                <span>© 2026 Medical Reference</span>
+            </div>
+        </aside>
+        
+        <!-- Main Content Area -->
+        <main class="main-content">
+            <!-- Header Section -->
+            <header class="content-header">
+                <div class="header-title">
+                    <h2>Thư viện Tài liệu Tham khảo Y khoa</h2>
+                    <p>Hệ thống phân phối tài liệu chuyên môn và siêu dữ liệu (CDN) phục vụ đào tạo y khoa</p>
+                </div>
+                <div class="header-status">
+                    <span class="status-indicator online"></span>
+                    <span>CDN Active</span>
+                </div>
+            </header>
+            
+            <!-- Dashboard Section -->
+            <section id="dashboard" class="content-section">
+                <!-- Stat Cards -->
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <div class="stat-icon icon-blue"><i class="fa-solid fa-book-medical"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-value" id="stat-total">27</span>
+                            <span class="stat-label">Tổng số tài liệu</span>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon icon-green"><i class="fa-solid fa-file-pdf"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-value" id="stat-downloaded">18</span>
+                            <span class="stat-label">Đã tải về cục bộ (Local CDN)</span>
+                        </div>
+                    </div>
+                    <div class="stat-card">
+                        <div class="stat-icon icon-yellow"><i class="fa-solid fa-clock"></i></div>
+                        <div class="stat-info">
+                            <span class="stat-value" id="stat-pending">9</span>
+                            <span class="stat-label">Liên kết chờ (Pending)</span>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Search and Filters Bar -->
+                <div class="filter-card">
+                    <div class="search-box">
+                        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+                        <input type="text" id="search-input" placeholder="Tìm kiếm nhanh theo mã tài liệu, tên tài liệu hoặc từ khóa nhãn...">
+                        <button id="search-clear-btn" class="search-clear-btn"><i class="fa-solid fa-xmark"></i></button>
+                    </div>
+                    
+                    <div class="filters-row">
+                        <div class="filter-group">
+                            <label for="filter-doc-type"><i class="fa-solid fa-filter"></i> Loại văn bản</label>
+                            <select id="filter-doc-type">
+                                <option value="all">Tất cả</option>
+                                <option value="LAW">Luật (LAW)</option>
+                                <option value="CIRCULAR">Thông tư (CIRCULAR)</option>
+                                <option value="MOH_GUIDELINE">Quyết định / HD Bộ Y Tế (MOH_GUIDELINE)</option>
+                                <option value="INT_GUIDELINE">Hướng dẫn Quốc tế (INT_GUIDELINE)</option>
+                            </select>
+                        </div>
+                        
+                        <div class="filter-group">
+                            <label for="filter-status"><i class="fa-solid fa-circle-check"></i> Trạng thái CDN</label>
+                            <select id="filter-status">
+                                <option value="all">Tất cả</option>
+                                <option value="local">Đã lưu trữ cục bộ (CDN)</option>
+                                <option value="online">Chỉ liên kết ngoài</option>
+                                <option value="pending">Đang cập nhật</option>
+                            </select>
+                        </div>
+                    </div>
+                    
+                    <!-- Popular Tag Buttons -->
+                    <div class="tags-filter-container">
+                        <span class="tag-filter-label">Nhãn chuyên khoa:</span>
+                        <div class="tag-pills" id="tag-pills-container">
+                            <!-- JS will load these tags dynamically -->
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Table List Container -->
+                <div class="table-container card-panel">
+                    <table class="library-table" id="library-table">
+                        <thead>
+                            <tr>
+                                <th style="width: 15%">Mã tài liệu</th>
+                                <th style="width: 50%">Tên tài liệu tham khảo</th>
+                                <th style="width: 15%">Cơ quan ban hành</th>
+                                <th style="width: 10%">Ngày hiệu lực</th>
+                                <th style="width: 10%; text-align: center;">Tải về/Xem</th>
+                            </tr>
+                        </thead>
+                        <tbody id="library-tbody">
+                            <!-- Loaded dynamically via JavaScript -->
+                            <tr class="loading-row">
+                                <td colspan="5" style="text-align: center; padding: 3rem;">
+                                    <div class="spinner"></div>
+                                    <p style="margin-top: 1rem; color: var(--text-muted);">Đang tải dữ liệu thư viện...</p>
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+            
+            <!-- CDN Integration Section -->
+            <section id="cdn-guide" class="content-section" style="display: none;">
+                <div class="card-panel">
+                    <h3><i class="fa-solid fa-code text-gradient"></i> Hướng dẫn tích hợp CDN tĩnh</h3>
+                    <p>MRef Library hoạt động hoàn toàn như một CDN dữ liệu tĩnh. Dữ liệu siêu dữ liệu (Metadata) được lưu trữ tại `library.json` và các tệp PDF gốc được phục vụ trực tiếp từ CDN hiệu năng cao của GitHub Pages.</p>
+                    
+                    <div class="cdn-urls-box">
+                        <div class="cdn-url-item">
+                            <span class="cdn-url-label">API Registry CDN (JSON)</span>
+                            <div class="cdn-url-value-wrapper">
+                                <code id="cdn-json-url">https://<username>.github.io/vn-medical-reference-library/library.json</code>
+                                <button class="btn-copy" onclick="copyText('cdn-json-url')"><i class="fa-regular fa-copy"></i> Sao chép</button>
+                            </div>
+                        </div>
+                        <div class="cdn-url-item">
+                            <span class="cdn-url-label">PDF Asset CDN Base Url</span>
+                            <div class="cdn-url-value-wrapper">
+                                <code id="cdn-pdf-url">https://<username>.github.io/vn-medical-reference-library/raw_sources/<ref_id>.pdf</code>
+                                <button class="btn-copy" onclick="copyText('cdn-pdf-url')"><i class="fa-regular fa-copy"></i> Sao chép</button>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="code-examples">
+                        <h4>Mẫu Code Tích hợp</h4>
+                        
+                        <div class="tabs-header">
+                            <button class="code-tab active" onclick="switchTab(event, 'code-js')">Javascript (Fetch)</button>
+                            <button class="code-tab" onclick="switchTab(event, 'code-python')">Python</button>
+                            <button class="code-tab" onclick="switchTab(event, 'code-curl')">cURL</button>
+                        </div>
+                        
+                        <div class="tabs-content">
+                            <pre id="code-js" class="code-block"><code>// Tải danh bạ tài liệu và liên kết CDN tương ứng
+const cdnBase = window.location.origin + window.location.pathname.replace(/\/$/, "");
+
+fetch(`${cdnBase}/library.json`)
+  .then(res => res.json())
+  .then(library => {
+    console.log(`Đã tải thành công ${library.length} tài liệu từ CDN.`);
+    
+    // Ví dụ: Lấy tệp PDF của Thông tư 51
+    const ref = library.find(item => item.ref_id === 'REF_MOH_2017_TT51');
+    const pdfUrl = `${cdnBase}/${ref.local_path}`;
+    console.log(`Link PDF CDN: ${pdfUrl}`);
+  });</code></pre>
+                            <pre id="code-python" class="code-block" style="display: none;"><code>import requests
+
+cdn_base = "https://&lt;username&gt;.github.io/vn-medical-reference-library"
+response = requests.get(f"{cdn_base}/library.json")
+
+if response.status_code == 200:
+    library = response.json()
+    print(f"Đã tải {len(library)} tài liệu.")
+    for document in library:
+        if "local_path" in document:
+            print(f"[{document['ref_id']}] -> {cdn_base}/{document['local_path']}")</code></pre>
+                            <pre id="code-curl" class="code-block" style="display: none;"><code># Tải danh bạ API JSON
+curl -X GET https://&lt;username&gt;.github.io/vn-medical-reference-library/library.json \
+     -H "Accept: application/json"
+
+# Tải trực tiếp tệp PDF
+curl -O https://&lt;username&gt;.github.io/vn-medical-reference-library/raw_sources/REF_MOH_2017_TT51.pdf</code></pre>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- About Section -->
+            <section id="about" class="content-section" style="display: none;">
+                <div class="card-panel">
+                    <h3><i class="fa-solid fa-circle-info text-gradient"></i> Giới thiệu Dự án</h3>
+                    <p class="lead-text">Dự án Thư viện Tài liệu Tham khảo Y khoa Trung tâm được phát triển nhằm mục đích xây dựng một cơ sở dữ liệu quy chuẩn, tập trung và đáng tin cậy phục vụ việc đối chiếu nguồn tài liệu y sinh học tại Việt Nam.</p>
+                    
+                    <div class="features-grid">
+                        <div class="feature-box">
+                            <i class="fa-solid fa-shield-halved feature-icon"></i>
+                            <h5>Nguồn dữ liệu chính thống</h5>
+                            <p>100% tài liệu được trích lục trực tiếp từ cổng thông tin Bộ Y Tế, Quốc hội và các tổ chức y tế quốc tế uy tín, đảm bảo độ chính xác pháp lý.</p>
+                        </div>
+                        <div class="feature-box">
+                            <i class="fa-solid fa-bolt feature-icon"></i>
+                            <h5>Truy xuất nhanh & Ổn định</h5>
+                            <p>Phục vụ thông qua nền tảng phân phối tệp tĩnh giúp tăng tốc độ tải, không lo nghẽn server và có thể tích hợp trực tiếp vào mọi phần mềm.</p>
+                        </div>
+                        <div class="feature-box">
+                            <i class="fa-solid fa-database feature-icon"></i>
+                            <h5>Đầy đủ Siêu dữ liệu (Metadata)</h5>
+                            <p>Mỗi tài liệu được gán mã nhận diện chuẩn hóa, phân tích phân loại thẻ tags chi tiết theo các chuyên khoa lâm sàng chính.</p>
+                        </div>
+                    </div>
+                    
+                    <div class="developer-info" style="margin-top: 3rem;">
+                        <h4>Đóng góp dữ liệu</h4>
+                        <p>Kho lưu trữ này được vận hành tự động theo tiêu chuẩn nguồn mở. Các lập trình viên và chuyên gia y khoa có thể gửi yêu cầu Pull Request cập nhật các Hướng dẫn lâm sàng mới tại repository chính.</p>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+    
+    <!-- Copy Notification -->
+    <div id="toast" class="toast">Đã sao chép vào bộ nhớ tạm!</div>
+    
+    <!-- Custom Scripts -->
+    <script src="index.js"></script>
+</body>
+</html>
