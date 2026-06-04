@@ -1,12 +1,6 @@
 [
   {
-    "ref_id": "REF_MOH_2017_TT51",
     "title": "Thông tư số 51/2017/TT-BYT ngày 29/12/2017 Hướng dẫn phòng, chẩn đoán và xử trí phản vệ",
-    "document_type": "CIRCULAR",
-    "document_number": "51/2017/TT-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2017-12-29",
-    "source_url": "https://soyt.langson.gov.vn/upload/105380/20241107/1_BAC_SI_HANG_III__Y_KHOA__e05ea.pdf",
     "tags": [
       "EMERGENCY_MEDICINE",
       "IMMUNOLOGY",
@@ -14,32 +8,32 @@
       "Phản vệ"
     ],
     "version": "1.0",
-    "local_path": "raw_sources/REF_MOH_2017_TT51.pdf"
+    "refId": "REF_MOH_2017_TT51",
+    "documentType": "CIRCULAR",
+    "documentNumber": "51/2017/TT-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2017-12-29",
+    "sourceUrl": "https://soyt.langson.gov.vn/upload/105380/20241107/1_BAC_SI_HANG_III__Y_KHOA__e05ea.pdf",
+    "localPath": "raw_sources/REF_MOH_2017_TT51.pdf"
   },
   {
-    "ref_id": "REF_LAW_2023_KCB",
     "title": "Luật Khám bệnh, chữa bệnh số 15/2023/QH15",
-    "document_type": "LAW",
-    "document_number": "15/2023/QH15",
-    "issuing_authority": "Quốc hội Việt Nam",
-    "effective_date": "2024-01-01",
-    "source_url": "https://f1.hcm.edu.vn/data/doc/2024/cttt/uyen/2024_4/15/15-2023-qh15-luat-kham-benh-chua-benh_15420248.pdf",
     "tags": [
       "MEDICAL_ETHICS_LAW",
       "VĐ 128",
       "Chính sách y tế"
     ],
     "version": "2023",
-    "local_path": "raw_sources/REF_LAW_2023_KCB.pdf"
+    "refId": "REF_LAW_2023_KCB",
+    "documentType": "LAW",
+    "documentNumber": "15/2023/QH15",
+    "issuingAuthority": "Quốc hội Việt Nam",
+    "effectiveDate": "2024-01-01",
+    "sourceUrl": "https://f1.hcm.edu.vn/data/doc/2024/cttt/uyen/2024_4/15/15-2023-qh15-luat-kham-benh-chua-benh_15420248.pdf",
+    "localPath": "raw_sources/REF_LAW_2023_KCB.pdf"
   },
   {
-    "ref_id": "REF_MOH_2015_QD1904",
     "title": "Quyết định số 1904/QĐ-BYT ngày 07/04/2015 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị bệnh Nội khoa",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "1904/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2015-04-07",
-    "source_url": "https://kcb.vn/upload/2005611/20210723//H%E1%BB%93i-s%E1%BB%A9c-c%E1%BA%A5p-c%E1%BB%A9u-Ch%E1%BB%91ng-%C4%91%E1%BB%99c.pdf",
     "tags": [
       "CARDIOLOGY",
       "PULMONOLOGY",
@@ -49,16 +43,16 @@
       "RHEUMATOLOGY_ORTHOPEDICS"
     ],
     "version": "1.0",
-    "local_path": "raw_sources/REF_MOH_2015_QD1904.pdf"
+    "refId": "REF_MOH_2015_QD1904",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "1904/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2015-04-07",
+    "sourceUrl": "https://kcb.vn/upload/2005611/20210723//H%E1%BB%93i-s%E1%BB%A9c-c%E1%BA%A5p-c%E1%BB%A9u-Ch%E1%BB%91ng-%C4%91%E1%BB%99c.pdf",
+    "localPath": "raw_sources/REF_MOH_2015_QD1904.pdf"
   },
   {
-    "ref_id": "REF_MOH_2022_QD2919",
     "title": "Quyết định số 2919/QĐ-BYT ngày 31/10/2022 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị các bệnh về Cơ xương khớp",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "2919/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2022-10-31",
-    "source_url": "https://vnras.com/wp-content/uploads/2024/06/Huong-dan-chan-doan-va-dieu-tri-cac-benh-co-xuong-khop-theo-Bo-y-te-vnras.pdf",
     "tags": [
       "RHEUMATOLOGY_ORTHOPEDICS",
       "VĐ 27",
@@ -67,16 +61,16 @@
       "Cơ xương khớp"
     ],
     "version": "1.0",
-    "local_path": "raw_sources/REF_MOH_2022_QD2919.pdf"
+    "refId": "REF_MOH_2022_QD2919",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "2919/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2022-10-31",
+    "sourceUrl": "https://vnras.com/wp-content/uploads/2024/06/Huong-dan-chan-doan-va-dieu-tri-cac-benh-co-xuong-khop-theo-Bo-y-te-vnras.pdf",
+    "localPath": "raw_sources/REF_MOH_2022_QD2919.pdf"
   },
   {
-    "ref_id": "REF_MOH_2020_QD2767",
     "title": "Quyết định số 2767/QĐ-BYT ngày 30/06/2020 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị bệnh Nhi khoa",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "2767/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2020-06-30",
-    "source_url": "https://benhviennhitrunguong.gov.vn/wp-content/uploads/2021/02/Sach-huong-dan-chan-doan-va-dieu-tri-benh-tre-em-cap-nhat-nam-2020.pdf",
     "tags": [
       "PULMONOLOGY",
       "GASTROENTEROLOGY",
@@ -85,16 +79,16 @@
       "Nhi khoa"
     ],
     "version": "1.0",
-    "local_path": "raw_sources/REF_MOH_2020_QD2767.pdf"
+    "refId": "REF_MOH_2020_QD2767",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "2767/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2020-06-30",
+    "sourceUrl": "https://benhviennhitrunguong.gov.vn/wp-content/uploads/2021/02/Sach-huong-dan-chan-doan-va-dieu-tri-benh-tre-em-cap-nhat-nam-2020.pdf",
+    "localPath": "raw_sources/REF_MOH_2020_QD2767.pdf"
   },
   {
-    "ref_id": "REF_MOH_2015_QD3126",
     "title": "Quyết định số 3126/QĐ-BYT ngày 11/08/2015 ban hành Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "3126/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2015-08-11",
-    "source_url": "https://baohiemxahoi.gov.vn:4545/File_Server_BHXH/documents/4128.Q%C4%90-BYT.pdf",
     "tags": [
       "OBSTETRICS",
       "GYNECOLOGY_BREAST",
@@ -103,16 +97,16 @@
       "Sức khỏe sinh sản"
     ],
     "version": "2015",
-    "local_path": "raw_sources/REF_MOH_2015_QD3126.pdf"
+    "refId": "REF_MOH_2015_QD3126",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "3126/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2015-08-11",
+    "sourceUrl": "https://baohiemxahoi.gov.vn:4545/File_Server_BHXH/documents/4128.Q%C4%90-BYT.pdf",
+    "localPath": "raw_sources/REF_MOH_2015_QD3126.pdf"
   },
   {
-    "ref_id": "REF_MOH_2020_QD5683",
     "title": "Quyết định số 5683/QĐ-BYT ngày 31/12/2020 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Hen phế quản người lớn",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "5683/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2020-12-31",
-    "source_url": "https://vilaphoikhoe.kcb.vn/wp-content/uploads/2020/04/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-ch%E1%BA%A9n-%C4%91o%C3%A1n-v%C3%A0-%C4%91i%E1%BB%81u-tr%E1%BB%8B-Hen-ph%E1%BA%BF-qu%E1%BA%A3n-ng%C6%B0%E1%BB%9Di-l%E1%BB%9Bn-v%C3%A0-tr%E1%BA%BB-_12-tuo%CC%82%CC%89i.pdf",
     "tags": [
       "PULMONOLOGY",
       "VĐ 42",
@@ -120,16 +114,16 @@
       "Hen phế quản"
     ],
     "version": "1.0",
-    "local_path": "raw_sources/REF_MOH_2020_QD5683.pdf"
+    "refId": "REF_MOH_2020_QD5683",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "5683/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2020-12-31",
+    "sourceUrl": "https://vilaphoikhoe.kcb.vn/wp-content/uploads/2020/04/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-ch%E1%BA%A9n-%C4%91o%C3%A1n-v%C3%A0-%C4%91i%E1%BB%81u-tr%E1%BB%8B-Hen-ph%E1%BA%BF-qu%E1%BA%A3n-ng%C6%B0%E1%BB%9Di-l%E1%BB%9Bn-v%C3%A0-tr%E1%BA%BB-_12-tuo%CC%82%CC%89i.pdf",
+    "localPath": "raw_sources/REF_MOH_2020_QD5683.pdf"
   },
   {
-    "ref_id": "REF_MOH_2023_QD2755",
     "title": "Quyết định số 2755/QĐ-BYT ngày 06/11/2023 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Bệnh phổi tắc nghẽn mạn tính",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "2755/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2023-11-06",
-    "source_url": "https://benhvienhatrung.vn/wp-content/uploads/2023/07/document-1.pdf",
     "tags": [
       "PULMONOLOGY",
       "VĐ 40",
@@ -137,48 +131,48 @@
       "COPD"
     ],
     "version": "1.0",
-    "local_path": "raw_sources/REF_MOH_2023_QD2755.pdf"
+    "refId": "REF_MOH_2023_QD2755",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "2755/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2023-11-06",
+    "sourceUrl": "https://benhvienhatrung.vn/wp-content/uploads/2023/07/document-1.pdf",
+    "localPath": "raw_sources/REF_MOH_2023_QD2755.pdf"
   },
   {
-    "ref_id": "REF_MOH_2020_QD2151",
     "title": "Quyết định số 2151/QĐ-BYT ngày 18/05/2020 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Tăng huyết áp",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "2151/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2020-05-18",
-    "source_url": "https://kcb.vn/upload/2005611/20210723/huong_dan_chan_doan_dieu_tri_tha.pdf",
     "tags": [
       "CARDIOLOGY",
       "VĐ 36",
       "Tăng huyết áp"
     ],
     "version": "1.0",
-    "local_path": "raw_sources/REF_MOH_2020_QD2151.pdf"
+    "refId": "REF_MOH_2020_QD2151",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "2151/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2020-05-18",
+    "sourceUrl": "https://kcb.vn/upload/2005611/20210723/huong_dan_chan_doan_dieu_tri_tha.pdf",
+    "localPath": "raw_sources/REF_MOH_2020_QD2151.pdf"
   },
   {
-    "ref_id": "REF_MOH_2020_QD5481",
     "title": "Quyết định số 5481/QĐ-BYT ngày 24/12/2020 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị đái tháo đường typ 2",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "5481/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2020-12-24",
-    "source_url": "https://bvcdn.org.vn/wp-content/uploads/2024/12/5481-qd-byt-huong-dan-chan-doan-va-dieu-tri-dai-thao-duong-tip-2_11120219.pdf",
     "tags": [
       "ENDOCRINOLOGY_METABOLISM",
       "VĐ 94",
       "Đái tháo đường"
     ],
     "version": "1.0",
-    "local_path": "raw_sources/REF_MOH_2020_QD5481.pdf"
+    "refId": "REF_MOH_2020_QD5481",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "5481/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2020-12-24",
+    "sourceUrl": "https://bvcdn.org.vn/wp-content/uploads/2024/12/5481-qd-byt-huong-dan-chan-doan-va-dieu-tri-dai-thao-duong-tip-2_11120219.pdf",
+    "localPath": "raw_sources/REF_MOH_2020_QD5481.pdf"
   },
   {
-    "ref_id": "REF_MOH_2024_QD3312",
     "title": "Quyết định số 3312/QĐ-BYT ngày 05/11/2024 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị đột quỵ não",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "3312/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2024-11-05",
-    "source_url": "http://cms.benhvienthanhphovinh.vn/Assets/Media/Uploads/1-KHTH/CD-DT/Q%C4%90-BYT-20241105-3312%20HD%20CD-DT%20%C4%90%E1%BB%99t%20qu%E1%BB%B5%20n%C3%A3o.pdf",
     "tags": [
       "EMERGENCY_MEDICINE",
       "NEUROLOGY_SENSES",
@@ -186,16 +180,16 @@
       "Đột quỵ"
     ],
     "version": "2024",
-    "local_path": "raw_sources/REF_MOH_2024_QD3312.pdf"
+    "refId": "REF_MOH_2024_QD3312",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "3312/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2024-11-05",
+    "sourceUrl": "http://cms.benhvienthanhphovinh.vn/Assets/Media/Uploads/1-KHTH/CD-DT/Q%C4%90-BYT-20241105-3312%20HD%20CD-DT%20%C4%90%E1%BB%99t%20qu%E1%BB%B5%20n%C3%A3o.pdf",
+    "localPath": "raw_sources/REF_MOH_2024_QD3312.pdf"
   },
   {
-    "ref_id": "REF_MOH_2020_QD2603",
     "title": "Quyết định số 2603/QĐ-BYT ngày 16/06/2020 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị viêm gan vi rút B",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "2603/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2020-06-16",
-    "source_url": "https://benhvienhatrung.vn/wp-content/uploads/2022/06/3310-2019-hddt-viem-gan-b.pdf",
     "tags": [
       "GASTROENTEROLOGY",
       "VĐ 62",
@@ -203,32 +197,32 @@
       "Viêm gan B"
     ],
     "version": "1.0",
-    "local_path": "raw_sources/REF_MOH_2020_QD2603.pdf"
+    "refId": "REF_MOH_2020_QD2603",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "2603/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2020-06-16",
+    "sourceUrl": "https://benhvienhatrung.vn/wp-content/uploads/2022/06/3310-2019-hddt-viem-gan-b.pdf",
+    "localPath": "raw_sources/REF_MOH_2020_QD2603.pdf"
   },
   {
-    "ref_id": "REF_MOH_2018_QD2673",
     "title": "Quyết định số 2673/QĐ-BYT ngày 30/05/2018 ban hành tài liệu Hướng dẫn Quốc gia về tiêm chủng",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "2673/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2018-05-30",
-    "source_url": "https://ttytchuse.gialai.gov.vn/Upload/FileUpload/6381586785791217441575%20Q%C4%90-BYT%20v%E1%BB%81%20vi%E1%BB%87c%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20kh%C3%A1m%20s%C3%A0ng%20l%E1%BB%8Dc%20tr%C6%B0%E1%BB%9Bc%20ti%C3%Aam%20ch%E1%BB%A7ng%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20tr%E1%BA%BB%20em.pdf",
     "tags": [
       "IMMUNOLOGY",
       "VĐ 01",
       "Tiêm chủng"
     ],
     "version": "2018",
-    "local_path": "raw_sources/REF_MOH_2018_QD2673.pdf"
+    "refId": "REF_MOH_2018_QD2673",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "2673/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2018-05-30",
+    "sourceUrl": "https://ttytchuse.gialai.gov.vn/Upload/FileUpload/6381586785791217441575%20Q%C4%90-BYT%20v%E1%BB%81%20vi%E1%BB%87c%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20kh%C3%A1m%20s%C3%A0ng%20l%E1%BB%8Dc%20tr%C6%B0%E1%BB%9Bc%20ti%C3%Aam%20ch%E1%BB%A7ng%20%C4%91%E1%BB%91i%20v%E1%BB%9Bi%20tr%E1%BA%BB%20em.pdf",
+    "localPath": "raw_sources/REF_MOH_2018_QD2673.pdf"
   },
   {
-    "ref_id": "REF_MOH_2021_QD2910",
     "title": "Quyết định số 2910/QĐ-BYT ngày 15/06/2021 ban hành Hướng dẫn chẩn đoán và điều trị các bệnh tim mạch",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "2910/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2021-06-15",
-    "source_url": "",
     "tags": [
       "CARDIOLOGY",
       "VĐ 33",
@@ -236,16 +230,16 @@
       "VĐ 35",
       "Bệnh tim mạch"
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "refId": "REF_MOH_2021_QD2910",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "2910/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2021-06-15",
+    "sourceUrl": ""
   },
   {
-    "ref_id": "REF_MOH_2020_QD3931",
     "title": "Quyết định số 1470/QĐ-BYT ngày 29/05/2024 ban hành Hướng dẫn quốc gia về sàng lọc và quản lý đái tháo đường thai kỳ",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "1470/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2024-05-29",
-    "source_url": "https://bvdkbaclieu.gov.vn/upload/1000079/20240622/387_Quyet_dinh-1470-QD-BYT_d07fdf47d7.pdf",
     "tags": [
       "OBSTETRICS",
       "ENDOCRINOLOGY_METABOLISM",
@@ -253,32 +247,32 @@
       "Đái tháo đường thai kỳ"
     ],
     "version": "1.0",
-    "local_path": "raw_sources/REF_MOH_2020_QD3931.pdf"
+    "refId": "REF_MOH_2020_QD3931",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "1470/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2024-05-29",
+    "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20240622/387_Quyet_dinh-1470-QD-BYT_d07fdf47d7.pdf",
+    "localPath": "raw_sources/REF_MOH_2020_QD3931.pdf"
   },
   {
-    "ref_id": "REF_MOH_2021_QD5099",
     "title": "Quyết định số 5099/QĐ-BYT ngày 04/11/2021 ban hành Hướng dẫn chẩn đoán và điều trị đái tháo đường đường niệu và biến chứng thận",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "5099/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2021-11-04",
-    "source_url": "",
     "tags": [
       "NEPHROLOGY_UROLOGY",
       "ENDOCRINOLOGY_METABOLISM",
       "VĐ 71",
       "VĐ 94"
     ],
-    "version": "1.0"
+    "version": "1.0",
+    "refId": "REF_MOH_2021_QD5099",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "5099/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2021-11-04",
+    "sourceUrl": ""
   },
   {
-    "ref_id": "REF_MOH_2018_QD2004",
     "title": "Quyết định số 2004/QĐ-BYT ngày 29/03/2018 ban hành Hướng dẫn chẩn đoán và điều trị sốt xuất huyết Dengue",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "2004/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2018-03-29",
-    "source_url": "",
     "tags": [
       "IMMUNOLOGY",
       "HEMATOLOGY",
@@ -286,16 +280,16 @@
       "VĐ 06",
       "Sốt xuất huyết"
     ],
-    "version": "2018"
+    "version": "2018",
+    "refId": "REF_MOH_2018_QD2004",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "2004/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2018-03-29",
+    "sourceUrl": ""
   },
   {
-    "ref_id": "REF_INT_GINA_2024",
     "title": "Global Strategy for Asthma Management and Prevention",
-    "document_type": "INT_GUIDELINE",
-    "document_number": "GINA 2024 Report",
-    "issuing_authority": "Global Initiative for Asthma (GINA)",
-    "effective_date": "2024-05-01",
-    "source_url": "https://ginasthma.org/wp-content/uploads/2024/05/GINA-2024-Strategy-Report-24_05_22_WMS.pdf",
     "tags": [
       "PULMONOLOGY",
       "VĐ 42",
@@ -303,78 +297,78 @@
       "Asthma",
       "Hen phế quản"
     ],
-    "version": "2024"
+    "version": "2024",
+    "refId": "REF_INT_GINA_2024",
+    "documentType": "INT_GUIDELINE",
+    "documentNumber": "GINA 2024 Report",
+    "issuingAuthority": "Global Initiative for Asthma (GINA)",
+    "effectiveDate": "2024-05-01",
+    "sourceUrl": "https://ginasthma.org/wp-content/uploads/2024/05/GINA-2024-Strategy-Report-24_05_22_WMS.pdf"
   },
   {
-    "ref_id": "REF_INT_GOLD_2024",
     "title": "Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",
-    "document_type": "INT_GUIDELINE",
-    "document_number": "GOLD 2024 Report",
-    "issuing_authority": "Global Initiative for Chronic Obstructive Lung Disease (GOLD)",
-    "effective_date": "2023-11-15",
-    "source_url": "https://goldcopd.org/wp-content/uploads/2024/02/POCKET-GUIDE-GOLD-2024-ver-1.2-11Jan2024_WMV.pdf",
     "tags": [
       "PULMONOLOGY",
       "VĐ 40",
       "VĐ 44",
       "COPD"
     ],
-    "version": "2024"
+    "version": "2024",
+    "refId": "REF_INT_GOLD_2024",
+    "documentType": "INT_GUIDELINE",
+    "documentNumber": "GOLD 2024 Report",
+    "issuingAuthority": "Global Initiative for Chronic Obstructive Lung Disease (GOLD)",
+    "effectiveDate": "2023-11-15",
+    "sourceUrl": "https://goldcopd.org/wp-content/uploads/2024/02/POCKET-GUIDE-GOLD-2024-ver-1.2-11Jan2024_WMV.pdf"
   },
   {
-    "ref_id": "REF_INT_ADA_2024",
     "title": "Standards of Care in Diabetes - 2024",
-    "document_type": "INT_GUIDELINE",
-    "document_number": "Diabetes Care 2024;47(Suppl. 1)",
-    "issuing_authority": "American Diabetes Association (ADA)",
-    "effective_date": "2024-01-01",
-    "source_url": "",
     "tags": [
       "ENDOCRINOLOGY_METABOLISM",
       "VĐ 94",
       "Đái tháo đường"
     ],
-    "version": "2024"
+    "version": "2024",
+    "refId": "REF_INT_ADA_2024",
+    "documentType": "INT_GUIDELINE",
+    "documentNumber": "Diabetes Care 2024;47(Suppl. 1)",
+    "issuingAuthority": "American Diabetes Association (ADA)",
+    "effectiveDate": "2024-01-01",
+    "sourceUrl": ""
   },
   {
-    "ref_id": "REF_INT_KDIGO_2024",
     "title": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease",
-    "document_type": "INT_GUIDELINE",
-    "document_number": "KDIGO 2024 CKD",
-    "issuing_authority": "Kidney Disease: Improving Global Outcomes (KDIGO)",
-    "effective_date": "2024-03-01",
-    "source_url": "",
     "tags": [
       "NEPHROLOGY_UROLOGY",
       "VĐ 71",
       "Bệnh thận mạn"
     ],
-    "version": "2024"
+    "version": "2024",
+    "refId": "REF_INT_KDIGO_2024",
+    "documentType": "INT_GUIDELINE",
+    "documentNumber": "KDIGO 2024 CKD",
+    "issuingAuthority": "Kidney Disease: Improving Global Outcomes (KDIGO)",
+    "effectiveDate": "2024-03-01",
+    "sourceUrl": ""
   },
   {
-    "ref_id": "REF_INT_ESC_2023",
     "title": "2023 ESC Guidelines for the management of acute coronary syndromes",
-    "document_type": "INT_GUIDELINE",
-    "document_number": "ESC ACS 2023",
-    "issuing_authority": "European Society of Cardiology (ESC)",
-    "effective_date": "2023-08-25",
-    "source_url": "",
     "tags": [
       "CARDIOLOGY",
       "VĐ 33",
       "VĐ 35",
       "Hội chứng vành cấp"
     ],
-    "version": "2023"
+    "version": "2023",
+    "refId": "REF_INT_ESC_2023",
+    "documentType": "INT_GUIDELINE",
+    "documentNumber": "ESC ACS 2023",
+    "issuingAuthority": "European Society of Cardiology (ESC)",
+    "effectiveDate": "2023-08-25",
+    "sourceUrl": ""
   },
   {
-    "ref_id": "REF_MOH_2015_QD708",
     "title": "Quyết định số 708/QĐ-BYT ngày 02/03/2015 ban hành Hướng dẫn sử dụng kháng sinh",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "708/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2015-03-02",
-    "source_url": "http://benhvienk.vn/data/media/1601/files/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-s%E1%BB%AD-d%E1%BB%A5ng-kh%C3%A1ng-sinh-C%E1%BA%ADp-nh%E1%BA%ADt-l%E1%BA%A7n-cu%E1%BB%91i-khi-in-09_01_2015.pdf",
     "tags": [
       "INFECTIOUS_DISEASES",
       "INTERNAL_MEDICINE",
@@ -382,48 +376,48 @@
       "Kháng sinh"
     ],
     "version": "1.0",
-    "local_path": "raw_sources/REF_MOH_2015_QD708.pdf"
+    "refId": "REF_MOH_2015_QD708",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "708/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2015-03-02",
+    "sourceUrl": "http://benhvienk.vn/data/media/1601/files/H%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-s%E1%BB%AD-d%E1%BB%A5ng-kh%C3%A1ng-sinh-C%E1%BA%ADp-nh%E1%BA%ADt-l%E1%BA%A7n-cu%E1%BB%91i-khi-in-09_01_2015.pdf",
+    "localPath": "raw_sources/REF_MOH_2015_QD708.pdf"
   },
   {
-    "ref_id": "REF_MOH_2024_QD162",
     "title": "Quyết định số 162/QĐ-BYT ngày 19/01/2024 ban hành Hướng dẫn Chẩn đoán, điều trị và dự phòng bệnh Lao",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "162/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2024-01-19",
-    "source_url": "https://www.benhviennhabe.vn/vnt_upload/news/02_2024/162_Q_BYT__Ban_hnh_ti_liu_chuyn_mn_Hng_dn_chn_on_iu_tr_v_d_phng_bnh_lao.pdf",
     "tags": [
       "PULMONOLOGY",
       "INFECTIOUS_DISEASES",
       "Lao"
     ],
     "version": "2024",
-    "local_path": "raw_sources/REF_MOH_2024_QD162.pdf"
+    "refId": "REF_MOH_2024_QD162",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "162/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2024-01-19",
+    "sourceUrl": "https://www.benhviennhabe.vn/vnt_upload/news/02_2024/162_Q_BYT__Ban_hnh_ti_liu_chuyn_mn_Hng_dn_chn_on_iu_tr_v_d_phng_bnh_lao.pdf",
+    "localPath": "raw_sources/REF_MOH_2024_QD162.pdf"
   },
   {
-    "ref_id": "REF_MOH_2021_QD5968",
     "title": "Quyết định số 5968/QĐ-BYT ngày 31/12/2021 ban hành Hướng dẫn điều trị và chăm sóc HIV/AIDS",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "5968/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2021-12-31",
-    "source_url": "https://soyte.laichau.gov.vn/upload/81345/20220106/5968_BYT_VE_HD_chan_doan_cham_soc_HIV_AIDS_c79a618abb.pdf",
     "tags": [
       "INFECTIOUS_DISEASES",
       "IMMUNOLOGY",
       "HIV/AIDS"
     ],
     "version": "2021",
-    "local_path": "raw_sources/REF_MOH_2021_QD5968.pdf"
+    "refId": "REF_MOH_2021_QD5968",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "5968/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2021-12-31",
+    "sourceUrl": "https://soyte.laichau.gov.vn/upload/81345/20220106/5968_BYT_VE_HD_chan_doan_cham_soc_HIV_AIDS_c79a618abb.pdf",
+    "localPath": "raw_sources/REF_MOH_2021_QD5968.pdf"
   },
   {
-    "ref_id": "REF_MOH_2015_QD5642",
     "title": "Quyết định số 5642/QĐ-BYT ngày 31/12/2015 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "5642/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2015-12-31",
-    "source_url": "https://bvdksadec.vn/Uploads/files/HD_NHIEM-2015_%20QD%205642%20-%20HDCDDT%20BENH%20Truyen-nhiem-1(1).pdf",
     "tags": [
       "INFECTIOUS_DISEASES",
       "INTERNAL_MEDICINE",
@@ -431,16 +425,16 @@
       "Truyền nhiễm"
     ],
     "version": "1.0",
-    "local_path": "raw_sources/REF_MOH_2015_QD5642.pdf"
+    "refId": "REF_MOH_2015_QD5642",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "5642/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2015-12-31",
+    "sourceUrl": "https://bvdksadec.vn/Uploads/files/HD_NHIEM-2015_%20QD%205642%20-%20HDCDDT%20BENH%20Truyen-nhiem-1(1).pdf",
+    "localPath": "raw_sources/REF_MOH_2015_QD5642.pdf"
   },
   {
-    "ref_id": "REF_MOH_2021_QD5165",
     "title": "Quyết định số 5165/QĐ-BYT ngày 09/11/2021 ban hành Hướng dẫn chẩn đoán và điều trị bệnh Lậu",
-    "document_type": "MOH_GUIDELINE",
-    "document_number": "5165/QĐ-BYT",
-    "issuing_authority": "Bộ Y tế Việt Nam",
-    "effective_date": "2021-11-09",
-    "source_url": "https://benhvienhatrung.vn/wp-content/uploads/2021/11/5165-2021-hddt-benh-lau.pdf",
     "tags": [
       "INFECTIOUS_DISEASES",
       "DERMATOLOGY",
@@ -448,6 +442,12 @@
       "STDs"
     ],
     "version": "1.0",
-    "local_path": "raw_sources/REF_MOH_2021_QD5165.pdf"
+    "refId": "REF_MOH_2021_QD5165",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "5165/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2021-11-09",
+    "sourceUrl": "https://benhvienhatrung.vn/wp-content/uploads/2021/11/5165-2021-hddt-benh-lau.pdf",
+    "localPath": "raw_sources/REF_MOH_2021_QD5165.pdf"
   }
 ]
