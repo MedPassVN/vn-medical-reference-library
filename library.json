@@ -61,13 +61,13 @@
       "Cơ xương khớp"
     ],
     "version": "1.0",
-    "refId": "REF_MOH_2022_QD2919",
+    "refId": "REF_MOH_2014_QD361",
     "documentType": "MOH_GUIDELINE",
     "documentNumber": "361/QĐ-BYT",
     "issuingAuthority": "Bộ Y tế Việt Nam",
     "effectiveDate": "2014-01-25",
     "sourceUrl": "https://vnras.com/wp-content/uploads/2024/06/Huong-dan-chan-doan-va-dieu-tri-cac-benh-co-xuong-khop-theo-Bo-y-te-vnras.pdf",
-    "localPath": "raw_sources/REF_MOH_2022_QD2919.pdf"
+    "localPath": "raw_sources/REF_MOH_2014_QD361.pdf"
   },
   {
     "title": "Tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị bệnh trẻ em (cập nhật năm 2020) của Bệnh viện Nhi Trung ương",
@@ -212,16 +212,16 @@
       "Sàng lọc"
     ],
     "version": "2023",
-    "refId": "REF_MOH_2018_QD2673",
+    "refId": "REF_MOH_2023_QD1575",
     "documentType": "MOH_GUIDELINE",
     "documentNumber": "1575/QĐ-BYT",
     "issuingAuthority": "Bộ Y tế Việt Nam",
     "effectiveDate": "2023-03-27",
     "sourceUrl": "https://ttytchuse.gialai.gov.vn/Upload/FileUpload/6381586785791217441575%20Q%C4%90-BYT%20v%E1%BB%81%20vi%E1%BB%87c%20h%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20kh%C3%A1m%20s%C3%A0ng%20l%E1%BB%8Dc%20tr%C6%B0%E1%BB%9Bc%20ti%C3%Aam%20ch%E1%BB%A7ng%20%C4%91%E1%BB%91i%20v%E1%BB%8Bi%20tr%E1%BA%BB%20em.pdf",
-    "localPath": "raw_sources/REF_MOH_2018_QD2673.pdf"
+    "localPath": "raw_sources/REF_MOH_2023_QD1575.pdf"
   },
   {
-    "title": "Quyết định số 2910/QĐ-BYT ngày 15/06/2021 ban hành Hướng dẫn chẩn đoán và điều trị các bệnh tim mạch",
+    "title": "Quyết định số 2248/QĐ-BYT ngày 19/05/2023 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Hội chứng mạch vành mạn",
     "tags": [
       "CARDIOLOGY",
       "VĐ 33",
@@ -229,14 +229,14 @@
       "VĐ 35",
       "Bệnh tim mạch"
     ],
-    "version": "1.0",
-    "refId": "REF_MOH_2021_QD2910",
+    "version": "2023",
+    "refId": "REF_MOH_2023_QD2248",
     "documentType": "MOH_GUIDELINE",
-    "documentNumber": "2910/QĐ-BYT",
+    "documentNumber": "2248/QĐ-BYT",
     "issuingAuthority": "Bộ Y tế Việt Nam",
-    "effectiveDate": "2021-06-15",
-    "sourceUrl": "https://kcb.vn/upload/2005611/20210723/huong_dan_chan_doan_dieu_tri_tha.pdf",
-    "localPath": "raw_sources/REF_MOH_2021_QD2910.pdf"
+    "effectiveDate": "2023-05-19",
+    "sourceUrl": "https://bvcdn.org.vn/wp-content/uploads/2024/12/2248-qd-byt_huong_dan_chan_doan_dieu_tri_hoi_chung_mach_vanh_man.pdf",
+    "localPath": "raw_sources/REF_MOH_2023_QD2248.pdf"
   },
   {
     "title": "Quyết định số 1470/QĐ-BYT ngày 29/05/2024 ban hành Hướng dẫn quốc gia về sàng lọc và quản lý đái tháo đường thai kỳ",
@@ -256,24 +256,24 @@
     "localPath": "raw_sources/REF_MOH_2020_QD3931.pdf"
   },
   {
-    "title": "Quyết định số 5099/QĐ-BYT ngày 04/11/2021 ban hành Hướng dẫn chẩn đoán và điều trị đái tháo đường đường niệu và biến chứng thận",
+    "title": "Quyết định số 2388/QĐ-BYT ngày 12/08/2024 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị bệnh thận mạn và một số bệnh lý thận",
     "tags": [
       "NEPHROLOGY_UROLOGY",
       "ENDOCRINOLOGY_METABOLISM",
       "VĐ 71",
       "VĐ 94"
     ],
-    "version": "1.0",
-    "refId": "REF_MOH_2021_QD5099",
+    "version": "2024",
+    "refId": "REF_MOH_2024_QD2388",
     "documentType": "MOH_GUIDELINE",
-    "documentNumber": "5099/QĐ-BYT",
+    "documentNumber": "2388/QĐ-BYT",
     "issuingAuthority": "Bộ Y tế Việt Nam",
-    "effectiveDate": "2021-11-04",
-    "sourceUrl": "https://bvcdn.org.vn/wp-content/uploads/2024/12/5481-qd-byt-huong-dan-chan-doan-va-dieu-tri-dai-thao-duong-tip-2_11120219.pdf",
-    "localPath": "raw_sources/REF_MOH_2021_QD5099.pdf"
+    "effectiveDate": "2024-08-12",
+    "sourceUrl": "https://benhvienhatrung.vn/wp-content/uploads/2024/08/Huong-dan-dieu-tri-benh-than-man.pdf",
+    "localPath": "raw_sources/REF_MOH_2024_QD2388.pdf"
   },
   {
-    "title": "Quyết định số 2004/QĐ-BYT ngày 29/03/2018 ban hành Hướng dẫn chẩn đoán và điều trị sốt xuất huyết Dengue",
+    "title": "Quyết định số 2760/QĐ-BYT ngày 04/07/2023 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Sốt xuất huyết Dengue",
     "tags": [
       "IMMUNOLOGY",
       "HEMATOLOGY",
@@ -281,14 +281,14 @@
       "VĐ 06",
       "Sốt xuất huyết"
     ],
-    "version": "2018",
-    "refId": "REF_MOH_2018_QD2004",
+    "version": "2023",
+    "refId": "REF_MOH_2023_QD2760",
     "documentType": "MOH_GUIDELINE",
-    "documentNumber": "2004/QĐ-BYT",
+    "documentNumber": "2760/QĐ-BYT",
     "issuingAuthority": "Bộ Y tế Việt Nam",
-    "effectiveDate": "2018-03-29",
-    "sourceUrl": "https://soyt.langson.gov.vn/upload/105380/20241107/1_BAC_SI_HANG_III__Y_KHOA__e05ea.pdf",
-    "localPath": "raw_sources/REF_MOH_2018_QD2004.pdf"
+    "effectiveDate": "2023-07-04",
+    "sourceUrl": "https://benhvienhatrung.vn/wp-content/uploads/2023/07/Quyet-dinh-so-2760QD-BYT-ngay-0472023.pdf",
+    "localPath": "raw_sources/REF_MOH_2023_QD2760.pdf"
   },
   {
     "title": "Global Strategy for Asthma Management and Prevention",
