@@ -41,8 +41,8 @@ document.addEventListener('DOMContentLoaded', () => {
     // Stats Calculator
     function updateStats(data) {
         const total = data.length;
-        const downloaded = data.filter(doc => doc.localPath && doc.localPath !== '').length;
-        const pending = data.filter(doc => (!doc.localPath || doc.localPath === '') && (!doc.sourceUrl || doc.sourceUrl === '')).length;
+        const downloaded = data.filter(doc => !doc.remoteOnly && doc.localPath && doc.localPath !== '').length;
+        const pending = data.filter(doc => (!doc.remoteOnly || !doc.localPath || doc.localPath === '') && (!doc.sourceUrl || doc.sourceUrl === '')).length;
         
         statTotal.textContent = total;
         statDownloaded.textContent = downloaded;
@@ -126,7 +126,18 @@ document.addEventListener('DOMContentLoaded', () => {
         const link = document.createElement('a');
         link.target = '_blank';
 
-        if (doc.localPath && doc.localPath !== '') {
+        if (doc.remoteOnly === true) {
+            if (doc.sourceUrl && doc.sourceUrl !== '') {
+                link.href = doc.sourceUrl;
+                link.className = 'btn-download btn-online';
+                link.textContent = 'Xem online';
+            } else {
+                link.className = 'btn-download btn-pending';
+                link.textContent = 'Chưa có link';
+                link.removeAttribute('href');
+                link.style.pointerEvents = 'none';
+            }
+        } else if (doc.localPath && doc.localPath !== '') {
             link.href = doc.localPath;
             link.className = 'btn-download';
             link.textContent = 'Tải PDF';
@@ -160,11 +171,11 @@ document.addEventListener('DOMContentLoaded', () => {
             
             let matchesStatus = true;
             if (statusFilter === 'local') {
-                matchesStatus = doc.localPath && doc.localPath !== '';
+                matchesStatus = !doc.remoteOnly && doc.localPath && doc.localPath !== '';
             } else if (statusFilter === 'online') {
-                matchesStatus = (!doc.localPath || doc.localPath === '') && doc.sourceUrl && doc.sourceUrl !== '';
+                matchesStatus = (doc.remoteOnly || !doc.localPath || doc.localPath === '') && doc.sourceUrl && doc.sourceUrl !== '';
             } else if (statusFilter === 'pending') {
-                matchesStatus = (!doc.localPath || doc.localPath === '') && (!doc.sourceUrl || doc.sourceUrl === '');
+                matchesStatus = (doc.remoteOnly || !doc.localPath || doc.localPath === '') && (!doc.sourceUrl || doc.sourceUrl === '');
             }
 
             return matchesQuery && matchesType && matchesStatus;
