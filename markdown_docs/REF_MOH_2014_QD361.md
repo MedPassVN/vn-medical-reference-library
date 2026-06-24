@@ -1,928 +1,4622 @@
-B Ộ  Y T Ế        
+# HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ CÁC BỆNH CƠ XƯƠNG KHỚP
+*(Ban hành kèm theo Quyết định số 361/QĐ-BYT Ngày 25 tháng 01 năm 2014 của Bộ trưởng Bộ Y tế)*
 
+**NHÀ XUẤT BẢN Y HỌC**  
+**HÀ NỘI – 2016**
+
+---
+
+### BAN BIÊN SOẠN
+
+**CHỦ BIÊN**
+- PGS.TS. Nguyễn Thị Xuyên
+
+**ĐỒNG CHỦ BIÊN**
+- PGS.TS. Lương Ngọc Khuê
+- PGS.TS. Nguyễn Quốc Anh
+- PGS.TS. Nguyễn Thị Ngọc Lan
+- PGS.TS. Nguyễn Mai Hồng
+
+**THAM GIA BIÊN SOẠN**
+- GS.TS. Trần Ngọc Ân
+- PGS.TS. Nguyễn Thị Ngọc Lan
+- GS.TS. Hoàng Khánh
+- PGS.TS. Lê Anh Thư
+- PGS.TS. Nguyễn Thị Lan Anh
+- PGS.TS. Nguyễn Mai Hồng
+- PGS.TS. Võ Tam
+- PGS.TS. Nguyễn Thị Thanh Thủy
+- TS. Đặng Hồng Hoa
+- PGS.TS. Nguyễn Vĩnh Ngọc
+- TS. Nguyễn Hữu Chung
+- PGS.TS. Trần Thị Minh Hoa
+- TS.BSCKII. Mai Thị Minh Tâm
+- TS. Nguyễn Đình Khoa
+- TS. Trần Thị Tô Châu
+- TS. Nguyễn Ngọc Châu
+- BSCKII. Nguyễn Thị Lực
+- TS. Nguyễn Thị Phương Thủy
+- ThS. Bùi Hải Bình
+- BSCKII. Đào Thị Vân Khánh
+- ThS. Hoàng Văn Dũng
+- BSCKII. Thái Thị Hồng Ánh
+- ThS. Lê Thị Liễu
+- ThS. Hồ Văn Lộc
+- ThS. Nguyễn Hoàng Thanh Vân
+- ThS. Huỳnh Văn Khoa
+- ThS. Nguyễn Thị Nga
+- ThS. Lưu Văn Ái
+- ThS. Phùng Anh Đức
+- ThS. Trần Văn Đức
+- BSCKII. Huỳnh Phan Phúc Linh
+- BSCKI. Lê Thế Dũng
+
+**BAN THƯ KÝ**
+- ThS. Phạm Hoài Thu
+- ThS. Nguyễn Thị Nga
+- ThS. Phạm Thị Minh Nhâm
+- ThS. Nguyễn Thị Hiền
+- ThS. Nguyễn Thị Như Hoa
+- ThS. Nguyễn Đức Tiến
+- ThS. Ngô Thị Bích Hà
+- ThS. Trương Lê Vân Ngọc
+
+---
+
+**BỘ Y TẾ**  
+Số: 361/QĐ-BYT
+
+**CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM**  
+**Độc lập - Tự do - Hạnh phúc**
+
+*Hà Nội, ngày 25 tháng 01 năm 2014*
+
+### QUYẾT ĐỊNH
+#### Về việc ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp”
+
+**BỘ TRƯỞNG BỘ Y TẾ**
+
+Căn cứ Luật khám bệnh, chữa bệnh năm 2009;  
+Căn cứ Nghị định số 63/2012/NĐ-CP ngày 31/8/2012 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Y tế;  
+Theo đề nghị của Cục trưởng Cục Quản lý Khám, chữa bệnh,
+
+**QUYẾT ĐỊNH:**
+
+**Điều 1.** Ban hành kèm theo Quyết định này tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp”.
+
+**Điều 2.** Tài liệu “Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp” ban hành kèm theo Quyết định này được áp dụng tại các cơ sở khám bệnh, chữa bệnh.  
+Căn cứ vào tài liệu này và điều kiện cụ thể của đơn vị, Giám đốc cơ sở khám bệnh, chữa bệnh xây dựng và ban hành tài liệu hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp phù hợp để thực hiện tại đơn vị.
+
+**Điều 3.** Quyết định này có hiệu lực kể từ ngày ký ban hành.
+
+**Điều 4.** Các ông, bà: Chánh Văn phòng Bộ, Chánh Thanh tra Bộ, Cục trưởng Cục Quản lý Khám, chữa bệnh, Cục trưởng và Vụ trưởng các Cục, Vụ thuộc Bộ Y tế, Giám đốc các bệnh viện, viện có giường trực thuộc Bộ Y tế, Giám đốc Sở Y tế các tỉnh, thành phố trực thuộc trung ương, Thủ trưởng Y tế các Bộ, Ngành và Thủ trưởng các đơn vị có liên quan chịu trách nhiệm thi hành Quyết định này./.
+
+| Nơi nhận: | KT. BỘ TRƯỞNG |
+| :--- | :--- |
+| - Như Điều 4;<br>- Bộ trưởng Bộ Y tế (để b/c);<br>- Các Thứ trưởng BYT;<br>- Bảo hiểm Xã hội Việt Nam (để phối hợp);<br>- Cổng thông tin điện tử BYT;<br>- Website Cục KCB;<br>- Lưu VT, KCB. | **THỨ TRƯỞNG**<br><br><br>*(đã ký)*<br><br>**Nguyễn Thị Xuyên** |
+
+---
+
+# LỜI GIỚI THIỆU
+
+Trong thời gian qua, dưới sự lãnh đạo của Đảng, Nhà nước và sự quan tâm, lãnh đạo, chỉ đạo tích cực của lãnh đạo Bộ Y tế cùng với sự quan tâm chăm sóc của các cấp chính quyền, với sự nỗ lực vươn lên trên mọi gian khó của các giáo sư, bác sĩ, dược sĩ và toàn thể cán bộ, công chức, viên chức trong toàn ngành, ngành Y tế Việt Nam đã giành được nhiều thành tựu to lớn trong công tác phòng bệnh, khám chữa bệnh và chăm sóc sức khỏe nhân dân.
+
+Cùng với mạng lưới y tế cơ sở được củng cố và từng bước hoàn thiện, hệ thống khám, chữa bệnh trong toàn quốc cũng được cải tạo và nâng cấp ở tất cả các tuyến từ trung ương đến địa phương. Nhiều kỹ thuật y học hiện đại lần đầu tiên triển khai thành công ở Việt Nam như chụp và nong động mạch vành tim, thụ tinh trong ống nghiệm, ghép thận,… đã góp phần nâng cao chất lượng khám, chữa bệnh cho nhân dân và thúc đẩy nền y học Việt Nam phát triển.
+
+Chất lượng khám, chữa bệnh còn phụ thuộc nhiều vào năng lực chẩn đoán và điều trị của các tuyến y tế cũng như của các thầy thuốc. Vì vậy ngày 05 tháng 02 năm 2010, Bộ trưởng Bộ Y tế đã ra quyết định số 453/QĐ-BYT về việc thành lập Ban Chỉ đạo biên soạn Hướng dẫn điều trị, quyết định số 2387/QĐ-BYT ngày 05 tháng 5 năm 2010 về việc thành lập Ban biên soạn Hướng dẫn điều trị.
+
+Trong đó, Tiểu ban biên soạn hướng dẫn chẩn đoán và điều trị các bệnh về cơ xương khớp được thành lập theo Quyết định số 4817/QĐ-BYT ngày 10 tháng 12 năm 2010 gồm các chuyên gia y học đầu ngành trong lĩnh vực cơ xương khớp của cả ba miền Bắc, Trung, Nam.
+
+Tài liệu **“Hướng dẫn chẩn đoán và điều trị các bệnh cơ xương khớp”** được xây dựng với sự nỗ lực cao của các nhà khoa học đầu ngành về cơ xương khớp của Việt Nam. Tài liệu bao gồm 39 bài hướng dẫn một số bệnh về cơ xương khớp. Trong đó, tập trung vào hướng dẫn thực hành chẩn đoán và điều trị, vì vậy sẽ rất hữu ích cho các thầy thuốc đa khoa, chuyên khoa trong thực hành lâm sàng hàng ngày.
+
+Chúng tôi trân trọng cảm ơn sự chỉ đạo sát sao của PGS.TS. Nguyễn Thị Kim Tiến, Bộ trưởng Bộ Y tế và các thành viên ban biên soạn đã rất cố gắng, dành nhiều thời gian quý báu để biên soạn cuốn sách này. Đây là lần xuất bản đầu tiên của cuốn sách, chắc chắn vẫn còn có thiếu sót, chúng tôi rất mong nhận được sự đóng góp từ Quý độc giả và đồng nghiệp để cuốn sách ngày một hoàn thiện.
+
+Thay mặt ban biên soạn  
+**PGS.TS. Nguyễn Mai Hồng**
+
+---
+
+# MỤC LỤC
+
+- Lời giới thiệu | 5
+- Các chữ viết tắt | 9
+- Bệnh viêm khớp dạng thấp | 11
+- Bệnh Lupus ban đỏ hệ thống | 18
+- Bệnh xơ cứng bì toàn thể | 24
+- Bệnh Still ở người lớn | 30
+- Viêm da cơ và viêm đa cơ | 35
+- Bệnh viêm màng hoạt dịch khớp gối mạn tính không đặc hiệu | 42
+- Viêm cột sống dính khớp | 48
+- Bệnh viêm khớp phản ứng | 54
+- Bệnh viêm khớp vảy nến | 59
+- Bệnh viêm khớp thiếu niên tự phát thể đa khớp có yếu tố dạng thấp dương tính và âm tính RF (+) và RF (-) | 65
+- Bệnh viêm khớp thiếu niên tự phát thể viêm cột sống dính khớp | 69
+- Bệnh viêm khớp thiếu niên tự phát thể hệ thống | 73
+- Viêm khớp thiếu niên tự phát thể viêm khớp vảy nến | 80
+- Viêm màng hoạt dịch khớp háng thoáng qua | 86
+- Bệnh gút | 89
+- Viêm khớp nhiễm khuẩn | 95
+- Viêm cơ, áp xe cơ nhiễm khuẩn | 99
+- Viêm xương tủy nhiễm khuẩn | 103
+- Chẩn đoán - điều trị nhiễm khuẩn da và mô mềm | 106
+- Hồng ban nút | 111
+- Loạn dưỡng cơ tiến triển | 114
+- Chẩn đoán và điều trị nhược cơ | 118
+- Chẩn đoán và điều trị thoái hóa khớp gối | 124
+- Chẩn đoán và điều trị u sụn màng hoạt dịch | 128
+- Bệnh thoái hóa cột sống thắt lưng | 131
+- Hội chứng đau thắt lưng | 135
+- Đau thần kinh tọa | 140
+- Bệnh thoái hóa cột sống cổ | 145
+- Hội chứng cổ - vai - cánh tay | 149
+- Chẩn đoán và điều trị viêm quanh khớp vai | 154
+- Viêm gân vùng mỏm trâm quay cổ tay | 159
+- Viêm gân gấp ngón tay (ngón tay lò xo) | 163
+- Chẩn đoán và điều trị viêm lồi cầu ngoài xương cánh tay | 166
+- Bệnh loãng xương | 169
+- Chẩn đoán và điều trị hoại tử vô mạch chỏm xương đùi | 175
+- Bệnh u tế bào khổng lồ | 179
+- Chẩn đoán và điều trị u xương dạng xương | 183
+- Loạn sản xơ xương | 187
+- Ung thư di căn xương | 192
+- Phụ lục: Hướng dẫn sử dụng một số thuốc chính trong điều trị các bệnh khớp | 197
+  - Hướng dẫn sử dụng thuốc chống viêm không steroid | 197
+  - Hướng dẫn sử dụng thuốc giảm đau | 202
+  - Hướng dẫn sử dụng thuốc nhóm glucocorticoid | 205
+  - Hướng dẫn sử dụng các thuốc (DMARDs) | 207
+  - Quy trình truyền cyclophosphamid | 211
+  - Quy trình truyền acid zoledronic | 213
+  - Các tiêu chuẩn đánh giá mức độ hoạt động của bệnh viêm khớp dạng thấp | 215
+  - Các tiêu chuẩn đánh giá mức độ hoạt động của bệnh viêm cột sống dính khớp | 217
+
+---
+
+# DANH MỤC CHỮ VIẾT TẮT
+
+| Ký hiệu viết tắt | Nghĩa đầy đủ / Giải thích |
+| :--- | :--- |
+| **ACR** | American College of Rheumatology (Hội thấp khớp học Hoa Kỳ) |
+| **Anti CCP** | Anti - Cyclic Citrullinated Peptide |
+| **ASLO** | Anti Streptolysin O |
+| **AVN** | Avascular Necrosis (Hoại tử vô mạch) |
+| **BASDAI** | Bath Ankylosing Spondylitis Disease Activity Index (Chỉ số đánh giá mức độ hoạt động của bệnh viêm cột sống dính khớp) |
+| **BASFI** | Bath Ankylosing spongdylitis Functional Index (Chỉ số đánh giá chức năng ở bệnh nhân viêm cột sống dính khớp) |
+| **BCĐNTT** | Bạch cầu đa nhân trung tính |
+| **BMC** | Bone Mass Content (Khối lượng xương) |
+| **BMD** | Bone Mineral Density (Mật độ xương) |
+| **CK** | Creatine kinase |
+| **COX-2** | Nhóm thuốc ức chế ưu thế (chọn lọc) COX-2 |
+| **CRP** | C-reactive protein (Protein phản ứng C) |
+| **CSTL** | Cột sống thắt lưng |
+| **CT scan** | Computer Tomography Scan (Chụp cắt lớp vi tính) |
+| **DMARDs** | Disease-modifying antirheumatic drugs (Nhóm thuốc chống thấp khớp tác dụng chậm) |
+| **DXA** | Dual Energy X-ray Absorptiometry (Phương pháp đo hấp phụ tia X năng lượng kép) |
+| **ESR** | Erythrocyte sedimentation rate (Tốc độ máu lắng) |
+| **EULAR** | European League Against Rheumatism (Liên đoàn chống thấp khớp Châu Âu) |
+| **G6PD** | Men glucose-6 phosphate dehydrogenase |
+| **GCT** | Giant cell tumor (U tế bào khổng lồ) |
+| **GFR** | Glomerular filtration rate (Mức lọc cầu thận) |
+| **HLA** | Human leukocyte antigen (Kháng nguyên bạch cầu người) |
+| **IL** | Interleukin |
+| **ILAR** | Hội thấp khớp học thế giới |
+| **KVKS** | Kháng viêm không steroid |
+| **NSAIDs** | Non-Steroidal Anti-Inflammatory Drugs (Thuốc chống viêm không steroid) |
+| **MAS** | Đại thực bào |
+| **MRI** | Cộng hưởng từ |
+| **MTX** | Methotrexate |
+| **NK** | Tế bào diệt tự nhiên |
+| **OI** | Bất toàn tạo xương hay xương thủy tinh |
+| **RF** | Rheumatoid factor (Yếu tố dạng thấp) |
+| **SERMs** | Chất điều hòa chọn lọc thụ thể Estrogen |
+| **SLE** | Systemic lupus erythematosus (Lupus ban đỏ hệ thống) |
+| **TĐML** | Tốc độ máu lắng |
+| **TM** | Tĩnh mạch |
+| **TNF α** | Yếu tố hoại tử u alpha |
+| **VKDT** | Viêm khớp dạng thấp |
+| **WHO** | World Health Organization (Tổ chức Y tế Thế giới) |
+
+---
+
+# BỆNH VIÊM KHỚP DẠNG THẤP (Rheumatoid Arthritis)
+
+## 1. ĐẠI CƯƠNG
+
+**Viêm khớp dạng thấp (VKDT)** là một bệnh lý tự miễn điển hình, diễn biến mạn tính với các biểu hiện tại khớp, ngoài khớp và toàn thân ở nhiều mức độ khác nhau. Bệnh diễn biến phức tạp, gây hậu quả nặng nề do đó cần được điều trị tích cực ngay từ đầu bằng các biện pháp điều trị hữu hiệu để làm ngừng hay làm chậm tiến triển của bệnh, hạn chế tàn phế và nâng cao chất lượng sống cho người bệnh.
+
+## 2. NGUYÊN NHÂN VÀ CƠ CHẾ SINH BỆNH
+
+- Bệnh chưa rõ nguyên nhân, liên quan đến nhiễm khuẩn, cơ địa (nữ giới, trung niên, yếu tố HLA) và rối loạn đáp ứng miễn dịch.
+- Trong đó vai trò của lympho B (miễn dịch dịch thể), lympho T (miễn dịch qua trung gian tế bào), đại thực bào… với sự tham gia của các tự kháng thể (anti CCP, RF…) và các cytokines (TNF α, IL6, IL1...).
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Tiêu chuẩn của Hội Thấp khớp học Hoa Kỳ (ACR) 1987
+
+- Hiện nay tiêu chuẩn này vẫn đang được áp dụng rộng rãi nhất trên thế giới và Việt Nam đối với thể biểu hiện nhiều khớp và thời gian diễn biến viêm khớp trên 6 tuần.
+  - **Cứng khớp buổi sáng** kéo dài trên 1 giờ.
+  - **Viêm tối thiểu ba nhóm khớp**: sưng phần mềm hay tràn dịch tối thiểu 3 trong số 14 nhóm khớp sau (kể cả hai bên): khớp ngón gần bàn tay, khớp bàn ngón tay, khớp cổ tay, khớp khuỷu, khớp gối, khớp cổ chân, khớp bàn ngón chân.
+  - **Viêm các khớp ở bàn tay**: sưng tối thiểu một nhóm trong số các khớp cổ tay, khớp ngón gần, khớp bàn ngón tay.
+  - **Viêm khớp đối xứng**.
+  - **Hạt dưới da**.
+  - **Yếu tố dạng thấp** trong huyết thanh dương tính.
+  - **Dấu hiệu X-quang điển hình** của VKDT: chụp khớp tại bàn tay, cổ tay hoặc khớp tổn thương: hình bào mòn, hình hốc, hình khuyết đầu xương, hẹp khe khớp, mất chất khoáng đầu xương.
+
+**Chẩn đoán xác định**: Khi có $\ge$ 4 tiêu chuẩn. Triệu chứng viêm khớp (tiêu chuẩn 1-4) cần có thời gian diễn biến $\ge$ 6 tuần và được xác định bởi thầy thuốc.
+
+Tiêu chuẩn ACR 1987 có độ nhạy 91-94% và độ đặc hiệu 89% ở những bệnh nhân VKDT đã tiến triển. Ở giai đoạn bệnh mới khởi phát, độ nhạy chỉ dao động từ 40-90% và độ đặc hiệu từ 50-90%.
+
+*Lưu ý:* Hạt dưới da hiếm gặp ở Việt Nam. Ngoài ra, cần khảo sát các triệu chứng ngoài khớp như: teo cơ, viêm mống mắt, tràn dịch màng ngoài tim, tràn dịch màng phổi, viêm mạch máu... thường ít gặp, nhẹ, dễ bị bỏ sót.
+
+### 3.2. Tiêu chuẩn của Hội Thấp khớp học Hoa Kỳ và Liên đoàn chống Thấp khớp châu Âu 2010 (ACR/EULAR 2010)
+
+Tiêu chuẩn này có thể áp dụng trong trường hợp bệnh ở giai đoạn sớm, các khớp viêm dưới 06 tuần và thể ít khớp. Tuy nhiên cần luôn theo dõi đánh giá lại chẩn đoán vì nhiều trường hợp đây cũng có thể là biểu hiện sớm của một bệnh lý khớp khác không phải viêm khớp dạng thấp.
+
+**Đối tượng là các bệnh nhân:**
+- Có ít nhất một khớp được xác định viêm màng hoạt dịch trên lâm sàng.
+- Viêm màng hoạt dịch khớp không do các bệnh lý khác.
+
+| Biểu hiện | Điểm |
+| :--- | :--- |
+| **A. Biểu hiện tại khớp** | |
+| - 1 khớp lớn | 0 |
+| - 2–10 khớp lớn | 1 |
+| - 1–3 khớp nhỏ (có hoặc không có biểu hiện tại các khớp lớn) | 2 |
+| - 4–10 khớp nhỏ (có hoặc không có biểu hiện tại các khớp lớn) | 3 |
+| - >10 khớp (ít nhất phải có 1 khớp nhỏ) | 5 |
+| **B. Huyết thanh (ít nhất phải làm một xét nghiệm)** | |
+| - RF âm tính và Anti CCP âm tính | 0 |
+| - RF dương tính thấp* hoặc Anti CCP dương tính thấp* | 2 |
+| - RF dương tính cao* hoặc Anti CCP dương tính cao* | 3 |
+| **C. Các yếu tố phản ứng pha cấp (cần ít nhất một xét nghiệm)** | |
+| - CRP bình thường và Tốc độ lắng máu bình thường | 0 |
+| - CRP tăng hoặc Tốc độ lắng máu tăng | 1 |
+| **D. Thời gian biểu hiện các triệu chứng** | |
+| - < 6 tuần | 0 |
+| - $\ge$ 6 tuần | 1 |
+
+**Chẩn đoán xác định**: Khi số điểm $\ge$ 6/10.
+
+*\* Ghi chú:*
+- Dương tính thấp khi $\le$ 3 lần giới hạn cao của bình thường.
+- Dương tính cao khi > 3 lần giới hạn cao của bình thường.
+
+### 3.3. Xét nghiệm cận lâm sàng cần chỉ định
+
+- **Các xét nghiệm cơ bản**: Tế bào máu ngoại vi, tốc độ máu lắng, protein phản ứng C (CRP)…, xét nghiệm chức năng gan, thận, X-quang tim phổi, điện tâm đồ...
+- **Các xét nghiệm đặc hiệu** (có giá trị chẩn đoán, tiên lượng):
+  - Yếu tố dạng thấp (RF) dương tính trong 60 - 70% bệnh nhân.
+  - Anti CCP dương tính trong 75 - 80% bệnh nhân.
+  - X-quang khớp (thường chụp hai bàn tay thẳng hoặc các khớp bị tổn thương).
+
+### 3.4. Chẩn đoán phân biệt
+
+Lupus ban đỏ hệ thống, thoái hóa khớp, gút mạn tính, viêm cột sống dính khớp, viêm khớp vảy nến...
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc điều trị
+Điều trị toàn diện, tích cực, dài hạn và theo dõi thường xuyên.
+
+Các thuốc điều trị cơ bản hay còn gọi là nhóm thuốc **DMARDs** (*Disease-modifying antirheumatic drugs*) kinh điển (methotrexate, sulfasalazine, hydroxychloroquine...) có vai trò quan trọng trong việc ổn định bệnh và cần điều trị kéo dài. Các thuốc sinh học còn được gọi là **DMARDs sinh học** (kháng TNF $\alpha$, kháng Interleukin 6, kháng lympho B) được chỉ định đối với thể kháng điều trị với DMARDs kinh điển, thể nặng hoặc tiên lượng nặng. Khi chỉ định các thuốc sinh học, cần có ý kiến của các bác sĩ chuyên khoa cơ xương khớp và thực hiện đúng quy trình [làm các xét nghiệm tầm soát lao, viêm gan (virus B, C), chức năng gan thận, đánh giá hoạt tính bệnh bằng chỉ số DAS 28, CDAI, SDAI…].
+
+### 4.2. Điều trị cụ thể
+
+#### **Điều trị triệu chứng**
+Nhằm cải thiện triệu chứng viêm, giảm đau, duy trì khả năng vận động (tuy nhiên các thuốc này không làm thay đổi được sự tiến triển của bệnh).
+
+*   **Các thuốc kháng viêm không steroid (KVKS - NSAIDs):**
+    Các thuốc kháng viêm ức chế chọn lọc COX2 (được chọn lựa đầu tiên vì thường phải sử dụng dài ngày và ít có tương tác bất lợi với methotrexat):
+    *   **Celecoxib:** 200 mg, uống 1 đến 2 lần mỗi ngày.
+    *   **Meloxicam:** 15 mg, tiêm (chích) bắp hoặc uống ngày một lần.
+    *   **Etoricoxib:** 60 - 90 mg, ngày uống một lần.
+
+    Các thuốc kháng viêm ức chế không chọn lọc:
+    *   **Diclofenac:** uống hoặc tiêm bắp: 75 mg x 2 lần/ngày trong 3 - 7 ngày. Sau đó uống: 50 mg x 2 - 3 lần/ngày trong 4 - 6 tuần.
+    *   **Brexin (piroxicam + cyclodextrin):** 20 mg, uống hàng ngày.
+    *   *Hoặc các thuốc kháng viêm không steroid khác (liều tương đương).*
+
+    > [!IMPORTANT]
+    > **Lưu ý:** Khi dùng cho các bệnh nhân có yếu tố nguy cơ có các tác dụng không mong muốn của thuốc KVKS (NSAIDs) [bệnh nhân già yếu, tiền sử (tiền căn) bị bệnh lý dạ dày…] hoặc điều trị dài ngày, cần theo dõi chức năng thận và bảo vệ dạ dày bằng các thuốc ức chế bơm proton.
+
+*   **Corticosteroids (Prednisolone, Prednisone, Methylprednisolone):**
+    Thường sử dụng ngắn hạn trong lúc chờ đợi các thuốc điều trị cơ bản có hiệu lực. Chỉ định khi có đợt tiến triển (tiêu chuẩn đợt tiến triển xem ở phần Phụ lục).
+    *   **Thể vừa:** 16 - 32 mg methylprednisolone (hoặc tương đương), uống hàng ngày vào 8 giờ sáng, sau ăn.
+    *   **Thể nặng:** 40 mg methylprednisolone TM mỗi ngày.
+    *   **Thể tiến triển cấp, nặng, đe doạ tính mạng** (viêm mạch máu, biểu hiện ngoài khớp nặng): bắt đầu từ 500 - 1.000 mg methylprednisolone truyền TM trong 30 - 45 phút/ngày, điều trị 3 ngày liên tục. Sau đó chuyển về liều thông thường. Liệu trình này có thể lặp lại mỗi tháng nếu cần.
+    *   **Sử dụng dài hạn** (thường ở những bệnh nhân nặng, phụ thuộc corticoid hoặc có suy thượng thận do dùng corticoid kéo dài): bắt đầu ở liều uống: 20 mg hàng ngày, vào 8 giờ sáng. Khi đạt đáp ứng lâm sàng và xét nghiệm, giảm dần liều, duy trì liều thấp nhất (5 - 8 mg hàng ngày hoặc cách ngày) hoặc ngừng (nếu có thể) khi điều trị cơ bản có hiệu lực (sau 6 - 8 tuần).
+
+#### **Điều trị cơ bản bằng các thuốc chống thấp làm thay đổi tiến triển của bệnh (Disease Modifying Anti Rheumatic Drug - DMARDs)**
+Nhằm làm chậm hoặc làm ngừng tiến triển của bệnh, cần điều trị lâu dài và theo dõi các triệu chứng lâm sàng, cận lâm sàng trong suốt thời gian điều trị.
+
+*   **Thể mới mắc và thể thông thường:** Sử dụng các thuốc DMARDs kinh điển:
+    *   **Methotrexat:** khởi đầu 10 mg một lần mỗi tuần. Tùy theo đáp ứng mà duy trì liều cao hoặc thấp hơn (7,5 - 15 mg) mỗi tuần (liều tối đa là 20 mg/tuần).
+    *   *Hoặc* **Sulfasalazin:** khởi đầu 500 mg/ngày, tăng mỗi 500 mg mỗi tuần, duy trì ở liều 1.000 mg x 2 lần mỗi ngày.
+    *   **Kết hợp:** Methotrexat với sulfasalazin hoặc hydroxychloroquine nếu đơn trị liệu không hiệu quả.
+    *   **Kết hợp:** Methotrexat, sulfasalazin và hydroxychloroquine nếu kết hợp trên không hiệu quả.
+
+*   **Thể nặng, kháng trị với các DMARDs kinh điển** (không có đáp ứng sau 6 tháng): Cần kết hợp với các thuốc sinh học (các DMARDs sinh học).
+    Trước khi chỉ định các thuốc sinh học, cần làm các xét nghiệm để sàng lọc lao, viêm gan, các xét nghiệm chức năng gan thận và đánh giá mức độ hoạt động bệnh (máu lắng hoặc CRP, DAS 28, HAQ).
+    *   **Kết hợp methotrexate và thuốc kháng Interleukin 6 (tocilizumab):** Methotrexat 10 - 15 mg mỗi tuần + tocilizumab 4 - 8 mg/kg cân nặng, tương đương 200 - 400 mg truyền TM mỗi tháng một lần.
+    *   **Kết hợp methotrexate và một trong bốn loại thuốc kháng TNF $\alpha$ sau:**
+        *   Methotrexat 10 - 15 mg mỗi tuần + etanercept 50 mg tiêm dưới da mỗi tuần một lần.
+        *   Methotrexat 10 - 15 mg mỗi tuần + infliximab truyền TM 2 - 3 mg/kg mỗi 4 - 8 tuần.
+        *   Methotrexat 10 - 15 mg mỗi tuần + adalimumab 40 mg tiêm dưới da 2 tuần một lần.
+        *   Methotrexat 10 - 15 mg mỗi tuần + golimumab 50 mg mỗi tháng 1 lần - tiêm dưới da.
+    *   **Kết hợp methotrexate và thuốc kháng lympho B (rituximab):** Methotrexat 10 - 15 mg mỗi tuần + rituximab truyền TM 500 – 1.000 mg x 2 lần, cách 2 tuần, có thể nhắc lại một hoặc hai liệu trình mỗi năm.
+
+    > [!NOTE]
+    > Sau 3 – 6 tháng điều trị, nếu thuốc sinh học thứ nhất không hiệu quả, có thể xem xét thuốc sinh học thứ hai, tương tự như vậy, có thể xem xét thuốc sinh học thứ ba khi sau 3 – 6 tháng, thuốc sinh học thứ hai không hiệu quả.
+
+#### **Các điều trị phối hợp khác**
+
+*   **Các biện pháp hỗ trợ:**
+    *   Tập luyện, hướng dẫn vận động chống co rút gân, dính khớp, teo cơ. Trong đợt viêm cấp: để khớp nghỉ ở tư thế cơ năng, tránh kê, độn tại khớp. Khuyến khích tập ngay khi triệu chứng viêm thuyên giảm, tăng dần, tập nhiều lần trong ngày, cả chủ động và thụ động theo đúng chức năng sinh lý của khớp.
+    *   Phục hồi chức năng, vật lý trị liệu, tắm suối khoáng, phẫu thuật chỉnh hình (cắt xương sửa trục, thay khớp nhân tạo khi có chỉ định).
+
+*   **Phòng ngừa và điều trị các biến chứng của điều trị, các bệnh kèm theo:**
+    *   **Viêm, loét dạ dày tá tràng:** Cần chủ động phát hiện và điều trị vì trên 80% bệnh nhân không có triệu chứng lâm sàng. Phòng ngừa (trên đối tượng nguy cơ) và điều trị bằng thuốc ức chế bơm proton, kèm thuốc điều trị *Helicobacter pylori* (nếu có nhiễm HP).
+    *   **Phòng ngừa loãng xương:** Khi sử dụng corticosteroid bất cứ liều nào trên 01 tháng, cần bổ sung calci, vitamin D để phòng ngừa loãng xương. Nếu bệnh nhân có nguy cơ loãng xương cao có thể sử dụng bisphosphonates. Khi đã có loãng xương, tùy theo mức độ loãng xương, tuổi, giới và điều kiện cụ thể của người bệnh mà lựa chọn các thuốc phù hợp (thường là bisphosphonate).
+    *   **Thiếu máu:** Bổ sung acid folic, sắt, vitamin B12…
+
+---
+
+## 5. THEO DÕI VÀ TIÊN LƯỢNG
+
+*   Bệnh nhân phải được điều trị lâu dài và theo dõi trong suốt quá trình điều trị.
+*   **Xét nghiệm định kỳ:** tế bào máu ngoại vi, tốc độ máu lắng, protein phản ứng C (CRP), Creatinine, SGOT, SGPT: 2 tuần một lần trong một tháng đầu, hàng tháng trong 3 tháng tiếp theo, sau đó có thể 3 tháng một lần, tùy theo đáp ứng của người bệnh.
+*   **Xét nghiệm máu cấp, chụp X-quang phổi…** khi cần, tùy theo diễn biến của bệnh.
+*   **Sinh thiết gan** khi có nghi ngờ tổn thương gan (enzym gan tăng > 3 lần trong 3 lần xét nghiệm liên tiếp). Trường hợp enzym gan tăng gấp đôi và kéo dài nên ngừng Methotrexat.
+*   **Tiên lượng nặng khi:** tổn thương viêm nhiều khớp, bệnh nhân nữ, yếu tố dạng thấp RF và/hoặc Anti-CCP (+) tỷ giá cao, có các biểu hiện ngoài khớp, HLA-DR4 (+), hoạt tính của bệnh cao (thông qua các chỉ số: DAS 28, VS, CRP, HAQ…). Với những trường hợp này cần điều trị tích cực ngay từ đầu và xem xét việc dùng các DMARDs sinh học sớm.
+
+---
+
+## 6. PHÒNG BỆNH
+
+*   Không có biện pháp phòng bệnh đặc hiệu, các can thiệp phòng ngừa chủ động đối với VKDT là những biện pháp chung nhằm nâng cao sức khoẻ, thể trạng bao gồm ăn uống, tập luyện và làm việc, tránh căng thẳng.
+*   Phát hiện và điều trị sớm các bệnh lý nhiễm trùng, các tình trạng rối loạn miễn dịch.
+
+*Ký hiệu viết tắt: MTX: methotrexate; SSZ: sulfasalazine; HCQ: hydroxychloroquine*
+
+---
+
+## TÀI LIỆU THAM KHẢO
+
+1.  Asian Rheumatology Expert Advisory Council for Health. *Rheumatology News* Vol. 1 No. 3 September 2011.
+2.  Jacobs J.W.G, Jurgens M.S, Welsing P.M.J. “Overview and analysis of treat-to-target trials in rheumatoid arthritis reporting on remission”. *Clin Exp Rheumatol* 2012; 30 (Suppl. 73): S56-S63.
+3.  Josef S Smolen, Robert Landewé, Ferdinand C Breedveld, et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2013 update. Published online October 25, 2013 *Ann Rheum Dis*.
+4.  Michelle K.J., David A. Fox. “Advances in the medical treatment of rheumatoid arthritis”. *Hand Clin*; 27(1): 11-20, 2011.
+5.  Tak and Kalden. “Advances in rheumatology: new targeted therapeutics”. *Arthritis Research and Therapy*, 13(Suppl. 1): S5, 2011.
+
+---
+
+# BỆNH LUPUS BAN ĐỎ HỆ THỐNG
+*(Systemic Lupus Erythematosus - SLE)*
+
+## 1. ĐỊNH NGHĨA
+
+Lupus ban đỏ hệ thống là bệnh lý của mô liên kết có tổn thương nhiều cơ quan do hệ thống miễn dịch của cơ thể bị rối loạn, đặc trưng bởi sự có mặt của kháng thể kháng nhân và nhiều tự kháng thể khác. Các cơ quan thường bị tổn thương bao gồm khớp, da, thận, tế bào máu, tim, phổi, thần kinh…
+
+## 2. NGUYÊN NHÂN
+
+Cho đến nay, nguyên nhân gây bệnh và cơ chế bệnh sinh chính xác của lupus ban đỏ hệ thống chưa được biết rõ. Cơ chế bệnh sinh của bệnh là một quá trình phức tạp với sự tham gia của nhiều yếu tố như di truyền, miễn dịch thể dịch, miễn dịch tế bào và yếu tố môi trường. Một số gen quy định phức hợp kháng nguyên phù hợp tổ chức như HLA-DR2, DR3, DR8, các gen mã hóa bổ thể C1q, C2, C4 và một số cytokin có liên quan đến tỷ lệ mắc bệnh cao.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Lâm sàng (chủ yếu gặp thể bán cấp)
+
+*   **Tỉ lệ mắc bệnh:** Nữ : Nam = 9:1, chủ yếu ở độ tuổi 20 - 30.
+*   **Khởi phát:** Đa số bắt đầu từ từ, tăng dần với sốt dai dẳng không rõ nguyên nhân, đau khớp hoặc viêm khớp với biểu hiện tương tự trong bệnh viêm khớp dạng thấp. Có một số yếu tố thuận lợi khởi phát bệnh: nhiễm trùng, chấn thương, stress, thuốc…
+*   **Toàn phát:** Tổn thương nhiều cơ quan:
+    *   **Toàn thân:** Sốt dai dẳng kéo dài, mệt mỏi, gầy sút.
+    *   **Cơ xương khớp:** Đau hoặc viêm các khớp với biểu hiện tương tự trong bệnh viêm khớp dạng thấp song hiếm khi biến dạng khớp; đau cơ. Một số hiếm trường hợp có hoại tử xương (thường gặp hoại tử vô mạch đầu trên xương đùi).
+    *   **Da niêm mạc:** Ban đỏ hình cánh bướm ở mặt (rất thường gặp), ban dạng đĩa (gặp trong thể mạn tính), nhạy cảm với ánh sáng (cháy, bỏng, sạm da sau khi tiếp xúc với ánh nắng), loét niêm mạc miệng, niêm mạc mũi, rụng tóc, viêm mao mạch dưới da...
+    *   **Máu và cơ quan tạo máu:** Thiếu máu do viêm, thiếu máu huyết tán, chảy máu dưới da (do giảm tiểu cầu), lách to, hạch to.
+    *   **Thần kinh tâm thần:** Rối loạn tâm thần, động kinh...
+    *   **Tuần hoàn, hô hấp:** Thường gặp các triệu chứng tràn dịch màng tim, màng phổi, tăng áp lực động mạch phổi, viêm phổi kẽ. Các triệu chứng hiếm gặp: viêm cơ tim, viêm nội tâm mạc, hội chứng Raynaud, viêm tắc động mạch, tĩnh mạch...
+    *   **Thận:** Rất thường gặp: protein niệu, tế bào trụ niệu, hội chứng thận hư, viêm cầu thận...
+    *   **Gan:** Cổ trướng, rối loạn chức năng gan (hiếm gặp).
+    *   **Mắt:** Giảm tiết nước mắt (Hội chứng Sjogren), viêm giác mạc, viêm kết mạc, viêm võng mạc.
+
+### 3.2. Cận lâm sàng
+
+*   **Các xét nghiệm không đặc hiệu:** Tế bào máu ngoại vi (giảm hồng cầu, giảm bạch cầu, giảm tiểu cầu), tốc độ lắng máu tăng, điện di huyết thanh ($\gamma$-globulin tăng), tìm thấy phức hợp miễn dịch trong máu, phản ứng BW (+) giả…
+*   **Các xét nghiệm đặc hiệu:** Kháng thể kháng nhân (ANA), kháng thể kháng Ds-DNA, kháng thể chống các kháng nguyên hòa tan, kháng thể kháng hồng cầu, kháng lympho bào, kháng tiểu cầu…, giảm bổ thể, giảm tỉ lệ lympho bào so với tế bào B.
+*   **Sinh thiết các cơ quan tổn thương:**
+    *   **Sinh thiết da:** Lắng đọng globulin miễn dịch IgM, IgG và bổ thể thành một lớp thượng bì và trung bì của da (+70%).
+    *   **Thận:** Viêm cầu thận, dày màng đáy do lắng đọng IgG, IgM và bổ thể.
+    *   **Màng hoạt dịch khớp:** Tổn thương gần tương tự viêm khớp dạng thấp.
+
+### 3.3. Chẩn đoán xác định
+
+Áp dụng tiêu chuẩn của Hội Thấp học Mỹ ACR 1982 (bổ sung và điều chỉnh năm 1997), gồm 11 yếu tố:
+
+1.  **Ban đỏ hình cánh bướm** ở mặt.
+2.  **Ban đỏ dạng đĩa** ở mặt và thân.
+3.  **Nhạy cảm với ánh sáng.**
+4.  **Loét miệng** hoặc mũi họng.
+5.  **Viêm khớp và đau khớp** không có phá hủy khớp.
+6.  **Viêm đa màng:** màng phổi, màng tim.
+7.  **Tổn thương thận:** protein niệu > 500 mg/24 giờ hoặc 3+ (10 thông số nước tiểu) hoặc có trụ tế bào (hồng cầu, hemoglobin, trụ hạt, tế bào ống thận hoặc hỗn hợp).
+8.  **Tổn thương thần kinh:** co giật hoặc các rối loạn tâm thần không do thuốc và các nguyên nhân khác như rối loạn điện giải, tăng urê máu, nhiễm toan ceton…
+9.  **Rối loạn về máu:**
+    *   (a) Thiếu máu huyết tán có tăng hồng cầu lưới, hoặc
+    *   (b) Giảm bạch cầu < 4.000/mm³, hoặc
+    *   (c) Giảm bạch cầu lympho < 1.500/mm³, hoặc
+    *   (d) Giảm tiểu cầu < 100.000/mm³ không do thuốc.
+10. **Rối loạn về miễn dịch:**
+    *   Kháng thể kháng Ds-DNA (+), hoặc
+    *   Kháng thể kháng Sm (+), hoặc
+    *   Kháng thể kháng phospholipids (+) căn cứ vào: tăng kháng thể kháng cardiolipin loại IgM hoặc IgG, lupus anticoagulant (+), test huyết thanh giang mai dương tính giả > 6 tháng có kiểm chứng test cố định *Treponema Pallidum*.
+11. **Kháng thể kháng nhân:** hiệu giá cao theo tiêu chuẩn của phòng xét nghiệm và không do sử dụng các thuốc trong danh mục gây ra hội chứng giả Lupus.
+
+*Chẩn đoán xác định khi có từ 4 yếu tố trở lên.*
+
+---
+
+Gần đây, năm 2012, nhóm các trung tâm cộng tác quốc tế về lupus hệ thống (Systemic Lupus International Collaborating Clinics - SLICC 2012) đã đưa ra tiêu chuẩn chẩn đoán bệnh Lupus ban đỏ hệ thống gồm:
+
+| Tiêu chuẩn lâm sàng | Tiêu chuẩn miễn dịch |
+| :--- | :--- |
+| 1. Lupus da cấp | 1. ANA |
+| 2. Lupus da mạn | 2. Anti-DNA |
+| 3. Loét miệng hay mũi | 3. Anti-Sm |
+| 4. Rụng tóc không sẹo | 4. KT Anti-phospholipid |
+| 5. Viêm khớp | 5. Giảm bổ thể (C3, C4) |
+| 6. Viêm thanh mạc | 6. Test Coombs trực tiếp *(Không được tính khi có sự tồn tại của thiếu máu tan huyết)* |
+| 7. Thận | |
+| 8. Thần kinh | |
+| 9. Thiếu máu tan huyết | |
+| 10. Giảm bạch cầu | |
+| 11. Giảm tiểu cầu (< 100.000/mm³) | |
+
+*Chẩn đoán lupus ban đỏ hệ thống khi có $\ge$ 4 tiêu chuẩn (có ít nhất một tiêu chuẩn lâm sàng và một tiêu chuẩn cận lâm sàng) hoặc bệnh thận lupus được chứng minh trên sinh thiết kèm với ANA hoặc anti-DNA.*
+
+### 3.4. Phân loại thể
+
+*   **Thể cấp:** tổn thương nhiều nội tạng và nặng.
+*   **Thể mạn:** ít tổn thương nội tạng, biểu hiện ngoài da nhẹ.
+
+- **Thể bán cấp**: trung gian giữa hai thể trên.
+- **Thể hỗn hợp** (hội chứng Sharp): thể bệnh hỗn hợp giữa lupus và xơ cứng bì, có các triệu chứng: viêm nhiều khớp, hội chứng Raynaud, ngón tay hình khúc dồi, hẹp thực quản, viêm đa.
+
+### 3.5. Chẩn đoán phân biệt
+- Thấp khớp cấp.
+- Các bệnh thuộc nhóm bệnh mô liên kết khác: Viêm khớp dạng thấp, xơ cứng bì toàn thể, viêm đa cơ, viêm da cơ…
+- Các bệnh lý của hệ tạo máu: suy tủy, xuất huyết giảm tiểu cầu các nguyên nhân khác.
+- Các bệnh lý thận, tim, phổi mạn tính do các nguyên nhân khác.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc chung
+- Đánh giá mức độ nặng của bệnh.
+- Điều trị bao gồm: giai đoạn tấn công, củng cố và duy trì.
+- Cân nhắc cẩn thận giữa tác dụng mong muốn và tác dụng phụ của mỗi loại thuốc.
+
+### 4.2. Điều trị cụ thể
+- **Thuốc kháng viêm không steroid**: trong các trường hợp lupus kèm viêm đau khớp, sốt và viêm nhẹ các màng tự nhiên nhưng không kèm tổn thương các cơ quan lớn. Nên tránh dùng ở các bệnh nhân viêm thận đang hoạt động.
+- **Hydroxychloroquine** 200mg/ngày: đáp ứng tốt với các trường hợp có ban, nhạy cảm với ánh sáng, đau hoặc viêm khớp, biến chứng ở mắt rất hiếm (theo dõi: khám mắt 1 lần/năm).
+- **Liệu pháp glucocorticoid**: dùng đường toàn thân.
+  - *Chỉ định*: lupus ban đỏ có đe dọa tính mạng như có tổn thương thần kinh, giảm tiểu cầu, thiếu máu huyết tán hoặc lupus ban đỏ không đáp ứng với các biện pháp điều trị bảo tồn.
+  - *Liều dùng*:
+    - 1-2 mg/kg đường uống. Khi bệnh kiểm soát tốt, giảm liều prednisolone 10% mỗi 7-10 ngày.
+    - Dùng methylprednisolone đường tĩnh mạch 500mg mỗi 12 giờ trong 3-5 ngày được dùng trong các trường hợp tổn thương thận tiến triển nhanh, tổn thương thần kinh nặng và giảm tiểu cầu nặng. Sau đó chuyển sang dùng corticoid bằng đường uống và giảm liều tương tự như trên.
+- **Liệu pháp dùng các thuốc ức chế miễn dịch khác**:
+  - *Chỉ định*: Lupus ban đỏ thể nặng có khả năng đe dọa tính mạng như viêm cầu thận cấp nặng, có tổn thương thần kinh, giảm tiểu cầu và thiếu máu huyết tán hoặc lupus không đáp ứng với corticoid hoặc xuất hiện tác dụng phụ nặng của corticoid.
+  - *Liều dùng*: có nhiều loại thuốc có thể sử dụng đơn độc hoặc phối hợp với nhau, hoặc với corticoid.
+    - **Cyclophosphamide**: 0,5 - 1 g/m² da, đường tĩnh mạch 3-4 tuần/lần trong 6-7 tháng hoặc 1,0 - 5,0 mg/kg/ngày đường uống. Cần phối hợp với mesna (mercapto-ethanesulphonic acid) để dự phòng biến chứng tại bàng quang.
+    - **Dapsone** 100mg/ngày (ít sử dụng).
+    - **Azathioprine** (2-2,5 mg/kg/ngày), **mycophenolate mofetil** (500-1500 mg): đây là nhóm thuốc hiện đang được ưa chuộng vì ít tác dụng phụ, hiệu quả cao, thích hợp với các phụ nữ còn độ tuổi sinh đẻ, tuy nhiên giá thành tương đối cao.
+    - **Methotrexate** 7,5-20 mg/tuần.
+    - **Các thuốc khác**: leflunomide, liệu pháp hormon, thalidomide, truyền tĩnh mạch immunoglobulin liều cao…
+    - **Chế phẩm sinh học**: rituximab (MabThera) là thuốc ức chế tế bào B với liều mỗi năm một lần gồm hai đợt mỗi đợt truyền hai lần cách nhau hai tuần với liều 500-1000 mg/lần. Cần sàng lọc lao, viêm gan và các bệnh nhiễm khuẩn nặng trước khi điều trị sinh học cho bệnh nhân lupus ban đỏ hệ thống.
+
+### 4.3. Điều trị không dùng thuốc
+Chủ yếu là đối với thể nhẹ, bao gồm: nghỉ ngơi, tránh tiếp xúc trực tiếp với ánh sáng, dự phòng nhiễm khuẩn, giáo dục bệnh nhân hiểu rõ về bệnh. Một số trường hợp tổn thương suy thận nặng có thể phải lọc máu hoặc ghép thận.
+
+## 5. TIẾN TRIỂN - BIẾN CHỨNG
+
+### 5.1. Tiến triển
+- **Thể cấp**: tiến triển nhanh và tử vong sau vài tháng.
+- **Thể mạn**: tiến triển chậm, tiên lượng tốt.
+- **Thể bán cấp**: tiến triển từng đợt, ngày càng nặng dần. Bệnh nặng thêm nếu có thai, nhiễm khuẩn, chấn thương, phẫu thuật, stress, lạm dụng thuốc. Thời gian sống trung bình 5 - 10 năm.
+- **Hội chứng Sharp**: ít biểu hiện ở nội tạng nên tiên lượng tốt hơn.
+
+### 5.2. Biến chứng
+Nhiễm trùng cơ hội, suy thận mạn, tổn thương não - mạch máu…
+
+## 6. PHÒNG BỆNH
+- Cẩn thận khi sử dụng một số thuốc dễ gây mẫn cảm, nhất là kháng sinh như procainamide, hydralazine, minocycline, diltiazem, penicillamine, INH, quinidine, methyldopa….
+- Đề phòng các đợt nhiễm khuẩn.
+
+## TÀI LIỆU THAM KHẢO
+
+1. Anisur Rhaman và CS (2008), "Mechanism of SLE", *The New England Journal of Medicine*, pp. 929-939.
+2. John H. Klippel và CS (2008), "Systemic Lupus Erythematosus", *Primer on the Rheumatic Diseases*, edition 13, pp. 303-338.
+3. Hồ Văn Lộc (2009), *Giáo trình chuyên ngành cơ xương khớp*, Đại học Y Dược Huế, tr. 60-67.
+4. Nguyễn Vĩnh Ngọc (2009), *Chẩn đoán và điều trị những bệnh cơ xương khớp*, Nhà xuất bản Y học, tr. 124-137.
+5. Subramanian Shankar, Abhishek Pathak, "Redefining Lupus in 2012", Chapter 99.6.2012 SLICC SLE Criteria. *RheumTutor.com*.
+
+# BỆNH XƠ CỨNG BÌ TOÀN THỂ (Systemic scleroderma)
+
+## 1. ĐỊNH NGHĨA
+Xơ cứng bì toàn thể là một bệnh hệ thống chưa rõ nguyên nhân với đặc điểm giảm độ đàn hồi, xơ cứng ở da, tổn thương vi mạch và tổn thương các cơ quan nội tạng (chủ yếu ở đường tiêu hóa, mạch máu, tim, phổi, thận). Xơ cứng bì toàn thể là một bệnh tự miễn dịch gặp chủ yếu ở nữ giới, chiếm 80% và thường gặp ở độ tuổi từ 40 đến 50 tuổi.
+
+Bệnh có tần suất gặp nhiều hơn ở quần thể người da đen với tỷ lệ 290/1 triệu dân, và tỷ lệ này ở người châu Âu và Bắc Mỹ là 130-140/1 triệu dân.
+
+## 2. NGUYÊN NHÂN
+Nguyên nhân của bệnh xơ cứng bì chưa được biết rõ nhưng đây là bệnh tự miễn dịch với sự hiện diện của các tự kháng thể như kháng thể kháng nhân (DNA), kháng thể anticentromere antibody (ACA), kháng thể Scl-70 và sự tác động của các yếu tố như nội tiết, môi trường, di truyền.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Lâm sàng
+- **Hội chứng Raynaud**: Bệnh thường bắt đầu âm thầm trong một thời gian dài với triệu chứng chính là hội chứng Raynaud do tình trạng co thắt các tiểu động mạch hoặc động mạch tại các đầu chi như ngón tay, ngón chân xuất hiện khi tiếp xúc với nhiệt độ lạnh hoặc khi thay đổi cảm xúc mạnh với sự thay đổi màu da ở đầu chi theo ba mức độ: nhợt nhạt, xanh tái, đỏ tím. Hội chứng Raynaud gặp ở 90-98% bệnh nhân xơ cứng bì toàn thể và thường xuất hiện trước các tổn thương da hàng tháng hoặc hàng năm.
+- **Tổn thương da**: thường bắt đầu từ các ngón tay (ngón tay và bàn tay sưng to) có hiện tượng dày da, cứng da tiến triển lan dần lên cẳng tay, cánh tay, mặt, phần trên của cổ, ngực, bụng… Tổn thương cứng da ngày càng tiến triển nặng làm bệnh nhân khó cử động. Da bị mất sắc tố (hay gặp ở phía mu bàn tay, vùng cổ, ngực, lưng). Có hiện tượng lắng đọng calci tại các mô mềm gây tình trạng ngứa, loét các vùng da lân cận. Da mất nếp nhăn (rõ nhất ở mặt) làm bệnh nhân giảm khả năng biểu hiện tình cảm trên nét mặt và khó há mồm.
+- **Tổn thương loét, hoại tử** tại các đầu chi do hội chứng Raynaud kéo dài.
+- **Hội chứng CREST**: phối hợp các triệu chứng calci hóa (Calcinosis), co thắt thực quản (Esophageal), hội chứng Raynaud (Raynaud), xơ cứng da ngón, đầu chi (Sclerodactyly) và giãn các động mạch (Telangiectasia).
+- **Triệu chứng về khớp**: Khoảng 50-70% bệnh nhân có triệu chứng về khớp: đau nhiều khớp chủ yếu là các khớp ở chi trên, có thể có viêm các khớp nhưng không có di chứng biến dạng khớp.
+- **Tổn thương thực quản**: gặp ở 50-60% bệnh nhân với các triệu chứng: cảm giác nóng rát, đầy phía sau xương ức, triệu chứng trào ngược dạ dày, xơ cứng và co thắt thực quản làm bệnh nhân khó nuốt (nhất là với thức ăn đặc).
+- **Tổn thương phổi**: hay gặp nhất là xơ phổi: bệnh nhân ho khan, khó thở khi gắng sức. Nghe phổi có ran rít hoặc ran ẩm khi có bội nhiễm phổi. Có thể có tràn dịch màng phổi với lượng dịch ít.
+- **Tổn thương tim**: bệnh nhân có nhịp tim nhanh, hoặc rối loạn nhịp tim với nhiều mức độ khác nhau. Có thể có suy tim, ép tim khi có tăng áp lực động mạch phổi nhiều.
+- **Tổn thương thận**: suy thận.
+
+### 3.2. Cận lâm sàng
+- **Bilan viêm dương tính**: tăng tốc độ lắng máu, tăng protein C phản ứng (CRP).
+- **Thiếu máu không phục hồi** do quá trình viêm mạn tính, suy thận…
+- **Xét nghiệm sinh hóa**: chức năng gan, thận… có thể thay đổi khi có tổn thương gan, thận.
+- **Xét nghiệm miễn dịch**: kháng thể kháng nhân dương tính ở 30-70% bệnh nhân mắc bệnh xơ cứng bì toàn thể.
+- **Chụp tim phổi và chụp cắt lớp vi tính phổi**: có thể có các tổn thương: tràn dịch màng phổi, tổn thương phổi kẽ hoặc xơ phổi ở các mức độ khác nhau.
+- **Điện tim**: phát hiện các rối loạn nhịp tim.
+- **Siêu âm tim**: đánh giá chức năng tim, tràn dịch màng tim và đo áp lực động mạch phổi.
+- **Siêu âm ổ bụng**.
+- **Soi mao mạch các đầu chi**: thấy giảm số lượng và co thắt các mao mạch đầu chi.
+
+### 3.3. Chẩn đoán xác định
+Tiêu chuẩn chẩn đoán xơ cứng bì toàn thể của Hội Thấp khớp học Mỹ (ACR) năm 1980 (với độ nhạy 97% và độ đặc hiệu 98%) được áp dụng rộng rãi nhất trên thực hành lâm sàng gồm có các tiêu chí chính và phụ:
+- **Tiêu chí chính**: xơ cứng da lan tỏa.
+- **Tiêu chí phụ**:
+  - Xơ cứng da đầu chi.
+  - Sẹo ở ngón tay hoặc vết loét hoại tử ở đầu chi.
+  - Xơ phổi vùng đáy.
+
+*Bệnh xơ cứng bì được chẩn đoán khi có tiêu chí chính hoặc có 2/3 tiêu chí phụ.*
+
+Ngoài ra còn có tiêu chuẩn ABCDCREST chẩn đoán xơ cứng bì (U. F. Hanstein - Hội Da liễu Đức) cũng được áp dụng trên lâm sàng.
+- **A** (Autoantibodies) - Các tự kháng thể: tự kháng thể với protein dây tơ (autoantibodies to centromere proteins CENPs), kháng thể Scl-70.
+- **B** (Bibasilar pulmonary) - Xơ phổi vùng đáy.
+- **C** (Contracture of the joints) - Cứng khớp và hạn chế vận động khớp.
+- **D** (Dermal thickening) - Xơ cứng da.
+- **C** (Calcinosis on the fingers) - Calci hóa đầu chi.
+- **R** (Raynaud's phenomenon) - Hội chứng Raynaud.
+- **E** (Esophageal distal hypomotility) - Rối loạn vận động thực quản.
+- **S** (Sclerodactyly) - Xơ hóa da đầu chi.
+- **T** (Telangiectasias) - Dãn mạch da ở đầu chi, mặt, môi, lưỡi.
+
+*Chẩn đoán xơ cứng bì khi có > 3 tiêu chí trên.*
+
+### 3.4. Chẩn đoán thể lâm sàng
+- **Xơ cứng bì thể lan tỏa**: với các triệu chứng xơ cứng da lan tỏa toàn thân, hội chứng Raynaud, tổn thương các nội tạng.
+- **Xơ cứng bì thể khu trú**: Hội chứng CREST (Calcinosis, Raynaud, Esophageal, Sclerodactyly, Teleangiectasia) bao gồm các biểu hiện: calci hóa tổ chức dưới da ở đầu chi, hội chứng Raynaud, tổn thương thực quản, xơ cứng da đầu ngón, và dãn mạch da.
+- **Hội chứng phối hợp** của bệnh xơ cứng bì và các bệnh tự miễn dịch khác như lupus ban đỏ hệ thống, viêm da cơ, viêm khớp dạng thấp (Overlap syndrome).
+
+### 3.5. Chẩn đoán phân biệt
+- Lupus ban đỏ hệ thống.
+- Viêm khớp dạng thấp.
+- Viêm da cơ.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc điều trị
+Hiện nay chưa có phương pháp hoặc thuốc điều trị khỏi bệnh nên chủ yếu điều trị bệnh xơ cứng bì là điều trị triệu chứng nhằm kiểm soát đợt tiến triển của bệnh, điều trị biến chứng và hạn chế các biến chứng của bệnh.
+
+### 4.2. Hướng dẫn điều trị
+- **Điều trị không dùng thuốc**:
+  - Giáo dục sức khỏe cho người bệnh để bệnh nhân có nhận thức về bệnh lý xơ cứng bì và các thuốc điều trị để đảm bảo tuân thủ điều trị bệnh.
+  - Kiểm soát tình trạng Raynaud: bệnh nhân mặc ấm, đi găng tay, tất chân, không hút thuốc lá, không sử dụng các thuốc có tính chất co mạch (amphetamin, ergotamin…).
+  - Dùng các loại xà phòng tránh khô da, xoa kem làm mềm da, xoa bóp da thường xuyên. Không nên lạm dụng mỹ phẩm dùng trên da.
+  - Kiểm soát tình trạng trào ngược thực quản: bệnh nhân nên ăn thành nhiều bữa nhỏ, không ăn quá no, nên nằm đầu cao, không nằm ngay sau khi ăn, tránh lạm dụng cà phê, thuốc lá và các chất kích thích khác.
+- **Hướng dẫn tập thể dục** phù hợp với tình trạng sức khỏe, tập thở và xoa bóp toàn thân thường xuyên.
+
+### 4.3. Điều trị các triệu chứng và hội chứng bệnh
+- **Triệu chứng ở da** (Calci hóa da, xơ cứng da...): d-penicillamin, colchicin, interferon gamma, kem giữ ẩm da, thuốc ức chế histamin H1.
+- **Các triệu chứng xương khớp**: vật lý trị liệu và vận động liệu pháp, thuốc giảm đau, thuốc chống viêm không steroid.
+- **Hội chứng mạch** (Raynaud): ủ ấm đầu chi, vật lý trị liệu, thuốc giãn mạch ngoại vi, nhóm thuốc chẹn kênh calci...
+- **Tổn thương nội tạng** (hội chứng dạ dày, thực quản, tăng áp lực động mạch phổi, xơ phổi...): nhóm thuốc corticosteroid, nhóm thuốc ức chế miễn dịch, thuốc ức chế bơm proton...
+
+### 4.4. Điều trị cụ thể
+- **Điều trị không dùng thuốc**: chế độ ăn giàu protein và vitamin, không hút thuốc lá, giữ ấm bàn tay, bàn chân. Điều trị vận động liệu pháp và vật lý trị liệu (nhiệt trị liệu ở các đầu chi, ngâm bùn hoặc ngâm nước khoáng vùng da bị xơ cứng). Dùng kem giữ ẩm da, ánh sáng trị liệu...
+- **Điều trị bằng thuốc**:
+  - *Điều trị hội chứng Raynaud*: thuốc chẹn kênh calci (nifedipin 10mg/ngày), buflomedil chlorhydrat (150-300mg/ngày), ginkgo biloba (40-80mg/ngày).
+  - *Điều trị xơ cứng da và calci hóa ở da*: d-penicillamin 150-300mg/ngày, Colchicin (1mg/ngày), thuốc ức chế histamin H1, Relaxin (0,25-1mg/kg/ngày).
+  - *Điều trị chứng trào ngược dạ dày*: nhóm thuốc ức chế bơm proton (20-40mg/ngày).
+  - *Điều trị tổn thương xương khớp*: thuốc chống viêm không steroid: diclofenac 50-100mg/ngày, meloxicam 7,5-15mg/ngày, celecoxib 200mg/ngày. Cần lưu ý các tác dụng phụ của thuốc trên hệ thống dạ dày, ruột.
+
++ Điều trị tăng áp lực động mạch phổi: prostacyclin (khí dung với liều 0,5mg/kg/ngày, hoặc uống với liều 0,05mg/ngày), thuốc ức chế thụ thể endothelin, chẳng hạn như bosentan (62,5mg x 2 lần/ngày), sildenafil (50-100mg/ngày), thuốc ức chế men chuyển.
++ Các thuốc ức chế miễn dịch: Áp dụng điều trị cho các bệnh nhân xơ cứng bì có tổn thương mạch nhiều, có nguy cơ hoại tử đầu chi hoặc có tổn thương phổi kẽ... Có thể dùng một trong các thuốc sau:
+  - Corticosteroid (prednisolon 10-60mg/ngày): Không nên điều trị corticoid liều cao và kéo dài. Cần thận trọng khi sử dụng corticosteroid cho bệnh nhân xơ cứng bì vì nguy cơ có thể xuất hiện bệnh lý thận cấp (*renal crisis*), đặc biệt khi dùng liều cao.
+  - Azathioprin: 1,5-3mg/ngày.
+  - Cyclophosphamide: 3-6mg/kg/ngày (có thể dùng đường uống hoặc truyền tĩnh mạch).
+  - Cyclosporin A: 50-100mg/ngày.
+  - Mycophenolate mofetil: 250-500mg/ngày.
+  - Phương pháp lọc huyết tương để loại bỏ các phức hợp miễn dịch trong các trường hợp tiến triển nặng.
+- Điều trị ngoại khoa: Chỉ định điều trị ngoại khoa cắt bỏ phần chi hoại tử khi điều trị nội khoa không kết quả.
+
+## 5. TIẾN TRIỂN VÀ TIÊN LƯỢNG
+Bệnh thường tiến triển mạn tính và có các đợt tiến triển làm bệnh nặng lên.
+Bệnh nhân xơ cứng bì chỉ có tổn thương da có tiên lượng tốt hơn bệnh nhân xơ cứng bì có các tổn thương nội tạng.
+Tiên lượng bệnh và tuổi thọ người bệnh phụ thuộc nhiều vào việc chẩn đoán, điều trị bệnh sớm và các tổn thương nội tạng như xơ phổi, tăng áp lực động mạch phổi, suy tim, suy thận.
+
+## 6. THEO DÕI VÀ QUẢN LÝ BỆNH NHÂN
+- Bệnh nhân được theo dõi và quản lý ngoại trú, khám định kỳ 1-3 tháng/lần tùy theo tình trạng bệnh và tiến triển của bệnh.
+- Cần khám và đánh giá các triệu chứng lâm sàng: tình trạng xơ cứng da, hội chứng Raynaud, các điểm hoại tử đầu chi, tình trạng rối loạn nhu động thực quản, tình trạng khó thở, tình trạng nhiễm khuẩn.
+- Các xét nghiệm cần chỉ định mỗi lần tái khám:
+  - Xét nghiệm tế bào máu ngoại vi, tốc độ máu lắng.
+  - Tổng phân tích nước tiểu.
+  - Chụp tim phổi (chụp CT scanner phổi trong trường hợp nghi ngờ có tổn thương phổi kẽ, xơ phổi...).
+  - Siêu âm tim và đo áp lực động mạch phổi.
+- Bệnh xơ cứng bì chưa rõ nguyên nhân nên việc phòng bệnh chủ yếu là phòng các biến chứng của bệnh.
+
+### TÀI LIỆU THAM KHẢO
+1. Bách khoa toàn thư bệnh học (2000). Nhà xuất bản Từ điển Bách khoa Hà Nội. Tập 2, 490-494.
+2. Hinchcliff M, Varga J (October 2008). "Systemic sclerosis/scleroderma: a treatable multisystem disease". *Am Fam Physician* 78 (8): 961–8.
+3. Klippel, John H. *Primer On the Rheumatic Diseases* 11ED. Atlanta, GA: Arthritis Foundation.
+4. Steen VD (2005). "The lung in systemic sclerosis". *Journal of Clinical Rheumatology* 11 (1): 40–6.
+5. Sallam H, McNearney TA, Chen JD (2006). "Systematic review: pathophysiology and management of gastrointestinal dysmotility in systemic sclerosis (scleroderma)". *Aliment. Pharmacol. Ther.* 23 (6): 691–712.
+
+# BỆNH STILL Ở NGƯỜI LỚN (Adult onset Still’s disease - AOSD)
+
+## 1. ĐẠI CƯƠNG
+Bệnh Still ở người lớn là một bệnh viêm hệ thống chưa rõ nguyên nhân. Bệnh được George Still đề cập vào năm 1897 khi mô tả các triệu chứng bệnh ở bệnh nhân là trẻ em nên bệnh này được mang tên ông là bệnh Still, đến nay bệnh được xác nhận là có thể khởi phát ở người lớn vì vậy có tên gọi là bệnh Still ở người lớn để phân biệt với bệnh Still xảy ra ở trẻ em. Bệnh nguyên của bệnh Still ở người lớn hiện nay chưa rõ, nghiên cứu về di truyền học cho thấy bệnh này có liên quan với hệ thống HLA-B17, B18, B35 và DR2 và các sản phẩm cytokine giữ vai trò quan trọng trong bệnh sinh của bệnh Still ở người lớn như IFN gamma, IL-6, TNF alpha.
+Bệnh Still ở người lớn có các triệu chứng lâm sàng và cận lâm sàng không đặc hiệu nên bệnh nhân hay bị chẩn đoán muộn và điều trị không đúng tại các cơ sở y tế.
+
+## 2. LÂM SÀNG
+Các đặc điểm lâm sàng nổi bật của bệnh Still ở người lớn là sốt cao có đỉnh, đau khớp hoặc viêm khớp, có các ban ngoài da. Bệnh có thể xảy ra ở bất cứ lứa tuổi nào tuy nhiên bệnh ít gặp ở người cao tuổi.
+
+### 2.1. Sốt
+Bệnh nhân thường sốt cao trên 39°C kéo dài ít nhất là 4 giờ. Sốt cao hàng ngày hoặc sốt cách nhật và thường sốt về chiều tối và sáng sớm. Sốt cao không có các biểu hiện nhiễm trùng, và có thể kèm theo các triệu chứng: viêm thanh mạc, đau họng, đau cơ, đau khớp. Đa số bệnh nhân xuất hiện sốt sau đó mới xuất hiện đau các khớp. Sốt thường kéo dài trong nhiều tuần liên tục làm bệnh nhân gầy sút, suy kiệt nên dễ bị chẩn đoán nhầm với các bệnh máu ác tính, bệnh nhiễm khuẩn hoặc bệnh hệ thống.
+
+### 2.2. Ban ở da
+Ban không cố định có màu "cá hồi" thường xuất hiện ở gốc chi, lưng, hiếm khi ban xuất hiện ở mặt, đầu chi. Bệnh nhân có thể có cảm giác ngứa nhẹ tại nơi phát ban nên nhiều khi nhầm với ban dị ứng thuốc. Các ban thường xuất hiện trong khi sốt cao và biến mất khi hết cơn sốt.
+
+### 2.3. Đau khớp và viêm khớp
+Gặp với tỷ lệ 60-100%. Vị trí khớp hay gặp là khớp gối, khớp cổ tay, khớp cổ chân, khớp khuỷu tay, khớp vai. Trong bệnh Still ở người lớn các khớp viêm không bị biến dạng, bị dính khớp hay bị lệch trục như bệnh viêm khớp dạng thấp. Khớp viêm tiến triển từng đợt kèm theo sốt cao, có thể có tràn dịch khớp gối.
+
+### 2.4. Đau cơ
+Gặp với tỷ lệ 56-84%, thường đi kèm với sốt.
+
+### 2.5. Các triệu chứng khác
+Gan to và bất thường cấu trúc gan trên tiêu bản sinh thiết gặp ở 50-70% bệnh nhân mắc bệnh Still ở người lớn. Viêm thanh mạc (26,4%), viêm màng ngoài tim (23,8%), lách to (43,9%).
+
+## 3. CẬN LÂM SÀNG
+Khác với các bệnh hệ thống khác, chẩn đoán bệnh Still ở người lớn chủ yếu dựa vào các triệu chứng lâm sàng với các xét nghiệm miễn dịch đều âm tính như yếu tố dạng thấp (RF) và kháng thể kháng nhân.
+- **Xét nghiệm viêm dương tính**: Tốc độ lắng máu và protein C phản ứng (CRP), fibrinogen tăng cao ở 100% bệnh nhân. Bệnh nhân thường có tăng gamma globulin, định lượng các globulin miễn dịch huyết thanh thường có tăng IgG.
+- **Các bất thường về tế bào máu ngoại vi**:
+  - Tăng số lượng bạch cầu (thường tăng cao > 20 G/l), tăng tỷ lệ bạch cầu đa nhân trung tính (thường tăng cao > 80%).
+  - Xét nghiệm tủy đồ và sinh thiết tủy bình thường. Tăng bạch cầu là hậu quả thứ phát của tăng sinh tủy dòng bạch cầu hạt.
+  - Bệnh nhân có thể có giảm tiểu cầu, giảm hồng cầu khi bệnh tiến triển.
+- **Xét nghiệm ferritin huyết thanh**: Tăng cao trên 1000 ng/l (bình thường 40-200 ng/l) và tỷ lệ glycosylate ferritin giảm (thường < 20%). Hàm lượng ferritin huyết thanh tăng cao khi bệnh tiến triển và trở về bình thường trong thời kỳ lui bệnh.
+- **Các thăm dò hình ảnh**: Không có sự thay đổi rõ ràng về xương khớp trên phim X-quang trong giai đoạn sớm của bệnh. Tuy nhiên có thể thấy một số hình ảnh không đặc hiệu như: phù nề phần mềm, tràn dịch khớp...
+- **Xét nghiệm miễn dịch**:
+  - Yếu tố dạng thấp (Rheumatoid factor - RF) âm tính.
+  - Kháng thể kháng nhân (ANA) và kháng thể kháng chuỗi kép (anti-dsDNA) âm tính.
+- **Xét nghiệm vi sinh**: Cấy máu âm tính.
+
+## 4. CHẨN ĐOÁN
+
+### 4.1. Chẩn đoán phân biệt
+Các triệu chứng của bệnh Still ở người lớn không đặc hiệu nên trước khi đưa ra chẩn đoán xác định bệnh này cần phải làm các xét nghiệm (kháng thể kháng nhân, kháng thể kháng dsDNA, yếu tố dạng thấp, tủy đồ, cấy máu...) để chẩn đoán phân biệt với các bệnh như: bệnh tự miễn dịch (lupus ban đỏ hệ thống, viêm khớp dạng thấp đợt tiến triển), bệnh lý máu (leucose cấp), nhiễm khuẩn (nhiễm khuẩn huyết), viêm khớp phản ứng...
+
+### 4.2. Chẩn đoán xác định
+Hiện nay có nhiều tiêu chuẩn chẩn đoán bệnh Still người lớn như: tiêu chuẩn của Yamaguchi, tiêu chuẩn Cush, tiêu chuẩn Calabro có độ nhạy lần lượt là 93,5%, 80,6%, và 80,0%. Độ đặc hiệu tương ứng của ba tiêu chuẩn là 96,2%, 80%, và 60,9%. Tuy nhiên trên thực hành lâm sàng thường áp dụng tiêu chuẩn Yamaguchi do có độ nhạy và độ đặc hiệu cao nhất.
+
+Tiêu chuẩn Yamaguchi năm 1992 gồm có 4 tiêu chuẩn chính và 5 tiêu chuẩn phụ:
+- **Tiêu chuẩn chính**:
+  - Đau khớp > 2 tuần.
+  - Sốt > 39°C > 1 tuần.
+  - Ban màu "cá hồi".
+  - Bạch cầu tăng > 10 G/l, bạch cầu trung tính > 80%.
+- **Tiêu chuẩn phụ**:
+  - Đau họng.
+  - Hạch to.
+  - Lách to.
+  - Rối loạn chức năng gan (tăng men gan AST và ALT).
+  - Xét nghiệm kháng thể kháng nhân và yếu tố dạng thấp: âm tính.
+
+Bệnh được chẩn đoán xác định khi có 2/4 tiêu chuẩn chính và 3/5 tiêu chuẩn phụ, sau khi đã chẩn đoán loại trừ các bệnh lý nhiễm khuẩn, máu, bệnh hệ thống (mục 4.1).
+
+## 5. TIẾN TRIỂN VÀ TIÊN LƯỢNG BỆNH
+Có ba thể lâm sàng của bệnh Still ở người lớn được phân loại theo các triệu chứng lâm sàng, tiến triển và tiên lượng bệnh:
+
+### 5.1. Thể nhẹ (thể tự hạn chế bệnh)
+Có các triệu chứng giống bệnh hệ thống như: sốt, ban ở da, viêm thanh mạc, gan, lách, hạch to. Hầu hết các bệnh nhân trong thể này đều khỏi bệnh trong vòng một năm kể từ khi bệnh khởi phát.
+
+### 5.2. Thể trung bình (thể bán cấp)
+Bệnh nhân có nhiều đợt tiến triển của bệnh, có hoặc không có các triệu chứng về khớp. Bệnh nhân có các đợt ổn định bệnh kéo dài vài tháng hoặc vài năm. Các đợt tiến triển bệnh sau này thường nhẹ hơn khi bệnh mới khởi phát.
+
+### 5.3. Thể viêm khớp mạn tính
+Bệnh nhân với chủ yếu là các triệu chứng ở khớp, viêm khớp mạn tính có thể dẫn đến tổn thương tại khớp. 67% bệnh nhân trong nhóm này có tổn thương khớp nặng nề và có chỉ định thay khớp sau 3-5 năm bị bệnh.
+Bệnh nhân mắc bệnh Still ở người lớn có biểu hiện viêm khớp mạn tính có tiến triển và tiên lượng bệnh nặng hơn bệnh nhân chỉ tổn thương hệ thống cơ quan đơn thuần. Tổn thương ban ở da, viêm đa khớp đặc biệt là các khớp gốc chi thường có tiến triển của thể viêm khớp mạn tính.
+
+## 6. ĐIỀU TRỊ
+
+### 6.1. Nguyên tắc điều trị
+- Điều trị triệu chứng và hạn chế các biến chứng của bệnh.
+- Kiểm soát tình trạng sốt và viêm các khớp.
+- Kiểm soát các đợt tiến triển bệnh: ức chế các phản ứng miễn dịch quá mức của cơ thể.
+- Tránh và hạn chế các biến chứng của bệnh và các thuốc điều trị.
+
+### 6.2. Điều trị cụ thể
+- **Thuốc chống viêm không steroid đơn thuần**: Chỉ có hiệu quả ở 15% bệnh nhân có các triệu chứng viêm khớp.
+- **Corticosteroid**: Có tỷ lệ bệnh đáp ứng tới 75-95%.
+  - Liều corticoid trung bình từ 1-1,5 mg/kg/ngày, giảm liều dần theo đáp ứng của bệnh.
+  - Liều cao corticoid được áp dụng khi tình trạng bệnh nhân không đáp ứng với điều trị liều corticoid trung bình. Có thể điều trị truyền tĩnh mạch methylprednisolon 500-1000 mg/ngày trong 3 ngày sau đó giảm liều dần theo đáp ứng lâm sàng của người bệnh.
+- **Trong trường hợp bệnh Still ở người lớn không đáp ứng tốt với corticoid**, phải kết hợp với các thuốc điều trị cơ bản:
+  - Thường khởi đầu bằng methotrexate với liều từ 7,5-20 mg/tuần dựa vào đáp ứng của từng bệnh nhân.
+  - Trường hợp không đáp ứng với methotrexate sẽ chỉ định điều trị cyclophosphamid (đường uống hoặc truyền tĩnh mạch). Cần lưu ý đến tác dụng phụ của thuốc như: chảy máu bàng quang, hạ bạch cầu, nhiễm khuẩn cơ hội…
+  - Có thể chỉ định một trong các thuốc sau trong các trường hợp không đáp ứng với điều trị các thuốc trên: cyclosporin A, hydroxychloroquin, muối vàng, D-penicillamin, azathioprin.
+- **Truyền gamaglobulin**: Có hiệu quả đối với các trường hợp bệnh không đáp ứng với các thuốc nêu trên với liều 0,4-2 gam/kg/ngày trong 2-5 ngày.
+- **Điều trị bằng thuốc sinh học** cho các ca kháng trị (ví dụ thuốc ức chế IL-1 anakinra hoặc các thuốc sinh học khác).
+
+## 7. THEO DÕI VÀ QUẢN LÝ BỆNH NHÂN
+Các bệnh nhân nên được theo dõi tiến triển về lâm sàng và xét nghiệm (tế bào máu ngoại vi, các bilan viêm, chức năng gan, thận, tổng phân tích nước tiểu, ferritin) ít nhất 3 tháng/lần tại các cơ sở y tế.
+
+### TÀI LIỆU THAM KHẢO
+1. Efthimiou P, Kontzias A, Ward CM, Ogden NS (June 2007). "Adult-onset Still's disease: can recent advances in our understanding of its pathogenesis lead to targeted therapy?". *Nat Clin Pract Rheumatol* 3 (6): 328–35.
+2. Hindawi. "Anti-Interleukin-1 Agents in Adult Onset Still's Disease." 2012-02-07. http://www.hindawi.com/journals/iji/2012/317820/. Retrieved 2012-10-13.
+3. Owlia MB, Mehrpoor G. (2009). "Adult-onset Still's disease: A review". *Indian J Med Sci* 63 (5): 207–21.
+4. Wiley. "Adult-onset Still's disease: Clinical course and outcome." 1987-02-01. http://onlinelibrary.wiley.com/doi/10.1002/art.1780300209/abstract. Retrieved 2012-10-17.
+5. Yamaguchi M, Ohta A, Tsunematsu T, Kasukawa R, Mizushima Y, Kashiwagi H, Kashiwazaki S, Tanimoto K, Matsumoto Y, Ota T (1992). "Preliminary criteria for classification of adult Still's disease". *J Rheumatol* 19 (3): 424–30.
+
+# VIÊM DA CƠ VÀ VIÊM ĐA CƠ (Dermatomyositis and Polymyositis)
+
+## 1. ĐỊNH NGHĨA
+Viêm da cơ và viêm đa cơ được xếp vào nhóm bệnh tự miễn với tổn thương cơ bản là tình trạng viêm mạn tính của các bó cơ vân (viêm đa cơ) với biểu hiện đặc trưng của bệnh là yếu cơ vùng gốc chi đối xứng hai bên; khi có kèm theo tổn thương da thì được gọi là bệnh viêm da cơ. Trước kia nhiều tác giả gộp hai thể thành một bệnh, gần đây có xu hướng tách ra nhằm định danh tổn thương cơ đơn độc hoặc kết hợp với da. Ngoài tổn thương ở cơ hoặc kèm theo da, các bệnh nhân này thường có các triệu chứng ở khớp, phổi; ngoài ra có thể ở tim mạch và tiêu hóa...
+Ở người già, viêm da cơ / viêm đa cơ có tỷ lệ kết hợp với ung thư cao hơn trong cộng đồng và ngược lại, một số ung thư có thể biểu hiện các triệu chứng như viêm da cơ.
+
+## 2. NGUYÊN NHÂN, CƠ CHẾ BỆNH SINH
+Cho đến nay nguyên nhân chính xác của bệnh chưa rõ ràng. Các tác nhân nhiễm trùng (vi khuẩn, virus), thuốc và một số yếu tố của môi trường có thể là nguyên nhân gây bệnh và yếu tố khởi phát bệnh viêm đa cơ, viêm da - cơ tự miễn. Bệnh được xếp vào nhóm tự miễn dịch với sự có mặt của một số tự kháng thể (kháng thể kháng Jo-1, kháng SRP...). Một số nghiên cứu cho thấy bệnh viêm cơ tự miễn thường tiến triển vào một số mùa trong năm. Theo Leff, các bệnh nhân có kháng thể kháng Jo-1 dương tính thường tiến triển vào mùa xuân, còn những bệnh nhân có kháng thể kháng SRP dương tính thường tiến triển vào mùa thu. Các yếu tố về di truyền (HLA-DR3, DRW52) cũng có một vai trò quan trọng trong cơ chế bệnh sinh của bệnh.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Triệu chứng lâm sàng
+
+- **Toàn thân**: Bệnh nhân thường có cảm giác mệt mỏi, sốt, có thể sút cân, đặc biệt khi bệnh viêm da cơ, viêm đa cơ kết hợp với ung thư.
+- **Cơ**:
+  - **Yếu cơ**: Yếu cơ vùng gốc chi, đối xứng hai bên, bệnh nhân có dấu hiệu ghế đẩu dương tính. Yếu cơ vùng hầu họng làm bệnh nhân khó nuốt hoặc khàn tiếng, yếu cơ liên sườn dẫn đến khó thở.
+  - **Đau cơ**: Gặp ở khoảng 50% các bệnh nhân viêm da cơ / viêm đa cơ, thường gặp nhiều hơn trong viêm da cơ.
+  - **Xơ hóa cơ**: Có thể làm cơ rắn chắc và gây co rút cơ, gây hạn chế vận động khớp.
+- **Da**: Tổn thương da trong bệnh viêm da cơ là dấu hiệu đặc trưng của bệnh, gồm:
+  - Ban màu đỏ hoặc tím ở vùng mi mắt, có thể kèm theo phù ở vùng mi mắt.
+  - **Ban Gottron**: Ban màu đỏ tím ở mặt duỗi của các khớp ở ngón tay (gồm khớp bàn ngón, khớp ngón gần) và mặt duỗi của khớp khuỷu, khớp gối, khớp cổ chân.
+  - **Bàn tay thợ cơ khí**: Hay gặp nhất ở các bệnh nhân có hội chứng kháng synthetase và các bệnh nhân viêm da cơ / viêm đa cơ kết hợp với xơ cứng bì.
+  - Ở giai đoạn tiến triển, có thể có teo da và mất sắc tố, có các ban đỏ và giãn mao mạch ở xung quanh móng tay giống như các bệnh tự miễn khác.
+- **Khớp**: Đau khớp hoặc viêm khớp với biểu hiện tương tự như viêm khớp dạng thấp, thường hay gặp nhất ở các khớp nhỏ của bàn tay, khớp cổ tay và khớp gối song hiếm khi có biến dạng khớp.
+- **Calci hóa**: Có tổn thương calci hóa ở da, tổ chức dưới da, cân cơ và trong cơ, thường gặp ở những vùng hay bị các vi chấn thương (khớp khuỷu, gối, mặt duỗi của các ngón tay, mông...). Có thể sờ thấy các hạt cứng, chắc, hoặc nhìn thấy các hạt màu trắng khi tổn thương ở nông. Nhiều trường hợp chỉ phát hiện trên phim chụp X-quang thường quy. Calci hóa có thể dẫn đến hạn chế vận động của khớp.
+- **Phổi**: Biểu hiện lâm sàng bởi triệu chứng ho khan khó thở, ran ẩm hai phế trường, đặc biệt ở đáy phổi. Viêm màng phổi và tràn dịch màng phổi ít gặp. Các tổn thương phổi gồm bốn thể lâm sàng hay gặp:
+  - Thể nặng nhất là viêm phế nang lan tỏa, tiến triển nhanh.
+  - Thể có viêm phổi kẽ tiến triển chậm (thường gặp nhất).
+  - Viêm phổi do sặc, thường gặp ở các bệnh nhân có khó nuốt vùng hầu họng.
+  - Bệnh nhân không có các triệu chứng lâm sàng mặc dù trên phim X-quang phổi và đo chức năng hô hấp có bệnh phổi kẽ.
+- **Tim mạch**: Các biểu hiện về tim mạch thường xuất hiện khi bệnh đã ở giai đoạn toàn phát. Thường gặp nhất là rối loạn nhịp tim. Các biểu hiện ít gặp hơn gồm: suy tim ứ huyết do viêm cơ tim hoặc xơ hóa cơ tim, viêm màng ngoài tim, tràn dịch màng tim.
+- **Tiêu hóa**: Viêm thực quản trào ngược mạn tính do yếu cơ thắt thực quản ở dưới. Khó nuốt vùng hầu họng, có thể làm bệnh nhân bị sặc vào khí phế quản khi ăn dẫn đến viêm phổi do nhiễm khuẩn hoặc do dịch vị. Giảm nhu động ruột non và tá tràng có thể dẫn đến đau bụng, chướng bụng, ỉa chảy và sút cân.
+- **Mạch máu ngoại vi**: Hội chứng Raynaud thường gặp ở các bệnh nhân viêm da cơ / viêm đa cơ có hội chứng kháng synthetase và khi bệnh kết hợp với lupus ban đỏ hệ thống, hoặc xơ cứng bì toàn thể.
+- **Thận**: Bệnh nhân có thể có protein niệu, hội chứng thận hư do viêm cầu thận tăng sinh gian mạch và viêm cầu thận ổ. Nói chung tổn thương thận hiếm gặp.
+- **Các bệnh lý ung thư kèm theo**: Các cơ quan bị ung thư thường phụ thuộc vào lứa tuổi. Thường gặp ung thư buồng trứng (nữ), ngoài ra là ung thư phổi, dạ dày, gan.
+
+### 3.2. Cận lâm sàng
+
+- **Các enzym cơ trong huyết thanh tăng**: Creatine Kinase (CK, CPK), SGOT, SGPT, lactate dehydrogenase (LDH), aldolase, trong đó enzym CK có độ đặc hiệu cao nhất với bệnh viêm da cơ / viêm đa cơ. Trong đợt tiến triển của bệnh, enzym CK tăng trước khi có dấu hiệu yếu cơ khoảng vài tuần đến vài tháng. Ở một số trường hợp enzym CK có thể không tăng như: bệnh ở giai đoạn muộn có teo cơ nhiều, bệnh ở giai đoạn sớm đặc biệt trong viêm da cơ, bệnh kết hợp với ung thư.
+- **Điện cơ**: Hình ảnh dễ bị kích thích của các sợi cơ khi nghỉ ngơi, khi co cơ thấy các điện thế phức tạp, biên độ thấp.
+- **Sinh thiết cơ**: Thấy xâm nhập các tế bào viêm xung quanh các mạch máu và tổ chức mô kẽ xung quanh các sợi cơ, chủ yếu là các tế bào lympho, tương bào, mô bào, bạch cầu đa nhân, các sợi cơ bị thoái hóa và hoại tử, có sự tái tạo các sợi cơ, trong đó hình ảnh đặc hiệu nhất là teo tổ chức liên kết xung quanh các bó cơ. Trong quá trình tiến triển của bệnh, tổ chức liên kết xơ và/hoặc mỡ sẽ thay thế các sợi cơ hoại tử và chia tách các bó cơ.
+- **Sinh thiết da**: Teo da, thoái hóa và hóa lỏng lớp tế bào đáy, thâm nhiễm các bạch cầu lympho và mô bào ở xung quanh các mạch máu trong lớp thượng bì.
+- **Kháng thể kháng nhân**: Thường dương tính.
+- **Các kháng thể đặc hiệu với viêm cơ tự miễn** gồm:
+  - Các kháng thể kháng synthetase, trong đó hay gặp nhất là kháng thể kháng Jo-1 (gặp khoảng 20% bệnh nhân bệnh viêm da cơ / viêm đa cơ), sau đó là các kháng thể kháng 7 enzym aminoacyl-tRNA synthetase khác.
+  - **Kháng thể kháng Mi-2**: Gặp ở khoảng 5 - 10% các bệnh nhân viêm da cơ.
+  - Các kháng thể ít gặp khác: anti-SRP (signal recognition particle), anti-CADM-140, anti-SAE, anti-p155/140.
+- **Các thăm dò khác**: X-quang phổi, CT-scan ngực, đo chức năng hô hấp, soi phế quản lấy dịch phế quản làm xét nghiệm, điện tâm đồ, siêu âm tim…
+
+### 3.3. Chẩn đoán xác định
+
+Có hai tiêu chuẩn chẩn đoán, trong đó tiêu chuẩn Tanimoto và cộng sự năm 1995 cụ thể và chi tiết hơn.
+
+- **Tiêu chuẩn chẩn đoán của Tanimoto và cộng sự năm 1995**: Tiêu chuẩn này có độ nhạy 98,9% và độ đặc hiệu 95,2%.
+  - **Chẩn đoán xác định viêm đa cơ**: Khi có ít nhất 4 trong 8 triệu chứng sau:
+    - Đau cơ do viêm cơ gây nên hoặc đau tự phát.
+    - Yếu cơ vùng gốc chi.
+    - Tăng CK (creatinine kinase) trong huyết thanh hoặc aldolase.
+    - Điện cơ có các biến đổi nguồn gốc cơ: Thời gian ngắn, đơn vị vận động nhiều pha với các rung giật tự phát.
+    - Các bằng chứng của viêm cơ khi sinh thiết cơ: Thâm nhiễm cơ vân kèm thoái hóa và hoại tử sợi cơ (thực bào hoạt động, nhân trung tâm hoặc có các bằng chứng hoạt động).
+    - Viêm khớp (không có hình ảnh bào mòn trên X-quang, không có hủy khớp) hoặc đau khớp.
+    - Các triệu chứng toàn thân: Sốt > 37°C, CRP tăng hoặc tốc độ máu lắng tăng > 20 mm/h bằng phương pháp Westergren.
+    - Kháng thể kháng Jo-1 dương tính.
+  - **Chẩn đoán xác định viêm da cơ**: Khi có ít nhất 4 trong 8 triệu chứng về cơ nêu trên và có ít nhất 1 trong 3 triệu chứng về da như sau:
+    - Ban tím sẫm quanh hốc mắt: Hồng ban xuất huyết trên mí mắt.
+    - **Sẩn Gottron**: Ban xuất huyết sừng hóa, ban teo hoặc mảng đỏ hoặc tím ở mặt duỗi của ngón tay.
+    - Hồng ban ở mặt duỗi của các khớp ngoại vi lớn (khuỷu, gối).
+
+- **Tiêu chuẩn chẩn đoán bệnh viêm da cơ / viêm đa cơ của Bohan và Peter năm 1975**, gồm 5 yếu tố:
+  1. Yếu cơ vùng gốc chi đối xứng hai bên.
+  2. Sinh thiết cơ có bằng chứng của viêm cơ.
+  3. Men cơ trong huyết thanh tăng.
+  4. Điện cơ có dấu hiệu của viêm cơ.
+  5. Tổn thương ở da điển hình của viêm da cơ: Ban Gottron, ban màu đỏ hoặc tím ở vùng mi mắt, ban đỏ hình chữ V ở cổ và ngực, bàn tay thợ cơ khí.
+
+- **Chẩn đoán xác định viêm đa cơ**:
+  - *Chẩn đoán chắc chắn viêm đa cơ*: Khi có tất cả 4 yếu tố đầu tiên.
+  - *Chẩn đoán gần như chắc chắn viêm đa cơ*: Khi có 3/4 yếu tố đầu tiên.
+  - *Chẩn đoán có thể viêm đa cơ*: Khi có 2/4 yếu tố đầu tiên.
+
+- **Chẩn đoán xác định viêm da cơ**:
+  - *Chẩn đoán chắc chắn viêm da cơ*: Khi có yếu tố về da (yếu tố 5) kết hợp với 3/4 yếu tố đầu tiên.
+  - *Chẩn đoán gần như chắc chắn viêm da cơ*: Khi có yếu tố về da (yếu tố 5) kết hợp với 2/4 yếu tố đầu tiên.
+  - *Chẩn đoán có thể viêm da cơ*: Khi có yếu tố về da (yếu tố 5) kết hợp với 1/4 yếu tố đầu tiên.
+
+### 3.4. Chẩn đoán phân biệt
+
+Viêm khớp dạng thấp, lupus ban đỏ hệ thống, xơ cứng bì, bệnh nhược cơ, bệnh Basedow, yếu cơ do nguyên nhân thần kinh.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc điều trị
+
+- Kết hợp điều trị thuốc và phục hồi chức năng cơ.
+- Kết hợp corticoid và các thuốc điều trị cơ bản: methotrexat hoặc azathioprin trong các thể thông thường hoặc cyclophosphamid trong các thể kháng điều trị hoặc có tổn thương phổi kẽ. Kết hợp truyền tĩnh mạch immunoglobulin có hiệu quả tuy giá thành cao.
+- Cần phòng tránh các biến chứng do thuốc.
+- Cần khảo sát các ung thư kết hợp, đặc biệt ung thư cơ quan sinh dục ở nữ.
+
+### 4.2. Điều trị thuốc
+
+- **Corticoid**: Là thuốc điều trị chính trong bệnh viêm da cơ / viêm đa cơ, thường kết hợp với các thuốc điều trị cơ bản (DMARD).
+  - *Corticoid đường uống*: Với liều khởi đầu 1 - 2 mg/kg/ngày, dùng 1 lần/ngày hoặc chia 3 - 4 lần/ngày nếu dùng 1 lần/ngày không kiểm soát được bệnh. Duy trì liều cao đến khi các triệu chứng lâm sàng thuyên giảm và nồng độ enzym CK trong huyết thanh giảm trở về bình thường, trung bình khoảng 6 - 8 tuần. Sau đó giảm liều dần, liều duy trì trung bình 5 - 10 mg/ngày.
+  - *Corticoid truyền tĩnh mạch liều cao - Bolus methylprednisolone*: Truyền mỗi ngày 500 - 1.000 mg x 3 ngày. Chỉ định khi bệnh nhân bị bệnh nặng, tiến triển cấp tính, có tổn thương tim mạch hoặc viêm phổi kẽ nặng.
+- **Các thuốc điều trị cơ bản (DMARD)**: Thường kết hợp với glucocorticoid. Nhóm này bao gồm: methotrexat, azathioprin, cyclophosphamid.
+  - **Methotrexat**:
+    - *Chỉ định*: Các thể thông thường.
+    - *Liều lượng*: Dùng đường uống, liều 7,5 - 15 mg mỗi tuần, có thể tăng liều lên đến 20 mg mỗi tuần tùy theo đáp ứng của bệnh nhân.
+    - *Tác dụng không mong muốn*: Ít tác dụng không mong muốn (suy tế bào gan, suy tủy xương, viêm phổi). Hàng tháng cần theo dõi tế bào máu ngoại vi và enzym gan khi dùng thuốc kéo dài.
+  - **Azathioprin**:
+    - *Chỉ định*: Khi không đáp ứng với methotrexat.
+    - *Liều lượng*: Dùng đường uống với liều khởi đầu 1,5 - 2 mg/kg/ngày, liều trung bình 150 - 200 mg/ngày. Giảm liều khi các triệu chứng lâm sàng thuyên giảm.
+  - **Cyclophosphamid**:
+    - *Chỉ định*: Trong các thể kháng điều trị với methotrexat hoặc azathioprin hoặc trong trường hợp có tổn thương phổi kẽ.
+    - *Liều lượng*: Thường dùng liều cao truyền tĩnh mạch (bolus cyclophosphamid): mỗi tháng một lần truyền tĩnh mạch liều 500 - 1.000 mg; trong 6 tháng liên tục (xem thêm phần phụ lục). Tiếp theo, có thể duy trì 3 tháng một liều như trên. Có thể dùng đường uống với liều 1 - 2 mg/kg/ngày, liều tối đa 150 mg/ngày song nguy cơ ung thư bàng quang tăng.
+    - *Tác dụng không mong muốn*: Viêm bàng quang chảy máu, do đó cần phối hợp với sodium 2-sulfanylethanesulfonate với liều tương đương với cyclophosphamid (xem thêm phần phụ lục). Ngoài ra có thể gặp suy tế bào gan, suy tủy xương... Rụng tóc, cảm giác nóng bừng ở đầu trong thời gian truyền (nên chườm đá lạnh lên đầu trong thời gian truyền để hạn chế tác dụng này).
+
+### 4.3. Các biện pháp khác
+
+- **Truyền tĩnh mạch immunoglobulin (IVIG)**:
+  - *Chỉ định*: Điều trị hỗ trợ trong trường hợp viêm da cơ / viêm đa cơ nặng, không đáp ứng với các phác đồ thông thường. Kết hợp với các điều trị nêu trên.
+  - *Liều*: 1 - 2 g/kg, chia truyền từ 2 - 5 ngày mỗi 4 tuần. Ngừng truyền khi các triệu chứng được cải thiện.
+- **Lọc huyết tương (Plasmapheresis)**:
+  - *Chỉ định*: Điều trị hỗ trợ trong trường hợp viêm da cơ / viêm đa cơ nặng. Kết hợp với các điều trị nêu trên.
+
+## 5. TIẾN TRIỂN, TIÊN LƯỢNG
+
+- Tiên lượng phụ thuộc vào mức độ nặng của tổn thương cơ, tổn thương tim phổi, tổn thương ác tính của cơ quan kết hợp và các rối loạn miễn dịch. Yếu cơ tuy có hồi phục, song thường tồn tại lâu dài. Tổn thương phổi về chức năng thông khí có cải thiện tuy nhiên các triệu chứng về lâm sàng (tiếng ran tại phổi) hoặc trên X-quang, CT phổi thường tồn tại lâu dài.
+- Phần lớn các bệnh nhân viêm da cơ / viêm đa cơ có những đợt bệnh tiến triển nặng lên xen kẽ với những đợt bệnh thuyên giảm. Ở một số ít bệnh nhân bệnh có thể tiến triển liên tục đòi hỏi phải điều trị bằng glucocorticoid kéo dài kết hợp với các thuốc ức chế miễn dịch. Khả năng sống trên 5 năm của các bệnh nhân sau khi được chẩn đoán bệnh là hơn 90% (trừ trường hợp bệnh kết hợp với ung thư).
+
+## 6. THEO DÕI, QUẢN LÝ
+
+- **Các thông số cần theo dõi**: Cơ lực và trương lực cơ, CK, SGOT, SGPT, CRP (protein C phản ứng), creatinin, tế bào máu ngoại vi, tốc độ máu lắng. Ngoài ra cần theo dõi các tác dụng không mong muốn của corticoid và các thuốc ức chế miễn dịch: xét nghiệm điện giải đồ, calci máu, đường máu... phát hiện tình trạng nhiễm trùng, kiểm tra huyết áp...
+- **Các bệnh nhân trên 50 tuổi trở lên** cần được tầm soát ung thư hàng năm.
+
+### TÀI LIỆU THAM KHẢO
+
+1. Allen, Chester V. Harsha G, Zoe E. B, Neil J. M (2009), “Myositis-specific autoantibodies: their clinical and pathogenic significance in disease expression”. *Rheumatology*, Vol 48, 607-612.
+2. Nguyễn Ngọc Lan (2010), “Viêm đa cơ và viêm da cơ”, *Bệnh học cơ xương khớp nội khoa*, Nhà xuất bản giáo dục Việt Nam, 109-115.
+3. Maryam F, Jenny V, Mariamme B (2008), “Interstitial lung disease in polymyositis and dermatomyositis: longitudinal evaluation by pulmonary function and radiology”, *Arthritis Rheum*, Vol 59(5), 677-685.
+4. Shabina M.S, Elizabeth O (2008), “Reliability and validity of the myositis disease activity assessment tool”, *Arthritis Rheum*, Vol 58(11), 3593-3599.
+5. Yamasaki Y, Yamada H, Yamasaki M, Ohkubo M (2007), “Intravenous Cyclophosphamide therapy for progressive interstitial pneumonia in patients with polymyositis/dermatomyositis”, *Rheumatology*, Vol 46, 124-130.
+
+# BỆNH VIÊM MÀNG HOẠT DỊCH KHỚP GỐI MẠN TÍNH KHÔNG ĐẶC HIỆU
+**(Unspecified knee synovitis)**
+
+## 1. ĐẠI CƯƠNG
+
+Viêm khớp không đặc hiệu được định nghĩa là bất kỳ loại viêm khớp nào có tiềm năng trở thành viêm khớp dai dẳng mà không đáp ứng đủ tiêu chuẩn để chẩn đoán vào một loại viêm khớp đặc hiệu nào đó. Viêm màng hoạt dịch khớp gối mạn tính không đặc hiệu là thể bệnh viêm khớp không đặc hiệu thường gặp trên lâm sàng, biểu hiện bởi tình trạng sưng đau một hay hai khớp gối kéo dài, tái phát nhiều lần song không tìm thấy nguyên nhân. Đây có thể là thể bệnh viêm mạn tính một hay hai khớp gối dai dẳng hoặc là triệu chứng đầu tiên của một bệnh toàn thể, trong đó giai đoạn sau biểu hiện đầy đủ các triệu chứng bệnh (viêm khớp dạng thấp, viêm cột sống dính khớp, viêm khớp vảy nến, lupus ban đỏ hệ thống, bệnh gút,...).
+
+## 2. CHẨN ĐOÁN
+
+### 2.1. Chẩn đoán xác định
+
+- **Lâm sàng:**
+  - **Triệu chứng tại chỗ:** Có thể viêm một hoặc hai khớp gối. Biểu hiện lâm sàng chủ yếu: sưng, đau khớp gối; ít có triệu chứng nóng, đỏ rõ rệt. Đa số các trường hợp có tràn dịch khớp gối kèm theo.
+  - **Triệu chứng toàn thân:** Ít thay đổi.
   
+- **Cận lâm sàng:**
+  - **Xét nghiệm máu ngoại vi:** Thường có tình trạng viêm rõ: tốc độ máu lắng tăng, protein C phản ứng (CRP) tăng.
+  - **Yếu tố dạng thấp (RF), anti-CCP:** Có thể âm tính hoặc dương tính. Trường hợp bệnh nhân có anti-CCP dương tính dễ tiến triển thành viêm khớp dạng thấp.
+  - **HLA-B27:** Có thể âm tính hoặc dương tính. Bệnh nhân có HLA-B27 dương tính dễ tiến triển thành viêm cột sống dính khớp.
+  - **Xét nghiệm dịch khớp:**
+    - **Tế bào học dịch khớp:** Biểu hiện viêm màng hoạt dịch mạn tính không đặc hiệu như có rải rác tế bào viêm đơn nhân, bạch cầu trung tính, không thấy tình trạng gợi ý viêm nhiễm khuẩn hay lao.
+    - **Nuôi cấy vi khuẩn:** Âm tính.
+    - **Nhuộm soi tìm AFB, PCR-BK:** Âm tính.
+    - **Sinh thiết màng hoạt dịch:** Qua nội soi khớp gối, dưới hướng dẫn của siêu âm hay sinh thiết mù (hiện ít làm) lấy tổ chức màng hoạt dịch khớp làm mô bệnh học. Kết quả: viêm màng hoạt dịch mạn tính không đặc hiệu, không có những hình ảnh đặc hiệu gợi ý tới viêm mủ, lao, u màng hoạt dịch, viêm màng hoạt dịch lông nốt sắc tố v.v...
+  - **Chụp X-quang khớp gối:** Thông thường không thấy tổn thương trên X-quang trong giai đoạn sớm, hoặc hình ảnh tổn thương bào mòn (các bệnh nhân này có thể tiến triển thành viêm khớp dạng thấp).
+  - **Chụp cộng hưởng từ khớp gối:** Cho biết tình trạng viêm dày màng hoạt dịch, tràn dịch khớp gối, ít có giá trị trong chẩn đoán bệnh.
+  - **Siêu âm khớp gối:** Thường gặp dày màng hoạt dịch, tràn dịch khớp gối.
+  - **Mantoux:** Âm tính.
+  - **X-quang phổi:** Bình thường.
 
-         H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị   CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  (Ban hành kèm theo Quy ế t  đị nh s ố  361/Q Đ -BYT   Ngày 25 tháng 01 n ă m 2014 c ủ a B ộ  tr ưở ng B ộ  Y t ế )   
+> [!NOTE]
+> **Lưu ý:** Chẩn đoán xác định bệnh khi đã loại trừ các bệnh lý viêm khớp đặc hiệu khác.
 
-                                     NHÀ XU Ấ T B Ả N Y H Ọ C  HÀ N Ộ I – 2016    1   CH Ủ  BIÊN  PGS.TS. Nguy ễ n Th ị  Xuyên  ĐỒ NG CH Ủ  BIÊN  PGS.TS. L ươ ng Ng ọ c Khuê  PGS.TS. Nguy ễ n Qu ố c Anh  PGS.TS. Nguy ễ n Th ị  Ng ọ c Lan  PGS.TS. Nguy ễ n Mai H ồ ng  THAM GIA BIÊN SO Ạ N  GS.TS. Tr ầ n Ng ọ c Ân       PGS.TS. Nguy ễ n Th ị  Ng ọ c Lan  GS.TS. Hoàng Khánh       PGS.TS. Lê Anh Th ư   PGS.TS. Nguy ễ n Th ị  Lan Anh     PGS.TS. Nguy ễ n Mai H ồ ng   PGS.TS. Võ Tam        PGS.TS. Nguy ễ n Th ị  Thanh Th ủ y  TS.  Đặ ng H ồ ng Hoa        PGS.TS. Nguy ễ n V ĩ nh Ng ọ c   TS. Nguy ễ n H ữ u Chung          PGS.TS. Tr ầ n Th ị  Minh Hoa  TS.BSCKII. Mai Th ị  Minh Tâm    TS. Nguy ễ n  Đ ình Khoa  TS. Tr ầ n Th ị  Tô Châu       TS. Nguy ễ n Ng ọ c Châu  BSCKII. Nguy ễ n Th ị  L ự c       TS. Nguy ễ n Th ị  Ph ươ ng Th ủ y  ThS. Bùi H ả i Bình        BSCKII.  Đ ào Th ị  Vân Khánh  ThS. Hoàng V ă n D ũ ng       BSCKII. Thái Th ị  H ồ ng Ánh  ThS. Lê Th ị  Li ễ u        ThS. H ồ  V ă n L ộ c  ThS. Nguy ễ n Hoàng Thanh Vân    ThS. Hu ỳ nh V ă n Khoa  ThS. Nguy ễ n Th ị  Nga       ThS. L ư u V ă n Ái  ThS. Phùng Anh  Đứ c       ThS. Tr ầ n V ă n  Đứ c  BSCKII. Hu ỳ nh Phan Phúc Linh    BSCKI. Lê Th ế  D ũ ng  BAN TH Ư  KÝ  ThS. Ph ạ m Hoài Thu        ThS. Nguy ễ n Th ị  Nga  ThS. Ph ạ m Th ị  Minh Nhâm      ThS. Nguy ễ n Th ị  Hi ề n  ThS. Nguy ễ n Th ị  Nh ư  Hoa                               ThS. Nguy ễ n  Đứ c Ti ế n  ThS. Ngô Th ị  Bích Hà        ThS. Tr ươ ng Lê Vân Ng ọ c      2  
+### 2.2. Chẩn đoán phân biệt
 
-B Ộ  Y T Ế   C Ộ NG HÒA XÃ H Ộ I CH Ủ  NGH Ĩ A VI Ệ T NAM  S ố : 361/Q Đ -BYT  Độ c l ậ p - T ự  do - H ạ nh phúc    Hà N ộ i, ngày 25 tháng 01 n ă m 2014     QUY Ế T  ĐỊ NH   V ề  vi ệ c ban hành tài li ệ u chuyên môn  “H ướ ng d ẫ n ch ẩ n  đ oán và  đ i ề u tr ị  các b ệ nh c ơ  x ươ ng kh ớ p”     B Ộ  TR ƯỞ NG B Ộ  Y T Ế     C ă n c ứ  Lu ậ t khám b ệ nh, ch ữ a b ệ nh n ă m 2009;  C ă n c ứ  Ngh ị   đị nh s ố  63/2012/N Đ -CP ngày 31/8/2012 c ủ a Chính Ph ủ  quy  đị nh  ch ứ c n ă ng, nhi ệ m v ụ , quy ề n h ạ n và c ơ  c ấ u t ổ  ch ứ c c ủ a B ộ  Y t ế ;  Theo  đề  ngh ị  c ủ a C ụ c tr ưở ng C ụ c Qu ả n lý Khám, ch ữ a b ệ nh,      QUY Ế T  ĐỊ NH:    Đ i ề u 1 . Ban hành kèm theo Quy ế t  đị nh này tài li ệ u chuyên môn “H ướ ng d ẫ n ch ẩ n  đ oán và  đ i ề u tr ị  các b ệ nh c ơ  x ươ ng kh ớ p”.  Đ i ề u 2 . Tài li ệ u “H ướ ng d ẫ n ch ẩ n  đ oán và  đ i ề u tr ị  các b ệ nh c ơ  x ươ ng kh ớ p”   ban  hành kèm theo Quy ế t  đị nh này  đượ c áp d ụ ng t ạ i các c ơ  s ở  khám b ệ nh, ch ữ a b ệ nh.   C ă n c ứ  vào tài li ệ u này và  đ i ề u ki ệ n c ụ  th ể  c ủ a  đơ n v ị , Giám  đố c c ơ  s ở  khám b ệ nh,  ch ữ a b ệ nh xây d ự ng và ban hành tài li ệ u h ướ ng d ẫ n ch ẩ n  đ oán và  đ i ề u tr ị  các b ệ nh c ơ   x ươ ng kh ớ p phù h ợ p  để  th ự c hi ệ n t ạ i  đơ n v ị .  Đ i ề u 3.  Quy ế t  đị nh này có hi ệ u l ự c k ể  t ừ  ngày ký ban hành.    Đ i ề u 4.  Các ông, bà: Chánh V ă n phòng B ộ , Chánh Thanh tra B ộ , C ụ c tr ưở ng C ụ c  Qu ả n lý Khám, ch ữ a b ệ nh, C ụ c tr ưở ng và V ụ  tr ưở ng các C ụ c, V ụ  thu ộ c B ộ  Y t ế , Giám  đố c các b ệ nh vi ệ n, vi ệ n có gi ườ ng  tr ự c thu ộ c B ộ  Y t ế , Giám  đố c S ở  Y t ế  các t ỉ nh, thành  ph ố  tr ự c thu ộ c trung  ươ ng, Th ủ  tr ưở ng Y t ế  các B ộ , Ngành và Th ủ  tr ưở ng các  đơ n v ị  có  liên quan ch ị u trách nhi ệ m thi hành Quy ế t  đị nh này./.    N ơ i nh ậ n:  KT. B Ộ  TR ƯỞ NG   - Nh ư   Đ i ề u 4;  - B ộ  tr ưở ng B ộ  Y t ế  ( để  b/c);   TH Ứ  TR ƯỞ NG  - Các Th ứ  tr ưở ng BYT;  - B ả o hi ể m Xã h ộ i Vi ệ t Nam ( để  ph ố i h ợ p);                       ( đ ã ký)  - C ổ ng thông tin  đ i ệ n t ử  BYT;   - Website C ụ c KCB;    - L ư u VT, KCB.   Nguy ễ n Th ị  Xuyên      3  
+- Nhiễm khuẩn: Vi khuẩn thông thường.
+- Lao khớp.
+- Thoái hóa khớp.
+- Chấn thương.
+- Các bệnh viêm khớp vi tinh thể.
+- Viêm màng hoạt dịch thể lông nốt sắc tố.
+- Viêm khớp dạng thấp thể một khớp.
+- Viêm cột sống dính khớp thể viêm khớp ngoại biên.
 
-4  
+## 3. ĐIỀU TRỊ
 
-L Ờ I GI Ớ I THI Ệ U    Trong th ờ i gian qua, d ướ i s ự  lãnh  đạ o c ủ a  Đả ng, Nhà n ướ c và s ự  quan tâm, lãnh  đạ o, ch ỉ   đạ o tích c ự c c ủ a lãnh  đạ o B ộ  Y t ế  cùng v ớ i s ự  quan tâm ch ă m sóc c ủ a các c ấ p  chính quy ề n, v ớ i s ự  n ỗ  l ự c v ươ n lên trên m ọ i gian khó c ủ a các giáo s ư , bác s ĩ , d ượ c s ĩ   và toàn th ể  cán b ộ , công ch ứ c, viên ch ứ c trong toàn ngành, ngành Y t ế  Vi ệ t Nam  đ ã  giành  đượ c nhi ề u thành t ự u to l ớ n trong công tác phòng b ệ nh, khám ch ữ a b ệ nh và ch ă m  sóc s ứ c kh ỏ e nhân dân.      Cùng v ớ i m ạ ng l ướ i y t ế  c ơ  s ở   đượ c c ủ ng c ố  và t ừ ng b ướ c hoàn thi ệ n, h ệ  th ố ng  khám, ch ữ a b ệ nh trong toàn qu ố c c ũ ng  đượ c c ả i t ạ o và nâng c ấ p  ở  t ấ t c ả  các tuy ế n t ừ   trung  ươ ng  đế n  đị a ph ươ ng. Nhi ề u k ỹ  thu ậ t y h ọ c hi ệ n  đạ i l ầ n  đầ u tiên tri ể n khai thành  công  ở  Vi ệ t Nam nh ư  ch ụ p và nong  độ ng m ạ ch vành tim, th ụ  tinh trong  ố ng nghi ệ m,  ghép th ậ n,…  đ ã góp ph ầ n nâng cao ch ấ t l ượ ng khám, ch ữ a b ệ nh cho nhân dân và thúc  đẩ y n ề n y h ọ c Vi ệ t Nam phát tri ể n.   Ch ấ t l ượ ng khám, ch ữ a b ệ nh còn ph ụ  thu ộ c nhi ề u vào n ă ng l ự c ch ẩ n  đ oán và  đ i ề u  tr ị  c ủ a các tuy ế n y t ế  c ũ ng nh ư  c ủ a các th ầ y thu ố c. Vì v ậ y ngày 05 tháng 02 n ă m 2010,  B ộ  tr ưở ng B ộ  Y t ế   đ ã ra quy ế t  đị nh s ố  453/Q Đ -BYT v ề  vi ệ c thành l ậ p Ban Ch ỉ   đạ o biên  so ạ n H ướ ng d ẫ n  đ i ề u tr ị , quy ế t  đị nh s ố  2387/Q Đ -BYT ngày 05 tháng 5 n ă m 2010 v ề   vi ệ c thành l ậ p Ban biên so ạ n H ướ ng d ẫ n  đ i ề u tr ị .   Trong  đ ó, Ti ể u ban biên so ạ n h ướ ng d ẫ n ch ẩ n  đ oán và  đ i ề u tr ị cá c b ệ nh v ề  c ơ   x ươ ng kh ớ p  đượ c thành l ậ p theo  Quy ế t  đị nh s ố  4817/Q Đ -BYT ngày 10 tháng 12 n ă m  2010 g ồ m các chuyên gia y  họ c   đầ u ngành trong l ĩ nh v ự c c ơ  x ươ ng kh ớ p c ủ a c ả  ba  mi ề n B ắ c, Trung, Nam.   Tài li ệ u “H ướ ng d ẫ n ch ẩ n  đ oán và  đ i ề u tr ị cá c b ệ nh c ơ  x ươ ng kh ớ p”  đượ c xây  d ự ng v ớ i s ự  n ỗ  l ự c cao c ủ a các nhà khoa h ọ c  đầ u ngành v ề  c ơ  x ươ ng kh ớ p c ủ a Vi ệ t  Nam. Tài li ệ u bao g ồ m 39 bài h ướ ng d ẫ n m ộ t s ố  b ệ nh v ề  c ơ  x ươ ng kh ớ p. Trong  đ ó, t ậ p  trung vào h ướ ng d ẫ n th ự c hành ch ẩ n  đ oán và  đ i ề u tr ị , vì v ậ y s ẽ  r ấ t h ữ u ích cho các th ầ y  thu ố c  đ a khoa, chuyên khoa trong th ự c hành lâm sàng hàng ngày.   Chúng tôi trân tr ọ ng c ả m  ơ n s ự  ch ỉ   đạ o sát sao c ủ a PGS.TS. Nguy ễ n Th ị  Kim  Ti ế n, B ộ  tr ưở ng B ộ  Y t ế  và các thành viên ban biên so ạ n  đ ã r ấ t c ố  g ắ ng, dành nhi ề u th ờ i  gian quý báu  để  biên so ạ n cu ố n sách này.  Đ ây là l ầ n xu ấ t b ả n  đầ u tiên c ủ a cu ố n sách,  ch ắ c ch ắ n v ẫ n còn có thi ế u sót, chúng tôi r ấ t mong nh ậ n  đượ c s ự   đ óng góp t ừ  Quý  độ c  gi ả  và  đồ ng nghi ệ p  để  cu ố n sách ngày m ộ t hoàn thi ệ n.                            Thay m ặ t ban biên so ạ n                               PGS.TS. Nguy ễ n Mai H ồ ng    5  
+### 3.1. Nguyên tắc chung
+Điều trị giai đoạn đầu là điều trị triệu chứng bằng các thuốc giảm đau, chống viêm nhóm không steroid (NSAIDs). Trường hợp diễn biến kéo dài (trên 6 tuần) cần kết hợp thêm thuốc điều trị cơ bản như trong điều trị bệnh viêm khớp dạng thấp. Các thuốc điều trị triệu chứng có thể giảm liều hoặc ngừng hẳn. Các thuốc điều trị cơ bản thường dùng sớm, kéo dài.
 
-6  
+### 3.2. Điều trị cụ thể
 
-M Ụ C L Ụ C    L ờ i gi ớ i thi ệ u  5 Các ch ữ  vi ế t t ắ t   9 B ệ nh viêm kh ớ p d ạ ng th ấ p   11 B ệ nh Lupus ban  đỏ  h ệ  th ố ng   18 B ệ nh x ơ  c ứ ng bì toàn th ể    24 B ệ nh Still  ở  ng ườ i l ớ n   30 Viêm da c ơ  và viêm  đ a c ơ   35 B ệ nh viêm màng ho ạ t d ị ch kh ớ p g ố i m ạ n tính không  đặ c hi ệ u   42 Viêm c ộ t s ố ng dính kh ớ p  48 B ệ nh viêm kh ớ p ph ả n  ứ ng   54 B ệ nh viêm kh ớ p v ả y n ế n   59 B ệ nh viêm kh ớ p thi ế u niên t ự  phát th ể   đ a kh ớ p có y ế u t ố  d ạ ng th ấ p d ươ ng  65 tính và âm tính RF (+) và RF (-)   B ệ nh viêm kh ớ p thi ế u niên t ự  phát th ể  viêm c ộ t s ố ng dính kh ớ p   69 B ệ nh viêm kh ớ p thi ế u niên t ự  phát th ể  h ệ  th ố ng   73 Viêm kh ớ p thi ế u niên t ự  phát th ể  viêm kh ớ p v ả y n ế n   80 Viêm màng ho ạ t d ị ch kh ớ p háng thoáng qua   86 B ệ nh gút   89 Viêm kh ớ p nhi ễ m khu ẩ n   95 Viêm c ơ , áp xe c ơ  nhi ễ m khu ẩ n   99 Viêm x ươ ng t ủ y nhi ễ m khu ẩ n  103 Ch ẩ n  đ oán -  đ i ề u tr ị  nhi ễ m khu ẩ n da và mô m ề m   106 H ồ ng ban nút   111 Lo ạ n d ưỡ ng c ơ  ti ế n tri ể n   114 Ch ẩ n  đ oán và  đ i ề u tr ị  nh ượ c c ơ    118 Ch ẩ n  đ oán và  đ i ề u tr ị  thoái hóa kh ớ p g ố i   124 Ch ẩ n  đ oán và  đ i ề u tr ị  u s ụ n màng ho ạ t d ị ch  128 B ệ nh thoái hóa c ộ t s ố ng th ắ t l ư ng    131 H ộ i ch ứ ng  đ au th ắ t l ư ng   135   7  
+- **Điều trị triệu chứng:**
+  - **Thuốc chống viêm không steroid:**
+    - **Chỉ định:** Giai đoạn khớp viêm mức độ vừa phải, hoặc sau điều trị bằng thuốc corticoid.
+    - **Lưu ý:** Tránh tác dụng phụ của thuốc.
+    - **Cách dùng:** Xem ở phần phụ lục cách sử dụng thuốc chống viêm không steroid.
+  - **Glucocorticoid:**
+    - **Liệu pháp glucocorticoid đường toàn thân ngắn ngày:** Chỉ định trong trường hợp bệnh nhân không đáp ứng với thuốc chống viêm không steroid và trường hợp viêm nặng.
+    - **Liều lượng và cách dùng:** Trường hợp viêm nặng có thể dùng mini bolus: truyền tĩnh mạch 80 - 125 mg methylprednisolon pha trong 250 ml muối sinh lý trong 3 - 5 ngày. Sau liều này duy trì uống 1,5 - 2 mg/kg/24h tính theo prednisolon. Giảm dần 10%/tuần. Thường sau 1 - 2 tháng có thể thay bằng thuốc chống viêm không steroid.
+    - **Glucocorticoid tại chỗ:** Trong trường hợp viêm kéo dài, tiêm khớp gối bằng methylprednisolon acetat 40 mg/1 ml, betamethasone dipropionate 4 mg/1 ml. Tiêm tại phòng vô khuẩn do bác sĩ chuyên khoa cơ xương khớp đảm nhiệm. Mỗi liệu trình tiêm tại một khớp gối: 1 đến 2 mũi tiêm, mỗi mũi tiêm cách nhau 7 - 10 ngày. Sau 6 tháng mới được tiêm lại nếu có chỉ định.
+  - **Các thuốc giảm đau:** Theo phác đồ giảm đau của WHO.
 
-Đ au th ầ n kinh t ọ a   140 B ệ nh thoái hóa c ộ t s ố ng c ổ    145 H ộ i ch ứ ng c ổ  - vai - cánh tay  149 Ch ẩ n  đ oán và  đ i ề u tr ị  viêm quanh kh ớ p vai   154 Viêm gân vùng m ỏ m trâm quay c ổ  tay   159 Viêm gân g ấ p ngón tay (ngón tay lò xo)  163 Ch ẩ n  đ oán và  đ i ề u tr ị  viêm l ồ i c ầ u ngoài x ươ ng cánh tay   166 B ệ nh loãng x ươ ng   169 Ch ẩ n  đ oán và  đ i ề u tr ị  ho ạ i t ử  vô m ạ ch ch ỏ m x ươ ng  đ ùi   175 B ệ nh u t ế  bào kh ổ ng l ồ    179 Ch ẩ n  đ oán và  đ i ề u tr ị  u x ươ ng d ạ ng x ươ ng   183 Lo ạ n s ả n x ơ  x ươ ng   187 Ung th ư  di c ă n x ươ ng   192 Ph ụ  l ụ c:  H ướ ng d ẫ n s ử  d ụ ng m ộ t s ố  thu ố c chính trong  đ i ề u tr ị  các b ệ nh kh ớ p   197 H ướ ng d ẫ n s ử  d ụ ng thu ố c ch ố ng viêm không steroid  197 H ướ ng d ẫ n s ử  d ụ ng thu ố c gi ả m  đ au  202 H ướ ng d ẫ n s ử  d ụ ng thu ố c nhóm glucocorticoid  205 H ướ ng d ẫ n s ử  d ụ ng các thu ố c (DMARDs)  207 Quy trình truy ề n cyclophosphamid  211 Quy trình truy ề n acid zoledronic  213 Các tiêu chu ẩ n  đ ánh giá m ứ c  độ  ho ạ t  độ ng c ủ a b ệ nh viêm kh ớ p  215 d ạ ng th ấ p  Các tiêu chu ẩ n  đ ánh giá m ứ c  độ  ho ạ t  độ ng c ủ a b ệ nh viêm c ộ t s ố ng  217 dính kh ớ p                  8  
+- **Điều trị cơ bản:**
+  Dùng một hoặc phối hợp hai, ba thuốc trong các nhóm sau (tùy mức độ viêm, đáp ứng với điều trị ban đầu):
+  - **Thuốc chống sốt rét tổng hợp:**
+    - **Liều lượng:** Hydroxychloroquine liều 200 - 400 mg/ngày hoặc chloroquine liều 250 mg/ngày.
+    - **Chống chỉ định:** Dị ứng với thuốc, người có suy giảm G6PD hoặc có tổn thương gan.
+    - **Tác dụng phụ:** Chán ăn, nôn, đau thượng vị, sạm da, khô da, viêm tổ chức lưới ở võng mạc. Cần kiểm tra thị lực, soi đáy mắt mỗi 6 tháng và không dùng quá 6 năm.
+  - **Methotrexate:**
+    - **Chỉ định:** Đây là thuốc được lựa chọn đầu tiên.
+    - **Chống chỉ định:** Hạ bạch cầu, suy gan thận, tổn thương phổi mạn tính. Các trường hợp ức chế tủy xương nói chung trong đó có tình trạng thiếu máu, giảm huyết sắc tố. Nếu đang điều trị methotrexate thấy giảm hồng cầu, bạch cầu, tiểu cầu thì cần điều chỉnh liều hoặc dừng thuốc tùy theo mức độ.
+    - **Tác dụng phụ:** Thường gặp loét miệng, nôn, buồn nôn. Có thể gây độc tế bào gan và tủy.
+    - **Liều dùng:** 10 - 20 mg/tuần, tiêm bắp hoặc uống. Thường khởi đầu bằng liều 10 mg uống một lần vào một ngày nhất định trong tuần. Thuốc có hiệu quả sau 1 - 2 tháng.
+    - **Hạn chế tác dụng phụ:** Để hạn chế tác dụng phụ của methotrexate, nên bổ sung acid folic với liều bằng liều methotrexate (viên 5 mg, dùng 2 viên/tuần chia 2 ngày trong tuần với liều 10 mg methotrexate/tuần).
+  - **Sulfasalazine:**
+    - **Chỉ định:** Dùng cho bệnh nhân có HLA-B27 dương tính (trường hợp bệnh có xu hướng chuyển thành viêm cột sống dính khớp).
+    - **Liều lượng:** Liều 1 - 2 gam/ngày.
+    - **Tác dụng phụ:** Rối loạn tiêu hóa, chán ăn, ban ngoài da, bỏng nước, loét miệng, protein niệu, hội chứng thận hư, viêm giáp trạng, giảm tiểu cầu, bạch cầu, huyết tán...
 
-CH Ữ  VI Ế T T Ắ T    ACR  American College of  Rheumatology  (H ộ i th ấ p kh ớ p h ọ c Hoa K ỳ )  Anti CCP  Anti - Cyclic Citrullinated Peptid  ASLO  Anti Streptolysin O  AVN  Avascular Necrosis (Ho ạ i t ử  vô m ạ ch)  BASDAI  Bath Ankylosing Spondylitis Disease Activity Index (Ch ỉ  s ố   đ ánh giá  m ứ c  độ  ho ạ t  độ ng c ủ a b ệ nh viêm c ộ t s ố ng dính kh ớ p)  BASFI   Bath Ankylosing spongdylitis Functional Index (Ch ỉ  s ố   đ ánh giá ch ứ c  n ă ng  ở  b ệ nh nhân viêm c ộ t s ố ng dính kh ớ p)  BC Đ NTT  B ạ ch c ầ u  đ a nhân trung tính  BMC  Bone Mass Content  (Kh ố i l ượ ng x ươ ng)  BMD   Bone Mineral Density (M ậ t  độ  x ươ ng)  CK  Creatinin kinase  COX-2  Nhóm thu ố c  ứ c ch ế   ư u th ế  (ch ọ n l ọ c) COX-2  CRP  C reaction protein  CSTL  C ộ t s ố ng th ắ t l ư ng  CT scan  Computer Tomography Scan  DMARDs  Disease-modifying antirheumatic drugs (Nhóm thu ố c ch ố ng th ấ p  kh ớ p tác d ụ ng ch ậ m)  DXA  Dual Energy Xray Absorptiometry  (Ph ươ ng pháp  đ o h ấ p ph ụ  tia X  n ă ng l ượ ng kép)  ESR  Erythrocyte sedimentation rate (T ố c  độ  máu l ắ ng)    9  
+## 4. TIẾN TRIỂN VÀ BIẾN CHỨNG
+Tiến triển của bệnh thành các bệnh như viêm khớp dạng thấp, viêm cột sống dính khớp, lupus... Hiện nay có thang điểm hướng dẫn của Hội Thấp khớp học châu Âu (EULAR 2009) hay thang điểm Leiden - dựa trên các tiêu chuẩn dịch tễ, lâm sàng, xét nghiệm để dự báo khả năng tiến triển của viêm màng hoạt dịch khớp mạn tính không đặc hiệu thành bệnh viêm khớp dạng thấp, từ đó có thể điều trị sớm cho bệnh nhân bằng các thuốc điều trị cơ bản.
 
-EULAR  European League Against Rheumatism (Liên  đ oàn ch ố ng th ấ p kh ớ p  Châu Âu)  G6PD  Men glucose-6 phosphate dehydrogenase  GCT  Giant cell tumor (U t ế  bào kh ổ ng l ồ )  GFR   Glomerular filtration rate (M ứ c l ọ c c ầ u th ậ n)  HLA  Human leukocyte antigen (Kháng nguyên b ạ ch c ầ u ng ườ i)  IL  Interleukin  ILAR   H ộ i th ấ p kh ớ p h ọ c th ế  gi ớ i  KVKS    Kháng viêm không steroid  NSAIDs  Non Steroid Anti Inflammation Drugs (Thu ố c ch ố ng viêm không  steroid)  MAS  Đạ i th ự c bào  MRI  C ộ ng h ưở ng t ừ   MTX  Methotrexate  NK  T ế  bào di ệ t t ự  nhiên  OI  B ấ t toàn t ạ o x ươ ng hay x ươ ng th ủ y tinh  RF  Rheumatoid factor (Y ế u t ố  d ạ ng th ấ p)  SERMs  Ch ấ t  đ i ề u hoà ch ọ n l ọ c th ụ  th ể  Estrogen  SLE   Systemic lupus erythematosus (Lupus ban  đỏ  h ệ  th ố ng)  T Đ ML  T ố c  độ  máu l ắ ng  TM  T ĩ nh m ạ ch  TNF α   Y ế u t ố  ho ạ i t ử  u alpha  VKDT   Viêm kh ớ p d ạ ng th ấ p  WHO   World Health Organization (T ổ  ch ứ c Y t ế  Th ế  gi ớ i)          10  
+## 5. PHÒNG BỆNH
+- Phát hiện sớm các tiến triển của bệnh thành các bệnh như viêm khớp dạng thấp, viêm cột sống dính khớp, lupus... cần hướng dẫn bệnh nhân điều trị thuốc thường xuyên và khám định kỳ hàng tháng theo dõi lâm sàng và xét nghiệm: tế bào máu ngoại vi, tốc độ máu lắng, CRP, chức năng gan, thận.
+- Phòng tránh biến dạng khớp: Cần hướng dẫn bệnh nhân tập luyện khớp gối, vận động hợp lý, hạn chế đi bộ.
 
-B Ệ NH VIÊM KH Ớ P D Ạ NG TH Ấ P  (Rheumatoid Arthritis) 
+# SƠ ĐỒ HƯỚNG DẪN CHẨN ĐOÁN VÀ ĐIỀU TRỊ VIÊM MÀNG HOẠT DỊCH KHỚP GỐI MẠN TÍNH KHÔNG ĐẶC HIỆU
 
+*Viêm màng hoạt dịch khớp gối mạn tính không đặc hiệu là thể bệnh viêm khớp không đặc hiệu thường gặp trên lâm sàng, biểu hiện bởi tình trạng sưng đau một hay hai khớp gối kéo dài, tái phát nhiều lần song không tìm thấy nguyên nhân. Đây có thể là thể bệnh viêm mạn tính một hay hai khớp gối dai dẳng hoặc là triệu chứng đầu tiên của một bệnh toàn thể, trong đó giai đoạn sau biểu hiện đầy đủ các triệu chứng bệnh (viêm khớp dạng thấp, viêm cột sống dính khớp, viêm khớp vảy nến, lupus ban đỏ hệ thống, bệnh gút, …).*
+
+### 1. Lâm sàng & Cận lâm sàng
+
+| Lâm sàng | Cận lâm sàng (chỉ định xét nghiệm) |
+| :--- | :--- |
+| **Triệu chứng tại chỗ:**<br>- Có thể viêm một hoặc hai khớp gối.<br>- Biểu hiện: sưng, đau, tràn dịch khớp gối.<br><br>**Triệu chứng toàn thân:**<br>- Ít thay đổi. | - **Bilan viêm:** Tốc độ máu lắng, CRP, tế bào máu ngoại vi.<br>- RF, anti-CCP.<br>- **Xét nghiệm dịch khớp:** Tế bào học, nhuộm soi tìm AFB, PCR-BK, nuôi cấy tìm vi khuẩn.<br>- Siêu âm khớp gối.<br>- X-quang khớp gối thẳng nghiêng (hai bên để so sánh).<br>- Nội soi, sinh thiết màng hoạt dịch.<br>- Trường hợp nghi ngờ bệnh lý cột sống huyết thanh âm tính: xét nghiệm HLA-B27. |
+
+### 2. Chẩn đoán phân biệt
+
+| Viêm màng hoạt dịch khớp gối đặc hiệu | Viêm màng hoạt dịch khớp gối mạn tính không đặc hiệu |
+| :--- | :--- |
+| - **Nhiễm khuẩn:** Khớp gối sưng, nóng, đỏ, đau rõ rệt; bệnh nhân có hội chứng nhiễm trùng; tế bào dịch khớp có bạch cầu đa nhân thoái hóa; cấy vi khuẩn có thể dương tính (âm tính không loại trừ nhiễm khuẩn).<br>- **Lao khớp:** Có thể có đường rò cạnh khớp gối; tế bào dịch khớp gối có thể thấy tế bào bán liên, chất hoại tử bã đậu; soi tươi dịch khớp tìm BK, PCR-BK dịch khớp có thể dương tính; X-quang khớp gối: hẹp khe khớp, hủy xương dưới sụn, ở giai đoạn muộn có hình ảnh calci hóa phần mềm quanh khớp; Mantoux dương tính; có thể có lao phổi, hạch... kết hợp.<br>- **Thoái hóa khớp:** Bilan viêm âm tính; X-quang có hình ảnh thoái hóa khớp.<br>- **Chấn thương:** Có tiền sử chấn thương; Bilan viêm âm tính; dịch khớp màu hồng, tế bào có nhiều hồng cầu.<br>- **Viêm khớp vi tinh thể:** Tế bào học dịch khớp tìm thấy vi tinh thể (urat, oxalat hoặc pyrophosphat).<br>- **Viêm màng hoạt dịch thể lông nốt sắc tố:** Dịch khớp màu hồng, dịch máu không đông; sinh thiết màng hoạt dịch có lắng đọng sắc tố hemosiderin.<br>- **Viêm khớp dạng thấp thể một khớp:** Hình ảnh nội soi và sinh thiết màng hoạt dịch cho thấy tổn thương đặc hiệu của viêm khớp dạng thấp. | - **Bilan viêm dương tính:** Tốc độ máu lắng tăng, CRP tăng, có thể có thiếu máu.<br>- **Xét nghiệm dịch khớp:** Tế bào học, nhuộm soi tìm AFB, PCR-BK âm tính, nuôi cấy âm tính.<br>- **Siêu âm:** Viêm màng hoạt dịch khớp gối.<br>- **X-quang:** Có thể không thấy bất thường.<br>- **Sinh thiết màng hoạt dịch:** Viêm màng hoạt dịch mạn tính không đặc hiệu.<br>- RF, anti-CCP, HLA-B27 có thể âm tính hoặc dương tính. |
+
+### 3. Phác đồ điều trị
+
+| Điều trị triệu chứng | Điều trị cơ bản |
+| :--- | :--- |
+| - **Thuốc chống viêm không steroid (NSAIDs)**<br>- **Hoặc corticoid:** Chỉ định khi thuốc chống viêm không steroid không đáp ứng, tránh dùng kéo dài.<br>- **Thuốc giảm đau:** Theo sơ đồ bậc thang của WHO (paracetamol, efferalgan codein, tramadol...).<br>- **Điều trị tại chỗ:** Tiêm corticoid nội khớp (tránh lạm dụng và tuân thủ vô trùng tuyệt đối). | Sử dụng một trong các phác đồ dưới đây. Thường chỉ định kéo dài nhiều tháng:<br>- Hydroxychloroquine + Methotrexate<br>- Salazopyrin + Methotrexate<br>- Hydroxychloroquine + Salazopyrin + Methotrexate |
+
+### 4. Khám định kỳ hàng tháng
+- Theo dõi lâm sàng và xét nghiệm: tế bào máu ngoại vi, tốc độ máu lắng, CRP, chức năng gan, thận… để điều chỉnh thuốc.
+- Khảo sát các triệu chứng nhằm phát hiện bệnh nguyên nhân (viêm khớp dạng thấp, viêm cột sống dính khớp...) mà viêm khớp gối chỉ là biểu hiện ban đầu. Trường hợp RF và/hoặc anti-CCP dương tính thường là viêm khớp dạng thấp; HLA-B27 dương tính thường là viêm cột sống dính khớp.
+
+## TÀI LIỆU THAM KHẢO
+
+1. Cardiel MH, J Clin Rheumatol. “Treatment of Early Rheumatoid Arthritis in a Multinational Inception Cohort of Latin American Patients: The GLADAR Experience”. 2012 Oct;18(7):327-335.
+2. J Fam Pract. “Treatment, management, and monitoring of established rheumatoid arthritis” 2007 Oct; 56(10): 1-7.
+3. Mota LM, “Imaging diagnosis of early rheumatoid arthritis”, Rev Bras Reumatol, 2012 Oct;52(5):761-766.
+4. Pan X, Zhang X, Liu Z, Wen H, Mao X. “Treatment for chronic synovitis of knee: arthroscopic or open synovectomy.” Rheumatol Int. 2012 Jun; 32(6):1733-6.
+5. Rachid B, “Early diagnosis and treatment of ankylosing spondylitis in Africa and the Middle East”, Clin Rheumatol. 2012 Nov;31(11):1633-9. doi: 10.1007/s10067-012-2058-5. Epub 2012 Aug 19.
+
+# VIÊM CỘT SỐNG DÍNH KHỚP
+*(Ankylosing Spondylitis)*
+
+## 1. ĐỊNH NGHĨA
+**Viêm cột sống dính khớp** là một bệnh thấp viêm đặc trưng bởi tổn thương khớp cùng chậu, cột sống và các khớp ở chi dưới, thường kèm theo viêm các điểm bám gân. Bệnh tiến triển chậm song có xu hướng dính khớp. Bệnh viêm cột sống dính khớp có mối liên quan chặt chẽ với yếu tố kháng nguyên hòa hợp mô **HLA-B27**.
+
+## 2. NGUYÊN NHÂN
+Nguyên nhân của bệnh chưa được biết rõ hoàn toàn. Có hai đặc điểm chính là hiện tượng viêm và xơ hóa, calci hóa các dây chằng, bao khớp (đặc biệt tại vị trí cột sống), các điểm bám gân.
+- **Kháng nguyên hòa hợp mô HLA-B27:** Gặp trong 90% trường hợp, ngoài ra còn có thể có một số yếu tố gen khác và tác nhân nhiễm khuẩn. Yếu tố gia đình chiếm tỷ lệ 10%.
+- **Phản ứng miễn dịch:** Sự kết hợp giữa yếu tố gen và tác nhân nhiễm khuẩn ban đầu ở các đối tượng này gây phản ứng miễn dịch kéo dài, có sự tham gia của yếu tố hoại tử u (**TNF-α**).
+- **Phản ứng viêm:** Phản ứng miễn dịch gây ra một chuỗi phản ứng viêm, có vai trò xúc tác của các enzym như **cyclo-oxygenase (COX)**.
+- **Tổn thương khớp:** Hiện tượng xơ các mô sụn hoặc mô xương gây hạn chế vận động, có kèm sự phá hủy khớp.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Lâm sàng
+- **Triệu chứng sớm nhất**: Thường là đau tại cột sống thắt lưng hoặc vùng lưng - thắt lưng. Đau kiểu viêm, kèm theo hiện tượng cứng cột sống.
+- **Viêm khớp cùng chậu**: Biểu hiện bởi hiện tượng đau tại vùng mông, một hoặc hai bên.
+- **Viêm khớp**: Thể điển hình, thường biểu hiện viêm các khớp gốc chi đối xứng hai bên (khớp háng, khớp gối chiếm 20%). Đôi khi giai đoạn sớm chỉ biểu hiện viêm một khớp, lúc này cần chẩn đoán phân biệt với viêm khớp nhiễm khuẩn, đặc biệt là lao khớp.
+- **Viêm các điểm bám tận của gân**: Thường gặp nhất tại gân Achilles, cân gan chân.
+- **Viêm kết mạc mắt và các triệu chứng tiêu hóa**: Gặp khoảng 5 - 10% (tiêu chảy, đau bụng, xuất huyết).
+
+### 3.2. Cận lâm sàng
+- **Xét nghiệm máu**: Có các dấu hiệu viêm như tăng tốc độ lắng máu, tăng CRP.
+- **Kháng nguyên hòa hợp mô HLA-B27**: Dương tính ở 80 - 90% bệnh nhân viêm cột sống dính khớp.
+- **Chẩn đoán hình ảnh**:
+  - **Hình ảnh viêm khớp cùng chậu** (trên phim chụp X-quang thường quy):
+    - *Giai đoạn 1*: Mất chất khoáng của bờ khớp, khe khớp cùng chậu rộng.
+    - *Giai đoạn 2*: Hình ảnh bào mòn, hình ảnh tem thư ở rìa khớp.
+    - *Giai đoạn 3*: Đặc xương ở bờ khớp, dính một phần khớp cùng - chậu.
+    - *Giai đoạn 4*: Dính khớp cùng chậu hoàn toàn.
+    - Ở giai đoạn sớm, khi X-quang thường quy chưa phát hiện được tổn thương, chụp cộng hưởng từ khung chậu giúp chẩn đoán sớm viêm khớp cùng chậu.
+  - **Hình ảnh tổn thương cột sống**: Ở giai đoạn muộn, X-quang thường quy có thể thấy hình ảnh xơ hóa các dây chằng bên hoặc dây chằng trước cột sống, biểu hiện bởi các cầu xương, khiến cột sống có hình cây tre. Có thể thấy hiện tượng xơ hóa các dây chằng liên gai (hình ảnh "đường ray xe lửa"), có thể calci hóa đĩa đệm, tổn thương khớp liên mấu sau, tổn thương khớp xương sườn đốt sống. Ngoài ra, có thể thấy hình ảnh loãng xương: hình ảnh tăng thấu quang, đốt sống cong lõm hai mặt. Đôi khi (hiếm gặp) có hình ảnh gãy cầu xương đốt sống hoặc gãy cung sau. Ở giai đoạn sớm, tổn thương cột sống có thể được phát hiện trên chụp cộng hưởng từ.
+  - **Khớp háng**: Thường biểu hiện viêm cả hai bên. Biểu hiện viêm khớp háng dễ dàng phát hiện trên siêu âm bởi hiện tượng tràn dịch khớp và/hoặc dày màng hoạt dịch. Tổn thương trên X-quang thường quy biểu hiện bởi hình ảnh hẹp khe khớp, đôi khi có các hình bào mòn đối xứng qua khe khớp (hình ảnh "soi gương"), giai đoạn cuối thường có dính khớp.
+  - **Viêm điểm bám gân**: Viêm cột sống dính khớp có thể khởi phát bởi biểu hiện ngoài khớp: viêm các đầu gân tại vị trí bám vào xương. Về lâm sàng, bệnh nhân đau tại các điểm bám tận của gân, có điểm đau chói khi bấm vào các vị trí này. Các triệu chứng trên siêu âm: hình ảnh các gân tăng âm, tràn dịch quanh gân. Hình ảnh X-quang thường quy: đôi khi thấy hiện tượng xơ các điểm bám tận (gai xương).
+
+### 3.3. Chẩn đoán xác định
+Kết hợp triệu chứng lâm sàng, hình ảnh viêm khớp cùng chậu trên X-quang thường quy (hoặc trên cộng hưởng từ nếu nghi ngờ chẩn đoán mà biểu hiện trên X-quang thường quy chưa rõ ràng) và nếu có thể, nên xét nghiệm HLA-B27.
+
+Chẩn đoán bệnh viêm cột sống dính khớp dựa vào tiêu chuẩn chẩn đoán New York sửa đổi năm 1984 gồm có các triệu chứng lâm sàng và X-quang:
+- **Tiêu chuẩn lâm sàng** (ít nhất có một yếu tố):
+  - Đau thắt lưng từ 3 tháng trở lên, cải thiện khi luyện tập, không giảm khi nghỉ.
+  - Hạn chế vận động cột sống thắt lưng cả tư thế cúi và nghiêng.
+  - Giảm độ giãn lồng ngực (dưới hoặc bằng 2,5 cm).
+- **Tiêu chuẩn X-quang**:
+  - Viêm khớp cùng chậu giai đoạn &ge; 2, nếu biểu hiện viêm cả hai bên.
+- **Chẩn đoán xác định**: Khi có tiêu chuẩn X-quang và ít nhất một yếu tố thuộc tiêu chuẩn lâm sàng.
+
+Đặc điểm của bệnh viêm cột sống dính khớp ở Việt Nam thường có biểu hiện viêm các khớp gốc chi sớm (khớp háng, khớp gối) và rầm rộ, trong khi biểu hiện tại cột sống kín đáo. Do vậy, cần khai thác kỹ các triệu chứng tại cột sống, khi có các triệu chứng gợi ý chẩn đoán, cần chụp X-quang khớp cùng chậu và xét nghiệm HLA-B27. Trường hợp chưa có biểu hiện trên phim X-quang thường quy, cần chỉ định chụp cộng hưởng từ khung chậu hoặc cột sống [2,4,5], có vai trò rất quan trọng trong chẩn đoán sớm.
+
+### 3.4. Chẩn đoán phân biệt
+- **Viêm cột sống dính khớp thể cột sống**: Cần phân biệt với bệnh Forestier. Đặc điểm của bệnh này là có xơ hóa dây chằng quanh đốt sống, có cầu xương song không có hiện tượng viêm. Ngoài ra, các cầu xương trong bệnh Forestier thường thô, không thanh mảnh như trong bệnh viêm cột sống dính khớp.
+- **Viêm cột sống thể phối hợp**: Đôi khi giai đoạn sớm triệu chứng viêm tại khớp chỉ biểu hiện tại một khớp duy nhất. Rất hay gặp viêm tại khớp háng một bên. Trường hợp này cần chẩn đoán phân biệt với lao khớp háng.
+
+## 4. ĐIỀU TRỊ BỆNH VIÊM CỘT SỐNG DÍNH KHỚP
+
+### 4.1. Nguyên tắc chung
+Bao gồm điều trị nội khoa, vật lý trị liệu và ngoại khoa.
+**Mục đích điều trị**: Chống viêm, chống đau; phòng chống cứng khớp, đặc biệt là phòng chống cứng khớp ở tư thế xấu và khắc phục dính khớp (nếu có).
+
+### 4.2. Lựa chọn phương pháp điều trị
+Trên mỗi bệnh nhân cụ thể, quyết định điều trị dựa vào các thông số sau:
+- Tình trạng bệnh, mức độ hoạt động bệnh, triệu chứng tiên lượng.
+- Biểu hiện hiện tại của bệnh (cột sống, khớp ngoại biên, điểm bám gân...).
+- Biểu hiện ngoài khớp và bệnh kèm theo: Có thể có các biểu hiện ngoài khớp như vảy nến, viêm màng bồ đào và viêm ruột mạn tính. Đặc biệt với viêm màng bồ đào cần khám chuyên khoa mắt nhằm điều trị triệu chứng kết hợp.
+- Trạng thái lâm sàng chung (tuổi, giới, bệnh kèm theo, thuốc kèm theo, yếu tố tâm lý). Cũng cần lưu ý đến các nguy cơ bệnh loãng xương, bệnh tim mạch ở bệnh nhân viêm cột sống dính khớp nhằm phát hiện, theo dõi và dự phòng.
+
+### 4.3. Điều trị cụ thể
+Phác đồ điều trị theo khuyến cáo của ASAS/EULAR 2011 [3] áp dụng vào điều kiện Việt Nam, được tóm tắt bởi sơ đồ và một số lưu ý dưới đây.
+*(ASAS/EULAR - Assessment in Ankylosing Spondylitis International Society / European League against Rheumatism - Hội đánh giá viêm cột sống dính khớp quốc tế / Hội khớp học châu Âu)*
+
+```mermaid
+graph TD
+    A[BỆNH NHÂN VIÊM CỘT SỐNG DÍNH KHỚP] --> B(GIÁO DỤC BỆNH NHÂN / LUYỆN TẬP / VẬT LÝ TRỊ LIỆU / HỘI BỆNH NHÂN)
+    A --> C{Vị trí tổn thương}
+    C -->|Tổn thương cột sống| D[Thuốc chống viêm không steroid - NSAIDs]
+    C -->|Tổn thương ngoại biên| E[Thuốc chống viêm không steroid - NSAIDs]
+    D -->|Đáp ứng kém| F[Kháng TNF]
+    E -->|Viêm điểm bám gân/ngoại biên kéo dài| G[Corticoide tại chỗ]
+    E -->|Viêm khớp ngoại biên| H[Sulfasalazine]
+    E -->|Đáp ứng kém| I[Kháng TNF]
+    F -->|Đau kéo dài, hủy cấu trúc khớp| J[Điều trị ngoại khoa / Thay khớp háng / Chỉnh hình]
+    I -->|Đau kéo dài, hủy cấu trúc khớp| J
+```
+
+- **Điều trị không dùng thuốc**: Điều rất quan trọng là bệnh nhân cần được giáo dục nhằm hiểu biết về bệnh và thực hiện chế độ luyện tập phù hợp và đều đặn. Có thể luyện tập có hiệu quả tại nhà hoặc điều trị vật lý, có sự giám sát về mức độ luyện tập. Bệnh nhân có thể tự tập một mình hoặc tập hợp theo nhóm.
+- **Thuốc chống viêm không steroid (NSAIDs)**: Là lựa chọn đầu tiên chỉ định cho bệnh nhân viêm cột sống dính khớp có đau và/hoặc cứng khớp. Có thể sử dụng trong thời gian dài nếu tình trạng viêm kéo dài. Cần chú ý đến các tác dụng không mong muốn trên tim mạch, dạ dày, thận ở bệnh nhân khi điều trị thuốc bằng chống viêm không steroid.
+  Có thể sử dụng một trong các loại sau:
+  - Celecoxib: 200 - 400 mg/ngày, duy trì liều 200 mg hàng ngày.
+  - Meloxicam: 7,5 - 15 mg/ngày.
+  - Diclofenac: 75 mg/ngày.
+  - Etoricoxib: 60 - 90 mg/ngày.
+- **Thuốc giảm đau**: Nên phối hợp thuốc giảm đau (paracetamol, các dạng kết hợp) theo sơ đồ sử dụng thuốc giảm đau của WHO.
+- **Thuốc giãn cơ**:
+  - Eperisone: 50 mg x 3 lần/ngày.
+  - Thiocolchicoside: 4 mg x 3 lần/ngày.
+- **Glucocorticoids**:
+  - Tiêm corticosteroid tại chỗ: Chỉ định với các trường hợp viêm các điểm bám gân hoặc các khớp ngoại biên có tình trạng viêm kéo dài. Nếu là khớp háng, nên tiêm dưới hướng dẫn của siêu âm.
+  - Không khuyến cáo điều trị corticosteroid toàn thân.
+- **Thuốc thấp khớp làm biến đổi bệnh (DMARDs)**:
+  - Thuốc DMARD như sulfasalazine, methotrexate không được chỉ định cho bệnh nhân thể cột sống đơn thuần.
+  - Sulfasalazine: Chỉ định cho bệnh nhân có biểu hiện viêm khớp ngoại biên. Liều khởi đầu 500 mg x 2 viên mỗi ngày, tăng dần liều dựa vào đáp ứng lâm sàng của người bệnh, thường duy trì 2.000 mg chia 2 lần hàng ngày, uống sau bữa ăn.
+- **Điều trị bằng chế phẩm sinh học (kháng TNF-α)**:
+  - *Chỉ định*: Theo khuyến cáo của ASAS, chỉ định thuốc kháng TNF cho các thể bệnh hoạt động dai dẳng, mặc dù đã điều trị thường quy. Cần tuân theo quy trình chỉ định các thuốc sinh học.
+  - *Bệnh nhân viêm cột sống dính khớp thể cột sống*: Điều trị thuốc kháng TNF kết hợp với thuốc chống viêm không steroid, không kết hợp với nhóm DMARD kinh điển (Sulfasalazine, Methotrexate).
+  - *Thay đổi thuốc*: Có thể chuyển sang kháng TNF thứ hai nếu bệnh nhân điều trị đáp ứng kém với kháng TNF ban đầu.
+  - *Liều lượng*:
+    - Etanercept: 50 mg tiêm dưới da tuần một lần hoặc 25 mg x 2 lần/tuần (tiêm dưới da).
+    - Infliximab: 3 - 5 mg/kg truyền tĩnh mạch mỗi 4 - 8 tuần.
+    - Adalimumab: 40 mg tiêm dưới da mỗi 2 tuần.
+- **Điều trị phẫu thuật**:
+  - *Thay khớp háng*: Chỉ định trong trường hợp bệnh nhân đau kéo dài, hạn chế vận động và có phá hủy cấu trúc rõ trên hình ảnh X-quang. Trước kia thường cố gắng chỉ định ở bệnh nhân lớn tuổi (ít nhất trên 50 tuổi). Gần đây tuổi không còn là một yếu tố cần quan tâm khi chỉ định thay khớp háng.
+  - *Phẫu thuật chỉnh hình đối với cột sống*: Chỉ định khi cột sống biến dạng.
+  - *Gãy đốt sống*: Ở bệnh nhân viêm cột sống dính khớp có gãy đốt sống cấp tính: Xét chỉ định phẫu thuật.
+
+### 4.4. Theo dõi, quản lý bệnh nhân viêm cột sống dính khớp
+- Các thông số theo dõi tình trạng bệnh nhân viêm cột sống dính khớp bao gồm: Tiền sử bệnh nhân; các thông số lâm sàng; các biểu hiện về xét nghiệm; hình ảnh X-quang. Tần suất theo dõi bệnh (tái khám) tùy thuộc vào nguyên nhân gây ra các triệu chứng; mức độ trầm trọng của triệu chứng và phác đồ điều trị.
+- Nói chung, bệnh nhân viêm cột sống dính khớp cần tái khám hàng tháng. Các chỉ số theo dõi về lâm sàng: Số khớp sưng, số khớp đau, mức độ đau, hạn chế vận động của khớp, cột sống... Chỉ định các xét nghiệm hàng tháng tùy theo loại thuốc điều trị. Nếu chỉ dùng thuốc chống viêm không steroid, chỉ cần xét nghiệm tế bào máu ngoại vi, tốc độ máu lắng, CRP, SGOT (AST), SGPT (ALT), creatinin máu. Có thể siêu âm khớp tổn thương, đặc biệt khớp háng khi bệnh nhân đau khớp này.
+- Tùy theo tình trạng bệnh nhân (về lâm sàng và xét nghiệm), cần điều chỉnh liều thuốc chống viêm, thuốc giảm đau, điều trị cơ bản, thuốc hỗ trợ điều trị (thuốc chống loãng xương, thuốc bảo vệ niêm mạc dạ dày...) và khuyến khích chế độ tập luyện, phục hồi chức năng...
+- Trường hợp nếu có một thay đổi đáng kể trong quá trình của bệnh xảy ra, ngoài nguyên nhân do viêm, có thể có các tình trạng bất thường (ví dụ gãy xương cột sống), cần chỉ định các xét nghiệm chẩn đoán hình ảnh thích hợp, tùy theo tổn thương mà quyết định chụp cộng hưởng từ, CT hay X-quang...
+
+## 5. TIẾN TRIỂN VÀ BIẾN CHỨNG
+Bệnh tiến triển có xu hướng dính khớp và dính cột sống, dẫn đến tư thế xấu (gù lưng quá mức), viêm dính khớp háng, loãng xương và đôi khi gãy xương.
+
+## 6. PHÒNG BỆNH
+- Tránh ẩm thấp, phòng tránh viêm nhiễm đường tiết niệu, sinh dục và viêm đường ruột.
+- Nên nằm thẳng trên ván cứng, tránh kê độn (cổ và gối), tránh nằm võng...
+- Nên tập thể dục thường xuyên, nên bơi hoặc đi xe đạp.
+
+## TÀI LIỆU THAM KHẢO
+1. Bron JL, de Vries MK, Snieders MN, van der Horst-Bruinsma IE, van Royen BJ (2009). "Discovertebral (Andersson) lesions of the spine in ankylosing spondylitis revisited". *Clin. Rheumatol.* 2009; 28 (8):883-892.
+2. Francis H. "Surgical Management of Lower Cervical Spine Fracture in Ankylosing Spondylitis". *J Trauma*. 2006: 61, 1005-1009.
+3. J Braun, van den Berg R, Baraliakos X et al (2011). "2010 update of the ASAS/EULAR recommendations for the management of ankylosing spondylitis". *Ann Rheum Dis* 2011; 70:896-904.
+4. Goupille P, Pham T, Claudepierre P, Wendling D (2009). "A plea for reason in using magnetic resonance imaging for the diagnostic and therapeutic management of spondyloarthropathies". *Joint Bone Spine*. 2009 Mar; 76(2):123-125.
+5. Rudwaleit M, van der Heijde D et al (2011). "The Assessment of SpondyloArthritis International Society classification criteria for peripheral spondyloarthritis and for spondyloarthritis in general". *Ann Rheum Dis* 2011; 70:25-31.
+
+# BỆNH VIÊM KHỚP PHẢN ỨNG
+*(Reactive arthritis)*
+
+## 1. ĐỊNH NGHĨA
+Viêm khớp phản ứng được đặc trưng bởi tình trạng viêm khớp vô khuẩn tiếp theo sau tình trạng nhiễm trùng, thường là nhiễm trùng đường tiết niệu - sinh dục hoặc đường tiêu hóa. Biểu hiện viêm có thể từ một đến vài khớp, thường gặp các khớp lớn ở hai chi dưới, cột sống, khớp cùng chậu, viêm các điểm bám gân, viêm dây chằng. Đây là hậu quả của quá trình đáp ứng quá mẫn của hệ miễn dịch đối với tình trạng nhiễm trùng.
+
+Triệu chứng viêm khớp xảy ra sau nhiễm trùng có thể sau một vài tuần, một vài tháng, hoặc thậm chí một vài năm. Bệnh thường gặp trên cơ địa bệnh nhân mang kháng nguyên HLA-B27; từ 20 đến 50 tuổi và thuộc nhóm bệnh lý cột sống thể huyết thanh âm tính.
+
+## 2. NGUYÊN NHÂN
+
+### 2.1. Vai trò của kháng nguyên HLA-B27
+Có đến 30% - 60% bệnh nhân viêm khớp phản ứng có kháng nguyên HLA-B27 và biểu hiện bệnh thường nặng hơn và có xu hướng chuyển thành mạn tính cao hơn ở những người có HLA-B27 (+).
+
+### 2.2. Vai trò của nhiễm trùng
+Một vài loại vi khuẩn được cho là nguyên nhân gây ra viêm khớp phản ứng, nhất là các vi khuẩn gây nhiễm trùng đường tiết niệu - sinh dục hoặc đường tiêu hóa. Có khoảng 20% các trường hợp viêm khớp phản ứng không tìm thấy nguyên nhân.
+- **Nhiễm trùng đường tiêu hóa**: Thường do *Salmonella*, *Shigella*, *Yersinia*, *Campylobacter*, *Borrelia*...
+- **Nhiễm trùng đường tiết niệu - sinh dục**: Thường do *Chlamydia trachomatis*.
+- **Lao hệ thống**: Một vài trường hợp viêm khớp phản ứng thấy ở bệnh nhân bị lao hệ thống.
+- **Virus**: Virus cũng được cho là nguyên nhân của viêm khớp phản ứng như: *Rubella*, virus viêm gan, *Parvovirus*, HIV...
+
+### 2.3. Các yếu tố khác
+Một vài trường hợp viêm khớp phản ứng có thể gặp theo sau các tình trạng viêm đường ruột mạn tính như bệnh Crohn, viêm loét đại tràng...
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Triệu chứng lâm sàng
+Biểu hiện lâm sàng thường gặp là bệnh nhân có tiền sử viêm nhiễm đường tiết niệu - sinh dục hoặc đường tiêu hóa, hô hấp trước khi có biểu hiện viêm khớp phản ứng. Tuy nhiên có khoảng 10% các trường hợp viêm nhiễm thường nhẹ và làm cho bệnh nhân không được chú ý đến, nhất là ở nữ. Các biểu hiện lâm sàng có thể gặp như sau:
+
+- **Biểu hiện toàn thân**: mệt mỏi, sốt nhẹ, khó chịu, chán ăn, gầy sút.
+- **Biểu hiện ở hệ cơ xương khớp**:
+  - Viêm một khớp hoặc vài khớp, không đối xứng, thường gặp các khớp ở chi dưới như: khớp gối, khớp cổ chân và ngón chân, có thể có biểu hiện ngón chân hình khúc dồi. Ngoài ra có thể đau tại cột sống, viêm khớp cùng chậu, khớp vai, khớp khuỷu, cổ tay, ngón tay.
+  - Thường kèm theo viêm điểm bám tận của gân cơ, viêm bao gân, nhất là gân gót, cân gan bàn chân, lồi cầu xương đùi, xương chày.
+  - Viêm khớp tái phát hoặc mạn tính: biểu hiện viêm khớp ngoại biên tái phát nhiều đợt hoặc viêm khớp cùng chậu và khớp đốt sống mạn tính tiến triển thành bệnh viêm cột sống dính khớp.
+- **Tổn thương da và niêm mạc**:
+  - Có thể gặp các tổn thương da tăng sừng hóa ở lòng bàn tay, bàn chân, da bìu, da đầu giống viêm da trong vảy nến.
+  - Các tổn thương viêm niêm mạc miệng, lưỡi, viêm bao quy đầu.
+  - Viêm bàng quang, viêm niệu đạo, viêm tuyến tiền liệt.
+- **Tổn thương ở mắt**:
+  - Bệnh nhân có thể thấy mắt đỏ, sợ ánh sáng và đau nhức vùng hốc mắt. Tổn thương mắt có thể là triệu chứng duy nhất hoặc là triệu chứng đầu tiên của viêm khớp phản ứng.
+  - Viêm kết mạc, viêm màng bồ đào trước, viêm giác mạc hoặc thậm chí loét giác mạc có thể xảy ra.
+- **Các cơ quan khác**:
+  Có thể gặp biểu hiện protein niệu, tiểu máu vi thể và tiểu mủ vô khuẩn ở bệnh nhân viêm khớp phản ứng.
+
+### 3.2. Cận lâm sàng
+- Tốc độ lắng máu, CRP, yếu tố bổ thể huyết thanh C3, C4 tăng cao vào giai đoạn đầu của bệnh.
+- Bạch cầu tăng nhẹ, có thể có thiếu máu nhẹ.
+- Yếu tố dạng thấp RF (-).
+- Phân tích nước tiểu có thể có bạch cầu, hồng cầu niệu, protein niệu.
+- Xét nghiệm dịch khớp: thường biểu hiện viêm cấp không đặc hiệu. Nhuộm Gram và cấy dịch khớp (-). Xét nghiệm này giúp chẩn đoán phân biệt với viêm khớp nhiễm trùng.
+- Có thể tìm tác nhân gây bệnh từ phân, dịch tiết ở họng và đường tiết niệu.
+- Test huyết thanh chẩn đoán có thể dương tính với *Salmonella*, *Campylobacter*, *Chlamydia*...
+- X-quang khớp: khớp viêm trong giai đoạn cấp tính thường không có tổn thương trên X-quang. Một số trường hợp mạn tính có thể thấy các tổn thương calci hóa ở các điểm bám gân và/hoặc dây chằng, viêm khớp cùng chậu. X-quang có thể giúp chẩn đoán phân biệt với bệnh viêm cột sống dính khớp (được xem là biểu hiện mạn tính của viêm khớp phản ứng).
+- Xác định kháng nguyên HLA-B27 có thể (+) 30-60% các trường hợp.
+
+### 3.3. Chẩn đoán xác định
+Hiện nay chưa có tiêu chuẩn chẩn đoán xác định bệnh viêm khớp phản ứng nào được thống nhất (ngoại trừ hội chứng Reiter). Việc chẩn đoán bệnh viêm khớp phản ứng chủ yếu dựa vào các biểu hiện lâm sàng, xét nghiệm cận lâm sàng và tiền sử nhiễm khuẩn (chủ yếu là đường tiết niệu - sinh dục, đường tiêu hóa).
+
+### 3.4. Chẩn đoán phân biệt
+- Viêm khớp gút cấp.
+- Viêm khớp nhiễm trùng.
+- Viêm khớp trong bệnh hệ thống.
+- Viêm khớp vảy nến.
+- Viêm khớp không đặc hiệu khác.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc điều trị
+- Điều trị các tổn thương viêm của hệ cơ xương khớp bằng các thuốc giảm đau, kháng viêm không steroid.
+- Điều trị các tổn thương ngoài khớp.
+- Điều trị nguyên nhân gây bệnh nếu xác định được nguyên nhân.
+- Vật lý trị liệu và điều trị phòng ngừa các biến chứng.
+
+### 4.2. Phác đồ điều trị
+- Điều trị viêm hệ cơ xương khớp bằng các thuốc kháng viêm không steroid (NSAID) là chính, một vài trường hợp đặc biệt có thể sử dụng corticoid tại chỗ hoặc toàn thân (thường rất ít sử dụng).
+- Kháng sinh: chỉ dùng khi bệnh nhân có bằng chứng nhiễm trùng đường tiêu hóa hoặc tiết niệu - sinh dục.
+- Điều trị các tổn thương ngoài khớp nhất là tổn thương mắt bằng corticoid tại chỗ hoặc toàn thân (cần phải có ý kiến của chuyên khoa có liên quan).
+- Điều trị các biểu hiện viêm khớp mạn tính bằng các thuốc làm thay đổi diễn tiến của bệnh (DMARDs).
+
+### 4.3. Điều trị cụ thể
+- **Thuốc kháng viêm không steroid**:
+  - Diclofenac 75mg x 2/ngày tiêm bắp trong 3 - 5 ngày, sau đó chuyển sang uống: 15mg/ngày tiêm bắp trong 3 - 5 ngày, sau đó chuyển sang viên uống 7,5 - 15mg/ngày.
+  - Celecoxib uống 200mg - 400mg/ngày.
+  - Một số NSAID khác cũng có thể sử dụng tùy theo điều kiện và sự dung nạp của bệnh nhân.
+- **Corticoid**: hiếm khi có chỉ định toàn thân vì đa phần bệnh nhân đáp ứng tốt với NSAID. Một số ít trường hợp không đáp ứng hoặc có chống chỉ định với NSAID có thể điều trị bằng corticoid (prednisolone hoặc methylprednisolone) liều khởi đầu 0,5 - 1mg/kg/ngày; giảm liều dần tùy theo đáp ứng lâm sàng, không nên kéo dài quá 2 - 4 tháng. Trường hợp chỉ còn một khớp viêm kéo dài mặc dù đã điều trị toàn thân thì có thể chỉ định tiêm corticoid nội khớp.
+- **Kháng sinh**: khi xác định được nguyên nhân gây bệnh. Tùy theo vi khuẩn được phân lập, có thể sử dụng kháng sinh nhóm quinolon (ciprofloxacin, levofloxacin), trimethoprim - sulfamethoxazol, tetracyclin, lymecyclin. Điều trị kháng sinh không làm thay đổi diễn tiến của viêm khớp cấp tính, tuy nhiên nó có thể giúp hạn chế lây lan và làm giảm tỉ lệ tái phát.
+- **Trường hợp diễn biến thành viêm khớp mạn tính**: Các thuốc này cần chỉ định kéo dài nhiều tháng cho đến khi đạt được tình trạng lui bệnh.
+  - Sulfasalazin: liều khởi đầu 500mg/ngày, tăng dần liều, và duy trì ở liều 2000mg/ngày (sulfasalazin 500mg 2 viên x 2 lần/ngày).
+  - Methotrexat: 10 - 15mg/tuần (methotrexat 2,5mg: 4 - 6 viên mỗi tuần) uống một lần duy nhất vào một ngày cố định trong tuần.
+- **Điều trị phòng ngừa**:
+  - Phòng ngừa tổn thương dạ dày - tá tràng do dùng các NSAID bằng thuốc ức chế bơm proton (omeprazol, lansoprazol, pantoprazol...).
+  - Tập vật lý trị liệu sớm để ngăn ngừa các biến chứng teo cơ, cứng khớp.
+- **Điều trị các tổn thương ngoài khớp**:
+  - Điều trị các tổn thương da tăng sừng bằng cách bôi corticoid và/hoặc acid salicylic tại chỗ.
+  - Điều trị các tổn thương da nặng hoặc mạn tính có thể cân nhắc việc dùng các thuốc điều trị như: methotrexat, retinoid.
+  - Tổn thương mắt: dùng corticoid tại chỗ. Trong trường hợp nặng gây giảm hoặc mất thị giác thì dùng corticoid toàn thân hoặc thuốc ức chế miễn dịch (theo chỉ định điều trị của chuyên khoa mắt).
+
+## 5. TIÊN LƯỢNG VÀ BIẾN CHỨNG
+Tiên lượng của bệnh viêm khớp phản ứng nói chung là tốt, đa số bệnh nhân hồi phục hoàn toàn sau vài ngày đến vài tuần, có khi kéo dài vài tháng. Tuy nhiên bệnh cũng có thể tái phát thành nhiều đợt, viêm tiết niệu - sinh dục, viêm đường tiêu hóa cũng có thể tái diễn. Ở bệnh nhân có HLA-B27 (+) thì tỉ lệ tái phát và tiến triển thành mạn tính thường cao hơn. Có khoảng 15 - 30% tiến triển mạn tính thành viêm cột sống dính khớp.
+
+## 6. PHÒNG BỆNH
+Việc vệ sinh phòng ngừa sự lây nhiễm các tác nhân vi khuẩn gây bệnh viêm khớp phản ứng là cần thiết, nhất là các cá nhân và gia đình có kháng nguyên HLA-B27 (+).
+
+## TÀI LIỆU THAM KHẢO
+1. Carter JD, Hudson AP. "Reactive arthritis: clinical aspects and medical management". *Infect Dis Clin North Am*. 2009;35(1).
+2. Hill Gaston JS, Lillicrap MS (2003). "Arthritis associated with enteric infection". *Best Practice & Research: Clinical Rheumatology* 17 (2): 219–239. doi:10.1016/S1521-6942(02)00104-3. PMID 12787523.
+3. H. Hunter Handsfield (2001). "Color atlas and synopsis of sexually transmitted diseases", Volume 236. McGraw-Hill Professional. p. 148. ISBN 978-0-07-026033-7.
+4. Inman RD. The spondyloarthropathies. In: Goldman L, Schafer AI, eds. *Cecil Medicine*. 24th ed. Philadelphia, Pa: Saunders Elsevier; 2011:chap 273.
+5. Ruddy, Shaun (2001). *Kelley's Textbook of Rheumatology*, 6th Ed. W. B. Saunders. pp. 1055–1064. ISBN 0-7216-9033-5.
+
+---
+
+# BỆNH VIÊM KHỚP VẢY NẾN
+*(Psoriatic arthritis)*
+
+## 1. ĐẠI CƯƠNG VÀ BỆNH SINH
+Viêm khớp vảy nến là tình trạng viêm khớp có liên quan với bệnh vảy nến. Tỷ lệ viêm khớp vảy nến chiếm 10-30% bệnh nhân bị vảy nến: 80% trường hợp có viêm khớp xuất hiện sau tổn thương vảy nến; 15% xuất hiện đồng thời và 10% trường hợp viêm khớp xuất hiện trước khi có tổn thương da.
+
+**Diễn biến**: bệnh diễn biến mạn tính, tiến triển từng đợt dẫn đến tổn thương xương khớp và tàn phế, phá hủy khớp dẫn đến mất chức năng vận động.
+
+Cơ chế bệnh sinh của bệnh vảy nến hiện nay vẫn còn chưa rõ, các nghiên cứu cho thấy có sự gia tăng tốc độ chu chuyển da (turn over của da), dẫn đến sừng hóa da và móng. Quá trình viêm với sự tham gia của các tế bào miễn dịch (lympho T) và cytokin (TNF $\alpha$), các yếu tố tăng trưởng và tân sinh mạch ở cả da, khớp và các điểm bám tận. Ba yếu tố có mối liên quan chặt chẽ với quá trình sinh bệnh di truyền, miễn dịch và môi trường.
+
+- **Di truyền**: tỷ lệ cao ở các cặp song sinh (70%) và cận huyết thống. Có liên quan với kháng nguyên HLA B27, HLA B38, HLA B39, HLA DR4, HLA Cw6, HLA Dw3…
+- **Miễn dịch**:
+  - Gia tăng hoạt động của bổ thể, lympho T, tế bào đơn nhân, đại thực bào.
+  - Gia tăng sản xuất các cytokines (IL 1$\beta$, IL 6, TNF $\alpha$, v.v…), kháng thể kháng keratin.
+- **Môi trường**: nhiễm trùng (*Streptococcus*, HIV,...) và chấn thương được coi là yếu tố thúc đẩy bệnh vảy nến và cả viêm khớp vảy nến.
+
+## 2. TRIỆU CHỨNG LÂM SÀNG VÀ CẬN LÂM SÀNG
+
+### 2.1. Triệu chứng lâm sàng
+- **Viêm khớp**:
+  - Thể viêm ít khớp: thường là các khớp lớn (80%)
+  - Thể viêm khớp ngoại biên đối xứng (25%)
+  - Thể viêm khớp trục (cột sống và khớp cùng chậu) (10%)
+  - Thể viêm các khớp liên đốt xa (10%)
+  - Thể viêm khớp ngoại biên biến dạng nặng (5%)
+  Bệnh diễn tiến từng đợt, các dạng triệu chứng lâm sàng không cố định mà có thể xuất hiện các thể khác nhau hay trùng lặp trong các đợt.
+- **Biểu hiện cơ xương khớp khác**: viêm gân bám, viêm gân gót, dấu hiệu ngón tay hay ngón chân khúc dồi.
+- **Biểu hiện da**:
+  - Vảy nến thường (*psoriasis vulgaris*)
+  - Vảy nến mủ (*pustular psoriasis*)
+  - Vảy nến dạng giọt, dạng mảng (*guttate psoriasis*)
+  - Đỏ da (*erythema*)
+- **Biểu hiện ngoài khớp khác**: viêm kết mạc, viêm màng bồ đào, bệnh van tim, tổn thương móng,...
+
+### 2.2. Triệu chứng cận lâm sàng
+- **Xét nghiệm máu**:
+  - Tăng tốc độ lắng máu và CRP trong những giai đoạn viêm khớp cấp.
+  - RF (-), anti CCP (-)
+  - Cần làm thêm test HIV ở các trường hợp nặng.
+  - Acid uric có thể tăng trong các trường hợp tổn thương da nặng và lan tỏa.
+- **Chẩn đoán hình ảnh**:
+  - X-quang tại khớp viêm: hẹp khe khớp, hình ảnh bào mòn ở đầu xương dưới sụn, phản ứng màng xương. Ngoài ra, có thể thấy hình ảnh calci hóa các điểm bám gân và các gai xương, viêm khớp cùng - chậu hay cầu xương tại cột sống. Đặc biệt ở thể nặng (*mutilans*), có hình ảnh tiêu xương đốt xa hình ảnh bút chì cắm vào lọ mực (*pencil in cup*).
+  - MRI khớp hoặc/và khung chậu giúp xác định tổn thương ở giai đoạn sớm hoặc giai đoạn tiến triển của bệnh.
+
+## 3. CHẨN ĐOÁN
+Tiêu chuẩn **CLASPAR** (*Classification criteria for Psoriatic Arthritis*): chẩn đoán Viêm khớp vảy nến khi bệnh nhân có bệnh lý viêm khớp và/hoặc cột sống, từ 3 điểm trở lên. Tiêu chuẩn này đạt độ nhạy: 98,7%, độ đặc hiệu: 91,4%.
+
+| Tiêu chí | Điểm |
+| :--- | :---: |
+| Vảy nến đang hoạt động | 2 đ |
+| Tiền sử vảy nến | 1 đ |
+| Tiền sử gia đình vảy nến | 1 đ |
+| Viêm ngón tay hay ngón chân (khúc dồi) | 1 đ |
+| Tiền sử ngón tay – chân khúc dồi | 1 đ |
+| Tổn thương móng | 1 đ |
+| Hình thành gai xương quanh khớp trên XQ | 1 đ |
+| RF (-) | 1 đ |
+
+Các yếu tố tiên lượng nặng gồm: viêm nhiều khớp, bilan viêm tăng cao, tổn thương khớp, giảm chất lượng sống, đáp ứng điều trị kém.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Điều trị vảy nến da
+- **Thể khu trú**: Retinoids: acitretin, isotretinoin. Calcipotriene. Corticosteroid tại chỗ (da).
+- **Thể lan tỏa**: tia UVB. PUVA (psoralen + UVA).
+
+### 4.2. Điều trị viêm khớp vảy nến
+- **Kháng viêm không steroid**: chỉ định khi có viêm khớp, sử dụng một trong các loại sau, lưu ý các chống chỉ định hoặc thận trọng: celecoxib, diclofenac, naproxen, piroxicam…
+- **Corticosteroid điều trị tại chỗ** (tiêm nội khớp, tiêm các điểm bám tận): chỉ định với các khớp hoặc điểm bám gân còn sưng đau mặc dù đã điều trị thuốc kháng viêm không steroid.
+- **Thuốc chống thấp khớp nhóm cải thiện được diễn tiến bệnh (DMARDs) cổ điển**:
+  - Methotrexate (7,5 - 25mg/tuần).
+  - Sulfasalazine (1 - 2g/ngày).
+  - Leflunomide liều tải 100mg/ngày x 3 ngày đầu, sau đó 20mg hàng ngày.
+  - Cyclosporine…
+  Có thể phối hợp các DMARDs cổ điển khi thất bại với một loại DMARDs.
+- **Các chất kháng yếu tố hoại tử u nhóm alpha (kháng TNF $\alpha$)**: là các tác nhân sinh học điều trị nhắm đích (*targeted therapy*) được đưa vào điều trị các bệnh tự miễn hệ thống trong đó có bệnh viêm khớp vảy nến từ 10 năm gần đây. Điều trị sinh học được chỉ định khi đáp ứng kém hoặc điều trị thất bại với DMARDs cổ điển.
+  - Etanercept 50mg tiêm dưới da, chia hai lần một tuần hoặc một lần mỗi tuần.
+  - Infliximab 5mg/kg truyền TM mỗi hai tuần trong tháng đầu, liều thứ ba sau 1 tháng, sau đó một liều mỗi 8 tuần.
+  - Adalimumab 40mg tiêm dưới da mỗi 2 tuần.
+  - Golimumab 50mg tiêm dưới da, mỗi tháng một lần.
+  Trước khi chỉ định các thuốc sinh học, cần làm các bilan để tầm soát lao, viêm gan, chức năng gan - thận, đánh giá hoạt tính và mức độ tàn phế của bệnh.
+  Thể viêm khớp trục (tổn thương cột sống - cùng chậu) nên được cân nhắc chỉ định điều trị sinh học sớm vì theo các nghiên cứu, ít có đáp ứng với methotrexate, sulfasalazine và leflunomide.
+  Không phối hợp các tác nhân sinh học với nhau.
+
+Muối vàng và nhóm thuốc chống sốt rét ngày nay không được khuyến cáo. Không nên dùng Corticoid toàn thân vì có thể gây biến chứng đỏ da toàn thân hoặc bùng phát vảy nến trong khi điều trị hay khi vừa ngừng thuốc. Trường hợp đặc biệt có thể tiêm corticoid nội khớp, song phải rất thận trọng vì nguy cơ nhiễm trùng cao.
+
+### 5. THEO DÕI VÀ TIÊN LƯỢNG
+
+- **Bệnh nhân phải được điều trị tích cực** và theo dõi trong suốt quá trình điều trị.
+- **Xét nghiệm định kỳ:** tế bào máu ngoại vi, tốc độ lắng máu, Creatinine, SGOT, SGPT mỗi 2 tuần trong một tháng đầu, mỗi tháng trong 3 tháng đầu, sau đó mỗi 3 tháng.
+- **Xét nghiệm máu đột xuất, X-quang phổi…** khi cần theo diễn biến bệnh.
+- **Tiên lượng nặng khi:** tổn thương viêm nhiều khớp ngoại biên (khớp háng, khớp gối), bệnh nhân trẻ tuổi, có các biểu hiện ngoài khớp, lạm dụng corticosteroid.
+- **Nếu điều trị không đúng, không kịp thời:** bệnh nhân có thể bị dính khớp ở tư thế xấu, đặc biệt khớp háng và khớp gối thường bị rất sớm và bị tàn phế từ khi còn rất trẻ.
+
+---
+
+### TÓM TẮT PHÁC ĐỒ ĐIỀU TRỊ VIÊM KHỚP VẨY NẾN
+
+**Tiêu chuẩn CASPAR $\ge 3$ điểm (Chẩn đoán xác định khi có viêm khớp, viêm cột sống, hoặc viêm điểm bám gân):**
+- **Viêm khớp ngoại biên**, **viêm khớp trục**, **viêm điểm bám gân**, **ngón tay/chân hình khúc dồi**.
+- **Tổn thương da** (vảy nến), **tổn thương móng**, **tổn thương ngoài khớp**.
+- **Xét nghiệm:** TĐML ↑, CRP ↑, Acid Uric ↑ (+/-), RF (-), anti-CCP (-).
+
+#### Sơ đồ điều trị ban đầu theo thể bệnh:
+
+| Tổn thương da - móng | Viêm khớp trục | Viêm khớp ngoại biên |
+| :--- | :--- | :--- |
+| **Thể khu trú:**<br>- Retinoids: acitretin, isotretinoin<br>- Calcipotriene<br>- Corticosteroid tại chỗ (da)<br><br>**Thể lan tỏa:**<br>- Tia UVB<br>- PUVA (psoralen + UVA) | **Điều trị triệu chứng:**<br>- Kháng viêm không steroid (KVKS)<br>- Vật lý trị liệu | **Điều trị triệu chứng:**<br>- Kháng viêm không steroid (KVKS)<br>- Corticoid nội khớp<br><br>**DMARDs cổ điển:**<br>- Sulfasalazine<br>- Methotrexate (MTX)<br>- Leflunomide<br>- Cyclosporine A, ... |
+
+#### Bước tiếp theo khi điều trị ban đầu thất bại:
+
+```mermaid
+graph TD
+    A[Điều trị ban đầu thất bại] --> B[THUỐC ĐIỀU TRỊ SINH HỌC THỨ NHẤT <br> Anti-TNF α ± phối hợp DMARDs cổ điển như MTX, SSZ]
+    B --> C{Thất bại?}
+    C -- Đúng --> D[THUỐC ĐIỀU TRỊ SINH HỌC THỨ HAI <br> Anti-TNF α]
+```
+
+#### Tài liệu tham khảo
+1. Phác đồ chẩn đoán và điều trị các bệnh cơ xương khớp thường gặp. Hội Thấp khớp học Việt Nam. 2012. P. 65-70.
+2. Barclay Laurie. “Guidelines Issued for Management of Psoriatic Arthritis”. 2008.
+3. Brent Lawrence H. 2010. “Ankylosing Spondylitis and Undifferentiated Spondyloarthropathy”. Emedicine specialty.
+4. Anna Luisa Di Lorenzo. ”HLA-B27 syndromes”. Emedicine specialty. 2010.
+5. Levine Norman. “Systemic treatment for psoriasis”. 2011.
+6. Mazel Elyan. ”Update on the spondyloarthropathies”. The journal of muscular skeletal medicine. 2008.
+
+---
+
+# BỆNH VIÊM KHỚP THIẾU NIÊN TỰ PHÁT THỂ ĐA KHỚP CÓ YẾU TỐ DẠNG THẤP DƯƠNG TÍNH VÀ ÂM TÍNH RF (+) VÀ RF (-) (JUVENILE IDIOPATHIC ARTHRITIS)
+
+### 1. ĐỊNH NGHĨA
+Viêm khớp thiếu niên tự phát theo ILAR là nhóm bệnh viêm khớp mạn tính khởi phát bệnh trên 6 tuần ở trẻ em dưới 16 tuổi. Biểu hiện lâm sàng không đồng nhất gồm: thể ít khớp; thể đa khớp RF (+); thể đa khớp RF (-); thể hệ thống; thể viêm khớp vảy nến; thể viêm điểm bám gân; thể viêm khớp không phân loại. Viêm khớp thiếu niên tự phát thể đa khớp chiếm 1/3 nhóm bệnh lý này.
+
+### 2. NGUYÊN NHÂN
+Nguyên nhân của bệnh viêm khớp thiếu niên tự phát cho đến nay vẫn còn chưa rõ. Bệnh không phải do một căn nguyên riêng lẻ gây ra, mà do nhiều yếu tố hướng khớp cùng tác động vào một cá thể mang những yếu tố di truyền nhất định. Các yếu tố môi trường, đặc biệt các tác nhân nhiễm khuẩn; rối loạn hệ thống miễn dịch… có vai trò quan trọng trong sinh bệnh học của bệnh viêm khớp thiếu niên tự phát.
+
+### 3. CHẨN ĐOÁN
+
+#### 3.1. Chẩn đoán xác định
+
+*   **Tiêu chuẩn chẩn đoán viêm khớp thiếu niên tự phát thể đa khớp RF (+) theo Hội Thấp khớp học Thế giới (ILAR - 2001):**
+    *   **Viêm đa khớp:** viêm $\ge 5$ khớp, biểu hiện trong 6 tháng đầu khởi phát bệnh.
+    *   **RF (+):** ít nhất 2 mẫu (+) với khoảng cách 3 tháng, trong vòng 6 tháng đầu khảo sát.
+    *   **Tuổi:** khởi phát < 16 tuổi.
+    *   **Thời gian:** viêm khớp kéo dài ít nhất 6 tuần.
+    *   **Dấu ấn miễn dịch:** tương tự viêm khớp dạng thấp ở người lớn (HLA-DR4).
+
+    Viêm khớp thiếu niên tự phát thể đa khớp RF (+) chiếm 5% nhóm bệnh lý khớp mạn tính này. Bệnh gặp ở trẻ gái nhiều hơn trẻ trai (nữ : nam = 5,7 - 12,8 : 1), tuổi khởi phát muộn 9 – 13 tuổi. Tần suất RF (+) tăng dần với tuổi, sự hiện diện của RF có giá trị tiên lượng cho hoạt tính bệnh tiến triển nặng. Tổn thương đa khớp, cả khớp lớn và nhỏ, đối xứng. Tổn thương khớp thường nặng với hủy xương sớm, chức năng vận động khớp bị ảnh hưởng nặng và có nhiều khả năng phải thay khớp về sau. Tổn thương ngoài khớp thường gặp như viêm cơ tim, viêm màng ngoài tim, tràn dịch màng phổi, viêm mạch máu, viêm hệ thống mô liên kết, hội chứng Felty, hội chứng ống cổ tay... Viêm màng bồ đào và các thương tổn mắt khác ít gặp. Nốt thấp (hạt thấp dưới da) gặp trong 10%.
+
+*   **Tiêu chuẩn chẩn đoán viêm khớp thiếu niên tự phát đa khớp RF (-) theo ILAR:**
+    *   **Viêm đa khớp:** viêm $\ge 5$ khớp, trong vòng 6 tháng đầu khởi phát bệnh với RF (-).
+    *   **Thể lâm sàng này có ba phân nhóm:**
+        *   *Viêm đa khớp với ANA (+):* khởi phát bệnh sớm (< 6 tuổi); chủ yếu gặp ở trẻ gái; nguy cơ cao viêm màng bồ đào trước; viêm khớp không đối xứng, khớp lớn và nhỏ.
+        *   *Viêm màng hoạt dịch tăng sinh, đối xứng (Prolific symmetric synovitis):* khởi phát bệnh trễ (7 – 9 tuổi); viêm khớp đối xứng, ít biến chứng viêm màng bồ đào.
+        *   *Viêm bao hoạt dịch khô:* khởi phát muộn ($\ge 7$ tuổi); đáp ứng kém với trị liệu.
+
+    Viêm khớp thiếu niên tự phát thể đa khớp RF (-) có tuổi khởi phát bệnh sớm (50% trước 5 tuổi). Bệnh gặp ở trẻ gái nhiều hơn trẻ trai tỷ lệ (3:1), thấp hơn thể đa khớp RF (+). HLA-DRw8 (DRB1*0801) có liên quan với viêm khớp thiếu niên tự phát thể đa khớp RF (-) và thể một khớp hay vài khớp. Bệnh thường diễn tiến ấm ỉ, nhưng cũng có thể khởi phát cấp tính. Tổng trạng trẻ ít bị ảnh hưởng, thường không sốt hoặc chỉ sốt nhẹ. Tổn thương khớp lớn và nhỏ, có thể đối xứng hoặc không, thường tiến triển chậm. Tổn thương khớp háng thường xuất hiện muộn. Viêm cân cơ bao hoạt dịch khớp cổ tay, cổ chân và viêm gân gấp bàn tay thường gặp. Tổn thương ngoài khớp không thường gặp.
+
+#### 3.2. Chẩn đoán phân biệt
+Điều cơ bản khi chẩn đoán xác định viêm khớp thiếu niên tự phát là chẩn đoán loại trừ. Đối với thể đa khớp có hoạt tính bệnh tiến triển nặng, cần loại trừ:
+- Bệnh nhiễm trùng nặng.
+- CINCA (Chronic infantile neurological cutaneous and articular syndrome - Hội chứng khớp và mô dưới da thần kinh mạn tính ở trẻ em).
+- Bệnh mô liên kết khác (lupus ban đỏ hệ thống, viêm da cơ, viêm đa cơ, viêm mạch máu…).
+- Bệnh lý ác tính.
+- Loạn sản xương.
+- Agammaglobulinaemia.
+- Bệnh lý tổn thương ruột do thấp.
+
+### 4. ĐIỀU TRỊ
+
+#### 4.1. Viêm khớp thiếu niên tự phát thể đa khớp RF (+)
+- **Bắt đầu** với một trong số thuốc chống viêm không steroid (NSAIDs) cho phép dùng ở trẻ em: Aspirin (75 - 100 mg/kg/24h); Ibuprofen (30 - 50 mg/kg/24h); Naproxen (15 - 20 mg/kg/24h); Tolmetin (30 - 40 mg/kg/24h).
+- **Trường hợp bệnh tiến triển nặng**, đáp ứng kém với thuốc chống viêm không steroid, cần điều trị thay thế bằng corticoid: Methylprednisolone 10 - 30 mg/kg/24h, truyền tĩnh mạch trong 1 - 3 ngày; hoặc Prednisone uống liều cao 2 - 3 mg/kg/24h. Corticoid nhanh chóng được giảm liều trong 1 - 2 tuần và duy trì Prednisone uống liều thấp có hiệu quả 0,5 - 1 mg/kg/24h. Corticoid tiêm nội khớp có thể giúp cải thiện chức năng khớp viêm và triệu chứng đau tại chỗ.
+- **Phối hợp thuốc điều trị cơ bản (DMARDs) sớm**, Methotrexat (MTX) là thuốc được chọn lựa đầu tiên với liều 10 mg/m² uống 1 lần/tuần. Liều Methotrexat có thể tăng lên 0,5 mg/kg/tuần. Nếu viêm khớp kéo dài > 6 tháng không đáp ứng với đường uống, Methotrexat có thể chuyển qua đường chích dưới da, liều 1 mg/kg/tuần (tối ưu hóa liều MTX).
+- **Phối hợp thêm thuốc điều trị cơ bản (DMARDs) thứ hai**, được chỉ định khi Methotrexat không hiệu quả: có thể chọn Hydroxychloroquine (5 - 6 mg/kg/24h) được dùng cho trẻ lớn (> 4 tuổi), hoặc Sulfasalazine (25 - 50 mg/kg/24h), đối với trẻ nhỏ có thể bắt đầu với liều 12,5 mg/kg/24h.
+- **Đối với các trường hợp kháng trị**, phụ thuộc Steroids:
+    *   Thuốc kháng TNF $\alpha$: Etanercept liều 0,4 mg/kg tiêm dưới da 2 lần trong tuần hoặc Adalimumab (Humira) liều 40 mg/2 tuần tiêm dưới da.
+    *   Hoặc thuốc ức chế Interleukin 6: Tocilizumab (Actemra) với liều 4 mg/kg/1 tháng (với trẻ cân nặng > 30 kg) và liều 10 mg/kg/tháng (với trẻ cân nặng < 30 kg), được dùng thay thế hoặc có thể kết hợp với Methotrexat.
+- **Khi đạt được sự lui bệnh**, các thuốc phối hợp được giữ với liều ổn định trong vài tháng. Sau đó corticoids được giảm liều và ngừng đầu tiên. Thuốc chống viêm không steroid (NSAIDs) và thuốc điều trị cơ bản (DMARDs) được tiếp tục duy trì trong giai đoạn lui bệnh (ít nhất > 1 năm). Nhóm kháng viêm NSAIDs được ngừng trước và thuốc DMARDs sẽ ngừng sau, khi đánh giá tình trạng lui bệnh thực sự ổn định.
+- **Khi tái phát**, các thuốc điều trị sử dụng ở thời điểm trẻ đạt được sự lui bệnh sẽ được dùng lại.
+
+#### 4.2. Viêm khớp thiếu niên tự phát thể đa khớp RF (-)
+- **Bắt đầu** với thuốc chống viêm không steroid (NSAIDs).
+- **Phối hợp thêm thuốc điều trị cơ bản (DMARDs):** nếu sau 1 – 2 tháng viêm khớp không cải thiện, Sulfasalazine là thuốc được chọn đầu tiên vì có thời gian tác dụng sớm nhất trong số các thuốc DMARDs. Đối với các trẻ lớn và có hoạt tính bệnh trung bình, Hydroxychloroquine có thể được chọn dùng đơn độc hoặc kết hợp với Sulfasalazin. Nếu > 6 tháng bệnh vẫn tiến triển, Methotrexat là thuốc được chọn thay thế.
+- **Corticoid liều thấp** (prednisone 0,5 mg/kg/24h), giúp cải thiện chức năng vận động khớp. Corticoid tiêm nội khớp có thể xem xét kết hợp nếu triệu chứng viêm tại khớp đáp ứng kém với kháng viêm uống.
+- **Khi đạt được sự lui bệnh**, NSAIDs cần duy trì ít nhất 6 tháng trước khi ngừng hẳn và thuốc DMARDs cần được tiếp tục thêm khoảng 1 năm tính từ lúc bắt đầu có sự lui bệnh lâm sàng. Sau đó thuốc DMARDs sẽ được ngừng nếu không có dấu hiệu tái phát.
+- **Tái phát:** thuốc sử dụng ở thời điểm trẻ đạt được sự lui bệnh sẽ được dùng lại.
+
+### 5. THEO DÕI VÀ QUẢN LÝ
+- Bệnh nhi được theo dõi tái khám tại khoa khớp nhi định kỳ mỗi tháng trong nhiều năm, chú ý quan tâm theo dõi, điều chỉnh các thay đổi tâm sinh lý ở trẻ.
+- Đánh giá sự cải thiện chức năng vận động khớp và hoạt tính bệnh trong quá trình điều trị để điều chỉnh trị liệu cho phù hợp với tiến triển của bệnh.
+- Theo dõi tác dụng phụ của thuốc.
+- Các xét nghiệm cần được thực hiện định kỳ:
+    *   Tế bào máu ngoại vi, tốc độ lắng máu: mỗi 2 – 4 tuần trong giai đoạn tấn công, mỗi tháng trong giai đoạn duy trì và mỗi 3 tháng khi đạt được sự lui bệnh.
+    *   Điện di protein huyết tương: mỗi tháng trong giai đoạn tấn công và sau đó mỗi 3 tháng.
+    *   Chức năng gan thận, đông máu: mỗi tháng trong 3 tháng đầu khi bắt đầu kết hợp thuốc DMARDs, sau đó mỗi 3 tháng.
+    *   Các xét nghiệm khác (tủy đồ, siêu âm tim, X-quang phổi…): được chỉ định khi có những diễn biến không thuận lợi của bệnh nghi ngờ các biến chứng nặng như hội chứng hoạt hóa đại thực bào, thoái hóa tinh bột, viêm tim, xơ hóa phổi, hoại tử nhú thận, loãng xương hoặc hoại tử vô khuẩn chỏm xương đùi…
+    *   Cần sàng lọc lao, viêm gan cho bệnh nhi trước khi điều trị thuốc sinh học và phải theo dõi quản lý bệnh nhân, các xét nghiệm bệnh lao sau mỗi 3-6 tháng trong quá trình điều trị.
+
+#### Tài liệu tham khảo
+1. Trần Ngọc Ân (2002). Bệnh thấp khớp, Nhà xuất bản Y học.
+2. Hashkes. P.J (2011), “Strengths and challenges of a new guide for treating JIA”, Nat. Rev. Rheumatol. 7, pp. 377 – 378.
+3. Lehman Thomas J. A. (2009), “Juvenile Arthritis: Juvenile Rheumatoid Arthritis, Juvenile Chronic Arthritis, Juvenile Idiopathic Arthritis, A clinician’s guide to rheumatic diseases in children”, Oxford University Press, Inc., New York, pp. 90-120.
+4. Martini. J.G (2006), “Rheumatoid Factor Positive Polyarthritis”, Arthritis in children and adolescent, Oxford University press, pp. 233 - 241.
+5. Martini Alberto (2006), “Rheumatoid Factor Negative Polyarthritis”, Arthritis in children and adolescent, Oxford University press, pp. 244 - 250.
+
+---
+
+# BỆNH VIÊM KHỚP THIẾU NIÊN TỰ PHÁT THỂ VIÊM CỘT SỐNG DÍNH KHỚP (ENTHESITIS RELATED ARTHRITIS)
+
+### 1. ĐỊNH NGHĨA
+Viêm khớp thiếu niên tự phát thể viêm cột sống dính khớp còn được gọi là thể viêm điểm bám gân (ERA). Đây là một trong số các thể lâm sàng của nhóm bệnh viêm khớp thiếu niên tự phát, chiếm 4 – 15% nhóm bệnh lý viêm khớp mạn tính thiếu niên, đặc trưng bởi viêm khớp và viêm điểm bám gân, gặp chủ yếu ở trẻ trai (nam : nữ khoảng 9 : 1). Tuổi khởi phát bệnh thường sau 6 tuổi và lứa tuổi thiếu niên. Có liên quan mật thiết với kháng nguyên HLA-B27.
+
+### 2. NGUYÊN NHÂN
+Nguyên nhân của viêm khớp thiếu niên tự phát thể viêm cột sống dính khớp không rõ. Có nhiều bằng chứng cho thấy nhiễm trùng ngoài khớp có khả năng dẫn đến viêm khớp phản ứng. Các tác nhân như Yersinia, Chlamydia, Klebsiella, Salmonella, Shigella… có thể đóng vai trò như tác nhân kích thích ban đầu. Yếu tố cơ địa: giới tính và nhất là yếu tố kháng nguyên HLA-B27 được coi như tiền đề của bệnh.
+
+### 3. CHẨN ĐOÁN
+
+#### 3.1. Triệu chứng lâm sàng
+- **Viêm điểm bám gân:** hay gặp ở bàn chân và gối.
+- **Viêm khớp:** với tính chất cứng khớp buổi sáng, đôi khi đau về đêm. Vị trí ở các khớp lớn chi dưới, có thể ít khớp hoặc nhiều khớp, đối xứng hoặc không đối xứng. Hiếm gặp viêm khớp chi trên. Viêm khớp cùng chậu (một bên hoặc hai bên). Triệu chứng ở cột sống ít xuất hiện lúc khởi phát bệnh. Giai đoạn toàn phát thường có viêm cột sống cổ C1 và C2, đau cột sống thắt lưng và khớp cùng chậu; hạn chế biên độ giãn cột sống, Schöber test (+). Ở trẻ em, tổn thương ở vùng trung tâm (cột sống, khớp cùng chậu) thường kín đáo và xuất hiện muộn.
+- **Biểu hiện toàn thân:** có sốt nhẹ, sụt cân, mệt mỏi. Gan lách hạch to hiếm gặp. Không gặp ban ngoài da, trừ trường hợp viêm khớp phản ứng thuộc hội chứng Reiter. Có thể có kèm các biểu hiện hệ thống như viêm mống mắt cấp tính, hở van động mạch chủ có kết hợp với viêm ruột mạn tính (IBD).
+
+#### 3.2. Các xét nghiệm cận lâm sàng
+- **Xét nghiệm tế bào máu ngoại vi:** thường ít thay đổi.
+- **Xét nghiệm đánh giá tình trạng viêm:** tốc độ lắng máu, protein C phản ứng (CRP) thường tăng cao.
+
+- **Các xét nghiệm sinh hóa**: Ure, creatinin, đường, điện giải, AST, ALT, protein, albumin, sắt huyết thanh, tổng phân tích nước tiểu (và cortison máu nếu cần thiết).
+- **Chụp X-quang**: tim phổi thẳng, khung chậu thẳng, các khớp tổn thương. X-quang cho thấy có khuyết xương hoặc hình chồi xương tại chỗ gân bám. Hiếm khi có tổn thương viêm khớp cùng chậu và cột sống ở giai đoạn sớm của bệnh.
+- **Điện tim, siêu âm tim**: tầm soát tổn thương van động mạch chủ, dạng vôi hóa.
+- **HLA-B27**.
+
+### 3.3. Tiêu chuẩn chẩn đoán viêm khớp thiếu niên tự phát thể viêm cột sống dính khớp (thể viêm điểm bám gân)
+Bệnh đặc trưng bằng viêm khớp và viêm điểm bám gân; hoặc viêm khớp; hoặc viêm điểm bám gân với ít nhất trên hai nhóm triệu chứng sau:
+- Có bệnh sử hoặc hiện tại đau khớp cùng chậu và/hoặc đau cột sống kiểu viêm.
+- HLA-B27 dương tính.
+- Tiền sử gia đình có một trong các bệnh lý khớp có liên quan với HLA-B27.
+- Viêm màng bồ đào trước cấp tính.
+- Khởi phát viêm khớp sau 6 tuổi.
+
+### 3.4. Chẩn đoán phân biệt
+Cần chẩn đoán loại trừ thể viêm cột sống dính khớp (viêm điểm bám gân) với các thể bệnh viêm khớp tự phát thiếu niên khác, nếu có một trong các bệnh cảnh lâm sàng đi kèm như sau:
+- Có sự hiện diện của RF ở hai lần xét nghiệm cách nhau ba tháng.
+- Biểu hiện của viêm khớp thiếu niên hệ thống.
+- Có bệnh sử vảy nến của bản thân hay người thân trong gia đình.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Giai đoạn sớm của bệnh
+Điều trị thể lâm sàng này tương tự như thể ít khớp. Khởi đầu với thuốc chống viêm không steroid (NSAIDs):
+- **Naproxen**: 15 - 20 mg/kg/24h.
+- **Ibuprofen**: 30 - 50 mg/kg/24h.
+- Có thể kết hợp tiêm corticoid tại những khớp sưng đau nhiều (không quá ba khớp trong một lần điều trị).
+
+### 4.2. Bệnh tiến triển
+Nếu bệnh tiến triển nặng: viêm khớp (tồn tại trên 2 - 4 tháng) không đáp ứng với thuốc chống viêm không steroid đơn thuần; hoặc có hoạt tính bệnh nặng (tốc độ lắng máu tăng cao; viêm khớp ngoại biên tiến triển và viêm dính cột sống xuất hiện sớm):
+- **Prednisone**: liều 1 - 2 mg/kg/24h, uống chia hai lần, sau đó duy trì Prednisone uống liều thấp (0,5 mg/kg/24h). Liều corticoid được giảm nhanh trong vòng 2 - 4 tuần, sau đó thay thế bằng thuốc NSAIDs.
+- **Điều trị cơ bản** với nhóm thuốc chống thấp khớp làm thay đổi diễn tiến bệnh (**DMARDs**) được chỉ định sớm đối với các trường hợp có mức độ hoạt động bệnh nặng hoặc có biểu hiện viêm dính cột sống sớm:
+  - Phối hợp **Sulfasalazine**: liều 25 mg/kg/24h chia hai lần, uống và tăng dần lên 50 mg/kg/24h nếu trẻ dung nạp thuốc.
+  - Nếu bệnh vẫn tiến triển, đáp ứng kém với NSAIDs hoặc corticoid kết hợp với Sulfasalazine, chỉ định thêm hoặc thay thế bằng DMARDs thứ 2: **Methotrexate**: liều nhỏ (10 mg/m²), uống một lần mỗi tuần.
+  - **Thuốc kháng TNF-α (Etanercept)**: liều 0,4 mg/kg tiêm dưới da 2 lần/tuần và **Adalimumab (Humira)**: liều 40 mg tiêm dưới da 2 lần/tháng có hiệu quả đối với các trường hợp đáp ứng kém với các trị liệu trên.
+
+### 4.3. Giai đoạn lui bệnh
+Viêm khớp đôi khi giảm nhanh, có thể ngừng thuốc NSAIDs sớm và duy trì bằng **Sulfasalazine** trong vòng 6 tháng tới 1 năm kể từ lúc đạt được sự lui bệnh lâm sàng. Sau khi ngừng thuốc cần theo dõi dấu hiệu tái phát của bệnh.
+
+### 4.4. Tái phát
+Viêm khớp thiếu niên tự phát thể viêm cột sống dính khớp (thể viêm khớp và viêm điểm bám gân) thường tiến triển từng giai đoạn. Thông thường, một đợt điều trị ngắn hạn (4 - 6 tháng) với thuốc chống viêm không steroid NSAIDs và Sulfasalazine đủ đạt được sự lui bệnh kéo dài. Khi có dấu hiệu tái phát bệnh, thuốc phối hợp lúc đạt được sự lui bệnh sẽ được dùng lại.
+
+## 5. THEO DÕI VÀ QUẢN LÝ
+Bệnh nhi cần được theo dõi tái khám tại khoa khớp nhi định kỳ mỗi tháng trong nhiều năm.
+Đánh giá sự cải thiện chức năng vận động khớp và mức độ hoạt động của bệnh thông qua các triệu chứng lâm sàng, cận lâm sàng được kiểm tra định kỳ (tế bào máu ngoại vi, phản ứng viêm, điện di protein huyết tương, chức năng gan thận, chức năng đông máu, tổng phân tích nước tiểu, X-quang xương khớp...).
+Theo dõi phát hiện sớm sự xuất hiện của các triệu chứng khác đi kèm trong quá trình tiến triển của bệnh (ví dụ: triệu chứng tiêu hóa, viêm loét da niêm mạc, yếu cơ, viêm mạch máu...) để giúp xác định chính xác thể lâm sàng của nhóm bệnh viêm khớp thiếu niên tự phát thể viêm khớp viêm điểm bám gân. Trên cơ sở này sẽ có hướng điều trị phù hợp với mỗi loại bệnh lý cụ thể. Phối hợp nhóm thuốc DMARDs sớm và xem xét chỉ định điều trị sinh học sớm nếu có biểu hiện tổn thương khớp nặng hoặc hoạt tính bệnh nặng tồn tại kéo dài.
+Theo dõi tác dụng không mong muốn của thuốc điều trị để kịp thời ngừng thuốc, giảm liều, hoặc thay thế thuốc khác. Phát hiện và xử trí kịp thời các biến chứng do thuốc hoặc do bệnh gây ra.
+
+## TÀI LIỆU THAM KHẢO
+1. Trần Ngọc Ân (2002), *Bệnh thấp khớp*, Nhà xuất bản Y học.
+2. Cassidy James T. and Petty Ross E. (2011), "Chronic Arthritis in Childhood", *Textbook of Pediatric Rheumatology*, 6th edition, Elsevier Saunders, Philadelphia, pp. 211-35.
+3. Hashkes P.J. (2011), "Strengths and challenges of a new guide for treating JIA", *Nat. Rev. Rheumatol.*, 7, 377 - 378.
+4. Hashkes Philip J. and Laxer Ronald M. (2008), "Juvenile Idiopathic Arthritis: Treatment and Assessment", *Primer on the Rheumatic Diseases*, 13th Ed, Springer Science & Business Media, New York, 154-62.
+5. Lovell Daniel J. (2008), "Juvenile Idiopathic Arthritis: Clinical Features", *Primer on the Rheumatic Diseases*, 13th Ed, Springer Science & Business Media, New York, 142-47.
+
+# BỆNH VIÊM KHỚP THIẾU NIÊN TỰ PHÁT THỂ HỆ THỐNG (Juvenile Idiopathic Arthritis with systemic onset)
+
+## 1. ĐỊNH NGHĨA
+Viêm khớp thiếu niên tự phát thể hệ thống chiếm 5 - 15% nhóm bệnh viêm khớp thiếu niên tự phát. Đây là biểu hiện tổn thương nội tạng của bệnh với sốt cao đặc trưng, kèm các tổn thương lan tỏa ngoài khớp (da, mạch máu, tim, phổi, gan, lách, hạch...). Viêm khớp thường thoáng qua, nhưng các tổn thương ngoài khớp thường nặng và kéo dài có thể gây tử vong cho trẻ. Bệnh cần được chẩn đoán phân biệt với các bệnh lý có biểu hiện toàn thân khác như nhiễm trùng huyết, viêm da cơ, viêm đa cơ, bệnh Kawasaki, Lupus ban đỏ hệ thống, bệnh Behçet, bạch huyết cấp...
+
+## 2. NGUYÊN NHÂN VÀ SINH BỆNH HỌC
+Mặc dù khởi phát của bệnh viêm khớp thiếu niên tự phát thể hệ thống có biểu hiện giống bệnh cảnh nhiễm trùng, nhưng không tìm thấy mối liên quan với các yếu tố vi khuẩn học. Đồng thời cũng không tìm thấy mối liên quan giữa bệnh và yếu tố gia đình, mùa.
+Thể hệ thống có liên quan mật thiết với sự hoạt hóa của bạch cầu đa nhân trung tính (BCĐNTT) và đơn nhân hơn các thể lâm sàng khác và ít có liên quan với sự hoạt hóa của tế bào T. Các nghiên cứu cho thấy có sự bất thường của dòng BCĐNTT trong sự tương tác với tế bào T và những cơ chế khác của phản ứng viêm. Viêm khớp thiếu niên tự phát thể hệ thống có thể được coi như bệnh lý tự viêm (autoinflammatory disease) hơn là tự miễn.
+Bất thường của các tế bào giết tự nhiên (NK) được tìm thấy ở thể hệ thống dẫn đến hội chứng hoạt hóa đại thực bào (MAS). IL-6 polymorphism thường phối hợp với thể hệ thống, nên thể lâm sàng này được coi như nhóm bệnh phụ thuộc IL-6.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Triệu chứng lâm sàng
+
+#### Triệu chứng tại khớp
+Đau khớp là triệu chứng sớm và thường thoáng qua. Viêm đa khớp thường gặp hơn là ít khớp, điển hình là khớp cổ tay, khớp gối, khớp cổ chân. Ít gặp hơn ở khớp bàn tay, khớp háng, cột sống cổ và khớp thái dương hàm dưới.
+
+#### Triệu chứng ngoài khớp
+- **Sốt**: Sốt đặc trưng của bệnh thường xuất hiện trong đợt khởi phát, nhưng cũng có thể xảy ra sau đợt viêm khớp. Sốt thường kéo dài trên 2 tuần, nhưng có thể kéo dài từ nhiều tuần đến nhiều tháng. Sốt có thể xảy ra bất cứ lúc nào trong ngày, điển hình là sốt dao động với một hoặc hai cơn trong ngày, thường xảy ra vào buổi chiều hoặc tối. Sốt tăng cao và giảm nhanh dưới nhiệt độ bình thường vào sáng sớm, có thể kèm ớn lạnh, đau cơ, biếng ăn, mệt mỏi. Các triệu chứng khác như phát ban, viêm màng thanh dịch, viêm khớp biểu hiện trong cơn sốt. Trẻ sinh hoạt bình thường khi hết sốt.
+- **Phát ban**: Gặp 90% trường hợp lúc khởi phát. Ban dạng dát hình tròn màu hồng, xung quanh nhạt màu, thường riêng biệt, có đường kính khoảng 2-10 mm, có thể kết hợp lại thành tổn thương lớn hơn. Ban có thể có dạng đường khi cào (hiện tượng Koebner). Ban dễ phai, nổi bật nhất khi trẻ sốt, mờ đi khi nhiệt độ trở về bình thường và xuất hiện trở lại khi có đợt sốt khác. Có thể không nhìn thấy ban vì ban di chuyển và mất đi tự nhiên. Ban thường thấy ở thân người và gốc chi (nách và bẹn), có thể toàn thân. Khoảng 10% ban ở dạng mày đay và ngứa, không bao giờ có ban xuất huyết. Viêm khớp thiếu niên tự phát thể hệ thống không thể chẩn đoán sớm nếu không có sốt, và khó chẩn đoán khi không có ban.
+- **Viêm màng thanh dịch và tổn thương tim**: Tràn dịch màng ngoài tim có thể phát hiện ở hầu hết bệnh nhân trong đợt tiến triển bệnh nhưng lượng ít, không có triệu chứng. Viêm màng ngoài tim xảy ra khoảng 33%. Viêm cơ tim hiếm gặp, thường xảy ra cùng với viêm màng ngoài tim và không có triệu chứng suy tim nên khó phát hiện. Tử vong do viêm cơ tim không triệu chứng khoảng 10-12%, vì vậy đánh giá chức năng tâm thất qua siêu âm tim là cần thiết ở thể hệ thống.
+- **Tràn dịch màng phổi**: Thường gặp trong đợt cấp, có thể có viêm phổi mô kẽ lan tỏa nhưng hiếm.
+- **Đau bụng**: Có thể do viêm màng bụng hoặc căng bao gan do gan to nhanh, có thể biểu hiện giống như cơn đau bụng cấp.
+- **Tổn thương hệ liên võng nội mô**: Bệnh lý hạch lan tỏa chiếm 50-70%; vị trí thường gặp ở cổ, hạch mạc treo; hạch không đau, mềm và di động. Gan to gặp ở thể hệ thống hoạt động, có thể kèm men gan tăng. Lách to khoảng 30-50% trường hợp. Trong hội chứng Felty, trẻ có lách to và dấu hiệu cường lách (giảm cả ba dòng ở ngoại vi).
+- **Các triệu chứng khác**: Triệu chứng của hệ thần kinh trung ương như kích thích, giảm tri giác, co giật và dấu hiệu màng não. Viêm màng bồ đào ít gặp ở thể hệ thống.
+
+### 3.2. Cận lâm sàng
+- **Bạch cầu máu**: Thường tăng rất cao 30.000 - 50.000/mm³ với đa nhân trung tính chiếm ưu thế. Tiểu cầu tăng cao có thể tới 1.000.000/mm³; thiếu máu với Hb từ 7 - 10 g/dl. Tốc độ lắng máu tăng rất cao, tăng Fibrinogen, Ferritin và D-dimer tăng vừa. Nếu tốc độ lắng máu và Fibrinogen giảm đột ngột cần phải dè chừng đây là dấu hiệu sớm của hội chứng hoạt hóa đại thực bào (MAS).
+- **Globulin miễn dịch**: Gia tăng các globulin miễn dịch đa dòng, nhưng các tự kháng thể (RF, ANA) thường âm tính. Nồng độ bổ thể gia tăng như một phần của đáp ứng viêm cấp.
+- **Xét nghiệm dịch khớp**: Có số lượng bạch cầu từ 10.000 đến 40.000/mm³. Có một số ít trường hợp bạch cầu có thể tăng tới 100.000/mm³, cần chẩn đoán phân biệt với viêm khớp nhiễm trùng.
+
+- **X-quang:** Có thay đổi ở xương và phần mềm chiếm tỷ lệ cao ở trẻ viêm khớp thiếu niên tự phát thể hệ thống. Loãng xương cạnh khớp là dấu hiệu của viêm khớp hoạt động 35%. Hẹp khe khớp 30%. Bất thường tăng trưởng xương 10% (chậm tuổi xương thường được ghi nhận ở thời điểm khám). Những thay đổi sớm trên X-quang có liên quan với tăng số lượng tiểu cầu và tồn tại triệu chứng viêm toàn thân trên 6 tháng. Tổn thương khớp thường gặp ở khớp cổ tay, khớp háng, khớp vai. Tổn thương cột sống cổ và khớp háng thường ở giai đoạn trễ. Viêm dính cột sống và khối xương cổ tay thường gặp ở thể hệ thống nặng, kháng trị.
+
+### 3.3. Tiêu chuẩn chẩn đoán viêm khớp thiếu niên tự phát thể hệ thống (ILAR)
+Viêm bất kỳ khớp nào với sốt đặc trưng mỗi ngày, kéo dài trên hai tuần kèm theo một hoặc nhiều hơn các triệu chứng sau:
+- Ban mau phai mờ.
+- Hạch toàn thân.
+- Gan lớn hoặc lách lớn.
+- Viêm màng thanh dịch.
+
+### 3.4. Chẩn đoán phân biệt
+Cần chẩn đoán loại trừ bệnh viêm khớp thiếu niên tự phát thể hệ thống khi có các biểu hiện đi kèm sau đây:
+- Bệnh vảy nến hoặc tiền căn có bệnh vảy nến ở họ hàng đời thứ nhất.
+- Viêm khớp ở trẻ trai HLA-B27, khởi phát bệnh sau 6 tuổi.
+- Viêm cột sống dính khớp thiếu niên, viêm điểm bám gân, viêm khớp cùng chậu với viêm ruột mạn tính, hội chứng Reiter, viêm màng bồ đào trước, hoặc có bệnh sử của một trong số các bệnh lý này ở họ hàng đời thứ nhất.
+- Hiện diện của yếu tố dạng thấp ở hai lần xét nghiệm cách nhau trên ba tháng.
+
+### 3.5. Chẩn đoán biến chứng
+- **Hội chứng hoạt hóa đại thực bào (MAS):** Được xem là hội chứng thực bào máu thứ phát (secondary hemophagocytic lymphohistiocytosis syndromes), một trong những biến chứng nặng nhất của thể hệ thống. Yếu tố khởi phát gồm: nhiễm virus; thêm thuốc hoặc thay đổi thuốc, đặc biệt là một số thuốc như: thuốc chống viêm không steroid (NSAIDs), tiêm bắp muối vàng, sulfasalazin, methotrexat, gần đây là etanercept (thuốc kháng TNF-$\alpha$) và sau ghép tủy. Bệnh biểu hiện cấp tính với gan lách to, bệnh lý hạch bạch huyết, ban xuất huyết ở da và xuất huyết niêm mạc, có thể suy đa cơ quan. Xét nghiệm có giảm ba dòng tế bào máu ngoại vi, tăng sản phẩm thoái hóa fibrin, tăng ferritin máu, tăng triglyceride máu. Dấu hiệu gợi ý sớm là tốc độ lắng máu giảm thấp đột ngột khi có biến chứng này, do giảm fibrinogen thứ phát sau tiêu thụ các yếu tố đông máu và rối loạn chức năng gan.
   
-
- 1.  ĐẠ I C ƯƠ NG   Viêm kh ớ p d ạ ng th ấ p (VKDT) là m ộ t b ệ nh lý t ự  mi ễ n  đ i ể n hình, di ễ n bi ế n m ạ n  tính v ớ i các bi ể u hi ệ n t ạ i kh ớ p, ngoài kh ớ p và toàn thân  ở  nhi ề u m ứ c  độ  khác nhau.  B ệ nh di ễ n bi ế n ph ứ c t ạ p, gây h ậ u qu ả  n ặ ng n ề  do  đ ó c ầ n  đượ c  đ i ề u tr ị  tích c ự c ngay t ừ   đầ u b ằ ng các bi ệ n pháp  đ i ề u tr ị  h ữ u hi ệ u  để  làm ng ừ ng hay làm ch ậ m ti ế n tri ể n c ủ a  b ệ nh, h ạ n ch ế  tàn ph ế  và nâng cao ch ấ t l ượ ng s ố ng cho ng ườ i b ệ nh.  2. NGUYÊN NHÂN VÀ C Ơ  CH Ế  SINH B Ệ NH  −   B ệ nh ch ư a rõ nguyên nhân, liên quan  đế n nhi ễ m khu ẩ n, c ơ   đị a (n ữ  gi ớ i, trung  niên, y ế u t ố  HLA) và r ố i lo ạ n  đ áp  ứ ng mi ễ n d ị ch.  −   Trong  đ ó vai trò c ủ a lympho B (mi ễ n d ị ch d ị ch th ể ),  lympho T (mi ễ n d ị ch qua  trung gian t ế  bào),  đạ i th ự c bào… v ớ i s ự  tham gia c ủ a các t ự  kháng th ể  (anti CCP,  RF…) và các cytokines (TNF α , IL6, IL1…). 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Tiêu chu ẩ n c ủ a H ộ i Th ấ p kh ớ p h ọ c Hoa K ỳ  (ACR) 1987  −    Hi ệ n nay tiêu chu ẩ n này v ẫ n  đ ang  đượ c áp d ụ ng r ộ ng rãi nh ấ t trên th ế  gi ớ i và  Vi ệ t Nam  đố i v ớ i th ể  bi ể u hi ệ n nhi ề u kh ớ p và th ờ i gian di ễ n bi ế n viêm kh ớ p trên 6 tu ầ n.  +   C ứ ng kh ớ p bu ổ i sáng kéo dài trên 1 gi ờ .  +   Viêm t ố i thi ể u ba nhóm kh ớ p: s ư ng ph ầ n m ề m hay tràn d ị ch t ố i thi ể u 3 trong  s ố  14 nhóm kh ớ p sau (k ể  c ả  hai bên): kh ớ p ngón g ầ n bàn tay, kh ớ p bàn ngón tay, kh ớ p c ổ   tay,  kh ớ p khu ỷ u,  kh ớ p g ố i,  kh ớ p c ổ  chân,  kh ớ p bàn ngón chân.   +   Viêm các kh ớ p  ở  bàn tay: s ư ng t ố i thi ể u m ộ t nhóm trong s ố  các kh ớ p c ổ  tay,  kh ớ p ngón g ầ n, kh ớ p bàn ngón tay.  +   Viêm kh ớ p  đố i x ứ ng.   +   H ạ t d ướ i da.   +   Y ế u t ố  d ạ ng th ấ p trong huy ế t thanh d ươ ng tính.    +   D ấ u hi ệ u X quang  đ i ể n hình c ủ a VKDT: ch ụ p kh ớ p t ạ i bàn tay, c ổ  tay ho ặ c  kh ớ p t ổ n th ươ ng: hình bào mòn, hình h ố c, hình khuy ế t  đầ u x ươ ng, h ẹ p khe kh ớ p, m ấ t ch ấ t   khoáng  đầ u x ươ ng.  Ch ẩ n  đ oán xác  đị nh : khi có  ≥  4 tiêu chu ẩ n. Tri ệ u ch ứ ng viêm kh ớ p (tiêu chu ẩ n  1- 4) c ầ n có th ờ i gian di ễ n bi ế n   ≥  6 tu ầ n và  đượ c xác  đị nh b ở i th ầ y thu ố c.   Tiêu chu ẩ n ACR 1987 có  độ  nh ạ y 91-94% và  độ   đặ c hi ệ u 89%  ở  nh ữ ng b ệ nh  nhân VKDT  đ ã ti ế n tri ể n.  Ở  giai  đ o ạ n b ệ nh m ớ i kh ở i phát,  độ  nh ạ y ch ỉ  dao  độ ng t ừ    40-90% và  độ   đặ c hi ệ u t ừ  50-90%.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  11  
-
-L ư u ý:   H ạ t d ướ i da hi ế m g ặ p  ở  Vi ệ t Nam. Ngoài ra, c ầ n kh ả o sát các tri ệ u ch ứ ng  ngoài kh ớ p nh ư : teo c ơ , viêm m ố ng m ắ t, tràn d ị ch màng ngoài tim, tràn d ị ch màng ph ổ i,  viêm m ạ ch máu... th ườ ng ít g ặ p, nh ẹ , d ễ  b ị  b ỏ  sót.    3.2. Tiêu chu ẩ n c ủ a H ộ i Th ấ p kh ớ p h ọ c Hoa K ỳ  và Liên  đ oàn ch ố ng Th ấ p kh ớ p  châu Âu 2010  (ACR/EULAR 2010 - American College of Rheumatology/ European  League Against Rhumatism). Tiêu chu ẩ n này có th ể  áp d ụ ng trong tr ườ ng h ợ p b ệ nh  ở   giai  đ o ạ n s ớ m, các kh ớ p viêm d ướ i 06 tu ầ n và th ể  ít kh ớ p. Tuy nhiên c ầ n luôn theo dõi  đ ánh giá l ạ i ch ẩ n  đ oán vì nhi ề u tr ườ ng h ợ p  đ ây c ũ ng có th ể  là bi ể u hi ệ n s ớ m c ủ a m ộ t  b ệ nh lý kh ớ p khác không ph ả i viêm kh ớ p d ạ ng th ấ p   Đố i t ượ ng là các b ệ nh nhân:    −   Có ít nh ấ t m ộ t kh ớ p  đượ c xác  đị nh viêm màng ho ạ t d ị ch trên lâm sàng.  −   Viêm màng ho ạ t d ị ch kh ớ p không do các b ệ nh lý khác.             Bi ể u hi ệ n                                Đ i ể m      A. Bi ể u hi ệ n t ạ i kh ớ p        1 kh ớ p l ớ n               0  2−10 kh ớ p l ớ n                   1  1−3 kh ớ p nh ỏ  (có ho ặ c không có bi ể u hi ệ n t ạ i các kh ớ p l ớ n)   2  4−10 kh ớ p nh ỏ  (có ho ặ c không có bi ể u hi ệ n t ạ i các kh ớ p l ớ n)  3  >10 kh ớ p (ít nh ấ t ph ả i có 1 kh ớ p nh ỏ )         5  B. Huy ế t thanh (ít nh ấ t ph ả i làm m ộ t xét nghi ệ m)   RF âm tính và Anti CCP âm tính              0  RF d ươ ng tính th ấ p\* ho ặ c  Anti CCP d ươ ng tính th ấ p\*          2  RF d ươ ng tính cao\* ho ặ c  Anti CCP d ươ ng tính cao\*       3  C. Các y ế u t ố  ph ả n  ứ ng pha c ấ p (c ầ n ít nh ấ t m ộ t xét nghi ệ m)   CRP  bình th ườ ng  và T ố c  độ  l ắ ng máu  bình th ườ ng         0   CRP  t ă ng   ho ặ c T ố c  độ  l ắ ng máu  t ă ng          1  D. Th ờ i gian bi ể u hi ệ n các tri ệ u ch ứ ng    <6 tu ầ n                   0  ≥ 6 tu ầ n                  1  Ch ẩ n  đ oán xác  đị nh : khi   s ố   đ i ể m  ≥ 6/10    D ươ ng tính th ấ p khi  ≤  3 l ầ n gi ớ i h ạ n cao c ủ a bình th ườ ng.   D ươ ng tính cao khi > 3 l ầ n gi ớ i h ạ n cao c ủ a bình th ườ ng.  3.3. Xét nghi ệ m c ậ n lâm sàng c ầ n ch ỉ   đị nh  −   Các xét nghi ệ m c ơ  b ả n: t ế  bào máu ngo ạ i vi, t ố c  độ  máu l ắ ng, protein ph ả n  ứ ng  C (CRP)…, xét nghi ệ m ch ứ c n ă ng gan, th ậ n, Xquang tim ph ổ i,  đ i ệ n tâm  đồ ...  12 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Các xét nghi ệ m  đặ c hi ệ u (có giá tr ị  ch ẩ n  đ oán, tiên l ượ ng):  +   Y ế u t ố  d ạ ng th ấ p (RF) d ươ ng tính trong 60 - 70 % b ệ nh nhân.   +   Anti CCP d ươ ng tính  trong 75 - 80 % b ệ nh nhân.    +   Xquang kh ớ p (th ườ ng ch ụ p hai bàn tay th ẳ ng ho ặ c các kh ớ p b ị  t ổ n th ươ ng).  3.4. Ch ẩ n  đ oán phân bi ệ t  Lupus ban  đỏ  h ệ  th ố ng, thoái hoá kh ớ p, gút m ạ n tính, viêm c ộ t s ố ng dính kh ớ p,  viêm kh ớ p v ả y n ế n... 
-
- 4.  Đ I Ề U TR Ị    
-
- 4.1. Nguyên t ắ c  Đ i ề u tr ị  toàn di ệ n, tích c ự c, dài h ạ n và theo dõi th ườ ng xuyên.   Các thu ố c  đ i ề u tr ị   c ơ  b ả n hay còn g ọ i là nhóm thu ố c DMARDs (Disease-modifying antirheumatic drugs)  kinh  đ i ể n (methotrexate, sulfasalazine, hydroxychloroquine...) có vai trò quan tr ọ ng  trong vi ệ c  ổ n  đị nh b ệ nh và c ầ n  đ i ề u tr ị  kéo dài. Các thu ố c sinh h ọ c còn  đượ c g ọ i là  DMARDs sinh h ọ c (kháng TNF  α , kháng Interleukin 6, kháng lympho B)  đượ c ch ỉ   đị nh  đố i v ớ i th ể  kháng  đ i ề u tr ị  v ớ i DMARDs kinh  đ i ể n, th ể  n ặ ng ho ặ c tiên l ượ ng n ặ ng. Khi  ch ỉ   đị nh các thu ố c sinh h ọ c, c ầ n có ý ki ế n c ủ a các bác s ỹ  chuyên khoa c ơ  x ươ ng kh ớ p và  th ự c hi ệ n  đ úng quy trình [làm các xét nghi ệ m t ầ m soát lao, viêm gan (virus B, C), ch ứ c  n ă ng gan th ậ n,  đ ánh giá ho ạ t tính b ệ nh b ằ ng ch ỉ  s ố  DAS 28, CDAI, SDAI…].   4.2.  Đ i ề u tr ị  c ụ  th ể    −   Đ i ề u tr ị  tri ệ u ch ứ ng:  nh ằ m c ả i thi ệ n tri ệ u ch ứ ng viêm, gi ả m  đ au, duy trì kh ả   n ă ng v ậ n  độ ng (tuy nhiên các thu ố c này không làm thay  đổ i  đượ c s ự  ti ế n tri ể n c ủ a b ệ nh).  +   Các thu ố c kháng viêm không steroid (KVKS- NSAIDs) .  Các thu ố c kháng viêm  ứ c ch ế  ch ọ n l ọ c COX2 ( đượ c ch ọ n l ự a  đầ u tiên vì th ườ ng  ph ả i s ử  d ụ ng dài ngày và ít có t ươ ng tác b ấ t l ợ i v ớ i methotrexat).   Celecoxib: 200mg, u ố ng 1  đế n 2 l ầ n m ỗ i ngày.      Ho ặ c Meloxicam: 15 mg tiêm (chích) b ắ p ho ặ c u ố ng ngày m ộ t l ầ n.  Ho ặ c Etoricoxib: 60 - 90 mg, ngày u ố ng m ộ t l ầ n.  Các thu ố c kháng viêm  ứ c ch ế  không ch ọ n l ọ c:   Diclofenac: u ố ng ho ặ c tiêm b ắ p: 75mg x 2 l ầ n/ngày trong 3 - 7 ngày. Sau  đ ó  u ố ng: 50 mg x 2 - 3 l ầ n/ ngày trong 4 - 6 tu ầ n.  Brexin (piroxicam + cyclodextrin) 20mg u ố ng hàng ngày.  Ho ặ c các thu ố c kháng viêm không steroid khác (li ề u t ươ ng  đươ ng).  L ư u ý :  khi dùng cho các b ệ nh nhân có y ế u t ố  nguy c ơ  có các tác d ụ ng không  mong mu ố n c ủ a thu ố c KVKS (NSAIDs) [b ệ nh nhân già y ế u, ti ề n s ử  (ti ề n c ă n) b ị  b ệ nh  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  13 lý d ạ  dày…] ho ặ c  đ i ề u tr ị  dài ngày, c ầ n theo dõi ch ứ c n ă ng th ậ n và b ả o v ệ  d ạ  dày b ằ ng  các thu ố c  ứ c ch ế  b ơ m proton.  +   Corticosteroids (Prednisolone, Prednisone, Methyl pre dni sol one)   Th ườ ng s ử  d ụ ng ng ắ n h ạ n trong lúc ch ờ   đợ i các thu ố c  đ i ề u tr ị  c ơ  b ả n có hi ệ u l ự c.  Ch ỉ   đị nh khi có  đợ t ti ế n tri ể n (tiêu chu ẩ n  đợ t ti ế n tri ể n xem  ở  ph ầ n Ph ụ  l ụ c).  Th ể  v ừ a: 16-32 mg methyl pre dni solon (ho ặ c t ươ ng  đươ ng), u ố ng hàng ngày vào 8  gi ờ  sáng, sau  ă n.  Th ể  n ặ ng: 40 mg methylprednison TM m ỗ i ngày.  Th ể  ti ế n tri ể n c ấ p, n ặ ng,  đ e do ạ  tính m ạ ng (viêm m ạ ch máu, bi ể u hi ệ n ngoài kh ớ p  n ặ ng): b ắ t  đầ u t ừ  500-1.000mg methyl pre dni sol one truy ề n TM trong 30-45 phút/ngày,  đ i ề u tr ị  3 ngày liên t ụ c. Sau  đ ó chuy ể n v ề  li ề u thông th ườ ng. Li ệ u trình này có th ể  l ặ p  l ạ i m ỗ i tháng n ế u c ầ n.  S ử  d ụ ng dài h ạ n (th ườ ng  ở  nh ữ ng b ệ nh nhân n ặ ng, ph ụ  thu ộ c corticoid ho ặ c có  suy th ượ ng th ậ n do dùng corticoid kéo dài): b ắ t  đầ u  ở  li ề u u ố ng: 20mg hàng ngày, vào 8  gi ờ  sáng. Khi  đạ t  đ áp  ứ ng lâm sàng và xét nghi ệ m, gi ả m d ầ n li ề u, duy trì li ề u th ấ p nh ấ t  (5 - 8mg hàng ngày ho ặ c cách ngày) ho ặ c ng ừ ng (n ế u có th ể ) khi  đ i ề u tr ị  c ơ  b ả n có hi ệ u  l ự c (sau 6-8 tu ầ n).    −   Đ i ề u tr ị  c ơ  b ả n b ằ ng các thu ố c ch ố ng th ấ p làm thay  đổ i ti ế n tri ể n c ủ a  b ệ nh  (Disease Modifying Anti Rheumatic Drug-DMARDs)  để  làm ch ậ m ho ặ c làm  ng ừ ng ti ế n tri ể n c ủ a b ệ nh, c ầ n  đ i ề u tr ị  lâu dài và theo dõi các tri ệ u ch ứ ng lâm sàng, c ậ n  lâm sàng trong su ố t th ờ i gian  đ i ề u tr ị ).   +   Th ể  m ớ i m ắ c và th ể  thông th ườ ng: s ử  d ụ ng các thu ố c DMARDs kinh  đ i ể n  methotrexat kh ở i  đầ u 10 mg m ộ t l ầ n m ỗ i tu ầ n. Tùy theo  đ áp  ứ ng mà duy trì li ề u cao  ho ặ c th ấ p h ơ n (7,5 - 15 mg) m ỗ i tu ầ n (li ề u t ố i  đ a là 20 mg/ tu ầ n).    Ho ặ c Sulfasalazin  kh ở i  đầ u 500 mg/ngày, t ă ng m ỗ i 500 mg m ỗ i tu ầ n, duy trì  ở   li ề u 1.000 mg x 2 l ầ n m ỗ i  ngày.  K ế t h ợ p: methotrexat v ớ i sulfasalazin ho ặ c hydroxychloroquine n ế u  đơ n tr ị  li ệ u  không hi ệ u qu ả .  K ế t h ợ p: methotrexat, sulfasalazin và hydroxychloroquine n ế u k ế t h ợ p trên không  hi ệ u qu ả .  +   Th ể  n ặ ng, kháng tr ị  v ớ i các DMARDs kinh  đ i ể n (không có  đ áp  ứ ng sau 6  tháng) c ầ n k ế t h ợ p v ớ i các thu ố c sinh h ọ c (các DMARDs sinh h ọ c).  Tr ướ c khi ch ỉ   đị nh các thu ố c sinh h ọ c, c ầ n làm các xét nghi ệ m  để  sàng l ọ c lao,  viêm gan, các xét nghi ệ m ch ứ c n ă ng gan th ậ n và  đ ánh giá m ứ c  độ  ho ạ t  độ ng b ệ nh (máu  l ắ ng ho ặ c CRP, DAS 28, HAQ).  K ế t h ợ p methotrexate và thu ố c kháng Interleukin 6 (tocilizumab):  Methotrexat 10 - 15 mg m ỗ i tu ầ n + tocilizumab  4 - 8mg/kg cân n ặ ng, t ươ ng  đươ ng 200 - 400mg  truy ề n TM m ỗ i tháng m ộ t l ầ n.  14 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-Ho ặ c k ế t h ợ p methotrexate và m ộ t trong b ố n lo ạ i thu ố c kháng TNF  α  sau:  Methotrexat 10-15 mg m ỗ i tu ầ n + etanercept 50mg tiêm d ướ i da m ỗ i tu ầ n m ộ t l ầ n.    Methotrexat 10-15mg m ỗ i tu ầ n + infliximab truy ề n TM 2-3mg/kg m ỗ i 4 - 8 tu ầ n.  Methotrexat 10-15mg m ỗ i tu ầ n +  adalimumab 40mg tiêm d ướ i da 2 tu ầ n m ộ t l ầ n.  Methotrexat 10-15mg m ỗ i tu ầ n + golimumab 50mg m ỗ i tháng 1 l ầ n - tiêm d ướ i da.  Ho ặ c k ế t h ợ p methotrexate và thu ố c kháng lympho B  (rituximab):  Methotrexat 10 - 15 mg m ỗ i tu ầ n + rituximab truy ề n TM 500 – 1000mg x 2 l ầ n,  cách 2 tu ầ n, có th ể  nh ắ c l ạ i m ộ t ho ặ c hai li ệ u trình m ỗ i n ă m.  Sau 3 – 6 tháng  đ i ề u tr ị , n ế u thu ố c sinh h ọ c th ứ  nh ấ t không hi ệ u qu ả , có th ể  xem  xét thu ố c sinh h ọ c th ứ  hai, t ươ ng t ự  nh ư  v ậ y, có th ể  xem xét thu ố c sinh h ọ c th ứ  ba khi  sau 3 – 6 tháng, thu ố c sinh h ọ c th ứ  hai không hi ệ u qu ả .  Các  đ i ề u tr ị  ph ố i h ợ p khác:  −   Các bi ệ n pháp h ỗ  tr ợ   +   T ậ p luy ệ n, h ướ ng d ẫ n v ậ n  độ ng ch ố ng co rút gân, dính kh ớ p, teo c ơ .   Trong  đợ t viêm c ấ p:  để  kh ớ p ngh ỉ   ở  t ư  th ế  c ơ  n ă ng, tránh kê,  độ n t ạ i kh ớ p. Khuy ế n  khích t ậ p ngay khi tri ệ u ch ứ ng viêm thuyên gi ả m, t ă ng d ầ n, t ậ p nhi ề u l ầ n trong ngày, c ả   ch ủ   độ ng và th ụ   độ ng theo  đ úng ch ứ c n ă ng sinh lý c ủ a kh ớ p.   +   Ph ụ c h ồ i ch ứ c n ă ng, v ậ t lý tr ị  li ệ u, t ắ m su ố i khoáng, ph ẫ u thu ậ t ch ỉ nh hình  (c ắ t x ươ ng s ử a tr ụ c, thay kh ớ p nhân t ạ o khi có ch ỉ   đị nh).  −   Phòng ng ừ a và  đ i ề u tr ị  các bi ế n ch ứ ng c ủ a  đ i ề u tr ị , các b ệ nh kèm theo:    +   Viêm, loét d ạ  dày tá tràng: c ầ n ch ủ   độ ng phát hi ệ n và  đ i ề u tr ị  vì trên 80% b ệ nh  nhân không có tri ệ u ch ứ ng lâm sàng.  +   Phòng ng ừ a (khi có các y ế u t ố  nguy c ơ ) và  đ i ề u tr ị  b ằ ng thu ố c  ứ c ch ế  b ơ m  proton, kèm thu ố c  đ i ề u tr ị  Helicobacter Pylori  (n ế u có nhi ễ m HP).   +   Khi s ử  d ụ ng cortisteroid b ấ t c ứ  li ề u nào trên 01 tháng, c ầ n b ổ  xung calci,  vitamin D  để  phòng ng ừ a loãng x ươ ng. N ế u b ệ nh nhân có nguy c ơ  loãng x ươ ng cao có  th ể  s ử  d ụ ng bisphosphonates. Khi  đ ã có loãng x ươ ng, tùy theo m ứ c  độ  loãng x ươ ng,  tu ổ i, gi ớ i và  đ i ề u ki ệ n c ụ  th ể  c ủ a ng ườ i b ệ nh mà l ự a ch ọ n các thu ố c phù h ợ p (th ườ ng là  bisphosphonate).  +   Thi ế u máu: acid folic, s ắ t, vitamin B12…  
-
- 5. THEO DÕI VÀ TIÊN L ƯỢ NG  −   B ệ nh nhân ph ả i  đượ c  đ i ề u tr ị  lâu dài và theo dõi trong su ố t quá trình  đ i ề u tr ị .   −   Xét nghi ệ m  đị nh k ỳ : t ế  bào máu ngo ạ i vi, t ố c  độ  máu l ắ ng, protein ph ả n  ứ ng C 
-
- (CRP), Creatinine, SGOT, SGPT 2 tu ầ n m ộ t l ầ n trong m ộ t tháng  đầ u, hàng tháng trong  3 tháng ti ế p theo, sau  đ ó có th ể  3 tháng m ộ t l ầ n, tùy theo  đ áp  ứ ng c ủ a ng ườ i b ệ nh.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  15  
-
-−   Xét nghi ệ m máu c ấ p, ch ụ p X quang ph ổ i … khi c ầ n, tùy theo di ễ n bi ế n c ủ a  b ệ nh.  −   Sinh thi ế t gan khi có nghi ng ờ  t ổ n th ươ ng gan (enzym gan t ă ng > 3 l ầ n  trong 3 l ầ n xét  nghi ệ m liên ti ế p). Tr ườ ng h ợ p enzym gan t ă ng g ấ p  đ ôi và kéo dài nên ng ừ ng Methotrexat.  −   Tiên l ượ ng n ặ ng khi: t ổ n th ươ ng viêm nhi ề u kh ớ p, b ệ nh nhân n ữ , y ế u t ố  d ạ ng  th ấ p RF và /ho ặ c Anti-CCP (+) t ỷ  giá cao, có các bi ể u hi ệ n ngoài kh ớ p, HLADR4 (+),  ho ạ t tính c ủ a b ệ nh (thông qua các ch ỉ  s ố : DAS 28, VS, CRP, HAQ… V ớ i nh ữ ng  tr ườ ng h ợ p này c ầ n  đ i ề u tr ị  tích c ự c ngay t ừ   đầ u và xem xét vi ệ c dùng các DMARDs  sinh h ọ c s ớ m.  6. PHÒNG B Ệ NH  −   Không có bi ệ n pháp phòng b ệ nh  đặ c hi ệ u, các can thi ệ p phòng ng ừ a ch ủ   độ ng  đố i v ớ i VKDT là nh ữ ng bi ệ n pháp chung nh ằ m nâng cao s ứ c kho ẻ , th ể  tr ạ ng bao g ồ m  ă n u ố ng, t ậ p luy ệ n và làm vi ệ c, tránh c ă ng th ẳ ng.    −   Phát hi ệ n và  đ i ề u tr ị  s ớ m các b ệ nh lý nhi ễ m trùng, các tình tr ạ ng r ố i lo ạ n mi ễ n  d ị ch.       MTX: methotrexate; SSZ: sulfasalazine; HCQ: hydroxy chloroquine    16 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  TÀI LI Ệ U THAM KH Ả O  1.   Asian Rheumatology Expert Advisory Council for Health. Rheumatology  News Vol. 1 No. 3 September 2011  2.   Jacobs J.W.G, Jurgens M.S, Welsing P.M.J. “ Overview and analysis of treat- to-target trials in rheumatoid arthritis reporting on remission ”. Clin Exp  Rheumatol 2012; 30 (Suppl. 73): S56-S63.  3.   Josef S Smolen, Robert Landewé, Ferdinand C Breedveld, et al. EULAR  recommendations for the management of rheumatoid arthritis with synthetic  and biological disease-modifying antirheumatic drugs: 2013 update. Published  online October 25, 2013 Ann Rheum Dis  4.   Michelle K.J., David A. Fox. “ Advances in the medical treatment of  rheumatoid arthritis”. Hand Clin; 27(1): 11-20, 2011 5.   Tak and Kalden. “ Advances in rheumatology: new targeted therapeutics ”.  Arthritis Research and Therapy, 13(Suppl. 1): S5, 2011                                  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  17  
-
-B Ệ NH LUPUS BAN  ĐỎ  H Ệ  TH Ố NG  (Systemic lupus erythematosus- SLE)    1.  ĐỊ NH  NGHĨ A  Lupus ban  đỏ  h ệ  th ố ng là b ệ nh lý c ủ a mô liên k ế t có t ổ n th ươ ng nhi ề u c ơ  quan do  h ệ  th ố ng mi ễ n d ị ch c ủ a c ơ  th ể  b ị  r ố i lo ạ n,  đặ c tr ư ng b ở i s ự  có m ặ t c ủ a kháng th ể  kháng  nhân và nhi ề u t ự  kháng th ể  khác. Các c ơ  quan th ườ ng b ị  t ổ n th ươ ng bao g ồ m kh ớ p, da,  th ậ n, t ế  bào máu, tim, ph ổ i, th ầ n kinh…  2. NGUYÊN NHÂN  Cho  đế n nay, nguyên nhân gây b ệ nh và c ơ  ch ế  b ệ nh sinh chính xác c ủ a lupus ban  đỏ  h ệ  th ố ng ch ư a  đượ c bi ế t rõ. C ơ  ch ế  b ệ nh sinh c ủ a b ệ nh là m ộ t quá trình ph ứ c t ạ p v ớ i  s ự  tham gia c ủ a nhi ề u y ế u t ố  nh ư  di truy ề n, mi ễ n d ị ch th ể  d ị ch, mi ễ n d ị ch t ế  bào và y ế u  t ố  môi tr ườ ng. M ộ t s ố  gen quy  đị nh ph ứ c h ợ p kháng nguyên phù h ợ p t ổ  ch ứ c nh ư  HLA- DR2,3,8, các gen mã hóa b ổ  th ể  C1q, C2, C4 và m ộ t s ố  cytokin có liên quan  đế n t ỷ  l ệ   m ắ c b ệ nh cao.  
-
- 3. CH Ẩ N  ĐOÁ N  
-
- 3.1. Lâm sàng:  ch ủ   y ế u g ặ p th ể  bán c ấ p   −   T ỉ  l ệ  m ắ c b ệ nh n ữ : nam= 9:1, ch ủ  y ế u  ở   độ  tu ổ i 20-30.  −   Kh ở i phát:  Đ a s ố  b ắ t  đầ u t ừ  t ừ , t ă ng d ầ n v ớ i s ố t dai d ẳ ng không rõ nguyên  nhân,  đ au kh ớ p ho ặ c viêm kh ớ p v ớ i bi ể u hi ệ n t ươ ng t ự  trong b ệ nh viêm kh ớ p d ạ ng th ấ p.  Có m ộ t s ố  y ế u t ố  thu ậ n l ợ i kh ở i phát b ệ nh: nhi ễ m trùng, ch ấ n th ươ ng, stress, thu ố c…   −   Toàn phát: t ổ n th ươ ng nhi ề u c ơ  quan:  +   Toàn thân: s ố t dai d ẳ ng kéo dài, m ệ t m ỏ i, g ầ y sút.   +   C ơ  x ươ ng kh ớ p:  đ au ho ặ c viêm các kh ớ p v ớ i bi ể u hi ệ n t ươ ng t ự  trong b ệ nh  viêm kh ớ p d ạ ng th ấ p song hi ế m khi bi ế n d ạ ng kh ớ p;  đ au c ơ . M ộ t s ố  hi ế m tr ườ ng h ợ p  có ho ạ i t ử  x ươ ng (th ườ ng g ặ p ho ạ i t ử  vô m ạ ch  đầ u trên x ươ ng  đ ùi).   +   Da niêm m ạ c: ban  đỏ  hình cánh b ướ m  ở  m ặ t (r ấ t th ườ ng g ặ p), ban d ạ ng  đĩ a  (g ặ p trong th ể  m ạ n tính), nh ạ y c ả m v ớ i ánh sáng (cháy, b ỏ ng, x ạ m da sau khi ti ế p xúc  v ớ i ánh n ắ ng), loét niêm m ạ c mi ệ ng, niêm m ạ c m ũ i, r ụ ng tóc, viêm mao m ạ ch d ướ i da..  +   Máu và c ơ  quan t ạ o máu: thi ế u máu do viêm, thi ế u máu huy ế t tán, ch ả y máu  d ướ i da (do gi ả m ti ể u c ầ u), lách to, h ạ ch to.  +   Th ầ n kinh tâm th ầ n: r ố i lo ạ n tâm th ầ n,  độ ng kinh...  18 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-+   Tu ầ n hoàn, hô h ấ p: th ườ ng g ặ p các tri ệ u ch ứ ng tràn d ị ch màng tim, màng ph ổ i,  t ă ng áp l ự c  độ ng m ạ ch ph ổ i, viêm ph ổ i k ẽ . Các tri ệ u ch ứ ng hi ế m g ặ p: viêm c ơ  tim,  viêm n ộ i tâm m ạ c , h ộ i ch ứ ng Raynaud, viêm t ắ c  độ ng m ạ ch, t ĩ nh m ạ ch...  +   Th ậ n: r ấ t th ườ ng g ặ p: protein ni ệ u, t ế  bào tr ụ  ni ệ u, h ộ i ch ứ ng th ậ n h ư , viêm  c ầ u th ậ n...  +   Gan: c ổ  tr ướ ng, r ố i lo ạ n ch ứ c n ă ng gan (hi ế m g ặ p).  +   M ắ t: gi ả m ti ế t n ướ c m ắ t (H ộ i ch ứ ng Sjogren), viêm giác m ạ c, viêm k ế t m ạ c,  viêm võng m ạ c.  3.2. C ậ n lâm sàng  −   Các xét nghi ệ m không  đặ c hi ệ u: t ế  bào máu ngo ạ i vi (gi ả m h ồ ng c ầ u, gi ả m  b ạ ch c ầ u, gi ả m ti ể u c ầ u), t ố c  độ  l ắ ng máu t ă ng,  đ i ệ n di huy ế t thanh ( γ  globulin t ă ng),  tìm th ấ y ph ứ c h ợ p mi ễ n d ị ch trong máu, ph ả n  ứ ng BW (+) gi ả …  −   Các xét nghi ệ m  đặ c hi ệ u: kháng th ể  kháng nhân (ANA), kháng th ể  kháng Ds- DNA, kháng th ể  ch ố ng các kháng nguyên hòa tan, kháng th ể  kháng h ồ ng c ầ u, kháng  lympho bào, kháng ti ể u c ầ u…, gi ả m b ổ  th ể , gi ả m t ỉ  l ệ  lympho bào so v ớ i t ế  bào B.  −   Sinh thi ế t các c ơ  quan t ổ n th ươ ng:  +   Sinh thi ế t da: l ắ ng  đọ ng globulin mi ễ n d ị ch IgM, IgG và b ổ  th ể  thành m ộ t l ớ p  th ượ ng bì và trung bì c ủ a da (+70%).  +   Th ậ n: viêm c ầ u th ậ n, dày màng  đ áy do l ắ ng  đọ ng IgG, IgM và b ổ  th ể .  +   Màng ho ạ t d ị ch kh ớ p: t ổ n th ươ ng g ầ n t ươ ng t ự  viêm kh ớ p d ạ ng th ấ p.  3.3. Ch ẩ n  đ oán xác  đị nh  Áp d ụ ng tiêu chu ẩ n c ủ a H ộ i Th ấ p h ọ c M ỹ  ACR 1982 (b ổ  sung và  đ i ề u ch ỉ nh n ă m  1997), g ồ m 11 y ế u t ố :  −   Ban  đỏ  hình cánh b ướ m  ở  m ặ t.  −   Ban  đỏ  d ạ ng  đĩ a  ở  m ặ t và than.  −   Nh ạ y c ả m v ớ i ánh sang.  −   Loét mi ệ ng ho ặ c m ũ i h ọ ng.  −   Viêm kh ớ p và  đ au kh ớ p không có phá h ủ y kh ớ p.  −   Viêm  đ a màng: màng ph ổ i, màng tim.  −   T ổ n th ươ ng th ậ n: protein ni ệ u > 500mg/24 gi ờ  ho ặ c 3+ (10 thông s ố  n ướ c ti ể u)  ho ặ c có tr ụ  t ế  bào (h ồ ng c ầ u, hemoglobin, tr ụ  h ạ t, t ế  bào  ố ng th ậ n ho ặ c h ỗ n h ợ p).  −   T ổ n th ươ ng th ầ n kinh: co gi ậ t ho ặ c các r ố i lo ạ n tâm th ầ n không do thu ố c và  các nguyên nhân khác nh ư  r ố i lo ạ n  đ i ệ n gi ả i, t ă ng urê máu, nhi ễ m toan ceton…  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  19  
-
-−   R ố i lo ạ n v ề  máu: (a) Thi ế u máu huy ế t tán có t ă ng h ồ ng c ầ u l ướ i, ho ặ c   3 3
-
- (b) Gi ả m b ạ ch c ầ u < 4.000/mm , ho ặ c (c) Gi ả m b ạ ch c ầ u lympho < 1.500/mm , ho ặ c  3
-
- (d) Gi ả m ti ể u c ầ u < 100.000/mm  không do thu ố c.  −   R ố i lo ạ n v ề  mi ễ n d ị ch:   +   Kháng th ể  kháng Ds-DNA (+), ho ặ c  +   Kháng th ể  kháng Sm (+), ho ặ c  +   Kháng th ể  kháng phospholipids (+) c ă n c ứ  vào: t ă ng kháng th ể  kháng  cardiolipin lo ạ i IgM ho ặ c IgG, lupus anticoagulant (+), test huy ế t thanh giang mai  d ươ ng tính gi ả  > 6 tháng có ki ể m ch ứ ng test c ố   đị nh Treponema Pallidum.  −   Kháng th ể  kháng nhân: hi ệ u giá cao theo tiêu chu ẩ n c ủ a phòng xét nghi ệ m và  không do s ử  d ụ ng các thu ố c trong danh m ụ c gây ra h ộ i ch ứ ng gi ả  Lupus.  Ch ẩ n  đ oán xác  đị nh khi có t ừ  4 y ế u t ố  tr ở  lên  G ầ n  đ ây,   n ă m 2012, nh ữ ng trung tâm c ộ ng tác qu ố c t ế  v ề  lupus h ệ  th ố ng n ă m  (Systemic International Collaborating Clinics - SLICC 2012)  đ ã  đư a ra tiêu chu ẩ n ch ẩ n  đ oán b ệ nh Lupus ban  đỏ  h ệ  th ố ng g ồ m:        1. Tiêu chu ẩ n lâm sàng                                        2. Tiêu chu ẩ n mi ễ n d ị ch  1.   Lupus da c ấ p  1. ANA  2.   Lupus da m ạ n  2. Anti-DNA  3.   Loét mi ệ ng hay m ũ i  3. Anti-Sm  4.   R ụ ng tóc không s ẹ o  4. KT Anti phospholipid   5.   Viêm kh ớ p                                                                  5. Gi ả m b ổ  th ể  (C3, C4)  6.   Viêm thanh m ạ c  6. Test Coombs tr ự c ti ế p                           7.   Th ậ n  (Không  đượ c tính khi có  8.   Th ầ n kinh  s ự  t ồ n t ạ i c ủ a thi ế u máu  9.   Thi ế u máu tan huy ế t  tan huy ế t)  10.   Gi ả m b ạ ch c ầ u  3 11. Gi ả m ti ể u c ầ u (<100.000/mm )  Ch ẩ n  đ oán lupus ban  đỏ  h ệ  th ố ng khi có   ≥  4 tiêu chu ẩ n (có ít nh ấ t m ộ t tiêu chu ẩ n  lâm sàng và m ộ t tiêu chu ẩ n c ậ n lâm sàng) ho ặ c b ệ nh th ậ n lupus  đượ c ch ứ ng minh trên  sinh thi ế t kèm v ớ i ANA ho ặ c anti-DNA.  3.4. Phân lo ạ i th ể   −   Th ể  c ấ p: t ổ n th ươ ng nhi ề u n ộ i t ạ ng và n ặ ng.  −   Th ể  m ạ n: ít t ổ n th ươ ng n ộ i t ạ ng, bi ể u hi ệ n ngoài da nh ẹ .  20 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Th ể  bán c ấ p: trung gian gi ữ a hai th ể  trên.  −   Th ể  h ỗ n h ợ p: h ộ i ch ứ ng Sharp: th ể  b ệ nh h ỗ n h ợ p gi ữ a lupus và x ơ  c ứ ng bì, có  các tri ệ u ch ứ ng: viêm nhi ề u kh ớ p, h ộ i ch ứ ng Raynaud, ngón tay hình khúc d ồ i, h ẹ p th ự c  qu ả n, viêm  đ a.   3.5. Ch ẩ n  đ oán phân bi ệ t  −   Th ấ p kh ớ p c ấ p.  −   Các b ệ nh thu ộ c nhóm b ệ nh mô liên k ế t khác: Viêm kh ớ p d ạ ng th ấ p, x ơ  c ứ ng bì  toàn th ể , viêm  đ a c ơ , viêm da c ơ …  −   Các b ệ nh lí c ủ a h ệ  t ạ o máu: suy t ủ y, xu ấ t huy ế t gi ả m ti ể u c ầ u các nguyên nhân  khác.   −   Các b ệ nh lí th ậ n, tim, ph ổ i m ạ n tính do các nguyên nhân khác. 
-
- 4.  Đ I Ề U  TRỊ  
-
- 4.1. Nguyên t ắ c chung  −   Đ ánh giá m ứ c  độ  n ặ ng c ủ a b ệ nh.  −   Đ i ề u tr ị  bao g ồ m: giai  đ o ạ n t ấ n công, c ủ ng c ố  và duy trì.  −   Cân nh ắ c c ẩ n th ậ n gi ữ a tác d ụ ng mong mu ố n và tác d ụ ng ph ụ  c ủ a m ỗ i lo ạ i thu ố c. 
-
- 4.2.  Đ i ề u tr ị  c ụ  th ể   −   Thu ố c kháng viêm không steroid: trong các tr ườ ng h ợ p lupus kèm viêm  đ au  kh ớ p, s ố t và viêm nh ẹ  các màng t ự  nhiên nh ư ng không kèm t ổ n th ươ ng các c ơ  quan l ớ n.  Nên tránh dùng  ở  các b ệ nh nhân viêm th ậ n  đ ang ho ạ t  độ ng.  −   Hydroxychloroquine 200mg/ngày  đ áp  ứ ng t ố t v ớ i các tr ườ ng h ợ p có ban, nh ạ y  c ả m v ớ i ánh sáng,  đ au ho ặ c viêm kh ớ p, bi ế n ch ứ ng  ở  m ắ t r ấ t hi ế m (theo dõi: khám m ắ t  1 l ầ n/n ă m).  −   Li ệ u pháp glucocorticoid: dùng  đườ ng toàn thân.  Ch ỉ   đị nh: lupus ban  đỏ  có  đ e d ọ a tính m ạ ng nh ư  có t ổ n th ươ ng th ầ n kinh, gi ả m  ti ể u c ầ u, thi ế u máu huy ế t tán ho ặ c lupus ban  đỏ  không  đ áp  ứ ng v ớ i các bi ệ n pháp  đ i ề u  tr ị  b ả o t ồ n.  Li ề u dùng:    +   1-2mg/kg  đườ ng u ố ng. Khi b ệ nh ki ể m soát t ố t, gi ả m li ề u prednisolone 10%  m ỗ i 7-10 ngày.  +   Dùng methyl pre dni sol one  đườ ng t ĩ nh m ạ ch 500mg m ỗ i 12 gi ờ  trong 3-5 ngày  đượ c dùng trong các tr ườ ng h ợ p t ổ n th ươ ng th ậ n ti ế n tri ể n nhanh, t ổ n th ươ ng th ầ n kinh  n ặ ng và gi ả m ti ể u c ầ u n ặ ng. Sau  đ ó chuy ể n sang dùng corticoid b ằ ng  đườ ng u ố ng và  gi ả m li ề u t ươ ng t ự  nh ư  trên.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  21  
-
-−   Li ệ u pháp dùng các thu ố c  ứ c ch ế  mi ễ n d ị ch khác:   Ch ỉ   đị nh: Lupus ban  đỏ  th ể  n ặ ng có kh ả  n ă ng  đ e d ọ a tính m ạ ng nh ư  viêm c ầ u th ậ n  c ấ p n ặ ng, có t ổ n th ươ ng th ầ n kinh, gi ả m ti ể u c ầ u và thi ế u máu huy ế t tán ho ặ c lupus  không  đ áp  ứ ng v ớ i corticoid ho ặ c xu ấ t hi ệ n tác d ụ ng ph ụ  n ặ ng c ủ a corticoid.  Li ề u dùng: có nhi ề u lo ạ i thu ố c có th ể  s ử  d ụ ng  đơ n  độ c ho ặ c ph ố i h ợ p v ớ i nhau,  ho ặ c v ớ i corticoid.  2 +   Cy clop hos ph amide: 0,5- 1g/m  da,  đườ ng t ĩ nh m ạ ch 3-4 tu ầ n/ l ầ n trong 6-7  tháng ho ặ c 1,0-5,0 mg/kg/ngày  đườ ng u ố ng. C ầ n ph ố i h ợ p v ớ i mesna (mercapto -  ethanesulphonic acid)  để  d ự  phòng bi ế n ch ứ ng t ạ i bàng quang.  +   Dapsone 100mg/ngày (ít s ử  d ụ ng).  +   Azathioprine (2-2,5mg/kg/ngày), mycophenolate mofetil (500-1500mg),  đ ây  là nhóm thu ố c hi ệ n  đ ang  đượ c  ư a chu ộ ng vì ít tác d ụ ng ph ụ , hi ệ u qu ả  cao, thích h ợ p v ớ i  các ph ụ  n ữ  còn  độ  tu ổ i sinh  đẻ , tuy nhiên giá thành t ươ ng  đố i cao.  +   Methotrexate 7,5-20 mg/tu ầ n.  +   Các thu ố c khác: leflunomide, li ệ u pháp hormon, thalidomide, truy ề n t ĩ nh  m ạ ch immunoglobulin li ề u cao…  +   Ch ế  ph ẩ m sinh h ọ c: rituximab (mab Thera) là thu ố c  ứ c ch ế  t ế  bào B v ớ i li ề u  m ỗ i n ă m m ộ t l ầ n g ồ m hai  đợ t m ỗ i  đợ t truy ề n hai l ầ n cách nhau hai tu ầ n v ớ i li ề u   500-1000mg/l ầ n.  C ầ n sàng l ọ c lao, viêm gan và các b ệ nh nhi ễ m khu ẩ n n ặ ng tr ướ c khi  đ i ề u tr ị  sinh h ọ c cho b ệ nh nhân lupus ban  đỏ  h ệ  th ố ng.  4.3.  Đ i ề u tr ị  không dùng thu ố c   Ch ủ  y ế u là  đố i v ớ i th ể  nh ẹ , bao g ồ m: ngh ỉ  ng ơ i, tránh ti ế p xúc tr ự c ti ế p v ớ i ánh  sáng, d ự  phòng nhi ễ m khu ẩ n, giáo d ụ c b ệ nh nhân hi ể u rõ v ề  b ệ nh.  M ộ t s ố  tr ườ ng h ợ p t ổ n th ươ ng suy th ậ n n ặ ng có th ể  ph ả i l ọ c máu ho ặ c ghép th ậ n. 
-
- 5. TI Ế N TRI Ể N- BI Ế N CH Ứ NG 
-
- 5.1. Ti ế n tri ể n  −   Th ể  c ấ p: ti ế n tri ể n nhanh và t ử  vong sau vài tháng.  −   Th ể  m ạ n: ti ế n tri ể n ch ậ m, tiên l ượ ng t ố t.  −   Th ể  bán c ấ p: ti ế n tri ể n t ừ ng  đợ t, ngày càng n ặ ng d ầ n. B ệ nh n ặ ng thêm n ế u có  thai, nhi ễ m khu ẩ n, ch ấ n th ươ ng, ph ẫ u thu ậ t, stress, l ạ m d ụ ng thu ố c. Th ờ i gian s ố ng  trung bình 5 - 10 n ă m.  −   H ộ i ch ứ ng Sharp: ít bi ể u hi ệ n  ở  n ộ i t ạ ng nên tiên l ượ ng t ố t h ơ n.  22 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  5.2. Bi ế n ch ứ ng  Nhi ễ m trùng c ơ  h ộ i, suy th ậ n m ạ n, t ổ n th ươ ng não - m ạ ch máu… 
-
- 6. PHÒNG B Ệ NH  −   C ẩ n th ậ n khi s ử  d ụ ng m ộ t s ố  thu ố c d ễ  gây m ẫ n c ả m, nh ấ t là kháng sinh nh ư   procainamide, hydralazine, minocycline, diltiazem, penicillamine, INH, quinidine,  methyldopa….  −   Đề  phòng các  đợ t nhi ễ m khu ẩ n.    TÀI LI Ệ U THAM KH Ả O  1.   Anisur Rhaman và CS (2008),  “Mechanism of SLE”,  The New England  journal of medicine, pp.929-939 2.   John H. Klippel và CS (2008),  “Systemic Lupus Erythematosus”,  Primer on  the rheumatic diseases, edition 13, pp. 303-338.  3.   H ồ  V ă n L ộ c (2009),  “Giáo trình chuyên ngành c ơ  x ươ ng kh ớ p ”  Đạ i h ọ c Y  D ượ c Hu ế , tr. 60-67.  4.   Nguy ễ n V ĩ nh Ng ọ c (2009), “ Ch ẩ n  đ oán và  đ i ề u tr ị  nh ữ ng b ệ nh c ơ  x ươ ng  kh ớ p ”, Nhà xu ấ t b ả n Y h ọ c, tr. 124-137.  5.   Subramanian Shankar, M ạ  Abhishek Pathak,  “Redefining Lupus in 2012”,   Chapter 99.6.2012 SLICC SLE Criteria.Rheum Tutor.com          H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  23  
-
-B Ệ NH X Ơ  C Ứ NG BÌ TOÀN TH Ể   (Systemic scleroderma)  1.  ĐỊ NH NGH Ĩ A  X ơ  c ứ ng bì toàn th ể  là m ộ t b ệ nh h ệ  th ố ng ch ư a rõ nguyên nhân v ớ i  đặ c  đ i ể m gi ả m  độ   đ àn h ồ i, x ơ  c ứ ng  ở  da, t ổ n th ươ ng vi m ạ ch và t ổ n th ươ ng các c ơ  quan n ộ i t ạ ng (ch ủ   y ế u  ở   đườ ng tiêu hóa, m ạ ch máu, tim, ph ổ i, th ậ n). X ơ  c ứ ng bì toàn th ể  là m ộ t b ệ nh t ự   mi ễ n d ị ch g ặ p ch ủ  y ế u  ở  n ữ  gi ớ i, chi ế m 80% và th ườ ng g ặ p  ở   độ  tu ổ i t ừ  40  đế n 50 tu ổ i.   B ệ nh có t ầ n su ấ t g ặ p nhi ề u h ơ n  ở  qu ầ n th ể  ng ườ i da  đ en v ớ i t ỷ  l ệ  290/1 tri ệ u dân, và t ỷ   l ệ  này  ở  ng ườ i châu Âu và B ắ c M ỹ  là 130-140/1 tri ệ u dân  2. NGUYÊN NHÂN  Nguyên nhân c ủ a b ệ nh x ơ  c ứ ng bì ch ư a  đượ c bi ế t rõ nh ư ng  đ ây là b ệ nh t ự  mi ễ n  d ị ch v ớ i s ự  hi ệ n di ệ n c ủ a các t ự  kháng th ể  nh ư  kháng th ể  kháng nhân (DNA), kháng th ể   anticentromer antibody (ACA), kháng th ể  Scl-70 và s ự  tác  độ ng c ủ a các y ế u t ố  nh ư  n ộ i  ti ế t, môi tr ườ ng, di truy ề n.   
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Lâm sàng  −   B ệ nh th ườ ng b ắ t  đầ u âm th ầ m trong m ộ t th ờ i gian dài v ớ i tri ệ u ch ứ ng chính là  h ộ i ch ứ ng Raynaud do tình tr ạ ng co th ắ t các ti ể u  độ ng m ạ ch ho ặ c  độ ng m ạ ch t ạ i các  đầ u chi nh ư  ngón tay, ngón chân xu ấ t hi ệ n khi ti ế p xúc v ớ i nhi ệ t  độ  l ạ nh ho ặ c khi thay  đổ i c ả m xúc m ạ nh v ớ i s ự  thay  đổ i màu da  ở   đầ u chi theo ba m ứ c  độ : nh ợ t nh ạ t, xanh tái,  đỏ  tím. H ộ i ch ứ ng Raynaud g ặ p  ở  90-98% b ệ nh nhân x ơ  c ứ ng bì toàn th ể  và th ườ ng  xu ấ t hi ệ n tr ướ c các t ổ n th ươ ng da hàng tháng ho ặ c hàng n ă m.  −   T ổ n th ườ ng da: th ườ ng b ắ t  đầ u t ừ  các ngón tay (ngón tay và bàn tay s ư ng to)  có hi ệ n t ượ ng d ầ y da, c ứ ng da ti ế n tri ể n lan d ầ n lên c ẳ ng tay, cánh tay, m ặ t, ph ầ n trên  c ủ a c ổ , ng ự c, b ụ ng… T ổ n th ươ ng c ứ ng da ngày càng ti ế n tri ể n n ặ ng làm b ệ nh nhân khó  c ử   độ ng.  Da b ị  m ấ t s ắ c t ố  (hay g ặ p  ở  phía mu bàn tay, vùng c ổ , ng ự c. l ư ng). Có hi ệ n  t ượ ng l ắ ng  đọ ng calci t ạ i các mô m ề m gây tình tr ạ ng ng ứ a, loét các vùng da lân c ậ n. Da  m ấ t n ế p nh ă n (rõ nh ấ t  ở  m ặ t) làm b ệ nh nhân gi ả m kh ả  n ă ng bi ể u hi ệ n tình c ả m trên nét  m ặ t và khó há m ồ m.  −   T ổ n th ươ ng loét, ho ạ i t ử  t ạ i các  đầ u chi do h ộ i ch ứ ng Raynaud kéo dài.  −   H ộ i ch ứ ng CREST: ph ố i h ợ p các tri ệ u ch ứ ng calci hóa (Calcinosis), co th ắ t  th ự c qu ả n (Esophalageal), h ộ i ch ứ ng Raynaud (Raynaud), x ơ  c ứ ng da ngón,  đầ u chi  (Sclero-dactylic) và giãn các  độ ng m ạ ch (Telangiectasis).  −   Kho ả ng 50-70% b ệ nh nhân có tri ệ u ch ứ ng v ề  kh ớ p:  đ au nhi ề u kh ớ p ch ủ  y ế u là  các kh ớ p  ở  chi trên có th ể  có viêm các kh ớ p nh ư ng không có di ch ứ ng bi ế n d ạ ng kh ớ p.  24 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   T ổ n th ươ ng th ự c qu ả n g ặ p  ở  50-60% b ệ nh nhân v ớ i các tri ệ u ch ứ ng: c ả m giác  nóng rát,  đầ y phía sau x ươ ng  ứ c, tri ệ u ch ứ ng trào ng ượ c d ạ  d ầ y, x ơ  c ứ ng và co th ắ t th ự c  qu ả n làm b ệ nh nhân khó nu ố t (nh ấ t là v ớ i th ứ c  ă n  đặ c).  −   T ổ n th ươ ng ph ổ i hay g ặ p nh ấ t là x ơ  ph ổ i: b ệ nh nhân ho khan, khó th ở  khi g ắ ng  s ứ c.  Nghe ph ổ i có ran rít ho ặ c ran  ẩ m khi có b ộ i nhi ễ m ph ổ i.  Có th ể  có tràn d ị ch màng  ph ổ i v ớ i l ượ ng d ị ch ít.  −   B ệ nh nhân có nh ị p tim nhanh, ho ặ c r ố i lo ạ n nh ị p tim v ớ i nhi ề u m ứ c  độ  khác  nhau. Có th ể  có suy tim, ép tim khi có t ă ng áp l ự c  độ ng m ạ ch ph ổ i nhi ề u.   −   T ổ n th ươ ng th ậ n: suy th ậ n.  3.2. C ậ n lâm sàng  −   Bilan viêm d ươ ng tính: t ă ng t ố c  độ  l ắ ng máu, t ă ng protein C ph ả n  ứ ng (CRP).  −   Thi ế u máu không ph ụ c h ồ i do quá trình viêm m ạ n tính, suy th ậ n…  −   Xét nghi ệ m sinh hóa: ch ứ c n ă ng gan, th ậ n… có th ể  thay  đổ i khi có t ổ n th ươ ng  gan, th ậ n  −   Xét nghi ệ m mi ễ n d ị ch: kháng th ể  kháng nhân d ươ ng tính  ở  30-70% b ệ nh nhân  m ắ c b ệ nh x ơ  x ứ ng bì toàn th ể .  −   Ch ụ p tim ph ổ i và ch ụ p c ắ t l ớ p vi tính ph ổ i có th ể  có các t ổ n th ươ ng: tràn d ị ch  màng ph ổ i, t ổ n th ươ ng ph ổ i k ẽ  ho ặ c x ơ  ph ổ i  ở  các m ứ c  độ  khác nhau.  −   Đ i ệ n tim: phát hi ệ n các r ố i lo ạ n nh ị p tim.  −   Siêu âm tim:  đ ánh giá ch ứ c n ă ng tim, tràn d ị ch màng tim và  đ o áp l ự c  độ ng  m ạ ch ph ổ i.  −   Siêu âm  ổ  b ụ ng.  −   Soi mao m ạ ch các  đầ u chi: th ấ y gi ả m s ố  l ượ ng và co th ắ t các mao m ạ ch  đầ u chi.  3.3. Ch ẩ n  đ oán xác  đị nh   Tiêu chu ẩ n ch ẩ n  đ oán x ơ  c ứ ng bì toàn th ể  c ủ a H ộ i Th ấ p kh ớ p h ọ c M ỹ  (ACR)  n ă m 1980 (v ớ i  độ  nh ậ y 97% và  độ   đặ c hi ệ u 98%)  đượ c áp d ụ ng r ộ ng rãi nh ấ t trên th ự c  hành lâm sàng g ồ m có các tiêu chí chính và ph ụ :   −   Tiêu chí chính: x ơ  c ứ ng da lan t ỏ a.   −   Tiêu chí ph ụ :   +   X ơ  c ứ ng da  đầ u chi.  +   S ẹ o  ở  ngón tay ho ặ c v ế t loét ho ạ i t ử   ở   đầ u chi.  +   X ơ  ph ổ i vùng  đ áy.  B ệ nh x ơ  c ứ ng bì  đượ c ch ẩ n  đ oán khi có tiêu chí chính ho ặ c có 2/3 tiêu chí ph ụ .    H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  25  
-
-Ngoài ra còn có tiêu chu ẩ n ABCDCREST ch ẩ n  đ oán x ơ  c ứ ng bì (U F Hanstein - H ộ i Da li ễ u  Đứ c) c ũ ng  đượ c áp d ụ ng trên lâm sang.  A. Các t ự  kháng th ể  ( A utoantibodies): t ự  kháng th ể  v ớ i protein dây t ơ  
-
- (autoantibodies to centromere proteins CENPs), kháng th ể  Scl-70.  B. X ơ  ph ổ i vùng  đ áy ( B ibasilar pulmonary)  C. C ứ ng kh ớ p và h ạ n ch ế  v ậ n  độ ng kh ớ p ( C ontracture of the joints)  D. X ơ  c ứ ng da ( D ermal thickening)  C. Calci hóa  đầ u chi ( C alcinosis on the fingers)  R. H ộ i ch ứ ng Raynaud ( R aynaud’s phenomenon)  E. R ố i lo ạ n v ậ n  độ ng th ự c qu ả n ( E sophalageal distal hypomotility).  S. X ơ  hóa da  đầ u chi ( S clerodactyly)  T. Dãn m ạ ch da  ở   đầ u chi, m ặ t, môi, l ưỡ i ( T eleangiectasias)  Ch ẩ n  đ oán x ơ  c ứ ng bì khi có > 3 tiêu chí trên.  
-
- 3.4. Ch ẩ n  đ oán th ể  lâm sàng  −   X ơ  c ứ ng bì th ể  lan t ỏ a: v ớ i các tri ệ u ch ứ ng x ơ  c ứ ng da lan t ỏ a toàn thân, h ộ i  ch ứ ng Raynaud, t ổ n th ươ ng các n ộ i t ạ ng.  −   X ơ  c ứ ng bì th ể  khu trú: H ộ i ch ứ ng CREST (Calcinosis, Raynaud , Esophageal,  Sclerodactyly, Teleangiectasia): bao g ồ m các bi ể u hi ệ n: calci hóa t ổ  ch ứ c d ướ i da  ở   đầ u  chi, h ộ i ch ứ ng Raynaud, t ổ n th ươ ng th ự c qu ả n, x ơ  c ứ ng da  đầ u ngón, và dãn m ạ ch da.  −   H ộ i ch ứ ng ph ố i h ợ p c ủ a b ệ nh x ơ  c ứ ng bì và các b ệ nh t ự  mi ễ n d ị ch khác nh ư   lupus ban  đỏ  h ệ  th ố ng, viêm da c ơ , viêm kh ớ p d ạ ng th ấ p (Overlap syndrome). 
-
- 3.5. Ch ẩ n  đ oán phân bi ệ t  −   Lupus ban  đỏ  h ệ  th ố ng  −   Viêm kh ớ p d ạ ng th ấ p.  −   Viêm da c ơ  
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c  đ i ề u tr ị   Hi ệ n nay ch ư a có ph ươ ng pháp ho ặ c thu ố c  đ i ề u tr ị  kh ỏ i b ệ nh nên ch ủ  y ế u  đ i ề u tr ị   b ệ nh x ơ  c ứ ng bì là  đ i ề u tr ị  tri ệ u ch ứ ng nh ằ m ki ể m soát  đợ t ti ế n tri ể n c ủ a b ệ nh,  đ i ề u tr ị   bi ế n ch ứ ng và h ạ n ch ế  các bi ế n ch ứ ng c ủ a b ệ nh.  4.2. H ướ ng d ẫ n  đ i ề u tr ị   −   Đ i ề u tr ị  không dùng thu ố c:  26 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-+   Giáo d ụ c s ứ c kh ỏ e cho ng ườ i b ệ nh  để  b ệ nh nhân có nh ậ n th ứ c v ề  b ệ nh lý x ơ   c ứ ng bì và các thu ố c  đ i ề u tr ị   để   đả m b ả o tuân th ủ   đ i ề u tr ị  b ệ nh.  +   Ki ể m soát tình tr ạ ng Raynaud: b ệ nh nhân m ặ c  ấ m,  đ i g ă ng tay, t ấ t chân, không  hút thu ố c lá, không s ử  d ụ ng các thu ố c có tính ch ấ t co m ạ ch (amphetamin, ergotamin…).  +   Dùng các lo ạ i xà phòng tránh khô da, xoa kem làm m ề m da, xoa bóp da  th ườ ng xuyên.  Không nên l ạ m d ụ ng m ỹ  ph ẩ m dùng trên da..  +   Ki ể m soát tình tr ạ ng trào ng ượ c th ự c qu ả n: b ệ nh nhân nên  ă n thành nhi ề u b ữ a  nh ỏ , không  ă n quá no, nên n ằ m  đầ u cao, không n ằ m ngay sau khi  ă n, tránh l ạ m d ụ ng cà  phê, thu ố c lá và các ch ấ t kích thích khác.  −   H ướ ng d ẫ n t ậ p th ể  d ụ c phù h ợ p v ớ i tình tr ạ ng s ứ c kh ỏ e, t ậ p th ở  và xoa bóp  toàn thân th ườ ng xuyên.   4.3.  Đ i ề u tr ị  các tri ệ u ch ứ ng và h ộ i ch ứ ng b ệ nh  −   Tri ệ u ch ứ ng  ở  da (Calci hóa da, x ơ  c ứ ng da..): d-penicillamin, colchicin,  interferon gama, kem gi ữ   ẩ m da, thu ố c  ứ c ch ế  histamin H1.  −   Các tri ệ u ch ứ ng x ươ ng kh ớ p: v ậ t lý tr ị  li ệ u và v ậ n  độ ng li ệ u pháp, thu ố c gi ả m  đ au, thu ố c ch ố ng viêm không steroid.  −   H ộ i ch ứ ng m ạ ch (Raynaud):  ủ   ấ m  đầ u chi, v ậ t lý tr ị  li ệ u, thu ố c giãn m ạ ch  ngo ạ i vi, nhóm thu ố c ch ẹ n kênh calci...  −   T ổ n th ươ ng n ộ i t ạ ng (h ộ i ch ứ ng d ạ  dày, th ự c qu ả n, t ă ng áp l ự c  độ ng m ạ ch  ph ổ i, x ơ  ph ổ i...): nhóm thu ố c corticosteroid, nhóm thu ố c  ứ c ch ế  mi ễ n d ị ch, thu ố c  ứ c ch ế   b ơ m proton ...  4.4.   Đ i ề u tr ị  c ụ  th ể   −   Đ i ề u tr ị  không dùng thu ố c: ch ế   độ   ă n giàu protein và vitamin, không hút thu ố c  lá, gi ữ   ấ m bàn tay, bàn chân.   Đ i ề u tr ị  v ậ n  độ ng li ệ u pháp và v ậ t lý tr ị  li ệ u (nhi ệ t tr ị  li ệ u  ở  các  đầ u chi, ngâm bùn ho ặ c ngâm n ướ c khoáng vùng da b ị  x ơ  c ứ ng).  Dùng kem gi ữ   ẩ m da, ánh sáng tr ị  li ệ u...  −   Đ i ề u tr ị  b ằ ng thu ố c:  +   Đ i ề u tr ị  h ộ i ch ứ ng Raynaud: thu ố c ch ẹ n kênh calci (nifedipin 10mg/ngày),  buflomedil chlohydrat (150-300mg/ngày), ginkgo biloba (40-80mg/ngày).  +   Đ i ề u tr ị  x ơ  c ứ ng da và calci hóa  ở  da: d-penicillamin 150- 300mg/ngày,  Colchicin (1mg/ngày), thu ố c  ứ c ch ế  histamin H1, Relaxin (0,25-1mg/kg/ngày).  +   Đ i ề u tr ị  ch ứ ng trào ng ượ c d ạ  dày: nhóm thu ố c  ứ c ch ế  b ơ m proton (20- 40mg/ngày).   +   Đ i ề u tr ị  t ổ n th ươ ng x ươ ng kh ớ p: thu ố c ch ố ng viêm không steroid diclofenac  50-100mg/ngày, meloxicam 7,5-15mg/ngày, celecocib 200mg/ngày. C ầ n l ư u ý các tác  d ụ ng ph ụ  c ủ a thu ố c trên h ệ  th ố ng d ạ  dày, ru ộ t.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  27  
-
-+   Đ i ề u tr ị  t ă ng áp l ự c  độ ng m ạ ch ph ổ i: prostacyclin (khí dung v ớ i li ề u  0,5mg/kg/ngày, ho ặ c u ố ng v ớ i li ề u 0,05mg/ngày), thu ố c  ứ c ch ế  th ụ  th ể  endothelin,  ch ẳ ng h ạ n nh ư  bosentan (62,5mg x 2 l ầ n/ngày), sildenafil (50-100mg/ngày), thu ố c  ứ c  ch ế  men chuy ể n.  +   Các thu ố c  ứ c ch ế  mi ễ n d ị ch:  Áp d ụ ng  đ i ề u tr ị  cho các b ệ nh nhân x ơ  c ứ ng bì có t ổ n th ươ ng m ạ ch nhi ề u, có nguy c ơ   ho ạ i t ử   đầ u chi ho ặ c có t ổ n th ươ ng ph ổ i k ẽ  ... có th ể  dùng m ộ t trong các thu ố c sau:  Corticosteroid (prednisolon 10-60mg/ngày), không nên  đ i ề u tr ị  corticoid li ề u cao  và kéo dài. C ầ n th ậ n tr ọ ng khi s ử  d ụ ng corticosteroid cho b ệ nh nhân x ơ  c ứ ng bì vì nguy  c ơ  có th ể  xu ấ t hi ệ n b ệ nh lý th ậ n c ấ p (renal crisis),  đặ c bi ệ t khi dùng li ề u cao.  Azathioprin :1,5-3mg/ngày  Cyclophosphamide: 3-6mg/kg/ngày (Có th ể  dùng  đườ ng u ố ng ho ặ c truy ề n t ĩ nh m ạ ch)  Cyclosporin A: 50-100mg/ngày  Mycophenolate mofetil: 250-500mg/ngày.  Ph ươ ng pháp l ọ c huy ế t t ươ ng  để  lo ạ i b ỏ  các ph ứ c h ợ p mi ễ n d ị ch trong các tr ườ ng  h ợ p ti ế n tri ể n n ặ ng.  −   Đ i ề u tr ị  ngo ạ i khoa:  Ch ỉ   đị nh  đ i ề u tr ị  ngo ạ i khoa c ắ t b ỏ  ph ầ n chi ho ạ i t ử  khi  đ i ề u tr ị  n ộ i khoa không  k ế t qu ả .  5.  TI Ế N TRI Ể N VÀ TIÊN L ƯỢ NG  B ệ nh th ườ ng ti ế n tri ể n m ạ n tính và có các  đợ t ti ế n tri ể n làm b ệ nh n ặ ng lên.  B ệ nh nhân x ơ  c ứ ng bì ch ỉ  có t ổ n th ươ ng da có tiên l ượ ng t ố t h ơ n b ệ nh nhân x ơ   c ứ ng bì có các t ổ n th ươ ng n ộ i t ạ ng.  Tiên l ượ ng b ệ nh và tu ổ i th ọ  ng ườ i b ệ nh ph ụ  thu ộ c nhi ề u vào vi ệ c ch ẩ n  đ oán,  đ i ề u  tr ị  b ệ nh s ớ m và các t ổ n th ươ ng n ộ i t ạ ng nh ư  x ơ  ph ổ i, t ă ng áp l ự c  độ ng m ạ ch ph ổ i, suy  tim, suy th ậ n.   6. THEO DÕI VÀ QU Ả N LÝ B Ệ NH NHÂN  −   B ệ nh nhân  đượ c theo dõi và qu ả n lý ngo ạ i trú, khám  đị nh k ỳ  1-3 tháng/l ầ n tùy  theo tình tr ạ ng b ệ nh và ti ế n tri ể n c ủ a b ệ nh.  −   C ầ n khám và  đ ánh giá các tri ệ u ch ứ ng lâm sàng: tình tr ạ ng x ơ  c ứ ng da, h ộ i  ch ứ ng Raynaud, các  đ i ể m ho ạ i t ử   đầ u chi, tình tr ạ ng r ố i lo ạ n nhu  độ ng th ự c qu ả n, tình  tr ạ ng khó th ở , tình tr ạ ng nhi ễ m khu ẩ n.   −   Các xét nghi ệ m c ầ n ch ỉ   đị nh m ỗ i l ầ n tái khám:  +   Xét nghi ệ m t ế  bào máu ngo ạ i vi, t ố c  độ  máu l ắ ng.  +   Ch ứ c n ă ng gan, th ậ n.  28 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-+   T ổ ng phân tích n ướ c ti ể u.  +   Ch ụ p tim ph ổ i (ch ụ p CT scaner ph ổ i trong tr ườ ng h ợ p nghi ng ờ  có t ổ n th ươ ng  ph ổ i k ẽ , x ơ  ph ổ i...).  +   Siêu âm tim và  đ o áp l ự c  độ ng m ạ ch ph ổ i.  −   B ệ nh x ơ  c ứ ng bì ch ư a rõ nguyên nhân nên vi ệ c phòng b ệ nh ch ủ  y ế u là phòng  các bi ế n ch ứ ng c ủ a b ệ nh.    TÀI LI Ệ U THAM KH Ả O  1.   Bách khoa toàn th ư  b ệ nh h ọ c (2000). Nhà xu ấ t b ả n t ừ   đ i ể n Bách khoa Hà  N ộ i. T ậ p 2, 490-494.  2.   Hinchcliff M, Varga J (October 2008).  "Systemic sclerosis/scleroderma: a  treatable multisystem disease" . Am Fam Physician 78 (8): 961–8  3.   Klippel, John H.. Primer On the Rheumatic Diseases 11ED. Atlanta, GA:  Arthritis Foundation.  4.   Steen VD (2005).  "The lung in systemic sclerosis".  Journal of clinical  rheumatology 11 (1): 40–6.   5.   Sallam H, McNearney TA, Chen JD (2006). " Systematic review:  pathophysiology and management of gastrointestinal dysmotility in systemic  sclerosis (scleroderma)" . Aliment. Pharmacol. Ther. 23 (6): 691–712.            H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  29  
-
-B Ệ NH STILL  Ở  NG ƯỜ I L Ớ N  (Adult onset Still’s disease-AOSD)  1.  ĐẠ I C ƯƠ NG  B ệ nh Still  ở  ng ườ i l ớ n là m ộ t b ệ nh viêm h ệ  th ố ng ch ư a rõ nguyên nhân. B ệ nh  đượ c George Still  đề  c ậ p vào n ă m 1897 khi mô t ả  các tri ệ u ch ứ ng b ệ nh  ở  b ệ nh nhân là  tr ẻ  em nên b ệ nh này  đượ c mang tên ông là b ệ nh Still,  đế n nay b ệ nh  đượ c xác nh ậ n là có  th ể  kh ở i phát  ở  ng ườ i l ớ n vì v ậ y có tên g ọ i là b ệ nh Still  ở  ng ườ i l ớ n  để  phân bi ệ t v ớ i  b ệ nh Still x ẩ y ra  ở  tr ẻ  em. B ệ nh nguyên c ủ a b ệ nh Still  ở  ng ườ i l ớ n hi ệ n nay ch ư a rõ,  nghiên c ứ u v ề  di truy ề n h ọ c cho th ấ y b ệ nh này có liên quan v ớ i h ệ  th ố ng HLA-B17,  B18, B35 và DR2 và các s ả n ph ẩ m cytokine gi ữ  vai trò quan tr ọ ng trong b ệ nh sinh c ủ a  b ệ nh Still’s  ở  ng ườ i l ớ n nh ư  IFN gama, IL-6, TNF alpha.  B ệ nh Still  ở  ng ườ i l ớ n có các tri ệ u ch ứ ng lâm sàng và c ậ n lâm sàng không  đặ c  hi ệ u nên b ệ nh nhân hay b ị  ch ẩ n  đ oán mu ộ n và  đ i ề u tr ị  không  đ úng t ạ i các c ơ  s ở  y t ế .  2. LÂM SÀNG      Các  đặ c  đ i ể m lâm sàng n ổ i b ậ t c ủ a b ệ nh Still  ở  ng ườ i l ớ n là s ố t cao có  đỉ nh,  đ au  kh ớ p ho ặ c viêm kh ớ p, có các ban ngoài da.  B ệ nh có th ể  x ẩ y ra  ở  b ấ t c ứ  l ứ a tu ổ i nào tuy  nhiên b ệ nh ít g ặ p  ở  ng ườ i cao tu ổ i.  2.1. S ố t  o B ệ nh nhân th ườ ng s ố t cao trên 39 C kéo dài ít nh ấ t là 4 gi ờ .  S ố t cao hàng ngày  ho ặ c s ố t cách nh ậ t và th ườ ng s ố t v ề  chi ề u t ố i và sáng s ớ m. S ố t cao không có các bi ể u  hi ệ n nhi ễ m trùng, và có th ể  kèm theo các tri ệ u ch ứ ng: viêm thanh m ạ c,  đ au h ọ ng,  đ au  c ơ ,  đ au kh ớ p.  Đ a s ố  b ệ nh nhân xu ấ t hi ệ n s ố t sau  đ ó m ớ i xu ấ t hi ệ n  đ au các kh ớ p. S ố t  th ườ ng kéo dài trong nhi ề u tu ầ n liên t ụ c làm b ệ nh nhân g ầ y sút, suy ki ệ t nên d ễ  b ị  ch ẩ n  đ oán nh ầ m v ớ i các b ệ nh máu ác tính, b ệ nh nhi ễ m khu ẩ n ho ặ c b ệ nh h ệ  th ố ng.  2.2. Ban  ở  da  Ban không c ố   đị nh có m ầ u “cá h ồ i” th ườ ng xu ấ t hi ệ n  ở  g ố c chi, l ư ng, hi ế m khi  ban xu ấ t hi ệ n  ở  m ặ t,  đầ u chi. B ệ nh nhân có th ể  có c ả m giác ng ứ a nh ẹ  t ạ i n ơ i phát ban  nên nhi ề u khi nh ầ m v ớ i ban d ị   ứ ng thu ố c. Các ban th ườ ng xu ấ t hi ệ n trong khi s ố t cao và  bi ế n m ấ t khi h ế t c ơ n s ố t.  2.3.  Đ au kh ớ p và viêm kh ớ p  G ặ p v ớ i t ỷ  l ệ  60-100%. V ị  trí kh ớ p hay g ặ p là kh ớ p g ố i, kh ớ p c ổ  tay, kh ớ p c ổ   chân, kh ớ p khu ỷ u tay, kh ớ p vai. Trong b ệ nh Still  ở  ng ườ i l ớ n các kh ớ p viêm không b ị   bi ế n d ạ ng, b ị  dính kh ớ p hay b ị  l ệ ch tr ụ c nh ư  b ệ nh viêm kh ớ p d ạ ng th ấ p. Kh ớ p viêm ti ế n  tri ể n t ừ ng  đợ t kèm theo s ố t cao, có th ể  có tràn d ị ch kh ớ p g ố i.  2.4.  Đ au c ơ   G ặ p v ớ i t ỷ  l ệ  56-84%, th ườ ng  đ i kèm v ớ i s ố t.    30 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  2.5. Các tri ệ u ch ứ ng khác  Gan to và b ấ t thu ờ ng c ấ u trúc gan trên tiêu b ả n sinh thi ế t g ặ p  ở  50-70% b ệ nh nhân  m ắ c b ệ nh Still  ở  ng ườ i l ớ n. Viêm thanh m ạ c (26,4%), viêm màng ngoài tim (23,8%),  lách to (43,9%).   3. C Ậ N LÂM SÀNG  Khác v ớ i các b ệ nh h ệ  th ố ng khác, ch ẩ n  đ oán b ệ nh Still  ở  ng ườ i l ớ n ch ủ  y ế u d ự a  vào các tri ệ u ch ứ ng lâm sàng v ớ i các xét nghi ệ m mi ễ n d ị ch  đề u âm tính nh ư  y ế u t ố  d ạ ng  th ấ p (RF), và kháng th ể  kháng nhân.   −   Xét nghi ệ m viêm d ươ ng tính: t ố c  độ  l ắ ng máu và protein C ph ả n  ứ ng (CRP),  fibrinogen t ă ng cao  ở  100% b ệ nh nhân.  B ệ nh nhân th ườ ng có t ă ng gamma globulin,  đị nh l ượ ng các globulin mi ễ n d ị ch huy ế t thanh th ườ ng có t ă ng IgG.   −   Các b ấ t th ư òng v ề  t ế  bào máu ngo ạ i vi:   +   T ă ng s ố  l ượ ng b ạ ch c ầ u (th ườ ng t ă ng cao>20G/l), t ă ng t ỷ  l ệ  b ạ ch c ầ u  đ a nhân  trung tính (th ườ ng t ă ng cao>80%).   +   Xét nghi ệ m t ủ y  đồ  và sinh thi ế t t ủ y bình th ườ ng. T ă ng b ạ ch c ầ u là h ậ u qu ả  th ứ   phát c ủ a t ă ng sinh tu ỷ  dòng b ạ ch c ầ u h ạ t.  +   B ệ nh nhân có th ể  có gi ả m ti ể u c ầ u, gi ả m h ồ ng c ầ u khi b ệ nh ti ế n tri ể n.    −   Xét nghi ệ m Feritin huy ế t thanh t ă ng cao trên 1000ng/l (bình th ườ ng 40- 200ng/l) và t ỷ  l ệ  glycosylate feritin gi ả m (th ườ ng <20%). Hàm l ượ ng feritin huy ế t thanh  t ă ng cao khi b ệ nh ti ế n tri ể n và tr ở  v ề  bình th ườ ng trong th ờ i k ỳ  lui b ệ nh.    −   Các th ă m dò hình  ả nh: không có s ự  thay  đổ i rõ ràng v ề  x ươ ng kh ớ p trên phim  Xquang trong giai  đ o ạ n s ớ m c ủ a b ệ nh. Tuy nhiên có th ể  th ấ y m ộ t s ố  hình  ả nh không  đặ c hi ệ u nh ư : phù n ề  ph ầ n m ề m, tràn d ị ch kh ớ p...  −   Xét nghi ệ m mi ễ n d ị ch:  +   Y ế u t ố  d ạ ng th ấ p (Rheumaoid factor RF) âm tính.  +   Kháng th ể  kháng nhân (ANA) và kháng th ể  kháng chu ỗ i kép (anti dsDNA) âm  tính.  −   Xét nghi ệ m vi sinh: c ấ y máu âm tính. 
-
- 4. CH Ẩ N  Đ OÁN 
-
- 4.1. Ch ẩ n  đ oán phân bi ệ t  Các tri ệ u ch ứ ng c ủ a b ệ nh Still  ở  ng ườ i l ớ n không  đặ c hi ệ u nên tr ướ c khi  đư a ra  ch ẩ n  đ oán xác  đị nh b ệ nh này c ầ n ph ả i làm các xét nghi ệ m (kháng th ể  kháng nhân,  kháng th ể  kháng Ds DNA, y ế u t ố  d ạ ng th ấ p, t ủ y  đồ , c ấ y máu...)  để  ch ẩ n  đ oán phân bi ệ t  v ớ i các b ệ nh nh ư : b ệ nh t ự  mi ễ n d ị ch (lupus ban  đỏ  h ệ  th ố ng, viêm kh ớ p d ạ ng th ấ p  đợ t  ti ế n tri ể n) b ệ nh lý máu (leucose c ấ p), nhi ễ m khu ẩ n (nhi ễ m khu ẩ n huy ế t), viêm kh ớ p  ph ả n  ứ ng...  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  31  
-
-4.2. Ch ẩ n  đ oán xác  đị nh  Hi ệ n nay có nhi ề u tiêu chu ẩ n ch ẩ n  đ oán b ệ nh Still ng ườ i l ớ n nh ư : tiêu chu ẩ n c ủ a  Yamaguchi, tiêu chu ẩ n Cush, tiêu chu ẩ n Calabro có  độ  nh ậ y l ầ n l ượ t là 93,5%, 80,6%,  và 80,0%.  Độ   đặ c hi ệ u t ươ ng  ứ ng c ủ a ba tiêu chu ẩ n là 96,2%, 80%, và 60,9%. Tuy  nhiên trên th ự c hành lâm sàng th ườ ng áp d ụ ng tiêu chu ẩ n Yamaguchi do có  độ  nh ậ y và  độ   đặ c hi ệ u cao nh ấ t.  Tiêu chu ẩ n Yamaguchi n ă m 1992 g ồ m có 4 tiêu chu ẩ n chính và 5 tiêu chu ẩ n ph ụ :  −   Tiêu chu ẩ n chính:  +   Đ au kh ớ p > 2tu ầ n.  0 +   S ố t > 39   C > 1tu ầ n.  +   Ban màu “cá h ồ i”.  +   B ạ ch c ầ u t ă ng > 10 G/l, b ạ ch c ầ u trung tính > 80%.  −   Tiêu chu ẩ n ph ụ :  +   Đ au h ọ ng.  +   H ạ ch to.  +   Lách to.  +   R ố i lo ạ n ch ứ c n ă ng gan (t ă ng men gan AST và ALT).  +   Xét nghi ệ m kháng th ể  kháng nhân và y ế u t ố  d ạ ng th ấ p: âm tính.  −   B ệ nh  đượ c ch ẩ n  đ oán xác  đị nh khi có 2/4 tiêu chu ẩ n chính và 3/5 tiêu chu ẩ n ph ụ .   Sau khi  đ ã ch ẩ n  đ oán lo ạ i tr ừ  các b ệ nh lý nhi ễ m khu ẩ n, máu, b ệ nh h ệ  th ố ng (m ụ c 4.1)  5. TI Ế N TRI Ể N VÀ TIÊN L ƯỢ NG B Ệ NH  Có ba th ể  lâm sàng c ủ a b ệ nh Still  ở  ng ườ i l ớ n  đ u ợ c phân lo ạ i theo các tri ệ u ch ứ ng  lâm sàng, ti ế n tri ể n và tiên l ượ ng b ệ nh:  5.1. Th ể  nh ẹ  (th ể  t ự  h ạ n ch ế  b ệ nh)  Có các tri ệ u ch ứ ng gi ố ng b ệ nh h ệ  th ố ng nh ư :  s ố t, ban  ở  da, viêm thanh m ạ c, gan,  lách, h ạ ch to. H ầ u h ế t các b ệ nh nhân trong th ể  này  đề u kh ỏ i b ệ nh trong vòng m ộ t n ă m  k ể  t ừ  khi b ệ nh kh ở i phát.  5.2.   Th ể  trung bình (th ể  bán c ấ p)  B ệ nh nhân có nhi ề u  đợ t ti ế n tri ể n c ủ a b ệ nh, có ho ặ c không có các tri ệ u ch ứ ng v ề   kh ớ p. B ệ nh nhân có các  đợ t  ổ n  đị nh b ệ nh kéo dài vài tháng ho ặ c vài n ă m. Các  đợ t ti ế n  tri ể n b ệ nh sau này th ườ ng nh ẹ  h ơ n khi b ệ nh m ớ i kh ở i phát.  5.3. Th ể  viêm kh ớ p m ạ n tính  B ệ nh nhân v ớ i ch ủ  y ế u là các tri ệ u ch ứ ng  ở  kh ớ p, viêm kh ớ p m ạ n tính có th ể  d ẫ n  đế n t ổ n th ươ ng t ạ i kh ớ p.  67% b ệ nh nhân trong nhóm này có t ổ n th ươ ng kh ớ p n ặ ng n ề   32 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  và có ch ỉ   đị nh thay kh ớ p sau 3-5 n ă m b ị  b ệ nh.  B ệ nh nhân m ắ c b ệ nh Still  ở  ng ườ i l ớ n  có bi ể u hi ệ n viêm kh ớ p m ạ n tính có ti ế n tri ể n và tiên l ượ ng b ệ nh n ặ ng h ơ n b ệ nh nhân  ch ỉ  t ổ n th ươ ng h ệ  th ố ng c ơ  quan  đơ n thu ầ n.  T ổ n th ươ ng ban  ở  da, viêm  đ a kh ớ p  đặ c  bi ệ t là các kh ớ p g ố c chi th ườ ng có ti ể n tri ể n c ủ a th ể  viêm kh ớ p m ạ n tính.   
-
- 6.  Đ I Ề U TR Ị  
-
- 6.1. Nguyên t ắ c  đ i ề u tr ị   −   Đ i ề u tr ị  tri ệ u ch ứ ng và h ạ n ch ế  các bi ế n ch ứ ng c ủ a b ệ nh.  −   Ki ể m soát tình tr ạ ng s ố t và viêm các kh ớ p.  −   Ki ể m soát các  đợ t ti ế n tri ể n b ệ nh:  ứ c ch ế  các ph ả n  ứ ng mi ễ n d ị ch quá m ứ c c ủ a  c ơ  th ể .  −   Tránh và h ạ n ch ế  các bi ế n ch ứ ng c ủ a b ệ nh và các thu ố c  đ i ề u tr ị .  6.2.  Đ i ề u tr ị  c ụ  th ể   −   Thu ố c ch ố ng viêm không steroid  đơ n thu ầ n ch ỉ  có hi ệ u qu ả   ở  15% b ệ nh nhân  có các tri ệ u ch ứ ng viêm kh ớ p.   −   Corticosteroid có t ỷ  l ệ  b ệ nh  đ áp  ứ ng t ớ i 75-95%.  +   Li ề u cortioid trung bình t ừ  1-1,5 mg/kg/ngày, gi ả m li ề u d ầ n theo  đ áp  ứ ng c ủ a  b ệ nh.  +   Li ề u cao corticoid  đượ c áp d ụ ng khi tình tr ạ ng b ệ nh nhân không  đ áp  ứ ng v ớ i  đ i ề u tr ị  li ề u corticoid trung bình. Có th ể   đ i ề u tr ị  truy ề n t ĩ nh m ạ ch methyl pre dni solon 500- 100mg/ngày trong 3 ngày sau  đ ó gi ả m li ề u d ầ n theo  đ áp  ứ ng lâm sàng c ủ a ng ườ i b ệ nh.  −   Trong tr ườ ng h ợ p b ệ nh Still  ở  ng ườ i l ớ n không  đ áp  ứ ng t ố t v ớ i corticoid ph ả i  k ế t h ợ p v ớ i các thu ố c  đ i ề u tr ị  c ơ  b ả n:  +   Th ườ ng kh ở i  đầ u b ằ ng methotrexat v ớ i li ề u t ừ  7,5-20mg/tu ầ n d ự a vào  đ áp  ứ ng  c ủ a t ừ ng b ệ nh nhân.    +   Tr ườ ng h ợ p không  đ áp  ứ ng v ớ i methotrexat s ẽ  ch ỉ   đị nh  đ i ề u tr ị   cyclophosphamid ( đườ ng u ố ng ho ặ c truy ề n t ĩ nh m ạ ch).  C ầ n l ư u ý  đế n tác d ụ ng ph ụ  c ủ a  thu ố c nh ư : ch ả y máu bàng quang, h ạ  b ạ ch c ầ u, nhi ễ m khu ẩ n c ơ  h ộ i…  +   Có th ể  ch ỉ   đị nh m ộ t trong các thu ố c sau trong các tr ườ ng h ợ p không  đ áp  ứ ng  v ớ i  đ i ề u tr ị  các thu ố c trên: cyclosporin A, hydroxychloroquin, mu ố i vàng,   D-penicillamin, azathioprin.  −   Truy ề n gamaglobulin có hi ệ u qu ả   đố i v ớ i các tr ườ ng h ợ p b ệ nh không  đ áp  ứ ng  v ớ i các thu ố c nêu trên v ớ i li ề u 0,4-2 gam/kg/ngày trong 2-5 ngày.  −   Đ i ề u tr ị  b ằ ng thu ố c sinh h ọ c cho các ca kháng tr ị  (ví d ụ  thu ố c  ứ c ch ế  IL-1  anakira ho ặ c các thu ố c sinh h ọ c khác).   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  33  
-
-7. THEO DÕI VÀ QU Ả N LÝ B Ệ NH NHÂN  Các b ệ nh nhân nên  đượ c theo dõi ti ế n tri ể n v ề  lâm sàng và xét nghi ệ m (t ế  bào  máu ngo ạ i vi, các bilan viêm, ch ứ c n ă ng gan, th ậ n, t ổ ng phân tích n ướ c ti ể u, ferritin) ít  nh ấ t 3 tháng/l ầ n t ạ i các c ơ  s ở  y t ế .    TÀI LI Ệ U THAM KH Ả O  1.   Efthimiou P, Kontzias A, Ward CM, Ogden NS (June 2007). " Adult-onset  Still's disease: can recent advances in our understanding of its pathogenesis  lead to targeted therapy? ". Nat Clin Pract Rheumatol 3 (6): 328–35.  2.   Hindawi  "Anti-Interleukin-1 Agents in Adult Onset Still's Disease." .. 2012- 02-07. http://www.hindawi.com/journals/iji/2012/317820/. Retrieved 2012- 10-13.  3.   Owlia MB, Mehrpoor G. (2009). " Adult - onset Still's disease : A review" .  Indian J Med Sci 63 (5): 207–21  4.   Wiley  “Adult-onset Still's disease: Clinical course and outcome." .. 1987-02- 01.  http://onlinelibrary.wiley.com/doi/10.1002/art.1780300209/abstract.  Retrieved 2012-10-17.  5.   Yamaguchi M, Ohta A, Tsunematsu T, Kasukawa R, Mizushima Y,  Kashiwagi H, Kashiwazaki S, Tanimoto K, Matsumoto Y, Ota T (1992).  " Preliminary criteria for classification of adult Still's disease".  J Rheumatol  19 (3): 424–30.              34 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-VIÊM DA C Ơ   VÀ  VIÊM  Đ A C Ơ   (Dermatomyositis and Polymyositis)  1.  ĐỊ NH NGH Ĩ A  Viêm da c ơ  và viêm  đ a c ơ   đượ c x ế p vào nhóm b ệ nh t ự  mi ễ n v ớ i t ổ n th ươ ng c ơ   b ả n là tình tr ạ ng viêm m ạ n tính c ủ a các bó c ơ  vân (viêm  đ a c ơ ) v ớ i bi ể u hi ệ n  đặ c tr ư ng  c ủ a b ệ nh là y ế u c ơ  vùng g ố c chi  đố i x ứ ng hai bên; khi có kèm theo t ổ n th ươ ng da thì  đượ c g ọ i là b ệ nh viêm da c ơ . Tr ướ c kia nhi ề u tác gi ả  g ộ p hai th ể  thành m ộ t b ệ nh, g ầ n  đ ây có xu h ướ ng tách ra nh ằ m  đị nh danh t ổ n th ươ ng c ơ   đơ n  độ c ho ặ c ho ặ c k ế t h ợ p v ớ i  da. Ngoài t ổ n th ươ ng  ở  c ơ  ho ă c kèm theo da, các b ệ nh nhân này th ườ ng có các tri ệ u  ch ứ ng  ở  kh ớ p, ph ổ i; ngoài ra có th ể   ở  tim m ạ ch và tiêu hóa...  Ở  ng ườ i già, viêm da c ơ  /  viêm  đ a c ơ  có t ỷ  l ệ  k ế t h ợ p v ớ i ung th ư  cao h ơ n trong c ộ ng  đồ ng và ng ượ c l ạ i, m ộ t s ố   ung th ư  có th ể  bi ể u hi ệ n các tri ệ u ch ứ ng nh ư  viêm da c ơ .   2. NGUYÊN NHÂN, C Ơ  CH Ế  B Ệ NH SINH  Cho  đế n nay nguyên nhân chính xác c ủ a b ệ nh ch ư a rõ ràng. Các tác nhân nhi ễ m  trùng (vi khu ẩ n, virus), thu ố c và m ộ t s ố  y ế u t ố  c ủ a môi tr ườ ng có th ể  là nguyên nhân  gây b ệ nh và y ế u t ố  kh ở i phát b ệ nh viêm  đ a c ơ , viêm da-c ơ  t ự  mi ễ n. B ệ nh  đượ c x ế p vào  nhóm t ự  mi ễ n d ị ch v ớ i s ự  có m ặ t c ủ a m ộ t s ố  t ự  kháng th ể  (kháng th ể  kháng Jo-1, kháng  SRP...). M ộ t s ố  nghiên c ứ u cho th ấ y b ệ nh viêm c ơ  t ự  mi ễ n th ườ ng ti ế n tri ể n vào m ộ t s ố   mùa trong n ă m. Theo Leff, các b ệ nh nhân có kháng th ể  kháng Jo-1 d ươ ng tính th ườ ng  ti ế n tri ể n vào mùa xuân, còn nh ữ ng b ệ nh nhân có kháng th ể  kháng SRP d ươ ng tính  th ườ ng ti ế n tri ể n vào mùa thu. Các y ế u t ố  v ề  di truy ề n (HLA-DR3, DRW52) c ũ ng có  m ộ t vai trò quan tr ọ ng trong c ơ  ch ế  b ệ nh sinh c ủ a b ệ nh. 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Tri ệ u ch ứ ng lâm sàng  −   Toàn thân:  B ệ nh nhân th ườ ng có c ả m giác m ệ t m ỏ i, s ố t, có th ể  sút cân,  đặ c  bi ệ t khi b ệ nh viêm da c ơ , viêm  đ a c ơ  k ế t h ợ p v ớ i ung th ư .  −   C ơ :  +   Y ế u c ơ  vùng g ố c chi,  đố i x ứ ng hai bên, b ệ nh nhân có d ấ u hi ệ u gh ế   đẩ u d ươ ng  tính. Y ế u c ơ  vùng h ầ u h ọ ng làm b ệ nh nhân khó nu ố t ho ặ c khàn ti ế ng, y ế u c ơ  liên s ườ n  d ẫ n  đế n khó th ở .  +   Đ au c ơ : g ặ p  ở  kho ả ng 50% các b ệ nh nhân viêm da c ơ / viêm  đ a c ơ , th ườ ng g ặ p  nhi ề u h ơ n trong viêm da c ơ .  +   X ơ  hóa c ơ  có th ể  làm c ơ  r ắ n ch ắ c và gây co rút c ơ , gây h ạ n ch ế  v ậ n  độ ng kh ớ p.  −   Da:  t ổ n th ươ ng da trong b ệ nh viêm da c ơ  là d ấ u hi ệ u  đặ c tr ư ng c ủ a b ệ nh, g ồ m:   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  35  
-
-+   Ban màu  đỏ  ho ặ c tím  ở  vùng mi m ắ t, có th ể  kèm theo phù  ở  vùng mi m ắ t.  +   Ban Gottron: ban màu  đỏ  tím  ở  m ặ t du ỗ i c ủ a các kh ớ p  ở  ngón tay (g ồ m kh ớ p  bàn ngón, kh ớ p ngón g ầ n) và m ặ t du ỗ i c ủ a kh ớ p khu ỷ u, kh ớ p g ố i, kh ớ p c ổ  chân.  +   Bàn tay th ợ  c ơ  khí: hay g ặ p nh ấ t  ở  các b ệ nh nhân có h ộ i ch ứ ng kháng  synthetase và các b ệ nh nhân viêm da c ơ  / viêm  đ a c ơ  k ế t h ợ p v ớ i x ơ  c ứ ng bì.  +   Ở  giai  đ o ạ n ti ế n tri ể n, có th ể  có teo da và m ấ t s ắ c t ố , có các ban  đỏ  và giãn  mao m ạ ch  ở  xung quanh móng tay gi ố ng nh ư  các b ệ nh t ự  mi ễ n khác.  −   Kh ớ p:  Đ au kh ớ p ho ặ c viêm kh ớ p v ớ i bi ể u hi ệ n t ươ ng t ự  nh ư  viêm kh ớ p d ạ ng  th ấ p, th ườ ng hay g ặ p nh ấ t  ở  các kh ớ p nh ỏ  c ủ a bàn tay, kh ớ p c ổ  tay và kh ớ p g ố i song  hi ế m khi có bi ế n d ạ ng kh ớ p.  −   Calci hóa:  Có t ổ n th ươ ng calci hóa  ở  da, t ổ  ch ứ c d ướ i da, cân c ơ  và trong c ơ ,  th ườ ng g ặ p  ở  nh ữ ng vùng hay b ị  các vi ch ấ n th ươ ng (kh ớ p khu ỷ u, g ố i, m ặ t du ỗ i c ủ a các  ngón tay, mông...). Có th ể  s ờ  th ấ y các h ạ t c ứ ng, ch ắ c, ho ặ c nhìn th ấ y các h ạ t màu tr ắ ng  khi t ổ n th ươ ng  ở  nông. Nhi ề u tr ườ ng h ợ p ch ỉ  phát hi ệ n trên phim ch ụ p X quang th ườ ng  quy. Calci hóa có th ể  d ẫ n  đế n h ạ n ch ế  v ậ n  độ ng c ủ a kh ớ p.  −   Ph ổ i:  Bi ể u hi ệ n lâm sàng b ở i tri ệ u ch ứ ng ho khan khó th ở , ran  ẩ m hai ph ế   tr ườ ng,  đặ c bi ệ t  ở   đ áy ph ổ i. Viêm màng ph ổ i và tràn d ị ch màng ph ổ i ít g ặ p. Các t ổ n  th ươ ng ph ổ i g ồ m b ố n th ể  lâm sàng hay g ặ p:  +   Th ể  n ặ ng nh ấ t là viêm ph ế  nang lan t ỏ a, ti ế n tri ể n nhanh.   +   Th ể  có viêm ph ổ i k ẽ  ti ế n tri ể n ch ậ m (th ườ ng g ặ p nh ấ t).   +   Viêm ph ổ i do s ặ c, th ườ ng g ặ p  ở  các b ệ nh nhân có khó nu ố t vùng h ầ u h ọ ng.  +   B ệ nh nhân không có các tri ệ u ch ứ ng lâm sàng m ặ c dù trên phim Xquang ph ổ i  và  đ o ch ứ c n ă ng hô h ấ p có b ệ nh ph ổ i k ẽ .  −   Tim m ạ ch:  các bi ể u hi ệ n v ề  tim m ạ ch th ườ ng xu ấ t hi ệ n khi b ệ nh  đ ã  ở  giai  đ o ạ n  toàn phát. Th ườ ng g ặ p nh ấ t là r ố i lo ạ n nh ị p tim. Các bi ể u hi ệ n ít g ặ p h ơ n g ồ m: suy tim  ứ   huy ế t do viêm c ơ  tim ho ặ c x ơ  hóa c ơ  tim, viêm màng ngoài tim, tràn d ị ch màng tim.  −   Tiêu hóa:  Viêm th ự c qu ả n trào ng ượ c m ạ n tính do y ế u c ơ  th ắ t th ự c qu ả n  ở  d ướ i.  Khó nu ố t vùng h ầ u h ọ ng, có th ể  làm b ệ nh nhân b ị  s ặ c vào khí ph ế  qu ả n khi  ă n  d ẫ n  đế n viêm ph ổ i do nhi ễ m khu ẩ n ho ặ c do d ị ch v ị . Gi ả m nhu  độ ng ru ộ t non và tá tràng  có th ể  d ẫ n  đế n  đ au b ụ ng, ch ướ ng b ụ ng,  ỉ a ch ả y và sút cân.  −   M ạ ch máu ngo ạ i vi:  h ộ i ch ứ ng Raynaud th ườ ng g ặ p  ở  các b ệ nh nhân viêm da  c ơ  / viêm  đ a c ơ  có h ộ i ch ứ ng kháng synthetase và khi b ệ nh k ế t h ợ p v ớ i lupus ban  đỏ  h ệ   th ố ng, ho ặ c x ơ  c ứ ng bì toàn th ể .   −   Th ậ n:  b ệ nh nhân có th ể  có protein ni ệ u, h ộ i ch ứ ng th ậ n h ư  do viêm c ầ u th ậ n  t ă ng sinh gian m ạ ch và viêm c ầ u th ậ n  ổ . Nói chung t ổ n th ươ ng th ậ n hi ế m g ặ p.  −   Các b ệ nh lý ung th ư  kèm theo:  các c ơ  quan b ị  ung th ư  th ườ ng ph ụ  thu ộ c vào  l ứ a tu ổ i. Th ườ ng g ặ p ung th ư  bu ồ ng tr ứ ng (n ữ ), ngoài ra là ung th ư  ph ổ i, d ạ  dày, gan.   36 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  3.2. C ậ n lâm sàng   −   Các enzym c ơ  trong huy ế t thanh t ă ng: Creatine Kinase (CK, CPK), SGOT,  SGPT, lactate dehydrogenase (LDH), aldolase, trong  đ ó enzym CK có  độ   đặ c hi ệ u cao  nh ấ t v ớ i b ệ nh viêm da c ơ / viêm  đ a c ơ . Trong  đợ t ti ế n tri ể n c ủ a b ệ nh, enzym CK t ă ng  tr ướ c khi có d ấ u hi ệ u y ế u c ơ  kho ả ng vài tu ầ n  đế n vài tháng.  Ở  m ộ t s ố  tr ườ ng h ợ p  enzym CK có th ể  không t ă ng nh ư : b ệ nh  ở  giai  đ o ạ n mu ộ n có teo c ơ  nhi ề u, b ệ nh  ở  giai  đ o ạ n s ớ m  đặ c bi ệ t trong viêm da c ơ , b ệ nh k ế t h ợ p v ớ i ung th ư .  −   Đ i ệ n c ơ : hình  ả nh d ễ  b ị  kích thích c ủ a các s ợ i c ơ  khi ngh ỉ  ng ơ i, khi co c ơ  th ấ y  các  đ i ệ n th ế  ph ứ c t ạ p, biên  độ  th ấ p.  −   Sinh thi ế t c ơ : th ấ y xâm nh ậ p các t ế  bào viêm xung quanh các m ạ ch máu và t ổ   ch ứ c mô k ẽ  xung quanh các s ợ i c ơ , ch ủ  y ế u là các t ế  bào lympho, t ươ ng bào, mô bào,  b ạ ch c ầ u  đ a nhân, các s ợ i c ơ  b ị  thoái hóa và ho ạ i t ử , có s ự  tái t ạ o các s ợ i c ơ , trong  đ ó  hình  ả nh  đặ c hi ệ u nh ấ t là teo t ổ  ch ứ c liên k ế t xung quanh các bó c ơ . Trong quá trình  ti ế n tri ể n c ủ a b ệ nh, t ổ  ch ứ c liên k ế t x ơ  và/ho ặ c m ỡ  s ẽ  thay th ế  các s ợ i c ơ  ho ạ i t ử  và chia  tách các bó c ơ .   −   Sinh thi ế t da: teo da, thoái hóa và hóa l ỏ ng l ớ p t ế  bào  đ áy, thâm nhi ễ m các  b ạ ch c ầ u lympho và mô bào  ở  xung quanh các m ạ ch máu trong l ớ p th ượ ng bì.  −   Kháng th ể  kháng nhân th ườ ng d ươ ng tính.  −   Các kháng th ể   đặ c hi ệ u v ớ i viêm c ơ  t ự  mi ễ n g ồ m:  +   Các kháng th ể  kháng synthetase, trong  đ ó hay g ặ p nh ấ t là kháng th ể  kháng Jo- 1 (g ặ p kho ả ng 20% b ệ nh nhân b ệ nh viêm da c ơ / viêm  đ a c ơ ), sau  đ ó là các kháng th ể   kháng 7 enzym aminoacyl-tRNA synthetase khác.  +   Kháng th ể  kháng Mi-2: g ặ p  ở  kho ả ng 5-10% các b ệ nh nhân viêm da c ơ .  +   Các kháng th ể  ít g ặ p khác: anti-SRP (signal recognition particle), anti-CADM- 140, anti SAE, anti- p155/140.  −   Các th ă m dò khác: X quang ph ổ i, CT-scan ng ự c,  đ o ch ứ c n ă ng hô h ấ p, soi ph ế   qu ả n l ấ y d ị ch ph ế  qu ả n làm xét nghi ệ m,  đ i ệ n tâm  đồ , siêu âm tim…  3.3. Ch ẩ n  đ oán xác  đị nh  Có hai tiêu chu ẩ n ch ẩ n  đ oán, trong  đ ó tiêu chu ẩ n Tanimoto và c ộ ng s ự  n ă m 1995  c ụ  th ể  và chi ti ế t h ơ n.  −   Tiêu chu ẩ n ch ẩ n  đ oán c ủ a Tanimoto và c ộ ng s ự  n ă m 1995. Tiêu chu ẩ n này có  độ  nh ậ y 98,9% và  độ   đặ c hi ệ u 95,2%  Ch ẩ n  đ oán xác  đị nh viêm  đ a c ơ  khi có ít nh ấ t 4 trong 8 tri ệ u ch ứ ng sau:  +   Đ au c ơ  do viêm c ơ  gây nên ho ặ c  đ au t ự  phát.   +   Y ế u c ơ  vùng g ố c chi.  +   T ă ng CK (creatinin kinase) trong huy ế t thanh ho ặ c aldolase.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  37  
-
-+   Đ i ệ n c ơ  có các bi ế n  đổ i ngu ồ n g ố c c ơ : th ờ i gian ng ắ n,  đơ n v ị  v ậ n  độ ng nhi ề u  pha v ớ i các rung gi ậ t t ự  phát.  +   Các b ằ ng ch ứ ng c ủ a viêm c ơ  khi sinh thi ế t c ơ : thâm nhi ễ m c ơ  vân kèm thoái hóa  và ho ạ i t ử  s ợ i c ơ  (th ự c bào ho ạ t  độ ng, nhân trung tâm ho ặ c có các b ằ ng ch ứ ng ho ạ t  độ ng).  +   Viêm kh ớ p (không có hình  ả nh bào mòn trên X quang, không có h ủ y kh ớ p) ho ặ c  đ au kh ớ p.  0 +   Các tri ệ u ch ứ ng toàn thân: s ố t > 37 C, CRP t ă ng ho ặ c t ố c  độ  máu l ắ ng t ă ng >  20 mm/h b ằ ng ph ươ ng pháp Westegren.  +   Kháng th ể  kháng Jo-1 d ươ ng tính.  Ch ẩ n  đ oán xác  đị nh viêm da c ơ  khi có ít nh ấ t 4 trong 8 tri ệ u ch ứ ng v ề  c ơ  nêu trên  và có ít nh ấ t 1 trong 3 tri ệ u ch ứ ng v ề  da nh ư  sau:  +   Ban tím s ẫ m quanh h ố c m ắ t: h ồ ng ban xu ấ t huy ế t trên mí m ắ t.  +   S ẩ n Gottron: ban xu ấ t huy ế t s ừ ng hóa, ban teo ho ặ c m ả ng  đỏ  ho ặ c tím  ở  m ặ t  du ỗ i c ủ a ngón tay.  +   H ồ ng ban  ở  m ặ t du ỗ i c ủ a các kh ớ p ngo ạ i vi l ớ n (khu ỷ u, g ố i).  −   Tiêu chu ẩ n ch ẩ n  đ oán b ệ nh viêm da c ơ /viêm  đ a c ơ  c ủ a Bohan và Peter n ă m  1975, g ồ m 5 y ế u t ố :  +   Y ế u c ơ  vùng g ố c chi  đố i x ứ ng hai bên.  +   Sinh thi ế t c ơ  có b ằ ng ch ứ ng c ủ a viêm c ơ .  +   Men c ơ  trong huy ế t thanh t ă ng.  +   Đ i ệ n c ơ  có d ấ u hi ệ u c ủ a viêm c ơ .  +   T ổ n th ươ ng  ở  da  đ i ể n hình c ủ a viêm da c ơ : ban Gottron, ban màu  đỏ  ho ặ c tím  ở  vùng mi m ắ t, ban  đỏ  hình ch ữ  V  ở  c ổ  và ng ự c, bàn tay th ợ  c ơ  khí.  Ch ẩ n  đ oán xác  đị nh viêm  đ a c ơ :  −   Ch ẩ n  đ oán ch ắ c ch ắ n viêm  đ a c ơ : khi có t ấ t c ả  4 y ế u t ố   đầ u tiên.  −   Ch ẩ n  đ oán g ầ n nh ư  ch ắ c ch ắ n viêm  đ a c ơ : khi có 3/4 y ế u t ố   đầ u tiên.  −   Ch ẩ n  đ oán có th ể  viêm  đ a c ơ : khi có 2/4 y ế u t ố   đầ u tiên.  Ch ẩ n  đ oán xác  đị nh viêm da c ơ :  −   Ch ẩ n  đ oán ch ắ c ch ắ n viêm da c ơ : khi có y ế u t ố  v ề  da (y ế u t ố  5) k ế t h ợ p v ớ i 3/4  y ế u t ố   đầ u tiên.  −   Ch ẩ n  đ oán g ầ n nh ư  ch ắ c ch ắ n da c ơ : khi có y ế u t ố  v ề  da (y ế u t ố  5) k ế t h ợ p v ớ i  2/4 y ế u t ố   đầ u tiên.  38 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Ch ẩ n  đ oán có th ể  viêm da c ơ : khi có y ế u t ố  v ề  da (y ế u t ố  5) k ế t h ợ p v ớ i 1/4  y ế u t ố   đầ u tiên.  3.4. Ch ẩ n  đ oán phân bi ệ t   Viêm kh ớ p d ạ ng th ấ p, lupus ban  đỏ  h ệ  th ố ng, x ơ  c ứ ng bì, b ệ nh nh ượ c c ơ , b ệ nh  Basedow, y ế u c ơ  do nguyên nhân th ầ n kinh. 
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c  đ i ề u tr ị   −   K ế t h ợ p  đ i ề u tr ị  thu ố c và ph ụ c h ồ i ch ứ c n ă ng c ơ .   −   K ế t h ợ p corticoid và các thu ố c  đ i ề u tr ị  c ơ  b ả n: methotrexat ho ặ c azathioprin  trong các th ể  thông th ườ ng ho ặ c cyclophosphamid trong các th ể  kháng  đ i ề u tr ị  ho ặ c  có t ổ n th ươ ng ph ổ i k ẽ . K ế t h ợ p truy ề n t ĩ nh m ạ ch imunoglobulin có hi ệ u qu ả  tuy giá  thành cao.  −   C ầ n phòng tránh các bi ế n ch ứ ng do thu ố c.  −   C ầ n kh ả o sát các ung th ư  k ế t h ợ p,  đặ c bi ệ t ung th ư  c ơ  quan sinh d ụ c  ở  n ữ .    4.2.  Đ i ề u tr ị  thu ố c  −   Corticoid:  là thu ố c  đ i ề u tr ị  chính trong b ệ nh viêm da c ơ / viêm  đ a c ơ , th ườ ng  k ế t h ợ p v ớ i các thu ố c  đ i ề u tr ị  c ơ  b ả n (DMARD).  +   Corticoid  đườ ng u ố ng, v ớ i li ề u kh ở i  đầ u 1-2 mg/kg/ngày, dùng 1 l ầ n/ngày  ho ặ c chia 3- 4 l ầ n/ngày n ế u dùng 1 l ầ n/ngày không ki ể m soát  đượ c b ệ nh. Duy trì li ề u  cao  đế n khi các tri ệ u ch ứ ng lâm sàng thuyên gi ả m và n ồ ng  độ  enzym CK trong huy ế t  thanh gi ả m tr ở  v ề  bình th ườ ng, trung bình kho ả ng 6- 8 tu ầ n. Sau  đ ó gi ả m li ề u d ầ n, li ề u  duy trì trung bình 5- 10mg/ngày.  +   Corticoid truy ề n t ĩ nh m ạ ch li ề u cao - Bolus methyl pre dni sol one: truy ề n m ỗ i  ngày 500-1.000 mg x 3 ngày. Ch ỉ   đị nh khi b ệ nh nhân b ị  b ệ nh n ặ ng, ti ế n tri ể n c ấ p tính,  có t ổ n th ươ ng tim m ạ ch ho ặ c viêm ph ổ i k ẽ  n ặ ng.  −   Các thu ố c  đ i ề u tr ị  c ơ  b ả n (DMARD):  th ườ ng k ế t h ợ p v ớ i glucocorticod.  Nhóm này bao g ồ m: methotrexat, azathioprin, cyclophosphamid.  +   Methotrexat:  Ch ỉ   đị nh: các th ể  thông th ườ ng.   Dùng  đườ ng u ố ng, li ề u 7,5- 15mg m ỗ i tu ầ n tu ầ n, có th ể  t ă ng li ề u lên  đế n 20mg  m ỗ i tu ầ n tùy theo  đ áp  ứ ng c ủ a b ệ nh nhân.  Ít tác d ụ ng không mong mu ố n (suy t ế  bào gan, suy t ủ y x ươ ng, viêm ph ổ i). Hàng  tháng c ầ n theo dõi t ế  bào máu ngo ạ i vi và enzym gan khi dùng thu ố c kéo dài.  +   Azathioprin:  Ch ỉ   đị nh khi không  đ áp  ứ ng v ớ i methotrexat.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  39  
-
-Dùng  đườ ng u ố ng v ớ i li ề u kh ở i  đầ u 1,5- 2mg/kg/ngày, li ề u trung bình 150-  200mg/ngày. Gi ả m li ề u khi các tri ệ u ch ứ ng lâm sàng thuyên gi ả m.  +   Cyclophosphamid:  Ch ỉ   đị nh trong các th ể  kháng  đ i ề u tr ị  v ớ i methotrexat ho ặ c  azathioprin) ho ặ c  trong tr ườ ng h ợ p có t ổ n th ươ ng ph ổ i k ẽ .  Th ườ ng dùng li ề u cao truy ề n t ĩ nh m ạ ch (bolus cyclophosphamid): m ỗ i tháng m ộ t  l ầ n truy ề n t ĩ nh m ạ ch li ề u 500mg- 1000 mg; trong 6 tháng liên t ụ c (xem thêm ph ầ n ph ụ   l ụ c); Ti ế p theo, có th ể  duy trì 03 tháng m ộ t li ề u nh ư  trên. Có th ể  dùng  đườ ng u ố ng v ớ i  li ề u 1- 2 mg/kg/ngày, li ề u t ố i  đ a 150 mg/ngày song nguy c ơ  ung th ư  bàng quang t ă ng.  Tác d ụ ng không mong mu ố n: viêm bàng quang ch ả y máu, do  đ ó c ầ n ph ố i h ợ p v ớ i  sodium 2-sul fany le thanes ulf on ate v ớ i li ề u t ươ ng  đươ ng v ớ i cyclophosphamid (xem  thêm ph ầ n ph ụ  l ụ c). Ngoài ra có th ể  g ặ p suy t ế  bào gan, suy t ủ y x ươ ng... R ụ ng tóc, c ả m  giác nóng b ừ ng  ở   đầ u trong th ờ i gian truy ề n (nên ch ườ m  đ á l ạ nh lên  đầ u trong trong  th ờ i gian truy ề n  để  h ạ n ch ế  tác d ụ ng này).  4.3. Các bi ệ n pháp khác  −   Truy ề n t ĩ nh m ạ ch immunoglobulin (IVIG):  +   Ch ỉ   đị nh:  đ i ề u tr ị  h ỗ  tr ợ  trong tr ườ ng h ợ p viêm da c ơ  / viêm  đ a c ơ  n ặ ng,  không  đ áp  ứ ng v ớ i các phác  đồ  thông th ườ ng. K ế t h ợ p v ớ i các  đ i ề u tr ị  nêu trên.   +   Li ề u: 1-2 g/kg, chia truy ề n t ừ  2-5 ngày m ỗ i 04 tu ầ n. Ng ừ ng truy ề n khi các  tri ệ u ch ứ ng  đượ c c ả i thi ệ n.  −   L ọ c huy ế t t ươ ng (Plasmapheresis).  Ch ỉ   đị nh:  đ i ề u tr ị  h ỗ  tr ợ  trong tr ườ ng h ợ p viêm da c ơ  / viêm  đ a c ơ  n ặ ng. K ế t h ợ p  v ớ i các  đ i ề u tr ị  nêu trên.  5. TI Ế N TRI Ể N, TIÊN L ƯỢ NG  −   Tiên l ượ ng ph ụ  thu ộ c vào m ứ c  độ  n ặ ng c ủ a t ổ n th ươ ng c ơ , t ổ n th ươ ng tim  ph ổ i, t ổ n th ươ ng ác tính c ủ a c ơ  quan k ế t h ợ p và các r ố i lo ạ n mi ễ n d ị ch. Y ế u c ơ  tuy có  h ồ i ph ụ c, song th ườ ng  t ồ n t ạ i lâu dài. T ổ n th ươ ng ph ổ i v ề  ch ứ c n ă ng thông khí có c ả i  thi ệ n tuy nhiên các tri ệ u ch ứ ng v ề  lâm sàng (ti ế ng ran t ạ i ph ổ i) ho ặ c trên Xquang, CT  ph ổ i th ườ ng t ồ n t ạ i lâu dài.  −   Ph ầ n l ớ n các b ệ nh nhân viêm da c ơ  / viêm  đ a c ơ  có nh ữ ng  đợ t b ệ nh ti ế n tri ể n  n ặ ng lên xen k ẽ  v ớ i nh ữ ng  đợ t b ệ nh thuyên gi ả m.  Ở  m ộ t s ố  ít b ệ nh nhân b ệ nh có th ể   ti ế n tri ể n liên t ụ c  đ òi h ỏ i ph ả i  đ i ề u tr ị  b ằ ng glucocorticoid kéo dài k ế t h ợ p v ớ i các thu ố c  ứ c ch ế  mi ễ n d ị ch. Kh ả  n ă ng s ố ng trên 5 n ă m c ủ a các b ệ nh nhân sau khi  đượ c ch ẩ n  đ oán  b ệ nh là h ơ n 90% (tr ừ  tr ườ ng h ợ p b ệ nh k ế t h ợ p v ớ i ung th ư ). 
-
- 6. THEO DÕI, QU Ả N LÝ  −   Các   thông s ố  c ầ n theo dõi:  C ơ  l ự c và tr ươ ng l ự c c ơ , CK, SGOT, SGPT, CRP 
-
- (protein C ph ả n  ứ ng), creatinin, t ế  bào máu ngo ạ i vi, t ố c  độ  máu l ắ ng. Ngoài ra c ầ n theo  40 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  dõi các tác d ụ ng không mong mu ố n c ủ a corticoid và các thu ố c  ứ c ch ế  mi ễ n d ị ch: xét  nghi ệ m  đ i ệ n gi ả i  đồ , calci máu,  đườ ng máu... phát hi ệ n tình tr ạ ng nhi ễ m trùng, ki ể m tra  huy ế t áp...  −   Các b ệ nh nhân trên 50 tu ổ i tr ở  lên c ầ n  đượ c t ầ m soát ung th ư  hàng n ă m.    TÀI LI Ệ U THAM KH Ả O  1.   Allen, Chester V. Harsha G, Zoe E. B, Neil J. M (2009), “Myositis-specific  autoantibodies: their clinical and pathogenic significance in diease  expression”.  Rheumatology, Vol 48, 607-612.  2.   Nguy ễ n Ng ọ c Lan (2010), “Viêm  đ a c ơ  và viêm da c ơ ”, B ệ nh h ọ c c ơ  x ươ ng  kh ớ p n ộ i khoa, Nhà xu ấ t b ả n giáo d ụ c Vi ệ t Nam, 109-115.  3.   Maryam F, Jenny V, Mariamme B (2008), “Interstitial lung disease in  polymyositis and dermatomyositis: longitudinal evaluation by pulmonary  function and radiology”, Arthritis Rheum, Vol 59(5), 677-685.  4.   Shabina M.S, Elizabeth O (2008), “Reliability and validity of the myositis  disease activity assessment tool”, Arthritis Rheum, Vol 58(11), 3593-3  5.   Yamasaki Y, Yamada H, Yamasaki M, Ohkubo M (2007), “Intravenous  Cyclophosphamid  therapy for progressive interstitial pneumonia in patients  with polymyositis/dermatomyositis”, Rheumatology, Vol 46, 124-130.                  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  41  
-
-B Ệ NH VIÊM MÀNG HO Ạ T D Ị CH KH Ớ P G Ố I   M Ạ N TÍNH KHÔNG  ĐẶ C HI Ệ U  (Unspecified knee synovitis)  1.  ĐẠ I C ƯƠ NG  Viêm kh ớ p không  đặ c hi ệ u  đượ c  đị nh ngh ĩ a là b ấ t k ể  lo ạ i viêm kh ớ p nào có ti ề m  n ă ng tr ở  thành viêm kh ớ p dai d ẳ ng mà không  đ áp  ứ ng  đủ  tiêu chu ẩ n  để  ch ẩ n  đ oán vào  m ộ t lo ạ i viêm kh ớ p  đặ c hi ệ u nào  đ ó. Viêm màng ho ạ t d ị ch kh ớ p g ố i m ạ n tính không  đặ c hi ệ u là th ể  b ệ nh viêm kh ớ p không  đặ c hi ệ u th ườ ng g ặ p trên lâm sàng, bi ể u hi ệ n b ở i  tình tr ạ ng s ư ng  đ au m ộ t hay hai kh ớ p g ố i kéo dài, tái phát nhi ề u l ầ n song không tìm  th ấ y nguyên nhân.  Đ ây có th ể  là th ể  b ệ nh viêm m ạ n tính m ộ t hay hai kh ớ p g ố i dai d ẳ ng  ho ặ c là tri ệ u ch ứ ng  đầ u tiên c ủ a m ộ t b ệ nh toàn th ể , trong  đ ó giai  đ o ạ n sau bi ể u hi ệ n  đầ y  đủ  các tri ệ u ch ứ ng b ệ nh (viêm kh ớ p d ạ ng th ấ p, viêm c ộ t s ố ng dính kh ớ p, viêm kh ớ p  v ẩ y n ế n, lupus ban  đỏ  h ệ  th ố ng, b ệ nh gút, …).  
-
- 2. CH Ẩ N  ĐOÁ N  
-
- 2.1. Ch ẩ n  đ oán xác  đị nh  −   Lâm sàng:  +   Tri ệ u ch ứ ng t ạ i ch ỗ : có th ể  viêm m ộ t ho ặ c hai kh ớ p g ố i. Bi ể u hi ệ n lâm sàng  ch ủ  y ế u: s ư ng,  đ au kh ớ p g ố i; ít có tri ệ u ch ứ ng nóng,  đỏ  rõ r ệ t.  Đ a s ố  các tr ườ ng h ợ p có  tràn d ị ch kh ớ p g ố i kèm theo.   +   Tri ệ u ch ứ ng toàn thân: ít thay  đổ i.  −   C ậ n lâm sàng:  +   Xét nghi ệ m máu ngo ạ i vi: th ườ ng có tình tr ạ ng viêm rõ: t ố c  độ  máu l ắ ng t ă ng,  protein C ph ả n  ứ ng (CRP) t ă ng.  +   Y ế u t ố  d ạ ng th ấ p (RF), anti CCP có th ể  âm tính ho ặ c d ươ ng tính. Tr ườ ng h ợ p  b ệ nh nhân có anti CCP d ươ ng tính d ễ  ti ế n tri ể n thành viêm kh ớ p d ạ ng th ấ p.  +   HLA- B27 có th ể  âm tính ho ặ c d ươ ng tính. B ệ nh nhân có HLA- B27 d ươ ng  tính d ễ  ti ế n tri ể n thành viêm c ộ t s ố ng dính kh ớ p.  +   Xét nghi ệ m d ị ch kh ớ p:  T ế  bào h ọ c d ị ch kh ớ p: bi ể u hi ệ n viêm màng ho ạ t d ị ch m ạ n tính không  đặ c hi ệ u  nh ư  có r ả i rác t ế  bào viêm  đơ n nhân, b ạ ch c ầ u trung tính, không th ấ y tình tr ạ ng g ợ i ý  viêm nhi ễ m khu ẩ n hay lao.  Nuôi c ấ y vi khu ẩ n: âm tính.  Nhu ộ m soi tìm AFB, PCR- BK: âm tính.  42 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-Sinh thi ế t màng ho ạ t d ị ch: qua n ộ i soi kh ớ p g ố i, d ướ i h ướ ng d ẫ n c ủ a siêu âm hay  sinh thi ế t mù (hi ệ n ít làm) l ấ y t ổ  ch ứ c màng ho ạ t d ị ch kh ớ p làm mô b ệ nh h ọ c, k ế t qu ả :  viêm màng ho ạ t d ị ch m ạ n tính không  đặ c hi ệ u, không có nh ữ ng hình  ả nh  đặ c hi ệ u g ợ i ý  t ớ i viêm m ủ , lao, u màng ho ạ t d ị ch, viêm màng ho ạ t d ị ch lông n ố t s ắ c t ố  v.v…  +   Ch ụ p Xquang kh ớ p g ố i: thông th ườ ng không th ấ y t ổ n th ươ ng trên Xquang  trong giai  đ o ạ n s ớ m, ho ặ c hình  ả nh t ổ n th ươ ng bào mòn (các b ệ nh nhân này có th ể  ti ế n  tri ể n thành viêm kh ớ p d ạ ng th ấ p).  +   Ch ụ p c ộ ng h ưở ng t ừ  kh ớ p g ố i: cho bi ế t tình tr ạ ng viêm dày màng ho ạ t d ị ch,  tràn d ị ch kh ớ p g ố i, ít có giá tr ị  trong ch ẩ n  đ oán b ệ nh.  +   Siêu âm kh ớ p g ố i: th ườ ng g ặ p dày màng ho ạ t d ị ch, tràn d ị ch kh ớ p g ố i.  +   Mantoux: âm tính.  +   Xquang ph ổ i: bình th ườ ng.  L ư u ý :  ch ẩ n  đ oán xác  đị nh b ệ nh khi  đ ã lo ạ i tr ừ  các b ệ nh lý viêm kh ớ p  đặ c hi ệ u khác. 
-
- 2.2. Ch ẩ n  đ oán phân bi ệ t  −   Nhi ễ m khu ẩ n: vi khu ẩ n thông th ườ ng.   −   Lao kh ớ p.  −   Thoái hóa kh ớ p.  −   Ch ấ n th ươ ng.  −   Các b ệ nh viêm kh ớ p vi tinh th ể .  −   Viêm màng ho ạ t d ị ch th ể  lông n ố t s ắ c t ố .   −   Viêm kh ớ p d ạ ng th ấ p th ể  m ộ t kh ớ p.  −   Viêm c ộ t s ố ng dính kh ớ p th ể  viêm kh ớ p ngo ạ i biên. 
-
- 3.  Đ I Ề U TR Ị  
-
- 3.1. Nguyên t ắ c chung   Đ i ề u tr ị  giai  đ o ạ n  đầ u là  đ i ề u tr ị  tri ệ u ch ứ ng b ằ ng các thu ố c gi ả m  đ au, ch ố ng viêm  nhóm không steroid. Tr ườ ng h ợ p di ễ n bi ế n kéo dài (trên 6 tu ầ n) c ầ n k ế t h ợ p thêm thu ố c  đ i ề u tr ị  c ơ  b ả n nh ư  trong  đ i ề u tr ị  b ệ nh viêm kh ớ p d ạ ng th ấ p. Các thu ố c  đ i ề u tr ị  tri ệ u  ch ứ ng có th ể  gi ả m li ề u ho ặ c ng ừ ng h ẳ n. Các thu ố c  đ i ề u tr ị  c ơ  b ả n th ườ ng dùng s ớ m,  kéo dài.  3.2.  Đ i ề u tr ị  c ụ  th ể   −   Đ i ề u tr ị  tri ệ u ch ứ ng:  +   Thu ố c ch ố ng viêm không steroid:  Ch ỉ   đị nh: giai  đ o ạ n kh ớ p viêm m ứ c  độ  v ừ a ph ả i, ho ặ c sau  đ i ề u tr ị  b ằ ng thu ố c  corticoid. L ư u ý tránh tác d ụ ng ph ụ  c ủ a thu ố c.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  43  
-
-Cách dùng: Xem  ở  ph ầ n  ph ụ  l ụ c cách s ử  d ụ ng thu ố c ch ố ng viêm không steroid.  +   Glucocorticoid:  Li ệ u pháp glucocorticoid  đườ ng toàn thân ng ắ n ngày: ch ỉ   đị nh trong tr ườ ng h ợ p  b ệ nh nhân không  đ áp  ứ ng v ớ i thu ố c ch ố ng viêm không steroid và tr ườ ng h ợ p viêm n ặ ng.  Li ề u l ượ ng và cách dùng: tr ườ ng h ợ p viêm n ặ ng có th ể   dùng mini bolus: truy ề n t ĩ nh  m ạ ch 80-125mg methyl-prednisolon pha trong 250ml mu ố i sinh lý trong 3-5 ngày. Sau  li ề u này duy trì u ố ng 1,5-2 mg/kg/24h tính theo prednisolon. Gi ả m d ầ n 10%/tu ầ n.  Th ườ ng sau 1-2 tháng có th ể  thay b ằ ng thu ố c ch ố ng viêm nonsteroid.   Glucocorticoid t ạ i ch ỗ : trong tr ườ ng h ợ p viêm kéo dài, tiêm kh ớ p g ố i b ằ ng  methyl prednisolon acetat 40mg/1ml, betametasone dipropionate 4mg/1ml. Tiêm t ạ i  phòng vô khu ẩ n do bác s ĩ  chuyên khoa c ơ  x ươ ng kh ớ p  đả m nhi ệ m. M ỗ i li ệ u trình tiêm  t ạ i m ộ t kh ớ p g ố i: 1  đế n 2 m ũ i tiêm, m ỗ i m ũ i tiêm cách nhau 7- 10 ngày. Sau 6 tháng  m ớ i  đượ c tiêm l ạ i n ế u có ch ỉ   đị nh.  +   Các thu ố c gi ả m  đ au:  Theo phác  đồ  gi ả m  đ au c ủ a WHO.  −   Đ i ề u tr ị  c ơ  b ả n:  Dùng m ộ t ho ặ c ph ố i h ợ p hai, ba thu ố c trong các nhóm sau (tùy m ứ c  độ  viêm,  đ áp  ứ ng v ớ i  đ i ề u tr ị  ban  đầ u):  +   Thu ố c ch ố ng s ố t rét t ổ ng h ợ p:  Hydroxychloroquin li ề u 200- 400 mg/ngày ho ặ c chloroquin li ề u 250 mg/ngày.   Ch ố ng ch ỉ   đị nh: d ị   ứ ng v ớ i thu ố c, ng ườ i có suy gi ả m G6PD ho ặ c có t ổ n th ươ ng gan.  Tác d ụ ng ph ụ : chán  ă n, nôn,  đ au th ượ ng v ị , x ạ m da, khô da, viêm t ổ  ch ứ c l ướ i  ở   võng m ạ c. C ầ n ki ể m tra th ị  l ự c, soi  đ áy m ắ t m ỗ i 6 tháng và không dùng quá 6 n ă m.  +   Methotrexate:  Ch ỉ   đị nh:  đ ây là thu ố c  đượ c l ự a ch ọ n  đầ u tiên.  Ch ố ng ch ỉ   đị nh: h ạ  b ạ ch c ầ u, suy gan th ậ n, t ổ n th ươ ng ph ổ i m ạ n tính. Các tr ườ ng  h ợ p  ứ c ch ế  t ủ y x ươ ng nói chung trong  đ ó có tình tr ạ ng thi ế u máu, gi ả m huy ế t s ắ c t ố ,  n ế u  đ ang  đ i ề u tr ị  methotrexat th ấ y gi ả m h ồ ng c ầ u, b ạ ch c ầ u, ti ể u c ầ u thì c ầ n  đ i ề u ch ỉ nh  li ề u ho ặ c d ừ ng thu ố c tùy theo m ứ c  độ .   Tác d ụ ng ph ụ : th ườ ng g ặ p loét mi ệ ng, nôn, bu ồ n nôn. Có th ể  gây  độ c t ế  bào gan  và t ủ y.         Li ề u dùng: 10-20mg/tu ầ n, tiêm b ắ p ho ặ c u ố ng. Th ườ ng kh ở i  đầ u b ằ ng li ề u 10mg  u ố ng m ộ t l ầ n vào m ộ t ngày nh ấ t  đị nh trong tu ầ n. Thu ố c có hi ệ u qu ả  sau 1-2 tháng.   H ạ n ch ế  tác d ụ ng ph ụ  c ủ a methotrexat nên b ổ  sung acid folic, li ề u b ằ ng li ề u  methotrexat (viên 5mg, 02 viên/ tu ầ n chia 2 ngày trong tu ầ n v ớ i li ề u 10 mg methotrexat /tu ầ n).  +   Sulfasalazine:   Ch ỉ   đị nh: dùng cho b ệ nh nhân có HLA- B27 d ươ ng tính (tr ườ ng h ợ p b ệ nh có xu  h ướ ng chuy ể n thành viêm c ộ t s ố ng dính kh ớ p).  44 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-Li ề u l ượ ng: li ề u 1-2 gam/ngày.    Tác d ụ ng ph ụ : r ố i lo ạ n tiêu hóa, chán  ă n, ban ngoài da, b ọ ng n ướ c, loét mi ệ ng,  protein ni ệ u, h ộ i ch ứ ng th ậ n h ư , viêm giáp tr ạ ng, gi ả m ti ể u c ầ u, b ạ ch c ầ u, huy ế t tán…  4. TI Ế N TRI Ể N VÀ BI Ế N CH Ứ NG  Ti ế n tri ể n c ủ a b ệ nh thành các b ệ nh nh ư  viêm kh ớ p d ạ ng th ấ p, viêm c ộ t s ố ng dính  kh ớ p, lupus... Hi ệ n nay có thang  đ i ể m h ướ ng d ẫ n c ủ a H ộ i Th ấ p kh ớ p h ọ c châu Âu  (EULAR 2009) hay thang  đ i ể m Leiden - d ự a trên các tiêu chu ẩ n d ị ch t ễ , lâm sàng, xét  nghi ệ m  để  d ự  báo kh ả  n ă ng ti ế n tri ể n c ủ a viêm màng ho ạ t d ị ch kh ớ p m ạ n tính không  đặ c hi ệ u thành b ệ nh viêm kh ớ p d ạ ng th ấ p, t ừ   đ ó có th ể   đ i ề u tr ị  s ớ m cho b ệ nh nhân b ằ ng  các thu ố c  đ i ề u tr ị  c ơ  b ả n.   5. PHÒNG B Ệ NH  −   Phát hi ệ n s ớ m các ti ể n tri ể n c ủ a b ệ nh thành các b ệ nh nh ư  viêm kh ớ p d ạ ng  th ấ p, viêm c ộ t s ố ng dính kh ớ p, lupus... c ầ n h ướ ng d ẫ n b ệ nh nhân  đ i ề u tr ị  thu ố c th ườ ng  xuyên và khám  đị nh k ỳ  hàng tháng theo dõi lâm sàng và xét nghi ệ m: t ế  bào máu ngo ạ i  vi, t ố c  độ  máu l ắ ng, CRP, ch ứ c n ă ng gan, th ậ n  −   Phòng tránh bi ế n d ạ ng kh ớ p c ầ n h ướ ng d ẫ n b ệ nh nhân t ậ p luy ệ n kh ớ p g ố i, v ậ n  độ ng h ợ p lý, h ạ n ch ế   đ i b ộ .                               H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  45  
-
-H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị     VIÊM MÀNG HO Ạ T D Ị CH KH Ớ P G Ố I M Ạ N TÍNH KHÔNG  ĐẶ C HI Ệ U    Viêm màng ho ạ t d ị ch kh ớ p g ố i m ạ n tính không  đặ c hi ệ u là th ể  b ệ nh viêm kh ớ p không  đặ c  hi ệ u th   ườ ng g ặ p trên lâm sàng, bi ể u hi ệ n b ở i tình tr ạ ng s ư ng  đ au m ộ t hay hai kh ớ p g ố i kéo  dài, tái phát nhi ề u l ầ n song không tìm th ấ y nguyên nhân.  Đ ây có th ể  là th ể  b ệ nh viêm m ạ n  tính m   ộ t hay hai kh ớ p g ố i dai d ẳ ng ho ặ c là tri ệ u ch ứ ng  đầ u tiên c ủ a m ộ t b ệ nh toàn th ể ,  trong  đ ó giai  đ o ạ n sau bi ể u hi ệ n  đầ y  đủ  các tri ệ u ch ứ ng b ệ nh (viêm kh ớ p d ạ ng th ấ p, viêm  c ộ t s ố ng dính kh ớ p, viêm kh ớ p v ẩ y n ế n, lupus ban  đỏ  h ệ  th ố ng, b ệ nh gút, …).       LÂM SÀNG  C Ậ N LÂM SÀNG: ch ỉ   đị nh xét nghi ệ m  -Tri ệ u ch ứ ng t ạ i ch ỗ :  - Bilan viêm: T ố c  độ  máu l ắ ng, CRP, t ế  bào máu ngo ạ i vi  có th ể  viêm m ộ t ho ặ c  - RF; anti-CCP  hai kh ớ p g ố i, bi ể u  - Xét nghi ệ m d ị ch kh ớ p: t ế  bào h ọ c, nhu ộ m soi tìm AFB, PCR- hi ệ n s ư ng,  đ au, tràn  BK, nuôi c ấ y tìm vi khu ẩ n  d ị ch kh ớ p g ố i  - Siêu âm kh ớ p g ố i   - Tri ệ u ch ứ ng toàn  - XQ kh ớ p g ố i th ẳ ng nghiêng (hai bên  để  so sánh)  thân: ít thay  đổ i  - N ộ i soi, sinh thi ế t màng ho ạ t d ị ch    - Tr ườ ng h ợ p nghi ng ờ  b ệ nh lý c ộ t s ố ng huy ế t thanh âm tính:     xét nghi ệ m  HLA- B27      VIÊM MÀNG HO Ạ T D Ị CH  VIÊM MÀNG HO Ạ T D Ị CH KH Ớ P G Ố I  ĐẶ C HI Ệ U  KH Ớ P G Ố I M Ạ N TÍNH  KHÔNG    ĐẶ C HI Ệ U  -  Nhi  m khu  n : kh ớ p g ố i s ư ng, nóng,  đỏ ,  đ au rõ r ệ t, b ệ nh nhân  có h ộ i ch ứ ng nhi ễ m trùng, t ế  bào d ị ch kh ớ p: có b ạ ch c ầ u  đ a  - Bilan viêm d ươ ng tính:  nhân thoái hóa, c ấ y vi khu ẩ n:  có th ể  d ươ ng tính (âm tính không    T ố c  độ  máu l ắ ng t ă ng,  lo ạ i tr ừ  nhi ễ m khu ẩ n)  CRP t   ă ng, có th ể  có thi ế u  -  Lao kh  p : có th ể  có  đườ ng dò c ạ nh kh ớ p g ố i; t ế  bào d ị ch  máu  kh ớ p g ố i: có th ể  th ấ y t ế  bào bán liên, ch ấ t ho ạ i t ử  bã  đậ u; soi  - Xét nghi ệ m d ị ch kh ớ p:  t ươ i d ị ch kh ớ p tìm BK; PCR- BK d ị ch kh ớ p có th ể  d ươ ng tính;    t ế  bào h ọ c, nhu ộ m soi tìm  Xquang kh ớ p g ố i: h ẹ p khe kh ớ p, h ủ y x ươ ng d ướ i s ụ n,  Ở  giai  AFB, PCR- BK: âm tính,  đ o ạ n mu ộ n, có hình  ả nh calci hóa ph ầ n m ề m quanh kh ớ p;  nuôi c   ấ y: âm tính.  Mantoux: d ươ ng tính; có th ể  có lao ph ổ i, h ạ ch... k ế t h ợ p  - Siêu âm: viêm màng  -  Thoái hoá kh  p  : Bilan viêm  âm tính . Xquang: hình  ả nh thoái  ho ạ t d   ch kh ớ p g ố i  hoá kh ớ p  - Xquang:  có th ể  không  -  Ch  n th ơ ng : Có ti ề n s ử  ch ấ n th ươ ng; Bilan viêm  âm tính,  th ấ y b   ấ t th ườ ng  d ị ch kh ớ p màu h ồ ng, t ế  bào: nhi ề u h ồ ng c ầ u  - Sinh thi ế t màng ho ạ t  -  Viêm kh  p vi tinh th  : t ế  bào h ọ c d ị ch kh ớ p: tìm th ấ y vi tinh  d ị ch: viêm màng ho   ạ t  th ể  (urat, oxalat  ho ặ c pyrophosphat)   d ị ch m ạ n tính không  đặ c  -  Viêm màng ho  t d 	 ch th   lông n t s  c t
- : d ị ch kh ớ p màu  hi ệ u    h ồ ng, d ị ch máu không  đ ông; Sinh thi ế t màng ho ạ t d ị ch: có l ắ ng  - RF, anti-CCP, HLA- B27  đọ ng s ắ c t ố  hemosiderin  có th   ể  âm tính ho ặ c  - Viêm kh  p d  ng th  p th   m  t kh  p : Hình  ả nh n ộ i soi và sinh thi ế t  d ươ ng tính.  màng ho ạ t d ị ch: t ổ n th ươ ng  đặ c hi ệ u c ủ a viêm kh ớ p d ạ ng th ấ p    46 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-Đ I Ề U TR Ị  VIÊM MÀNG HO Ạ T D Ị CH KH Ớ P G Ố I M Ạ N TÍNH KHÔNG  ĐẶ C HI Ệ U    Đ I Ề U TR Ị  TRI Ệ U CH Ứ NG  Đ I Ề U TR Ị  C Ơ  B Ả N  
-
- - Thu ố c ch ố ng viêm không steroid   S ử  d ụ ng m ộ t trong các phác  đồ  d ướ i  đ ây. Th ườ ng ch ỉ   đị nh kéo dài nhi ề u 
-
- - Ho ặ c corticoid: ch ỉ   đị nh khi thu ố c ch ố ng viêm  tháng  không steroid không  đ áp  ứ ng, tránh dùng kéo dài  - Hydrochloroquin + Methotrexate  - Thu ố c gi ả m  đ au theo s ơ   đồ  b ậ c thang c ủ a  WHO  (paracetamol;  efferalgan  codein;  - Salazopyrin+ Methotrexate.  tramadol...)   -  Hydrochloroquin  +  Salazopyrin+  -  Đ i ề u tr ị  t ạ i ch ỗ : tiêm corticoid n ộ i kh ớ p (tránh  Methotrexate.  l ạ m d ụ ng và tuân th ủ  vô trùng tuy ệ t  đố i).         KHÁM  ĐỊ NH K Ỳ  HÀNG THÁNG  - Theo dõi lâm sàng và xét nghi ệ m: t ế  bào máu ngo ạ i vi, t ố c  độ  máu l ắ ng, CPR, ch ứ c n ă ng  gan, th ậ n…  để   đ i ề u ch ỉ nh thu ố c.     - Kh ả o sát các tri ệ u ch ứ ng nh ằ m phát hi ệ n b ệ nh nguyên nhân (viêm kh ớ p d ạ ng th ấ p, viêm  c ộ t s ố ng dính kh ớ p...) mà viêm kh ớ p g ố i ch ỉ  là bi ể u hi ệ n ban  đầ u. Tr ườ ng h ợ p RF và/ho ặ c  anti-CCP d   ươ ng tính th ườ ng là viêm kh ớ p d ạ ng th ấ p; HLA- B27 d ươ ng tính th ườ ng là  viêm c ộ t s ố ng dính kh ớ p.      TÀI LI Ệ U THAM KH Ả O  1.   Cardiel MH, J Clin Rheumatol. “ Treatment of Early Rheumatoid Arthritis in a  Multinational Inception Cohort of Latin American Patients: The GLADAR  Experience ”. 2012 Oct;18(7):327-335  2.   J Fam Pract. “ Treatment, management, and monitoring of established  rheumatoid arthritis ” 2007 Oct; 56(10): 1-7  3.   Mota LM, “ Imaging diagnosis of early rheumatoid arthritis ”, Rev Bras  Reumatol, 2012 Oct;52(5):761-766  4.   Pan X, Zhang X, Liu Z, Wen H, Mao X. “ Treatment for chronic synovitis of  knee: arthroscopic or open synovectomy. ”  Rheumatol Int. 2012 Jun;  32(6):1733-6  5.   Rachid B, “ Early diagnosis and treatment of ankylosing spondylitis in Africa  and the Middle East ”, Clin Rheumatol. 2012 Nov;31(11):1633-9. doi:  10.1007/s10067-012-2058-5. Epub 2012 Aug 19  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  47  
-
-VIÊM C Ộ T S Ố NG DÍNH KH Ớ P  (Ankylosing Spondylitis)  1.  ĐỊ NH NGH Ĩ A  Viêm c ộ t s ố ng dính kh ớ p là m ộ t b ệ nh th ấ p viêm  đặ c tr ư ng b ở i t ổ n th ươ ng kh ớ p  cùng ch ậ u, c ộ t s ố ng và các kh ớ p  ở  chi d ướ i, th ườ ng kèm theo viêm các  đ i ể m bám gân.  B ệ nh ti ế n tri ể n ch ậ m song có xu h ướ ng dính kh ớ p. B ệ nh viêm c ộ t s ố ng dính kh ớ p có  m ố i liên quan ch ặ t ch ẽ  v ớ i y ế u t ố  kháng nguyên hoà h ợ p mô HLA-B27.  2. NGUYÊN NHÂN  Nguyên nhân c ủ a b ệ nh ch ư a  đượ c bi ế t rõ hoàn toàn. Có hai  đặ c  đ i ể m chính là hi ệ n  t ượ ng viêm và x ơ  hóa, calci hóa các dây ch ằ ng, bao kh ớ p ( đặ c bi ệ t t ạ i v ị  trí c ộ t s ố ng),  các  đ i ể m bám gân.   Kháng nguyên hoà h ợ p mô HLA-B27:  g ặ p trong 90% tr ườ ng h ợ p, ngoài ra còn có  th ể  có m ộ t s ố  y ế u t ố  gen khác và tác nhân nhi ễ m khu ẩ n. Y ế u t ố  gia  đ ình chi ế m t ỷ  l ệ  10%.   Ph ả n  ứ ng mi ễ n d ị ch:  S ự  k ế t h ợ p gi ữ a y ế u t ố  gen và tác nhân nhi ễ m khu ẩ n ban  đầ u  ở  các  đố i t ượ ng này gây ph ả n  ứ ng mi ễ n d ị ch kéo dài, có s ự  tham gia c ủ a y ế u t ố  ho ạ i  t ử  u (TNF α ).  Ph ả n  ứ ng viêm:  Ph ả n  ứ ng mi ễ n d ị ch gây ra m ộ t chu ỗ i ph ả n  ứ ng viêm, có vai trò  xúc tác c ủ a các enzym nh ư  cyclo-oxygenase (COX).  T ổ n th ươ ng kh ớ p:  hi ệ n t ượ ng x ơ  các mô s ụ n ho ặ c mô x ươ ng gây h ạ n ch ế  v ậ n  độ ng, có kèm s ự  phá h ủ y kh ớ p.  
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Lâm sàng  −   Tri ệ u ch ứ ng s ớ m nh ấ t, th ườ ng là  đ au t ạ i c ộ t s ố ng th ắ t l ư ng ho ặ c vùng l ư ng-th ắ t  l ư ng.  Đ au ki ể u viêm, kèm theo hi ệ n t ượ ng c ứ ng c ộ t s ố ng.   −   Viêm kh ớ p cùng ch ậ u bi ể u hi ệ n b ở i hi ệ n t ượ ng  đ au t ạ i vùng mông, m ộ t ho ặ c  hai bên.   −   Viêm kh ớ p: th ể   đ i ể n hình, th ườ ng bi ể u hi ệ n viêm các kh ớ p g ố c chi  đố i x ứ ng  hai bên (kh ớ p háng, kh ớ p g ố i chi ế m 20%).  Đ ôi khi giai  đ o ạ n s ớ m ch ỉ  bi ể u hi ệ n viêm  m ộ t kh ớ p, lúc này c ầ n ch ẩ n  đ oán phân bi ệ t v ớ i viêm kh ớ p nhi ễ m khu ẩ n,  đặ c bi ệ t là  lao kh ớ p.  −   Viêm các  đ i ể m bám t ậ n c ủ a gân th ườ ng g ặ p nh ấ t t ạ i gân Achilles, cân gan chân.   −   Viêm k ế t m ạ c m ắ t và các tri ệ u ch ứ ng tiêu hóa g ặ p kho ả ng 5-10% (tiêu ch ả y,  đ au b ụ ng, xu ấ t huy ế t).  48 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  3.2. C ậ n lâm sàng  −   Xét nghi ệ m máu: có các d ấ u hi ệ u viêm nh ư  t ă ng t ố c  độ  l ắ ng máu, t ă ng CRP  −   Kháng nguyên hoà h ợ p mô HLA-B27 d ươ ng tính  ở  80-90% b ệ nh nhân viêm  c ộ t s ố ng dính kh ớ p.  −   Ch ẩ n  đ oán hình  ả nh:  Hình  ả nh viêm kh ớ p cùng ch ậ u : trên phim c h ụ p Xquang th ườ ng quy:  Giai  đ o ạ n 1:  m ấ t ch ấ t khoáng c ủ a b ờ  kh ớ p, khe kh ớ p cùng ch ậ u r ộ ng. Giai  đ o ạ n 2: hình  ả nh bào mòn,  hình  ả nh tem th ư   ở  rìa kh ớ p. Giai  đ o ạ n 3:  đặ c x ươ ng  ở  b ờ  kh ớ p, dính m ộ t ph ầ n kh ớ p  cùng- ch ậ u. Giai  đ o ạ n 4: dính kh ớ p cùng ch ậ u hoàn toàn.  Ở  giai  đ o ạ n s ớ m, khi X quang th ườ ng quy ch ư a phát hi ệ n  đượ c t ổ n th ươ ng, ch ụ p  c ộ ng h ưở ng t ừ  khung ch ậ u giúp ch ẩ n  đ oán s ớ m viêm kh ớ p cùng ch ậ u.   Hình  ả nh t ổ n th ươ ng c ộ t s ố ng:   ở  giai  đ o ạ n mu ộ n, Xquang th ườ ng quy có th ể  th ấ y  hình  ả nh x ơ  hóa các dây ch ằ ng bên ho ặ c dây ch ằ ng tr ướ c c ộ t s ố ng, bi ể u hi ệ n b ở i các  c ầ u x ươ ng, khi ế n c ộ t s ố ng có hình cây tre. Có th ể  th ấ y hi ệ n t ượ ng x ơ  hóa các dây ch ằ ng  liên gai (hình  ả nh  đườ ng ray xe l ử a), có th ể  calci hoá  đĩ a  đệ m, t ổ n th ươ ng kh ớ p liên  m ấ u sau, t ổ n th ươ ng kh ớ p x ươ ng s ườ n  đố t s ố ng. Ngoài ra, có th ể  th ấ y hình  ả nh loãng  x ươ ng: hình  ả nh t ă ng th ấ u quang,  đố t s ố ng cong lõm hai m ặ t.  Đ ôi khi (hi ế m g ặ p) có  hình  ả nh gãy c ầ u x ươ ng  đố t s ố ng ho ặ c gãy cung sau.   Ở  giai  đ o ạ n s ớ m, t ổ n th ươ ng c ộ t s ố ng có th ể   đượ c phát hi ệ n trên c ộ ng h ưở ng t ừ .    Kh ớ p háng : Th ườ ng bi ể u hi ệ n viêm c ả  hai bên. Bi ể u hi ệ n viêm kh ớ p háng d ễ   dàng phát hi ệ n trên siêu âm b ở i hi ệ n t ượ ng tràn d ị ch kh ớ p và /ho ặ c dày màng ho ạ t d ị ch.  T ổ n th ườ ng trên X quang th ườ ng quy bi ể u hi ệ n b ở i hình  ả nh h ẹ p khe kh ớ p,  đ ôi khi có  các hình bào mòn  đố i x ứ ng qua khe kh ớ p (hình  ả nh soi g ươ ng), giai  đ o ạ n cu ố i th ườ ng  có dính kh ớ p.   Viêm  đ i ể m bám gân:  Viêm c ộ t s ố ng dính kh ớ p có th ể  kh ở i phát b ở i bi ể u hi ệ n  ngoài kh ớ p: viêm các  đầ u gân t ạ i v ị  trí bám vào x ươ ng. V ề  lâm sàng, b ệ nh nhân  đ au t ạ i  các  đ i ể m bám t ậ n c ủ a gân, có  đ i ể m  đ au chói khi b ấ m vào các v ị  trí này. Các tri ệ u ch ứ ng  trên siêu âm: hình  ả nh các gân t ă ng âm, tràn d ị ch quanh gân. Hình  ả nh X quang th ườ ng  quy:  đ ôi khi th ấ y hi ệ n t ượ ng x ơ  các  đ i ể m bám t ậ n (gai x ươ ng).  3.3. Ch ẩ n  đ oán xác  đị nh  K ế t h ợ p tri ệ u ch ứ ng lâm sàng, hình  ả nh viêm kh ớ p cùng ch ậ u trên X quang  th ườ ng quy (ho ặ c trên c ộ ng h ưở ng t ừ  n ế u nghi ng ờ  ch ẩ n  đ oán mà bi ể u hi ệ n trên   X quang th ườ ng quy ch ư a rõ ràng) và n ế u có th ể ,  nên xét nghi ệ m HLA-B27.  Ch ẩ n  đ oán b ệ nh viêm c ộ t s ố ng dính kh ớ p d ự a vào tiêu chu ẩ n ch ẩ n  đ oán New  York s ử a  đổ i n ă m 1984 g ồ m có các tri ệ u ch ứ ng lâm sàng và X quang.  Tiêu chu ẩ n lâm sàng (ít nh ấ t có m ộ t y ế u t ố ):  −   Đ au th ắ t l ư ng 3 tháng tr ở  lên, c ả i thi ệ n khi luy ệ n t ậ p, không gi ả m khi ngh ỉ .   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  49  
-
-−   H ạ n ch ế  v ậ n  độ ng c ộ t s ố ng th ắ t l ư ng c ả  t ư  th ế  cúi và nghiêng.  −   Gi ả m  độ  giãn l ồ ng ng ự c (d ướ i ho ặ c b ằ ng 2,5 cm).  Tiêu chu ẩ n X quang:   Viêm kh ớ p cùng ch ậ u giai  đ o ạ n  ≥  2, n ế u bi ể u hi ệ n viêm c ả  hai bên.  Ch ẩ n  đ oán xác  đị nh khi có tiêu chu ẩ n X quang và ít nh ấ t m ộ t y ế u t ố  thu ộ c tiêu  chu ẩ n lâm sàng.   Đặ c  đ i ể m c ủ a b ệ nh viêm c ộ t s ố ng dính kh ớ p  ở  Vi ệ t Nam th ườ ng có bi ể u hi ệ n  viêm các kh ớ p g ố c chi s ớ m (kh ớ p háng, kh ớ p g ố i) và r ầ m r ộ , trong khi bi ể u hi ệ n t ạ i  c ộ t s ố ng kín  đ áo. Do v ậ y, c ầ n khai thác k ỹ  các tri ệ u ch ứ ng t ạ i c ộ t s ố ng, khi có các  tri ệ u ch ứ ng g ợ i ý ch ẩ n  đ oán, c ầ n ch ụ p X quang kh ớ p cùng ch ậ u và xét nghi ệ m HLA- B27. Tr ườ ng h ợ p ch ư a có bi ể u hi ệ n trên phim X quang th ườ ng quy, c ầ n ch ỉ   đị nh ch ụ p  c ộ ng h ưở ng t ừ  khung ch ậ u ho ặ c c ộ t s ố ng [2,4,5], có vai trò r ấ t quan tr ọ ng trong ch ẩ n  đ oán s ớ m.  3.4. Ch ẩ n  đ oán phân bi ệ t  −   Viêm c ộ t s ố ng dính kh ớ p th ể  c ộ t s ố ng: c ầ n phân bi ệ t v ớ i b ệ nh Forestier.  Đặ c  đ i ể m c ủ a b ệ nh này là có x ơ  hóa dây ch ằ ng quanh  đố t s ố ng, có c ầ u x ươ ng song không có  hi ệ n t ượ ng viêm. Ngoài ra, các c ầ u x ươ ng trong b ệ nh Forestier th ườ ng thô, không thanh  m ả nh nh ư  trong b ệ nh viêm c ộ t s ố ng dính kh ớ p.  −   Viêm c ộ t s ố ng th ể  ph ố i h ợ p:  đ ôi khi giai  đ o ạ n s ớ m tri ệ u ch ứ ng viêm t ạ i kh ớ p  ch ỉ  bi ể u hi ệ n t ạ i m ộ t kh ớ p duy nh ấ t. R ấ t hay g ặ p viêm t ạ i kh ớ p háng m ộ t bên. Tr ườ ng  h ợ p này c ầ n ch ẩ n  đ oán phân bi ệ t v ớ i lao  kh ớ p háng.  
-
- 4.  Đ I Ề U TR Ị  B Ệ NH VIÊM C Ộ T S Ố NG DÍNH KH Ớ P 
-
- 4.1. Nguyên t ắ c chung:   bao g ồ m  đ i ề u tr ị  n ộ i khoa, v ậ t lý tr ị  li ệ u và ngo ạ i khoa.  M ụ c  đ ích  đ i ề u tr ị : ch ố ng viêm, ch ố ng  đ au; phòng ch ố ng c ứ ng kh ớ p,  đặ c bi ệ t là  phòng ch ố ng c ứ ng kh ớ p  ở  t ư  th ế  x ấ u và kh ắ c ph ụ c dính kh ớ p (n ế u có).  4.2. L ự a ch ọ n ph ươ ng pháp  đ i ề u tr ị    Trên m ỗ i b ệ nh nhân c ụ  th ể , quy ế t  đị nh  đ i ề u tr ị  d ự a vào các thông s ố  sau:  −   Tình tr ạ ng b ệ nh, m ứ c  độ  ho ạ t  độ ng b ệ nh, tri ệ u ch ứ ng tiên l ượ ng.  −   Bi ể u hi ệ n hi ệ n t ạ i c ủ a b ệ nh (c ộ t s ố ng, kh ớ p ngo ạ i biên,  đ i ể m bám gân...).  −   Bi ể u hi ệ n ngoài kh ớ p và b ệ nh kèm theo: có th ể  có các bi ể u hi ệ n ngoài kh ớ p  nh ư  v ẩ y n ế n, viêm màng b ồ   đ ào và viêm ru ộ t m ạ n tính.  Đặ c bi ệ t v ớ i viêm màng b ồ   đ ào  c ầ n khám chuyên khoa m ắ t nh ằ m  đ i ề u tr ị  tri ệ u ch ứ ng k ế t h ợ p.  −   Tr ạ ng thái lâm sàng chung (tu ổ i, gi ớ i, b ệ nh kèm theo, thu ố c kèm theo, y ế u t ố   tâm lý). C ũ ng c ầ n l ư u ý  đế n các nguy c ơ  b ệ nh loãng x ươ ng, b ệ nh tim m ạ ch  ở  b ệ nh nhân  viêm c ộ t s ố ng dính kh ớ p nh ằ m phát hi ệ n, theo dõi và d ự  phòng.  4.3.  Đ i ề u tr ị  c ụ  th ể   Phác  đồ   đ i ề u tr ị  theo khuy ế n cáo  c ủ a ASAS/EULAR 2011 [3] áp d ụ ng vào  đ i ề u  ki ệ n Vi ệ t Nam,  đượ c tóm t ắ t b ở i s ơ   đồ  và m ộ t s ố  l ư u ý d ướ i  đ ây.  50 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-(ASAS/EULAR-  Assessment  in  Ankylosing  Spondylitis  International  Society / European League against Rheumatism-   H ộ i  đ ánh giá viêm c ộ t s ố ng dính kh ớ p  qu ố c t ế /H ộ i kh ớ p h ọ c châu Âu).   GIÁO  THU Ố C CH Ố NG VIÊM KHÔNG STEROIDE D Ụ C LUY Ệ N  T Ậ P TT C Ộ T TT NGO Ạ I  S Ố NG BIÊN V Ậ T LÝ Tr Ị  LI Ệ U Sulfasalazine AU Đ TÁI M  I KHOA    GIÁO Ả  D Ụ C GI Corticoide t ạ i ch ỗ Ạ HI Ệ P  NGO H Ộ I B Ệ NH Kháng TNF  NHÂN   −   Đ i ề u tr ị  không dùng thu ố c:  Đ i ề u r ấ t quan tr ọ ng là b ệ nh nhân c ầ n  đượ c giáo d ụ c nh ằ m hi ể u bi ế t v ề  b ệ nh và  th ự c hi ệ n ch ế   độ  luy ệ n t ậ p phù h ợ p và  đề u  đặ n. Có th ể  luy ệ n t ậ p có hi ệ u qu ả  t ạ i nhà  ho ặ c  đ i ề u tr ị  v ậ t lý, có s ự  giám sát v ề  m ứ c  độ  luy ệ n t ậ p. B ệ nh nhân có th ể  t ự  t ậ p m ộ t  mình ho ặ c t ậ p h ợ p theo nhóm.  −   Thu ố c ch ố ng viêm không steroid:  Thu ố c ch ố ng viêm không steroid là l ự a ch ọ n  đầ u tiên ch ỉ   đị nh cho b ệ nh nhân  viêm c ộ t s ố ng dính kh ớ p có  đ au và/ho ặ c c ứ ng kh ớ p. Có th ể  s ử  d ụ ng trong th ờ i gian dài  n ế u tình tr ạ ng viêm kéo dài. C ầ n chú ý  đế n các tác d ụ ng không mong mu ố n trên tim  m ạ ch, d ạ  dày, th ậ n  ở  b ệ nh nhân khi  đ i ề u tr ị  thu ố c b ằ ng ch ố ng viêm không steroide.  Có th ể  s ử  d ụ ng m ộ t trong các lo ạ i sau: celecoxib 200 - 400mg / ngày- duy trì li ề u  200 mg hàng ngày;  meloxicam 7,5- 15 mg / ngày; diclofenac 75 mg / ngày; etoricoxib  60 -90 mg / ngày.    −   Thu ố c gi ả m  đ au:  Nên ph ố i h ợ p thu ố c gi ả m  đ au (paracetamol, các d ạ ng k ế t h ợ p) theo s ơ   đồ  s ử  d ụ ng  thu ố c gi ả m  đ au c ủ a WHO.  −   Thu ố c giãn c ơ : eperisone (50mg x 3 l ầ n/ ngày), thiocolchicoside (4mg x 3 l ầ n/ ngày)  −   Glucocorticoids:  Tiêm corticosteroids t ạ i ch ỗ : ch ỉ   đị nh v ớ i các tr ườ ng h ợ p viêm các  đ i ể m bám gân  ho ặ c các kh ớ p ngo ạ i biên có tình tr ạ ng viêm kéo dài. N ế u là kh ớ p háng, nên tiêm d ướ i  h ướ ng d ẫ n c ủ a siêu âm.  Không khuy ế n cáo  đ i ề u tr ị  corticosteroid toàn thân.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  51  
-
-−   Thu ố c th ấ p kh ớ p làm bi ế n  đổ i b ệ nh-DMARD:  Thu ố c DMARD nh ư  sulfasalazine, methotrexat không  đượ c ch ỉ   đị nh cho b ệ nh  nhân th ể  c ộ t s ố ng  đơ n thu ầ n.  Sulfasalazine: ch ỉ   đị nh cho b ệ nh nhân có bi ể u hi ệ n viêm kh ớ p ngo ạ i biên. Li ề u  kh ở i  đầ u 500 mg x 2 viên m ỗ i ngày, t ă ng d ầ n li ề u d ự a vào  đ áp  ứ ng lâm sàng c ủ a ng ườ i  b ệ nh, th ườ ng duy trì  2.000 mg chia 2 l ầ n, hàng ngày, u ố ng sau b ữ a  ă n.   −   Đ i ề u tr ị   b ằ ng ch ế  ph ẩ m sinh h ọ c: kháng TNF α   +   Đ i ề u tr ị  thu ố c kháng TNF: theo khuy ế n cáo c ủ a ASAS - H ộ i  đ ánh giá viêm c ộ t  s ố ng dính kh ớ p qu ố c t ế , ch ỉ   đị nh thu ố c kháng TNF cho các th ể  b ệ nh ho ạ t  độ ng dai d ẳ ng,  m ặ c dù  đ ã  đ i ề u tr ị  th ườ ng quy. C ầ n tuân theo quy trình ch ỉ   đị nh các thu ố c sinh h ọ c.    +   B ệ nh nhân viêm c ộ t s ố ng dính kh ớ p th ể  c ộ t s ố ng:  Đ i ề u tr ị  thu ố c kháng TNF  k ế t h ợ p v ớ i thu ố c ch ố ng viêm không steroid, không k ế t h ợ p v ớ i nhóm DMARD kinh  đ i ể n (Sulfasalazine, Methotrexate).   Có th ể  chuy ể n sang kháng TNF th ứ  hai n ế u b ệ nh nhân  đ i ề u tr ị   đ áp  ứ ng kém v ớ i  kháng TNF ban  đầ u. Etanercept 50mg tiêm d ướ i da tu ầ n m ộ t l ầ n ho ặ c 25mg x2 l ầ n  /tu ầ n (tiêm d ướ i da). Ho ặ c Infliximab 3-5mg/kg truy ề n t ĩ nh m ạ ch m ỗ i 4-8 tu ầ n.  Adalimumab 40mg tiêm d ướ i da m ỗ i 2 tu ầ n.  −   Đ i ề u tr ị  ph ẫ u thu ậ t  +   Thay kh ớ p háng: ch ỉ   đị nh trong tr ườ ng h ợ p b ệ nh nhân  đ au kéo dài, h ạ n ch ế   v ậ n  độ ng và có phá h ủ y c ấ u trúc rõ trên hình  ả nh X quang. Tr ướ c kia th ườ ng c ố  g ắ ng  ch ỉ   đị nh  ở  b ệ nh nhân l ớ n tu ổ i (ít nh ấ t trên 50 tu ổ i). G ầ n  đ ây tu ổ i không còn là m ộ t y ế u  t ố  c ầ n quan tâm khi ch ỉ   đị nh thay kh ớ p háng.  +   Ph ẫ u thu ậ t ch ỉ nh hình  đố i v ớ i c ộ t s ố ng: ch ỉ   đị nh khi c ộ t s ố ng bi ế n d ạ ng.  +   Ở  b ệ nh nhân viêm c ộ t s ố ng dính kh ớ p có gãy  đố t s ố ng c ấ p tính: xét ch ỉ   đị nh ph ẫ u  thu ậ t.  4.4. Theo dõi, qu ả n lý b ệ nh nhân viêm c ộ t s ố ng dính kh ớ p  −   Các thông s ố  theo dõi tình tr ạ ng b ệ nh nhân viêm c ộ t s ố ng dính kh ớ p bao g ồ m:  ti ề n s ử  b ệ nh nhân; các thông s ố  lâm sàng; các  bi ể u hi ệ n v ề  xét nghi ệ m; hình  ả nh   X quang. T ầ n su ấ t theo dõi b ệ nh (tái khám) tu ỳ  thu ộ c vào nguyên nhân gây ra các tri ệ u  ch ứ ng; m ứ c  độ  tr ầ m tr ọ ng c ủ a tri ệ u ch ứ ng và phác  đồ   đ i ề u tr ị .    −   Nói chung, b ệ nh nhân viêm c ộ t s ố ng dính kh ớ p c ầ n tái khám hàng tháng. Các  ch ỉ  s ố  theo dõi v ề  lâm sàng: s ố  kh ớ p s ư ng, s ố  kh ớ p  đ au, m ứ c  độ   đ au, h ạ n ch ế  v ậ n  độ ng  c ủ a kh ớ p, c ộ t s ố ng... Ch ỉ   đị nh các xét nghi ệ m hàng tháng tùy theo lo ạ i thu ố c  đ i ề u tr ị .  N ế u ch ỉ  dùng thu ố c ch ố ng viêm không steroid, ch ỉ  c ầ n xét nghi ệ m t ế  bào máu ngo ạ i vi,  t ố c  độ  máu l ắ ng, CRP, SGOT (AST), SGPT (ALT), creatinin máu. Có th ể  siêu âm kh ớ p  t ổ n th ươ ng,  đặ c bi ệ t kh ớ p háng khi b ệ nh nhân  đ au kh ớ p này.   −   Tùy theo tình tr ạ ng b ệ nh nhân (v ề  lâm sàng và xét nghi ệ m), c ầ n  đ i ề u ch ỉ nh li ề u  thu ố c ch ố ng viêm, thu ố c gi ả m  đ au,  đ i ề u tr ị  c ơ  b ả n, thu ố c h ỗ  tr ợ   đ i ề u tr ị  (thu ố c ch ố ng  52 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  loãng x ươ ng, thu ố c b ả o v ệ  niêm m ạ c d ạ  dày...) và khuy ế n khích ch ế   độ  t ậ p luy ệ n, ph ụ c  h ồ i ch ứ c n ă ng...  −   Tr ườ ng h ợ p n ế u có m ộ t thay  đổ i  đ áng k ể  trong quá trình c ủ a b ệ nh x ả y ra, ngoài  nguyên nhân do viêm, có th ể  có các tình tr ạ ng b ấ t th ườ ng (ví d ụ  gãy x ươ ng c ộ t s ố ng),  c ầ n ch ỉ   đị nh các xét nghi ệ m ch ẩ n  đ oán hình  ả nh thích h ợ p, tùy theo t ổ n th ươ ng mà  quy ế t  đị nh ch ụ p c ộ ng h ưở ng t ừ , CT hay X quang ...  5. TI Ế N TRI Ể N VÀ BI Ế N CH Ứ NG  B ệ nh ti ế n tri ể n có xu h ướ ng dính kh ớ p và dính c ộ t s ố ng, d ẫ n  đế n t ư  th ế  x ấ u (gù  l ư ng quá m ứ c), viêm dính kh ớ p háng, loãng x ươ ng và  đ ôi khi gãy x ươ ng.  6. PHÒNG B Ệ NH  −   Tránh  ẩ m th ấ p, phòng tránh viêm nhi ễ m  đườ ng ti ế t ni ệ u, sinh d ụ c và viêm  đườ ng ru ộ t.  −   Nên n ằ m th ẳ ng, trên ván c ứ ng, tránh kê  độ n (c ổ  và g ố i), tránh n ằ m võng …   −   Nên t ậ p th ể  d ụ c th ườ ng xuyên, nên b ơ i ho ặ c  đ i xe  đạ p.    TÀI LI Ệ U THAM KH Ả O  1.   Bron JL, de vries Mk, Snieders MN, van der Horst-Bruinsma IE, van Royen BJ  (2009). “ Discovertebral (Andersson) lesions of the spine in ankylosing  spondylitis revisited” . Clin. Rheumatol. 2009; 28 (8):883-892.  2.   Francis H. “ Surgical Management of Lower Cervical Spine Fracture in  Ankylosing Spondylitis J Trauma ”. 2006: 61, 1005- 1009  3.   J Braun, van den Berg R, Baraliakos X et al (2011), “ 2010 update of the  ASAS/EULAR  recommendations  for  the  management  of  ankylosing  spondylitis”.  Ann Rheum Dis 2011:70:896-904.  4.   Goupille P, Pham T, Claudepierre P, Wendling D (2009). «  A plea for reason  in using magnetic resonance imaging for the diagnostic and therapeutic  management of s pond y loar tr op athies” . Joint Bone Spine. 2009 Marc  76(2):123-125  5.   Rudwaleit M, van der Heijde D et al (2011),  “The Assessment of  S pond y lo Arthritis International Society classification criteria for peripheral  s pond y lo arthritis and for s pond y lo arthritis in general ”. Ann Rheum Dis  2011:70:25-31.    H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  53  
-
-B Ệ NH VIÊM KH Ớ P PH Ả N  Ứ NG  (Reactive arthritis) 
-
-  
-
- 1.  ĐỊ NH NGH Ĩ A  Viêm kh ớ p ph ả n  ứ ng  đượ c  đặ c tr ư ng b ở i tình tr ạ ng viêm kh ớ p vô khu ẩ n ti ế p theo  sau tình tr ạ ng nhi ễ m trùng, th ườ ng là nhi ễ m trùng  đườ ng ti ế t ni ệ u - sinh d ụ c ho ặ c  đườ ng tiêu hoá. Bi ể u hi ệ n viêm có th ể  t ừ  m ộ t  đế n vài kh ớ p, th ườ ng g ặ p các kh ớ p l ớ n  ở   hai chi d ướ i, c ộ t s ố ng, kh ớ p cùng ch ậ u, viêm các  đ i ể m bán gân, viêm dây ch ằ ng.  Đ ây là  h ậ u qu ả  c ủ a quá trình  đ áp  ứ ng quá m ẫ n c ủ a h ệ  mi ễ n d ị ch  đố i v ớ i tình tr ạ ng nhi ễ m trùng.  Tri ệ u ch ứ ng viêm kh ớ p x ả y ra sau nhi ễ m trùng có th ể  sau m ộ t vài tu ầ n, m ộ t vài tháng,  ho ặ c th ậ m chí m ộ t vài n ă m. B ệ nh th ườ ng g ặ p trên c ơ   đị a b ệ nh nhân mang kháng  nguyên HLA-B27; t ừ   20  đế n 50 tu ổ i và thu ộ c nhóm b ệ nh lý c ộ t s ố ng th ể  huy ế t thanh  âm tính. 
-
- 2. NGUYÊN NHÂN 
-
- 2.1. Vai trò c ủ a kháng nguyên HLA –B27  Có  đế n 30% - 60% b ệ nh nhân viêm kh ớ p ph ả n  ứ ng có kháng nguyên HLA- B27  và bi ể u hi ệ n b ệ nh th ườ ng n ặ ng h ơ n và có xu h ướ ng chuy ể n thành m ạ n tính cao h ơ n  ở   nh ữ ng ng ườ i có HLA –B27 (+).  2.2. Vai trò c ủ a nhi ễ m trùng  M ộ t vài lo ạ i vi khu ẩ n  đượ c cho là nguyên nhân gây ra viêm kh ớ p ph ả n  ứ ng, nh ấ t  là các vi khu ẩ n gây nhi ễ m trùng  đườ ng ti ế t ni ệ u - sinh  dụ c ho ặ c  đườ ng tiêu hoá, có  kho ả ng 20% các tr ườ ng h ợ p viêm kh ớ p ph ả n  ứ ng không tìm th ấ y nguyên nhân.  −   Nhi ễ m trùng  đườ ng tiêu hóa: th ườ ng do  Salmonelle, Shigella, Yersinia,  Campylobacter, Borrelia ...  −   Nhi ễ m trùng   đườ ng ti ế t ni ệ u - sinh d ụ c: th ườ ng do  Chlamydia Trachomatis   −   M ộ t vài tr ườ ng h ợ p viêm kh ớ p ph ả n  ứ ng th ấ y  ở  b ệ nh nhân b ị  lao h ệ  th ố ng  −   Virus c ũ ng  đượ c cho là nguyên nhân c ủ a viêm kh ớ p ph ả n  ứ ng nh ư :  Rubella ,  virus viêm gan,  Parvovirus, HIV ...  2.3. Các y ế u t ố  khác  M ộ t vài tr ườ ng h ợ p viêm kh ớ p ph ả n  ứ ng có th ể  g ặ p theo sau các tình tr ạ ng viêm  đườ ng ru ộ t m ạ n tính nh ư  b ệ nh Crohn, viêm loét  đạ i tràng... 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Tri ệ u ch ứ ng lâm sàng  Bi ể u hi ệ n lâm sàng th ườ ng g ặ p là b ệ nh nhân có ti ề n s ử  viêm nhi ễ m  đườ ng ti ế t  ni ệ u - sinh d ụ c ho ặ c  đườ ng tiêu hóa, hô h ấ p tr ướ c khi có bi ể u hi ệ n viêm kh ớ p ph ả n  ứ ng.  54 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  Tuy nhiên có kho ả ng 10% các tr ườ ng h ợ p viêm nhi ễ m th ườ ng nh ẹ  và làm cho b ệ nh  nhân không  đượ c chú ý   đế n, nh ấ t là  ở  n ữ . Các bi ể u hi ệ n lâm sàng có th ể  g ặ p nh ư  sau:  −   Bi ể u hi ệ n toàn thân: m ệ t m ỏ i, s ố t nh ẹ , khó ch ị u, chán  ă n, g ầ y sút.  −   Bi ể u hi ệ n  ở  h ệ  c ơ  x ươ ng kh ớ p:  +   Viêm m ộ t kh ớ p ho ặ c vài kh ớ p, không  đố i x ứ ng, th ườ ng g ặ p các kh ớ p  ở  chi  d ướ i nh ư : kh ớ p g ố i, kh ớ p c ổ  chân và ngón chân, có th ể  có bi ể u hi ệ n ngón chân hình  khúc d ồ i. Ngoài ra có th ể   đ au t ạ i c ộ t s ố ng, viêm kh ớ p cùng ch ậ u, kh ớ p vai, kh ớ p  khu ỷ u,  c ổ  tay, ngón tay.  +   Th ườ ng kèm theo viêm  đ i ể m bám t ậ n c ủ a gân c ơ , viêm bao gân, nh ấ t là gân  gót, cân gan bàn chân, l ồ i c ầ u x ươ ng  đ ùi, x ươ ng chày.  +   Viêm kh ớ p tái phát ho ặ c m ạ n tính: bi ể u hi ệ n viêm kh ớ p ngo ạ i biên tái phát  nhi ề u  đợ t ho ặ c viêm viêm kh ớ p cùng ch ậ u và kh ớ p  đố t s ố ng m ạ n tính ti ế n tri ể n thành  b ệ nh viêm c ộ t s ố ng dính kh ớ p.  −    T ổ n th ươ ng da và niêm m ạ c:  +   Có th ể  g ặ p các t ổ n th ươ ng da t ă ng s ừ ng hóa  ở  lòng bàn tay, bàn chân, da bìu,  da  đầ u gi ố ng viêm da trong v ẩ y n ế n.  +   Các t ổ n th ươ ng viêm niêm m ạ c mi ệ ng, l ưỡ i, viêm bao quy  đầ u.  +   Viêm bàng quang, viêm ni ệ u  đạ o, viêm tuy ế n ti ề n li ệ t.  −   T ổ n th ươ ng  ở  m ắ t:   +    B ệ nh nhân có th ể  th ấ y m ắ t  đỏ , s ợ  ánh sáng và  đ au nh ứ c vùng h ố c m ắ t. T ổ n  th ươ ng m ắ t  có  th ể  là tri ệ u ch ứ ng duy nh ấ t ho ặ c là tri ệ u ch ứ ng  đầ u tiên c ủ a viêm kh ớ p  ph ả n  ứ ng.  +   Viêm k ế t m ạ c, viêm màng b ồ   đ ào tr ướ c, viêm giác m ạ c ho ặ c th ậ m chí loét  giác m ạ c có th ể  x ả y ra.  −   Các c ơ  quan khác:  Có th ể  g ặ p bi ể u hi ệ n protein ni ệ u, ti ể u máu vi th ể  và ti ể u m ủ  vô khu ẩ n  ở  b ệ nh  nhân viêm kh ớ p ph ả n  ứ ng.  3.2. C ậ n lâm sàng  −   T ố c  độ  l ắ ng máu, CRP, y ế u t ố  b ổ  th ể  huy ế t thanh C3, C4 t ă ng cao vào giai  đ o ạ n  đầ u c ủ a b ệ nh.  −   B ạ ch c ầ u t ă ng nh ẹ , có th ể  có thi ế u máu nh ẹ .  −   Y ế u t ố  d ạ ng th ấ p RF (-).  −   Phân tích n ướ c ti ể u có th ể  có b ạ ch c ầ u, h ồ ng c ầ u ni ệ u, protein ni ệ u.  −   Xét nghi ệ m d ị ch kh ớ p: th ườ ng bi ể u hi ệ n viêm c ấ p không  đặ c hi ệ u. Nhu ộ m  Gram và c ấ y d ị ch kh ớ p (-). Xét nghi ệ m này giúp ch ẩ n  đ oán phân bi ệ t v ớ i viêm kh ớ p  nhi ễ m trùng.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  55  
-
-−   Có th ể  tìm tác nhân gây b ệ nh t ừ  phân, d ị ch ti ế t  ở  h ọ ng và  đườ ng ti ế t ni ệ u.  −   Test huy ế t thanh ch ẩ n  đ oán có th ể  d ươ ng tính v ớ i  Samonella, Campylobacter,  Chlamydia....  −   X quang kh ớ p: kh ớ p viêm trong giai  đ o ạ n c ấ p tính th ườ ng không có t ổ n  th ươ ng trên X quang. M ộ t s ố  tr ườ ng h ợ p m ạ n tính có th ể  th ấ y các t ổ n th ươ ng calci hóa  ở  các  đ i ể m bám gân và/ho ặ c dây ch ằ ng, viêm kh ớ p cùng ch ậ u. X quang có th ể  giúp  ch ẩ n  đ oán phân bi ệ t v ớ i b ệ nh viêm c ộ t s ố ng dính kh ớ p ( đượ c xem là bi ể u hi ệ n m ạ n tính  c ủ a viêm kh ớ p ph ả n  ứ ng).  −   Xác  đị nh kháng nguyên HLA-B27 có th ể  (+) 30-60% các tr ườ ng h ợ p.  3.3. Ch ẩ n  đ oán xác  đị nh  Hi ệ n nay ch ư a có tiêu chu ẩ n ch ẩ n  đ oán xác  đị nh b ệ nh viêm kh ớ p ph ả n  ứ ng nào  đượ c th ố ng nh ấ t (ngo ạ i tr ừ  h ộ i ch ứ ng Reiter). Vi ệ c ch ẩ n  đ oán b ệ nh viêm kh ớ p ph ả n  ứ ng ch ủ  y ế u d ự a vào các bi ể u hi ệ n lâm sàng, xét nghi ệ m c ậ n lâm sàng và ti ề n s ử  nhi ễ m  khu ẩ n (ch ủ  y ế u là  đườ ng ti ế t ni ệ u - sinh d ụ c,  đườ ng tiêu hóa). 
-
- 3.4. Ch ẩ n  đ oán phân bi ệ t  −   Viêm kh ớ p gút c ấ p.  −   Viêm kh ớ p nhi ễ m trùng.  −   Viêm kh ớ p trong b ệ nh h ệ  th ố ng.  −   Viêm kh ớ p v ả y n ế n.  −   Viêm kh ớ p không  đặ c hi ệ u khác. 
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c  đ i ề u tr ị   −   Đ i ề u tr ị  các t ổ n th ươ ng viêm c ủ a h ệ  c ơ  x ươ ng kh ớ p b ằ ng các thu ố c gi ả m  đ au,  kháng viêm không steroid.  −   Đ i ề u tr ị  các t ổ n th ươ ng ngoài kh ớ p.   −   Đ i ề u tr ị  nguyên nhân gây b ệ nh n ế u xác  đị nh  đượ c nguyên nhân.  −   V ậ t lý tr ị  li ệ u và  đ i ề u tr ị  phòng ng ừ a các bi ế n ch ứ ng. 
-
- 4.2. Phác  đồ   đ i ề u tr ị   −   Đ i ề u tr ị  viêm h ệ  c ơ  x ươ ng kh ớ p b ằ ng các thu ố c kháng viêm không steroid 
-
- (NSAID) là chính, m ộ t vài tr ườ ng h ợ p  đặ c bi ệ t có th ể  s ử  d ụ ng corticoid t ạ i ch ỗ  ho ặ c  toàn thân (th ườ ng r ấ t ít s ử  d ụ ng).  −   Kháng sinh: ch ỉ  dùng khi b ệ nh nhân có b ằ ng ch ứ ng nhi ễ m trùng  đườ ng tiêu  hóa ho ặ c ti ế t ni ệ u - sinh d ụ c.  56 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Đ i ề u tr ị  các t ổ n th ươ ng ngoài kh ớ p nh ấ t là t ổ n th ươ ng m ắ t b ằ ng corticoid t ạ i  ch ỗ  ho ặ c toàn thân (c ầ n ph ả i có ý ki ế n c ủ a chuyên khoa có liên quan).  −   Đ i ề u tr ị  các bi ể u hi ệ n viêm kh ớ p m ạ n tính b ằ ng các thu ố c làm thay  đổ i di ễ n  ti ế n c ủ a b ệ nh (DMARS).  4.3.  Đ i ề u tr ị  c ụ  th ể   −   Thu ố c kháng viêm không steroid:  +   Diclofenac 75mg x 2/ngày tiêm b ắ p trong 3 - 5 ngày, sau  đ ó chuy ể n sang u ố ng:  15mg/ngày tiêm b ắ p trong 3 - 5 ngày, sau  đ ó chuy ể n sang viên u ố ng 7,5 - 15mg/ngày.  +   Celecoxib u ố ng 200mg - 400mg/ngày.  +   M ộ t s ố  NSAID khác c ũ ng có th ể  s ử  d ụ ng tùy theo  đ i ề u ki ệ n và s ự  dung n ạ p  c ủ a b ệ nh nhân.  −   Corticoid: hi ế m khi có ch ỉ   đị nh toàn thân vì  đ a ph ầ n b ệ nh nhân  đ áp  ứ ng t ố t v ớ i  NSAID. M ộ t s ố  ít tr ườ ng h ợ p không  đ áp  ứ ng ho ặ c có ch ố ng ch ỉ   đị nh v ớ i NSAID có th ể   đ i ề u tr ị  b ằ ng corticoid (prednisolone ho ặ c methyl pre dni sol one) li ề u kh ở i  đầ u   0,5 - 1mg/kg/ngày; gi ả m li ề u d ầ n tùy theo  đ áp  ứ ng lâm sàng, không nên kéo dài quá   2 - 4 tháng. Tr ườ ng h ợ p ch ỉ  còn m ộ t kh ớ p viêm kéo dài m ặ c dù  đ ã  đ i ề u tr ị  toàn thân thì  có th ể  ch ỉ   đị nh tiêm corticoid n ộ i kh ớ p.  −   Kháng sinh: khi xác  đị nh  đượ c nguyên nhân gây b ệ nh. Tùy theo vi khu ẩ n  đượ c  phân l ậ p, có th ể  s ử  d ụ ng kháng sinh nhóm quinolon (ciprofloxacin, levofloxacin),  trimethoprim – sulfamethoxazol, tetracyclin, lymecyclin.  Đ i ề u tr ị  kháng sinh không làm  thay  đổ i di ễ n ti ế n c ủ a viêm kh ớ p c ấ p tính, tuy nhiên nó có th ể  giúp h ạ n ch ế  lây lan và  làm gi ả m t ỉ  l ệ  tái phát.  −   Tr ườ ng h ợ p di ễ n bi ế n thành viêm kh ớ p m ạ n tính. Các thu ố c này c ầ n ch ỉ   đị nh  kéo dài nhi ề u tháng cho  đế n khi  đạ t  đượ c tình tr ạ ng lui b ệ nh.  +   Sulfasalazin: li ề u kh ở i  đầ u 500mg/  ngày,  t ă ng d ầ n li ề u, và duy trì  ở  li ề u  2000mg/ngày (sulfasalazin 500mg 2 viên x 2 l ầ n/ngày).  +   Methotrexat : 10 -15mg/ tu ầ n (methotrexat  2,5mg: 4 - 6 viên m ỗ i tu ầ n) u ố ng  m ộ t l ầ n duy nh ấ t vào m ộ t ngày c ố   đị nh trong tu ầ n.  −   Đ i ề u tr ị  phòng ng ừ a:   +   Phòng ng ừ a t ổ n th ươ ng d ạ  dày - tá tràng do dùng các NSAID b ằ ng thu ố c  ứ c  ch ế  b ơ m proton (omeprazol, lansoprazol, pantoprazol...).  +   T ậ p v ậ t lý tr ị  li ệ u s ớ m  để  ng ă n ng ừ a các bi ế n ch ứ ng teo c ơ , c ứ ng kh ớ p.  −   Đ i ề u tr ị  các t ổ n th ươ ng ngoài kh ớ p:  +   Đ i ề u tr ị  các t ổ n th ươ ng da t ă ng s ừ ng b ằ ng cách bôi corticoid và/ho ặ c acid  salicylic t ạ i ch ỗ .  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  57  
-
-+   Đ i ề u tr ị  các t ổ n th ươ ng da n ặ ng ho ặ c m ạ n tính có th ể  cân nh ắ c vi ệ c dùng các  thu ố c  đ i ề u tr ị  nh ư : methotrexat, retinoid.  −   T ổ n th ươ ng m ắ t: dùng cortioid t ạ i ch ỗ . Trong tr ườ ng h ợ p n ặ ng gây gi ả m ho ặ c  m ấ t th ị  giác thì dùng cortioid toàn thân ho ặ c thu ố c  ứ c ch ế  mi ễ n d ị ch (theo ch ỉ   đị nh  đ i ề u  tr ị  c ủ a chuyên khoa m ắ t).  5. TIÊN L ƯỢ NG VÀ BI Ế N CH Ứ NG  Tiên l ượ ng c ủ a b ệ nh viêm kh ớ p ph ả n  ứ ng nói chung là t ố t,  đ a s ố  b ệ nh nhân  h ồ i  ph ụ c hoàn toàn sau vài ngày  đế n vài tu ầ n, có khi kéo dài vài tháng. Tuy nhiên b ệ nh  c ũ ng có th ể  tái phát thành nhi ề u  đợ t, viêm ti ế t ni ệ u -  sinh d ụ c, viêm  đườ ng tiêu hóa  c ũ ng có th ể  tái di ễ n.  Ở  b ệ nh nhân có HLA-B27 (+) thì t ỉ  l ệ   tái phát và ti ế n tri ế n thành  m ạ n tính th ườ ng cao h ơ n. Có kho ả ng 15 – 30%  ti ế n tri ể n m ạ n tính thành viêm c ộ t s ố ng  dính kh ớ p.  6. PHÒNG B Ệ NH  Vi ệ c v ệ  sinh phòng ng ừ a s ự  lây nhi ễ m các tác nhân vi khu ẩ n gây b ệ nh viêm kh ớ p  ph ả n  ứ ng là c ầ n thi ế t, nh ấ t là các cá nhân và gia  đ ình có kháng nguyên HLA-B27 (+).    TÀI LI Ệ U THAM KH Ả O  1.   Carter JD, Hudson AP. “ Reactive arthritis: clinical aspects and medical  management” . Infect Dis Clin North Am. 2009;35(1).  2.   Hill Gaston JS, Lillicrap MS (2003). " Arthritis associated with enteric  infection ". Best pract ice & research. Clinical rheumatology 17 (2): 219–239.  doi:10.1016/S1521-6942(02)00104-3. PMID 12787523.   3.   H. Hunter Handsfield (2001). “ Color atlas and synopsis of sexually transmitted  disease s”,  Volume 236. McGraw-Hill Professional. p. 148. ISBN 978-0-07- 026033-7.   4.   Inman RD. The spondyloarthropathies. In: Goldman L, Schafer AI, eds. Cecil  Medicine. 24th ed. Philadelphia, Pa: Saunders Elsevier; 2011:chap 273.  5.   Ruddy, Shaun (2001). Kelley's Textbook of Rheumatology, 6th Ed. W. B.  Saunders. pp. 1055–1064. ISBN 0-7216-9033-5.       58 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-B Ệ NH VIÊM KH Ớ P V Ẩ Y N Ế N  (Psoriatic arthritis)  1.  ĐẠ I C ƯƠ NG VÀ B Ệ NH SINH  Viêm kh ớ p v ả y n ế n là tình tr ạ ng viêm kh ớ p có liên quan v ớ i b ệ nh v ả y n ế n. T ỷ  l ệ   viêm kh ớ p v ả y n ế n chi ế m 10-30% b ệ nh nhân b ị  v ả y n ế n: 80% tr ườ ng h ợ p có viêm kh ớ p  xu ấ t hi ệ n sau t ổ n th ươ ng v ả y n ế n; 15% xu ấ t hi ệ n  đồ ng th ờ i và 10% tr ườ ng h ợ p viêm  kh ớ p xu ấ t hi ệ n tr ướ c khi có t ổ n th ươ ng da.    Di ễ n bi ế n: b ệ nh di ễ n bi ế n m ạ n tính, ti ế n tri ể n t ừ ng  đợ t d ẫ n  đế n t ổ n th ươ ng x ươ ng  kh ớ p và tàn ph ế , phá hu ỷ  kh ớ p d ẫ n  đế n m ấ t ch ứ c n ă ng v ậ n  độ ng.  C ơ  ch ế  b ệ nh sinh c ủ a b ệ nh v ả y n ế n hi ệ n nay v ẫ n còn ch ư a rõ, các nghiên c ứ u cho  th ấ y có s ự  gia t ă ng t ố c  độ  chu chuy ể n da (turn over c ủ a da), d ẫ n  đế n s ừ ng hóa da và móng.  Quá trình viêm v ớ i s ự  tham gia c ủ a các t ế  bào mi ễ n d ị ch (lympho T) và cytokin (TNF  α ),  các y ế u t ố  t ă ng tr ưở ng và tân sinh m ạ ch  ở  c ả  da, kh ớ p và các  đ i ể m bám t ậ n. Ba y ế u t ố  có  m ố i liên quan ch ặ t ch ẽ  v ớ i quá trình sinh b ệ nh di truy ề n, mi ễ n d ị ch và môi tr ườ ng.  −   Di truy ề n: t ỷ  l ệ  cao  ở  các c ặ p song sinh (70%) và c ậ n huy ế t th ố ng. Có liên quan  v ớ i kháng nguyên HLA B27, HLA B38, HLA B39, HLA DR4, HLA Cw6, HLA Dw3…  −   Mi ễ n d ị ch:   +   Gia t ă ng ho ạ t  độ ng c ủ a b ổ  th ể , lympho T, t ế  bào  đơ n nhân,  đạ i th ự c bào.  +   Gia t ă ng s ả n xu ấ t các cytokines (IL 1 β , IL 6, TNF α , v.v…), kháng th ể  kháng keratin.  −   Môi tr ườ ng: nhi ễ m trùng ( Streptococcus, HIV,...)  và ch ấ n th ươ ng  đượ c coi là  y ế u t ố  thúc  đẩ y b ệ nh v ả y n ế n và c ả  viêm kh ớ p v ả y n ế n. 
-
- 2. TRI Ệ U CH Ứ NG LÂM SÀNG VÀ C Ậ N LÂM SÀNG 
-
- 2.1. Tri ệ u ch ứ ng lâm sàng  −   Viêm kh ớ p:  +   Th ể  viêm ít kh ớ p: th ườ ng là các kh ớ p l ớ n (80%)   +   Th ể  viêm kh ớ p ngo ạ i biên  đố i x ứ ng  (25%)   +   Th ể  viêm kh ớ p tr ụ c (c ộ t s ố ng và kh ớ p cùng ch ậ u) (10%)  +   Th ể  viêm các kh ớ p liên  đố t xa (10%)  +   Th ể  viêm kh ớ p ngo ạ i biên bi ế n d ạ ng n ặ ng (5%)      B ệ nh di ễ n ti ế n t ừ ng  đợ t, các d ạ ng tri ệ u ch ứ ng lâm sàng không c ố   đị nh mà có th ể   xu ấ t hi ệ n các th ể  khác nhau hay trùng l ặ p trong các  đợ t.   −   Bi ể u hi ệ n c ơ  x ươ ng kh ớ p khác: viêm gân bám, viêm gân gót, d ấ u hi ệ u ngón tay  hay ngón chân khúc d ồ i.   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  59  
-
-−   Bi ể u hi ệ n da:  +   V ả y n ế n th ườ ng (psoriasis vulgaris)  +   V ả y n ế n m ủ  (pustular psoriasis)  +   V ả y n ế n d ạ ng gi ọ t, d ạ ng m ả ng (guttate psoriasis)  +   Đỏ  da (erythema)  −   Bi ể u hi ệ n ngoài kh ớ p khác :  viêm k ế t m ạ c, viêm màng b ồ   đ ào, b ệ nh van tim,  t ổ n th ươ ng móng,..  2.2. Tri ệ u ch ứ ng c ậ n lâm sàng  −   Xét nghi ệ m máu:  +   T ă ng t ố c  độ  l ắ ng máu và CRP trong nh ữ ng giai  đ o ạ n viêm kh ớ p c ấ p.  +    RF (-), anti CCP (-)  +   C ầ n làm thêm test HIV  ở  các tr ườ ng h ợ p n ặ ng.  +   Acid uric có th ể  t ă ng trong các tr ườ ng h ợ p t ổ n th ươ ng da n ặ ng và lan t ỏ a.  −   Ch ẩ n  đ oán hình  ả nh:  +   X quang t ạ i kh ớ p viêm: h ẹ p khe kh ớ p, hình  ả nh bào mòn  ở   đầ u x ươ ng d ướ i  s ụ n, ph ả n  ứ ng màng x ươ ng. Ngoài ra, có th ể  th ấ y hình  ả nh calci hóa các  đ i ể m bám  gân và các gai x ươ ng, viêm kh ớ p cùng-ch ậ u hay c ầ u x ươ ng t ạ i c ộ t s ố ng.  Đặ c bi ệ t  ở   th ể  n ặ ng (mutilans), có hình  ả nh tiêu x ươ ng  đố t xa hình  ả nh bút chì c ắ m vào l ọ  m ự c   (pencil in cup).  +   MRI kh ớ p ho ặ c/và khung ch ậ u giúp xác  đị nh t ổ n th ươ ng  ở  giai  đ o ạ n s ớ m ho ặ c  giai  đ o ạ n ti ế n tri ể n c ủ a b ệ nh .  3. CH Ẩ N  Đ OÁN  Tiêu chu ẩ n CLASPAR ( CLAS sification criteria for  P soriatic  AR thritis): ch ẩ n  đ oán Viêm kh ớ p v ả y n ế n khi b ệ nh nhân có b ệ nh lý viêm kh ớ p và/ho ặ c c ộ t s ố ng, t ừ  3  đ i ể m tr ở  lên. Tiêu chu ẩ n này  đạ t  độ  nh ạ y: 98,7%,  độ   đặ c hi ệ u: 91,4%.  V ả y n ế n  đ ang ho ạ t  độ ng       (2  đ )  Ti ề n s ử  v ả y n ế n         (1  đ )  Ti ề n s ử  gia  đ ình v ả y n ế n      (1  đ )  Viêm ngón tay hay ngón chân (khúc d ồ i)    (1 đ )  Ti ề n s ử  ngón tay – chân khúc d ồ i    (1 đ )  T ổ n th ươ ng móng         (1 đ )    Hình thành gai x ươ ng quanh kh ớ p trên XQ  (1 đ )   RF (-)            (1 đ )  60 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-Các y ế u t ố  tiên l ượ ng n ặ ng g ồ m: viêm nhi ề u kh ớ p, bilan viêm  t ă ng cao, t ổ n  th ươ ng kh ớ p, gi ả m ch ấ t l ượ ng s ố ng,  đ áp  ứ ng  đ i ề u tr ị  kém. 
-
- 4.  Đ I Ề U TR Ị   
-
- 4.1.  Đ i ề u tr ị  v ả y n ế n da  −   Th ể  khu trú: Retinoids: acitretin, isotretinoin. Calcipotriene. Corticosteroid t ạ i  ch ỗ  (da).  −   Th ể  lan to ả : tia UVB. PUVA (psoralen + UVA).  4.2.  Đ i ề u tr ị  viêm kh ớ p v ả y n ế n  −   Kháng viêm không steroid: ch ỉ   đị nh khi có viêm kh ớ p, s ử  d ụ ng m ộ t trong các  lo ạ i sau, l ư u ý các ch ố ng ch ỉ   đị nh ho ặ c th ậ n tr ọ ng: celecoxib, diclofenac, naproxen,  piroxicam…  −   Corticosteroid  đ i ề u tr ị  t ạ i ch ỗ  (tiêm n ộ i kh ớ p, tiêm các  đ i ể m bám t ậ n): ch ỉ   đị nh  v ớ i các kh ớ p ho ặ c  đ i ể m bán gân còn s ư ng  đ au m ặ c dù  đ ã  đ i ề u tr ị  thu ố c kháng viêm  không steroid.  −   Thu ố c ch ố ng th ấ p kh ớ p nhóm c ả i thi ệ n  đượ c di ễ n ti ế n b ệ nh (DMARDs) c ổ   đ i ể n:   +   Methotrexate (7,5-25mg/tu ầ n).  +   Sulfasalazine (1-2g/ngày).   +   Leflunomide li ề u t ả i 100mg/ngày x 3 ngày  đầ u, sau  đ ó 20mg hàng ngày.  +   Cyclosporine …   Có th ể  ph ố i h ợ p các DMARDs c ổ   đ i ể n khi th ấ t b ạ i v ớ i m ộ t lo ạ i DMARDs  −   Các ch ấ t kháng y ế u t ố  ho ạ i t ử  u nhóm alpha (kháng TNF  ∝ ): là các tác nhân sinh  h ọ c  đ i ề u tr ị  nh ắ m  đ ích (targeted therapy)  đượ c  đư a vào  đ i ề u tr ị  các b ệ nh t ự  mi ễ n h ệ  th ố ng  trong  đ ó có b ệ nh viêm kh ớ p v ả y n ế n t ừ  10 n ă m g ầ n  đ ây.  Đ i ề u tr ị  sinh h ọ c  đượ c ch ỉ   đị nh  khi  đ áp  ứ ng kém ho ặ c  đ i ề u tr ị  th ấ t b ạ i v ớ i DMARDs c ổ   đ i ể n.  +   Etanercept  50mg tiêm d ướ i da, chia hai l ầ n m ộ t tu ầ n ho ặ c m ộ t l ầ n m ỗ i tu ầ n.  +   Infliximab 5mg/kg truy ề n TM m ỗ i hai tu ầ n trong tháng  đầ u, li ề u th ứ  ba sau 1   tháng, sau  đ ó m ộ t li ề u m ỗ i 8 tu ầ n.  +   Adalimumab 40mg tiêm d ướ i da m ỗ i 2 tu ầ n.  +   Golimumab 50mg tiêm d ướ i da, m ỗ i tháng m ộ t l ầ n.  Tr ướ c khi ch ỉ   đị nh các thu ố c sinh h ọ c, c ầ n làm các bilan  để  t ầ m soát lao, viêm  gan, ch ứ c n ă ng gan - th ậ n,  đ ánh giá ho ạ t tính và m ứ c  độ  tàn ph ế  c ủ a  b ệ nh.  Th ể  viêm kh ớ p tr ụ c (t ổ n th ươ ng c ộ t s ố ng- cùng ch ậ u)  nên  đượ c cân nh ắ c ch ỉ   đị nh  đ i ề u tr ị  sinh h ọ c s ớ m vì theo các nghiên c ứ u, ít có  đ áp  ứ ng v ớ i methotrexate,  sulfasalazine và leflunomide.  Không ph ố i h ợ p các tác nhân sinh h ọ c v ớ i nhau.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  61  
-
-Mu ố i vàng và nhóm thu ố c ch ố ng s ố t rét ngày nay không  đượ c khuy ế n cáo.   Không nên dùng Corticoid toàn thân vì có th ể  gây bi ế n ch ứ ng  đỏ  da toàn thân  ho ặ c bùng phát v ả y n ế n trong khi  đ i ề u tr ị  hay khi v ừ a ng ừ ng thu ố c. Tr ườ ng h ợ p  đặ c bi ệ t  có th ể  tiêm corticoid n ộ i kh ớ p, song ph ả i r ấ t th ậ n tr ọ ng vì nguy c ơ  nhi ễ m trùng cao.   5. THEO DÕI VÀ TIÊN L ƯỢ NG  −   B ệ nh nhân ph ả i  đượ c  đ i ề u tr ị  tích c ự c và theo dõi trong su ố t quá trình  đ i ề u tr ị .  −   Xét nghi ệ m  đị nh k ỳ : t ế  bào máu ngo ạ i vi, t ố c  độ  máu l ắ ng,  Creatinine, SGOT,  SGPT m ỗ i 2 tu ầ n trong m ộ t tháng  đầ u, m ỗ i tháng trong 3 tháng  đầ u, sau  đ ó m ỗ i 3 tháng.  −   Xét nghi ệ m máu  độ t xu ấ t, XQ Ph ổ i … khi c ầ n theo di ễ n bi ế n b ệ nh.  −   Tiên l ượ ng n ặ ng khi: t ổ n th ươ ng viêm nhi ề u kh ớ p ngo ạ i biên (kh ớ p háng, kh ớ p  g ố i), b ệ nh nhân tr ẻ  tu ổ i, có các bi ể u hi ệ n ngoài kh ớ p, l ạ m d ụ ng corticosteroid.  −   N ế u  đ i ề u tr ị  không  đ úng, không k ị p th ờ i, b ệ nh nhân có th ể  b ị  dính kh ớ p  ở  t ư   th ế  x ấ u,  đặ c bi ệ t kh ớ p háng và kh ớ p g ố i th ườ ng b ị  r ấ t s ớ m và b ị  tàn ph ế  t ừ  khi còn  r ấ t tr ẻ .        62 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-TÓM T Ắ T PHÁC  ĐỒ   Đ I Ề U TR Ị  VIÊM KH Ớ P V Ẩ Y N Ế N    VIÊM KH Ớ P NGO Ạ I BIÊN  DA    VIÊM KH Ớ P TR Ụ C  T Đ ML  ↑  CRP ↑   MÓNG  A.URIC  ↑  (+/-)  VIÊM  Đ I Ể M BÁM GÂN  NGOÀI KH Ớ P  RF (-) anti CCP (-)  NGÓN TAY/CHÂN KHÚC D Ồ I        ∆  (+): CASPAR  ≥  3  đ i ể m    T Ổ N TH   ƯƠ NG DA- MÓNG:  VIÊM KH Ớ P TR Ụ C  Th ể  khu trú:  VIÊM KH Ớ P NGO Ạ I BIÊN  Đ i ề u tr ị  tri ệ u ch ứ ng  -   Retinoids: acitretin,  Đ i ề u tr ị  tri ệ u ch ứ ng  -   KVKS  isotretinoin.  V ậ t lý tr ị  li ệ u  -   KVKS  -   Calcipotriene  -   CorticoCoid  n ộ i kh ớ p.  DMARDs:  DMARDs:  -   Sulfasalazine,   -   Corticosteroid t ạ i ch ỗ  (da)  -   MTX   -   Cyclosporine A.  Th ể  lan to ả :  -   Sulfasalazine,     -   Tia UVB  -   Leflunomide,  -   PUVA (psoralen + UVA)  -   Cyclosporine A, …        Th ấ t b ạ i          THU Ố C  Đ I Ề U TR Ị   SINH H Ọ C TH Ứ  NH Ấ T (Anti TNF α )  ±  ph ố i h ợ p DMARDs c ổ   đ i ể n nh ư  MTX, SSZ        Th ấ t b ạ i      THU Ố C  Đ I Ề U TR Ị   SINH H Ọ C TH Ứ  HAI  (Anti TNF α )  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  63   TÀI LI Ệ U THAM KH Ả O  1.   Phác  đồ  ch ẩ n  đ oán và  đ i ề u tr ị  các b ệ nh c ơ  x ươ ng kh ớ p th ườ ng g ặ p. H ộ i Th ấ p  kh ớ p h ọ c Vi ệ t Nam. 2012. P. 65-70.  2.   Barclay Laurie.  “Guidelines Issued for Management of Psoriatic Arthritis”.   2008  3.   Brent Lawrence H.2010.   “Ankylosing Spondylitis and Undifferentiated  Spondyloarthropathy” . Emedicine specialty.   4.   Anna Luisa Di Lorenzo.  ”HLA-B27 syndromes”.  Emedicine specialty. 2010  5.   Levine Norman.  “Systemic treatment for psoriasis”.  2011.   6.   Mazel Elyan .”Update on the s pond y loar thro p athies”.  The journal of muscular  skeletal medicine. 2008.                               64 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-B Ệ NH VIÊM KH Ớ P THI Ế U NIÊN T Ự  PHÁT TH Ể    Đ A KH Ớ P CÓ Y Ế U T Ố  D Ạ NG TH Ấ P D ƯƠ NG TÍNH   VÀ ÂM TÍNH RF (+) VÀ RF (-)  (Juvenile Idiopathic Arthritis)  1.  ĐỊ NH NGH Ĩ A   Viêm kh ớ p thi ế u niên t ự  phát  theo ILAR là nhóm b ệ nh viêm kh ớ p m ạ n tính kh ở i  phát b ệ nh trên 6 tu ầ n  ở  tr ẻ  em d ướ i 16 tu ổ i. Bi ể u hi ệ n lâm sàng không  đồ ng nh ấ t g ồ m:  th ể  ít kh ớ p; th ể   đ a kh ớ p RF (+); th ể   đ a kh ớ p RF (-); th ể  h ệ  th ố ng; th ể  viêm kh ớ p v ẩ y  n ế n; th ể  viêm  đ i ể m bám gân; th ể  viêm kh ớ p không phân lo ạ i. Viêm kh ớ p thi ế u niên t ự   phát th ể   đ a kh ớ p chi ế m 1/3 nhóm b ệ nh lý này.  2. NGUYÊN NHÂN  Nguyên nhân c ủ a b ệ nh viêm kh ớ p thi ế u niên t ự  phát cho  đế n nay v ẫ n còn ch ư a rõ.  B ệ nh không ph ả i do m ộ t c ă n nguyên riêng l ẻ  gây ra, mà do nhi ề u y ế u t ố  h ướ ng kh ớ p  cùng tác  độ ng vào m ộ t cá th ể  mang nh ữ ng y ế u t ố  di truy ề n nh ấ t  đị nh. Các y ế u t ố  môi  tr ườ ng,  đặ c bi ệ t các tác nhân nhi ễ m khu ẩ n; r ố i lo ạ n h ệ  th ố ng mi ễ n d ị ch… có vai trò  quan tr ọ ng trong sinh b ệ nh h ọ c c ủ a b ệ nh viêm kh ớ p thi ế u niên t ự  phát. 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Ch ẩ n  đ oán xác  đị nh  −    Tiêu chu ẩ n ch ẩ n  đ oán viêm kh ớ p thi ế u niên t ự  phát th ể   đ a kh ớ p RF (+) theo  H ộ i th ấ p kh ớ p h ọ c th ế  gi ớ i ( ILAR - 2001)  +   Viêm  đ a kh ớ p: viêm  ≥  5 kh ớ p, bi ể u hi ệ n trong 6 tháng  đầ u kh ở i phát b ệ nh.  +   RF (+): ít nh ấ t 2 m ẫ u (+) v ớ i kho ả ng cách 3 tháng, trong vòng 6 tháng  đầ u  kh ả o sát.  +   Tu ổ i: kh ở i phát < 16 tu ổ i.  +   Th ờ i gian viêm kh ớ p kéo dài ít nh ấ t 6 tu ầ n.  +   D ấ u  ấ n mi ễ n d ị ch t ươ ng t ự  viêm kh ớ p d ạ ng th ấ p  ở  ng ườ i l ớ n (HLA-DR4).  Viêm kh ớ p thi ế u niên t ự  phát th ể   đ a kh ớ p RF (+) chi ế m 5% nhóm b ệ nh lý kh ớ p  m ạ n tính này. B ệ nh g ặ p  ở  tr ẻ  gái nhi ề u h ơ n tr ẻ  trai (n ữ  : nam = 5,7 – 12,8 : 1), tu ổ i kh ở i  phát mu ộ n 9 – 13 tu ổ i. T ầ n su ấ t RF (+) t ă ng d ầ n v ớ i tu ổ i, s ự  hi ệ n di ệ n c ủ a RF có giá tr ị   tiên l ượ ng cho ho ạ t tính b ệ nh ti ế n tri ể n n ặ ng. T ổ n th ươ ng  đ a kh ớ p, c ả  kh ớ p l ớ n và nh ỏ ,  đố i x ứ ng. T ổ n th ươ ng kh ớ p th ườ ng n ặ ng v ớ i h ủ y x ươ ng s ớ m, ch ứ c n ă ng v ậ n  độ ng kh ớ p  b ị   ả nh h ưở ng n ặ ng và có nhi ề u kh ả  n ă ng ph ả i thay kh ớ p v ề  sau. T ổ n th ươ ng ngoài kh ớ p  th ườ ng g ặ p nh ư  viêm c ơ  tim, viêm màng ngoài tim, tràn d ị ch màng ph ổ i, viêm m ạ ch  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  65 máu, viêm h ệ  th ố ng mô liên k ế t, h ộ i ch ứ ng Felty, h ộ i ch ứ ng  ố ng c ổ  tay... Viêm màng b ồ   đ ào và các t ổ n th ươ ng m ắ t khác ít g ặ p. N ố t th ấ p (h ạ t th ấ p d ướ i da) g ặ p trong 10%.  −   Tiêu chu ẩ n ch ẩ n  đ oán viêm kh ớ p thi ế u niên t ự  phát  đ a kh ớ p RF (-)  ILAR  +   Viêm  đ a kh ớ p: viêm  ≥  5 kh ớ p, trong vòng 6 tháng  đầ u kh ở i phát b ệ nh v ớ i RF (-).  +   Th ể  lâm sàng này có ba phân nhóm:  Viêm  đ a kh ớ p v ớ i ANA (+): kh ở i phát b ệ nh s ớ m (< 6 tu ổ i); ch ủ  y ế u g ặ p  ở  tr ẻ  gái;  nguy c ơ  cao viêm màng b ồ   đ ào tr ướ c; viêm kh ớ p không  đố i x ứ ng, kh ớ p l ớ n và nh ỏ .  Viêm màng ho ạ t d ị ch t ă ng sinh,  đố i x ứ ng (Prolific symmetric synovitis): kh ở i  phát b ệ nh tr ễ  (7 – 9 tu ổ i); viêm kh ớ p  đố i x ứ ng, ít bi ế n ch ứ ng viêm màng b ồ   đ ào.  Viêm bao ho ạ t d ị ch khô: kh ở i phát mu ộ n ( ≥  7 tu ổ i);  đ áp  ứ ng kém v ớ i tr ị  li ệ u.  Viêm kh ớ p thi ế u niên t ự  phát th ể   đ a kh ớ p RF (-) có tu ổ i kh ở i phát b ệ nh s ớ m (50%  tr ướ c 5 tu ổ i). B ệ nh g ặ p  ở  tr ẻ  gái nhi ề u h ơ n tr ẻ  trai t ỷ  l ệ  (3:1), th ấ p h ơ n th ể   đ a kh ớ p RF  (+). HLA-DRw8 (DRB1\*0801) có liên quan v ớ i viêm kh ớ p thi ế u niên t ự  phát th ể   đ a  kh ớ p RF (-) và th ể  m ộ t kh ớ p hay vài kh ớ p. B ệ nh th ườ ng di ễ n ti ế n  ấ m  ỉ , nh ư ng c ũ ng có  th ể  kh ở i phát c ấ p tính. T ổ ng tr ạ ng tr ẻ  ít b ị   ả nh h ưở ng, th ườ ng không s ố t ho ặ c ch ỉ  s ố t  nh ẹ . T ổ n th ươ ng kh ớ p l ớ n và nh ỏ , có th ể   đố i x ứ ng ho ặ c không, th ườ ng ti ế n tri ể n ch ậ m.  T ổ n th ươ ng kh ớ p háng th ườ ng xu ấ t hi ệ n mu ộ n. Viêm cân c ơ  bao ho ạ t d ị ch kh ớ p c ổ  tay,  c ổ  chân và viêm gân g ấ p bàn tay th ườ ng g ặ p. T ổ n th ươ ng ngoài kh ớ p không th ườ ng g ặ p.   3.2. Ch ẩ n  đ oán phân bi ệ t  Đ i ề u c ơ  b ả n khi ch ẩ n  đ oán xác  đị nh viêm kh ớ p thi ế u niên t ự  phát là ch ẩ n  đ oán  lo ạ i tr ừ .  Đố i v ớ i th ể   đ a kh ớ p có ho ạ t tính b ệ nh ti ế n tri ể n n ặ ng, c ầ n lo ạ i tr ừ :   b ệ nh nhi ễ m  trùng n ặ ng; CINCA (Chronic infantile neurological cutaneous and articular syndrome -  H ộ i ch ứ ng kh ớ p và  mô d ướ i da th ầ n kinh m ạ n tính  ở  tr ẻ  em); b ệ nh mô liên k ế t khác  (lupus ban  đỏ  h ệ  th ố ng, viêm da c ơ , viêm  đ a c ơ , viêm m ạ ch máu…) ;  b ệ nh lý ác tính ;  lo ạ n s ả n x ươ ng; Agammaglobulinaemia; b ệ nh lý t ổ n th ươ ng ru ộ t do th ấ p.         
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Viêm kh ớ p thi ế u niên t ự  phát th ể   đ a kh ớ p RF (+)  −   B ắ t  đầ u v ớ i m ộ t trong s ố  thu ố c ch ố ng viêm không steroid (NSAIDs) cho phép  dùng  ở  tr ẻ  em: Aspirine (75-100mg/kg/24h); Ibuprofen (30-50mg/kg/24h); Naproxen  (15-20mg/kg/24h); Tolmetin (30-40mg/kg/24h).   −   Tr ườ ng h ợ p b ệ nh ti ế n tri ể n n ặ ng,  đ áp  ứ ng kém v ớ i thu ố c ch ố ng viêm không  steroid, c ầ n  đ i ề u tr ị  thay th ế  b ằ ng corticoid: Methylprednisolone 10-30mg/kg/24h,  truy ề n t ĩ nh m ạ ch trong 1-3 ngày; ho ặ c Prednisone u ố ng li ề u cao 2-3mg/kg/24h.  Corticoid nhanh chóng  đượ c gi ả m li ề u trong 1-2 tu ầ n và duy trì Prednisone u ố ng li ề u  th ấ p có hi ệ u qu ả  0,5-1mg/kg/24h. Corticoid tiêm n ộ i kh ớ p có th ể  giúp c ả i thi ệ n ch ứ c  n ă ng kh ớ p viêm và tri ệ u ch ứ ng  đ au t ạ i ch ỗ .  −   Ph ố i h ợ p thu ố c  đ i ề u tr ị  c ơ  b ả n (DMARDs) s ớ m, Methotrexat (MTX) là thu ố c  2 đượ c ch ọ n l ự a  đầ u tiên v ớ i li ề u 10mg/m   u ố ng 1 l ầ n / tu ầ n. Li ề u Methotrexat có th ể   66 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-t ă ng lên 0,5mg/kg/tu ầ n. N ế u viêm kh ớ p kéo dài > 6 tháng không  đ áp  ứ ng v ớ i  đườ ng  u ố ng, Methotrexat có th ể  chuy ể n qua  đườ ng chích d ướ i da, li ề u 1mg/kg/ tu ầ n (t ố i  ư u  hóa li ề u MTX).  −   Ph ố i h ợ p thêm thu ố c  đ i ề u tr ị  c ơ  b ả n (DMARDs) th ứ  hai,  đượ c ch ỉ   đị nh khi  Methotrexat không hi ệ u qu ả : có th ể  ch ọ n Hydroxy chloroquine (5-6mg/kg/24h)  đượ c  dùng cho tr ẻ  l ớ n (> 4 tu ổ i), ho ặ c Sulfasalazine (25-50 mg/kg/24h),  đố i v ớ i tr ẻ  nh ỏ  có  th ể  b ắ t  đầ u v ớ i li ề u 12,5mg/kg/24h.  −   Đố i v ớ i các tr ườ ng h ợ p kháng tr ị , ph ụ  thu ộ c Steroids, thu ố c kháng TNF  α   Etanercept li ề u 0,4mg/kg tiêm d ướ i da 2 l ầ n trong tu ầ n ho ặ c Adalimumab (Humira) li ề u  40mg/2 tu ầ n tiêm d ướ i da ho ặ c thu ố c  ứ c ch ế  Interleukin 6: Tocilizumab (Actemra) v ớ i  li ề u 4mg/kg/1 tháng (v ớ i tr ẻ  cân n ặ ng > 30kg) và li ề u 10mg/kg/tháng (v ớ i tr ẻ  cân n ặ ng  < 30kg),  đượ c dùng thay th ế  ho ặ c có th ể  k ế t h ợ p v ớ i Methotrexat.  −   Khi  đạ t  đượ c s ự  lui b ệ nh, các thu ố c ph ố i h ợ p  đượ c gi ữ  v ớ i li ề u  ổ n  đị nh trong  vài tháng. Sau  đ ó corticoids  đượ c gi ả m li ề u và ng ừ ng  đầ u tiên. Thu ố c ch ố ng viêm  không steroid (NSAIDs)   và thu ố c  đ i ề u tr ị  c ơ  b ả n (DMARDs)  đượ c ti ế p t ụ c duy trì trong   giai  đ o ạ n lui b ệ nh   (ít nh ấ t > 1 n ă m). Nhóm kháng viêm NSAIDs   đượ c ng ừ ng tr ướ c và  thu ố c DMARDs s ẽ  ng ừ ng sau, khi  đ ánh giá tình tr ạ ng lui b ệ nh th ự c s ự   ổ n  đị nh.  −   Khi tái phát, các thu ố c  đ i ề u tr ị  s ử  d ụ ng  ở  th ờ i  đ i ể m tr ẻ   đạ t  đượ c s ự  lui b ệ nh   s ẽ   đượ c dùng l ạ i.                                         4.2. Viêm kh ớ p thi ế u niên t ự  phát th ể   đ a kh ớ p RF (-)  −   B ắ t  đầ u v ớ i thu ố c ch ố ng viêm không steroid (NSAIDs).    −   Ph ố i h ợ p thêm thu ố c  đ i ề u tr ị  c ơ  b ả n (DMARDs): n ế u sau 1 – 2 tháng viêm  kh ớ p không c ả i thi ệ n, Sulfasalazine là thu ố c  đượ c ch ọ n  đầ u tiên vì có th ờ i gian tác  d ụ ng s ớ m nh ấ t trong s ố  các thu ố c DMARDs.  Đố i v ớ i các tr ẻ  l ớ n và có ho ạ t tính  b ệ nh trung bình, Hydroxychloroquine có th ể   đượ c ch ọ n dùng  đơ n  độ c ho ặ c k ế t h ợ p  v ớ i Sulfasalazin. N ế u > 6 tháng b ệ nh v ẫ n ti ế n tri ể n, Methotrexat là thu ố c  đượ c ch ọ n  thay th ế .   −   Corticoid li ề u th ấ p (prednisone 0,5 mg/kg/24h), giúp c ả i thi ệ n ch ứ c n ă ng v ậ n  độ ng kh ớ p. Corticoid tiêm n ộ i kh ớ p có th ể  xem xét k ế t h ợ p n ế u tri ệ u ch ứ ng viêm t ạ i  kh ớ p  đ áp  ứ ng kém v ớ i kháng viêm u ố ng.  −   Khi  đạ t  đượ c s ự  lui b ệ nh, NSAIDs c ầ n duy trì ít nh ấ t 6 tháng tr ướ c khi  ng ừ ng h ẳ n và thu ố c DMARDs c ầ n  đượ c ti ế p t ụ c thêm kho ả ng 1 n ă m tính t ừ  lúc b ắ t  đầ u có s ự  lui b ệ nh lâm sàng. Sau  đ ó thu ố c DMARDs s ẽ   đượ c ng ừ ng n ế u không có  d ấ u hi ệ u tái phát.  −   Tái phát: thu ố c s ử  d ụ ng  ở  th ờ i  đ i ể m tr ẻ   đạ t  đượ c s ự  lui b ệ nh   s ẽ   đượ c dùng l ạ i.      5. THEO DÕI VÀ QU Ả N LÝ  −   B ệ nh nhi  đượ c theo dõi tái khám t ạ i khoa kh ớ p nhi  đị nh k ỳ  m ỗ i tháng trong  nhi ề u n ă m, chú ý quan tâm theo dõi,  đ i ề u ch ỉ nh các thay  đổ i tâm sinh lý  ở  tr ẻ .   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  67  
-
-−   Đ ánh giá s ự  c ả i thi ệ n ch ứ c n ă ng v ậ n  độ ng kh ớ p và ho ạ t tính b ệ nh trong quá  trình  đ i ề u tr ị   để   đ i ề u ch ỉ nh tr ị  li ệ u cho phù h ợ p v ớ i ti ế n tri ể n c ủ a b ệ nh.   −   Theo dõi tác d ụ ng ph ụ  c ủ a thu ố c.   −   Các xét nghi ệ m c ầ n  đượ c th ự c hi ệ n  đị nh k ỳ :   +   T ế  bào máu ngo ạ i vi, t ố c  độ  l ắ ng máu / m ỗ i 2 – 4 tu ầ n trong giai  đ o ạ n t ấ n  công, m ỗ i tháng trong giai  đ o ạ n duy trì và m ỗ i 3 tháng khi  đạ t  đượ c s ự  lui b ệ nh.   +   Đ i ệ n di protein huy ế t t ươ ng m ỗ i tháng trong giai  đ o ạ n t ấ n công và sau  đ ó m ỗ i  3 tháng.  +   Ch ứ c n ă ng gan th ậ n,  đ ông máu m ỗ i tháng trong 3 tháng  đầ u khi b ắ t  đầ u k ế t  h ợ p thu ố c DMARDs, sau  đ ó m ỗ i 3 tháng.  +   Các xét nghi ệ m khác (t ủ y  đồ , siêu âm tim, X quang ph ổ i…),  đượ c ch ỉ   đị nh khi  có nh ữ ng di ễ n ti ế n không thu ậ n l ợ i c ủ a b ệ nh nghi ng ờ  các bi ế n ch ứ ng n ặ ng nh ư  h ộ i  ch ứ ng ho ạ t hóa  đạ i th ự c bào, thoái hóa tinh b ộ t, viêm tim, x ơ  hóa ph ổ i, ho ạ i t ử  nhú th ậ n,  loãng x ươ ng ho ặ c ho ạ i t ử  vô khu ẩ n ch ỏ m x ươ ng  đ ùi …    +   C ầ n sàng l ọ c lao, viêm gan cho b ệ nh nhi tr ướ c khi  đ i ề u tr ị  thu ố c sinh h ọ c và  ph ả i theo dõi qu ả n lý b ệ nh nhân, các xét nghi ệ m b ệ nh lao sau m ỗ i 3-6 tháng trong quá  trình  đ i ề u tr ị .                    TÀI LI Ệ U THAM KH Ả O  1.   Tr ầ n Ng ọ c Ân (2002). B ệ nh th ấ p kh ớ p, Nhà xu ấ t b ả n Y h ọ c.  2.   Hashkes. P.J (2011),  “Strengths and challenges of a new guide for treating JIA,  Nat”  .Rev.Rheumatol. 7, pp. 377 – 378.  3.   Lehman Thomas J. A. (2009),  “Juvenile Arthritis: Juvenile Rheumatoid  Arthritis, Juvenile Chronic Arthritis, Juvenile Idiopathic Arthritis, A clinician’s  guide to rheumatic diseases in children”,  Oxford University Press, Inc., New  York, pp. 90-120.  4.   Martini. J.G (2006),  “Rheumatoid Factor Positive Polyarthritis” , Arthritis in  children and adolescent, Oxford University press, pp. 233 - 241.  5.   Martini Alberto (2006),  “Rheumatoid Factor Negative Polyarthritis” , Arthritis  in children and adolescent, Oxford University press, pp. 244 - 250.      68 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-B Ệ NH VIÊM KH Ớ P THI Ế U NIÊN T Ự  PHÁT   TH Ể  VIÊM C Ộ T S Ố NG DÍNH KH Ớ P  (Enthesitis Related Arthritis)  1.  ĐỊ NH NGH Ĩ A  Viêm kh ớ p thi ế u niên t ự  phát th ể  viêm c ộ t s ố ng dính kh ớ p còn  đượ c g ọ i là th ể   viêm  đ i ể m bám gân (ERA).  Đ ây là m ộ t trong s ố  các th ể  lâm sàng c ủ a nhóm b ệ nh viêm  kh ớ p thi ế u niên t ự  phát, chi ế m 4 – 15% nhóm b ệ nh lý viêm kh ớ p m ạ n tính thi ế u niên,  đặ c tr ư ng b ở i viêm kh ớ p và viêm  đ i ể m bám gân, g ặ p ch ủ  y ế u  ở  tr ẻ  trai (nam: n ữ  kho ả ng   9: 1). Tu ổ i kh ở i phát b ệ nh th ườ ng sau 6 tu ổ i và l ứ a tu ổ i thi ế u niên. Có liên quan m ậ t  thi ế t v ớ i kháng nguyên HLA-B27.  2. NGUYÊN NHÂN  Nguyên nhân c ủ a viêm kh ớ p thi ế u niên t ự  phát th ể  viêm c ộ t s ố ng dính kh ớ p  không rõ. Có nhi ề u b ằ ng ch ứ ng cho th ấ y nhi ễ m trùng ngoài kh ớ p có kh ả  n ă ng d ẫ n  đế n  viêm kh ớ p ph ả n  ứ ng. Các tác nhân nh ư   Yersinia, Chlamydia, Klebsiella, Samonella,  Shigella … có th ể   đ óng vai trò nh ư  tác nhân kích thích ban  đầ u. Y ế u t ố  c ơ   đị a: gi ớ i tính  và nh ấ t là y ế u t ố  kháng nguyên HLA-B27  đượ c coi nh ư  ti ề n  đề  c ủ a b ệ nh. 
-
- 3. CH Ẩ N  Đ OÁN                             
-
- 3.1. Tri ệ u ch ứ ng lâm sàng  −   Viêm  đ i ể m bám gân hay g ặ p  ở  bàn chân và g ố i.   −   Viêm kh ớ p: v ớ i tính ch ấ t c ứ ng kh ớ p bu ổ i sáng,  đ ôi khi  đ au v ề   đ êm. V ị  trí  ở  các  kh ớ p l ớ n chi d ướ i, có th ể  ít kh ớ p ho ặ c nhi ề u kh ớ p,  đố i x ứ ng ho ặ c không  đố i x ứ ng.  Hi ế m g ặ p viêm kh ớ p chi trên. Viêm kh ớ p cùng ch ậ u (m ộ t bên ho ặ c hai bên). Tri ệ u  ch ứ ng  ở  c ộ t s ố ng ít xu ấ t hi ệ n lúc kh ở i phát b ệ nh. Giai  đ o ạ n toàn phát th ườ ng có viêm  c ộ t s ố ng c ổ  C1 và C2,  đ au c ộ t s ố ng th ắ t l ư ng và kh ớ p cùng ch ậ u; h ạ n ch ế  biên  độ  giãn  c ộ t s ố ng, Schöber test (+).  Ở  tr ẻ  em, t ổ n th ươ ng  ở  vùng trung tâm (c ộ t s ố ng, kh ớ p cùng  ch ậ u)  th ườ ng kín  đ áo và xu ấ t hi ệ n mu ộ n.  −   Bi ể u hi ệ n toàn thân có s ố t nh ẹ , s ụ t cân, m ệ t m ỏ i. Gan lách h ạ ch to hi ế m g ặ p.  Không g ặ p ban ngoài da, tr ừ  tr ườ ng h ợ p viêm kh ớ p ph ả n  ứ ng thu ộ c h ộ i ch ứ ng Reiter.  Có th ể  có kèm các bi ể u hi ệ n h ệ  th ố ng nh ư  viêm m ố ng m ắ t c ấ p tính, h ở  van  độ ng m ạ ch  ch ủ  có k ế t h ợ p v ớ i viêm ru ộ t m ạ n tính (IBD). 
-
- 3.2. Các xét nghi ệ m c ậ n lâm sàng   −   Xét nghi ệ m t ế  bào máu ngo ạ i vi (th ườ ng ít thay  đổ i).  −   Xét nghi ệ m  đ ánh giá tình tr ạ ng viêm: t ố c  độ  l ắ ng máu,  protein C ph ả n  ứ ng 
-
- (CRP) th ườ ng t ă ng cao, t ế  bào máu ngo ạ i vi (th ườ ng ít thay  đổ i).  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  69  
-
-−   Các xét nghi ệ m sinh hoá: Ure, creatinin,  đườ ng,  đ i ệ n gi ả i, AST, ALT, protein,  albumin, s ắ t huy ế t thanh, t ổ ng phân tích n ướ c ti ể u (và cortison máu n ế u c ầ n thi ế t).  −   Ch ụ p X quang: tim ph ổ i th ẳ ng, khung ch ậ u th ẳ ng, các kh ớ p t ổ n th ươ ng. X  quang cho th ấ y có khuy ế t x ươ ng ho ặ c hình ch ồ i x ươ ng t ạ i ch ỗ  gân bám. Hi ế m khi có  t ổ n th ươ ng viêm kh ớ p cùng ch ậ u và c ộ t s ố ng  ở  giai  đ o ạ n s ớ m c ủ a b ệ nh.  −   Đ i ệ n tim, siêu âm tim (t ầ m soát t ổ n th ươ ng van  độ ng m ạ ch ch ủ , d ạ ng vôi hóa).  −   HLA - B27.  3.3. Tiêu chu ẩ n ch ẩ n  đ oán viêm kh ớ p thi ế u niên t ự  phát th ể  viêm c ộ t s ố ng dính  kh ớ p (th ể  viêm  đ i ể m bám gân)  B ệ nh  đặ c tr ư ng b ằ ng viêm kh ớ p và viêm  đ i ể m bám gân ;  ho ặ c viêm kh ớ p; ho ặ c  viêm  đ i ể m bám gân v ớ i ít nh ấ t trên hai nhóm tri ệ u ch ứ ng sau:   −   Có b ệ nh s ử  ho ặ c hi ệ n t ạ i  đ au kh ớ p cùng ch ậ u và ho ặ c  đ au c ộ t s ố ng ki ể u viêm.   −   HLA-B27 d ươ ng tính.   −   Ti ề n s ử  gia  đ ình có m ộ t trong các b ệ nh lý kh ớ p có liên quan v ớ i HLA-B27.  −   Viêm màng b ồ   đ ào tr ướ c c ấ p tính.   −   Kh ở i phát viêm kh ớ p sau 6 tu ổ i.  3.4. Ch ẩ n  đ oán phân bi ệ t     C ầ n ch ẩ n  đ oán lo ạ i tr ừ  th ể  viêm c ộ t s ố ng dính kh ớ p (viêm  đ i ể m bám gân), v ớ i các  th ể  b ệ nh viêm kh ớ p t ự  phát thi ế u niên khác, n ế u có m ộ t trong các b ệ nh c ả nh lâm sàng  đ i  kèm nh ư  sau:    −   Có s ự  hi ệ n di ệ n c ủ a RF  ở  hai l ầ n xét nghi ệ m cách nhau ba tháng.  −   Bi ể u hi ệ n c ủ a viêm kh ớ p thi ế u niên h ệ  th ố ng.  −   Có b ệ nh s ử  v ẩ y n ế n c ủ a b ả n thân hay ng ườ i thân trong gia  đ ình. 
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Giai  đ o ạ n s ớ m c ủ a b ệ nh   Đ i ề u tr ị  th ể  lâm sàng này t ươ ng t ự  nh ư  th ể  ít kh ớ p. Kh ở i  đầ u v ớ i thu ố c ch ố ng  viêm không steroid (NSAIDs):   −   Naproxen: 15-20mg/kg/24h  −   Ibuprofen: 30-50mg/kg/24h.   −   Có th ể  k ế t h ợ p tiêm corticoid t ạ i nh ữ ng kh ớ p s ư ng  đ au nhi ề u (không quá ba  kh ớ p trong m ộ t l ầ n  đ i ề u tr ị ).  70 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  4.2. B ệ nh ti ế n tri ể n  N ế u b ệ nh ti ế n tri ể n n ặ ng: viêm kh ớ p (t ồ n t ạ i trên 2 - 4 tháng) không  đ áp  ứ ng v ớ i  thu ố c ch ố ng viêm không steroid  đơ n thu ầ n; ho ặ c có ho ạ t tính b ệ nh n ặ ng (t ố c  độ  l ắ ng  máu t ă ng cao; viêm kh ớ p ngo ạ i biên ti ế n tri ể n và viêm dính c ộ t s ố ng xu ấ t hi ệ n s ớ m)  Prednisone li ề u 1-2mg/kg/24h, u ố ng chia hai l ầ n, sau  đ ó duy trì Prednisone u ố ng li ề u  th ấ p (0,5 mg/kg/24h). Li ề u corticoid  đượ c gi ả m nhanh trong vòng 2 - 4 tu ầ n, sau  đ ó  thay th ế  b ằ ng thu ố c NSAIDs.  Đ i ề u tr ị  c ơ  b ả n v ớ i nhóm thu ố c ch ố ng th ấ p kh ớ p làm thay  đổ i di ễ n ti ế n b ệ nh  (DMARDs)  đượ c ch ỉ   đị nh s ớ m  đố i v ớ i các tr ườ ng h ợ p có m ứ c  độ  ho ạ t  độ ng b ệ nh n ặ ng  ho ặ c có bi ể u hi ệ n viêm dính c ộ t s ố ng s ớ m:   −   Ph ố i h ợ p Sulfasalazine li ề u 25 mg/kg/24h chia hai l ầ n, u ố ng và t ă ng d ầ n lên 50  mg/kg/24h n ế u tr ẻ  dung n ạ p thu ố c.  −   N ế u b ệ nh v ẫ n ti ế n tri ể n,  đ áp  ứ ng kém v ớ i NSAIDs ho ặ c corticoid k ế t h ợ p v ớ i  Sulfasalazine, ch ỉ   đị nh thêm ho ặ c thay th ế  b ằ ng DMARDs th ứ  2: Methotrexat li ề u nh ỏ   2 (10mg/m ), u ố ng m ộ t l ầ n m ỗ i tu ầ n.  −   Thu ố c kháng TNF  α  (Etanercept): li ề u 0,4 mg/kg tiêm d ướ i da 2 l ầ n/tu ầ n và  Adalimumab (Humira) li ề u 40mg tiêm d ướ i da 2 l ầ n/tháng có hi ệ u qu ả   đố i v ớ i các  tr ườ ng h ợ p  đ áp  ứ ng kém v ớ i các tr ị  li ệ u trên.  4.3. Giai  đ o ạ n lui b ệ nh  Viêm kh ớ p  đ ôi khi gi ả m nhanh, có th ể  ng ừ ng thu ố c NSAIDs s ớ m và duy trì b ằ ng  Sulfasalazine trong vòng 6 tháng t ớ i 1 n ă m k ể  t ừ  lúc  đạ t  đượ c s ự  lui b ệ nh lâm sàng. Sau  khi ng ừ ng thu ố c c ầ n theo dõi d ấ u hi ệ u tái phát c ủ a b ệ nh.  4.4. Tái phát  Viêm kh ớ p thi ế u niên t ự  phát th ể  viêm c ộ t s ố ng dính kh ớ p (th ể  viêm kh ớ p và  viêm  đ i ể m bám gân) th ườ ng ti ế n tri ể n t ừ ng giai  đ o ạ n. Thông th ườ ng, m ộ t  đợ t  đ i ề u tr ị   ng ắ n h ạ n (4 – 6 tháng) v ớ i thu ố c ch ố ng viêm không steroid NSAIDs và Sulfasalazine  đủ   đạ t  đượ c s ự  lui b ệ nh kéo dài. Khi có d ấ u hi ệ u tái phát b ệ nh, thu ố c ph ố i h ợ p lúc  đạ t  đượ c s ự  lui b ệ nh s ẽ   đượ c dùng l ạ i.  5.  THEO DÕI VÀ QU Ả N LÝ  B ệ nh nhi c ầ n  đượ c theo dõi tái khám t ạ i khoa kh ớ p nhi  đị nh k ỳ  m ỗ i tháng trong  nhi ề u n ă m.  Đ ánh giá s ự  c ả i thi ệ n ch ứ c n ă ng v ậ n  độ ng kh ớ p và m ứ c  độ  ho ạ t  độ ng c ủ a  b ệ nh thông qua các tri ệ u ch ứ ng lâm sàng, c ậ n lâm sàng  đượ c ki ể m tra  đị nh k ỳ  (T ế  bào  máu ngo ạ i vi, ph ả n  ứ ng viêm,  đ i ệ n di protein huy ế t t ươ ng, ch ứ c n ă ng gan th ậ n, ch ứ c  n ă ng  đ ông máu, t ổ ng phân tích n ướ c ti ể u, Xquang x ươ ng kh ớ p …).   Theo dõi phát hi ệ n s ớ m s ự  xu ấ t hi ệ n c ủ a các tri ệ u ch ứ ng khác  đ i kèm trong quá  trình ti ế n tri ể n c ủ a b ệ nh (ví d ụ : tri ệ u ch ứ ng tiêu hóa, viêm loét da niêm m ạ c, y ế u c ơ ,  viêm m ạ ch máu…)  để  giúp xác  đị nh chính xác th ể  lâm sàng c ủ a nhóm b ệ nh viêm kh ớ p  thi ế u niên t ự  phát th ể  viêm kh ớ p viêm  đ i ể m bám gân. Trên c ơ  s ở  này s ẽ  có h ướ ng  đ i ề u  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  71  
-
-tr ị  phù h ợ p v ớ i m ỗ i lo ạ i b ệ nh lý c ụ  th ể . Ph ố i h ợ p nhóm thu ố c DMARDs s ớ m và xem  xét ch ỉ   đị nh  đ i ề u tr ị  sinh h ọ c s ớ m n ế u có bi ể u hi ệ n t ổ n th ươ ng kh ớ p n ặ ng ho ặ c ho ạ t tính  b ệ nh n ặ ng t ồ n t ạ i kéo dài.  Theo dõi tác d ụ ng không mong mu ố n c ủ a thu ố c  đ i ề u tr ị   để  k ị p th ờ i ng ừ ng thu ố c,  gi ả m li ề u, ho ặ c thay th ế  thu ố c khác. Phát hi ệ n và x ử  trí k ị p th ờ i các bi ế n ch ứ ng do thu ố c  ho ặ c do b ệ nh gây ra.   TÀI LI Ệ U THAM KH Ả O  1.   Tr ầ n Ng ọ c Ân (2002), B ệ nh th ấ p kh ớ p, Nhà xu ấ t b ả n Y h ọ c.  2.   Cassidy James T. and Petty Ross E. (2011),  “Chronic Arthritis in Childhood” ,  Textbook of Pediatric Rheumatology, 6th edition, Elsevier Saunders,  Philadelphia, pp. 211-35.  3.   Hashkes. P.J (2011),  “Strengths and challenges of a new guide for treating  JIA” , Nat.Rev.Rheumatol. 7, 377 – 378.  4.   Hashkes Philip J. and Laxer Ronald M. (2008),  “Juvenile Idiopathic Arthritis:  Treatment and Assessment” , Primer on the Rheumatic Diseases, 13th Ed,  Springer Science & Business Media, New York, 154-62  5.   Lovell Daniel J. (2008),  “Juvenile Idiopathic Arthritis: Clinical Features”,   Primer on the Rheumatic Diseases, 13th Ed, Springer Science & Business  Media, New York, 142-47.                  72 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-B Ệ NH VIÊM KH Ớ P THI Ế U NIÊN T Ự  PHÁT TH Ể  H Ệ  TH Ố NG  (Juvenile Idiopathic Arthritis with systemic onset)  1.  ĐỊ NH NGH Ĩ A    Viêm kh ớ p thi ế u niên t ự  phát th ể  h ệ  th ố ng chi ế m 5 - 15 % nhóm b ệ nh viêm kh ớ p  thi ế u niên t ự  phát.  Đ ây là bi ể u hi ệ n t ổ n th ươ ng n ộ i t ạ ng c ủ a b ệ nh v ớ i s ố t cao  đặ c tr ư ng,  kèm các t ổ n th ươ ng lan t ỏ a ngoài kh ớ p (da, m ạ ch máu, tim, ph ổ i, gan, lách, h ạ ch ...).  Viêm kh ớ p th ườ ng thoáng qua, nh ư ng các t ổ n th ươ ng ngoài kh ớ p th ườ ng n ặ ng và kéo  dài có th ể  gây t ử  vong cho tr ẻ . B ệ nh c ầ n  đượ c ch ẩ n  đ oán phân bi ệ t v ớ i các b ệ nh lý có  bi ể u hi ệ n toàn thân khác nh ư  nhi ễ m trùng huy ế t, viêm da c ơ , viêm  đ a c ơ , b ệ nh  Kawasaki, Lupus ban  đỏ  h ệ  th ố ng, b ệ nh Behet, b ạ ch huy ế t c ấ p …     2. NGUYÊN NHÂN VÀ SINH B Ệ NH H Ọ C  M ặ c dù kh ở i phát c ủ a b ệ nh viêm kh ớ p thi ế u niên t ự  phát th ể  h ệ  th ố ng có bi ể u  hi ệ n gi ố ng b ệ nh c ả nh nhi ễ m trùng, nh ư ng không tìm th ấ y m ố i liên quan v ớ i các y ế u t ố   vi khu ẩ n h ọ c.  Đồ ng th ờ i c ũ ng không tìm th ấ y m ố i liên quan gi ữ a b ệ nh và y ế u t ố  gia  đ ình, mùa.   Th ể  h ệ  th ố ng có liên quan m ậ t thi ế t v ớ i s ự  ho ạ t hoá c ủ a b ạ ch c ầ u  đ a nhân trung  tính (BC Đ NTT) và  đơ n nhân h ơ n các th ể  lâm sàng khác và ít có liên quan v ớ i s ự  ho ạ t  hoá c ủ a t ế  bào T. Các nghiên c ứ u cho th ấ y có s ự  b ấ t th ườ ng c ủ a dòng BC Đ NTT trong  s ự  t ươ ng tác v ớ i t ế  bào T và nh ữ ng c ơ  ch ế  khác c ủ a ph ả n  ứ ng viêm. Viêm kh ớ p thi ế u  niên t ự  phát th ể  h ệ  th ố ng có th ể   đượ c coi nh ư  b ệ nh lý t ự  viêm (autoinflammatory  disease) h ơ n là t ự  mi ễ n.   B ấ t th ườ ng c ủ a các t ế  bào gi ế t t ự  nhiên (NK)  đượ c tìm th ấ y  ở  th ể  h ệ  th ố ng d ẫ n  đế n h ộ i ch ứ ng h ọ at hóa  đạ i th ự c bào (MAS). IL 6 polymorphism th ườ ng ph ố i h ợ p v ớ i  th ể  h ệ  th ố ng, nên th ể  lâm sàng này  đượ c coi nh ư  nhóm b ệ nh ph ụ  thu ộ c IL6. 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1.  Tri ệ u ch ứ ng lâm sàng  Tri ệ u ch ứ ng t ạ i kh ớ p:  Đ au kh ớ p là tri ệ u ch ứ ng s ớ m và th ườ ng thoáng qua. Viêm  đ a kh ớ p th ườ ng g ặ p  h ơ n là ít kh ớ p,  đ i ể n hình là kh ớ p c ổ  tay, kh ớ p g ố i, kh ớ p c ổ  chân. Ít g ặ p h ơ n  ở  kh ớ p bàn  tay, kh ớ p háng, c ộ t s ố ng c ổ  và kh ớ p thái d ươ ng hàm d ướ i.  Tri ệ u ch ứ ng ngoài kh ớ p:  −   S ố t  đặ c tr ư ng c ủ a b ệ nh th ườ ng xu ấ t hi ệ n trong  đợ t kh ở i phát, nh ư ng c ũ ng có  th ể  x ả y ra sau  đợ t viêm kh ớ p. S ố t th ườ ng kéo dài trên 2 tu ầ n, nh ư ng có th ể  kéo dài t ừ   nhi ề u tu ầ n  đế n nhi ề u tháng. S ố t có th ể  x ả y ra b ấ t c ứ  lúc nào trong ngày,  đ i ể n hình là s ố t  dao  độ ng v ớ i m ộ t ho ặ c hai c ơ n trong ngày, th ườ ng x ả y ra vào bu ổ i chi ề u ho ặ c t ố i. S ố t  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  73 t ă ng cao và gi ả m nhanh d ướ i nhi ệ t  độ  bình th ườ ng vào sáng s ớ m, có th ể  kèm  ớ n l ạ nh,  đ au c ơ , bi ế ng  ă n, m ệ t m ỏ i. Các tri ệ u ch ứ ng khác nh ư  phát ban, viêm màng thanh d ị ch,  viêm kh ớ p bi ể u hi ệ n trong c ơ n s ố t. Tr ẻ  sinh ho ạ t bình th ườ ng khi h ế t s ố t.   −   Phát ban: g ặ p 90% tr ườ ng h ợ p lúc kh ở i phát. Ban d ạ ng dát hình tròn màu h ồ ng,  xung quanh nh ạ t màu, th ườ ng riêng bi ệ t, có  đườ ng kính kho ả ng 2-10mm, có th ể  k ế t h ợ p  l ạ i thành t ổ n th ươ ng l ớ n h ơ n. Ban có th ể  có d ạ ng  đườ ng khi cào (hi ệ n t ượ ng Koebner).  Ban d ễ  phai, n ổ i b ậ t nh ấ t khi tr ẻ  s ố t, m ờ   đ i khi nhi ệ t  độ  tr ở  v ề  bình th ườ ng và xu ấ t hi ệ n  tr ở  l ạ i khi có  đợ t s ố t khác. Có th ể  không nhìn th ấ y ban vì ban di chuy ể n và m ấ t  đ i t ự   nhiên. Ban th ườ ng th ấ y  ở  thân ng ườ i và g ố c chi (nách và b ẹ n), có th ể  toàn thân. Kho ả ng  10% ban  ở  d ạ ng mày  đ ay và ng ứ a, không bao gi ờ  có ban xu ấ t huy ế t. Viêm kh ớ p thi ế u  niên t ự  phát th ể  h ệ  th ố ng không th ể  ch ẩ n  đ oán s ớ m n ế u không có s ố t, và khó ch ẩ n  đ oán  khi không có ban.  −   Viêm màng thanh d ị ch và t ổ n th ươ ng tim: tràn d ị ch màng ngoài tim có th ể  phát  hi ệ n  ở  h ầ u h ế t b ệ nh nhân trong  đợ t ti ế n tri ể n b ệ nh nh ư ng l ượ ng ít, không có tri ệ u  ch ứ ng. Viêm màng ngoài tim x ả y ra kho ả ng 33%. Viêm c ơ  tim hi ế m g ặ p, th ườ ng x ả y ra  cùng v ớ i viêm màng ngoài tim và không có tri ệ u ch ứ ng suy tim nên khó phát hi ệ n. T ử   vong do viêm c ơ  tim không tri ệ u ch ứ ng kho ả ng 10-12%, vì v ậ y  đ ánh giá ch ứ c n ă ng tâm  th ấ t qua siêu âm tim là c ầ n thi ế t  ở  th ể  h ệ  th ố ng.  −   Tràn d ị ch màng ph ổ i th ườ ng g ặ p trong  đợ t c ấ p, có th ể  có viêm ph ổ i mô k ẽ  lan  t ỏ a nh ư ng hi ế m.  −   Đ au b ụ ng có th ể  do viêm màng b ụ ng ho ặ c c ă ng bao gan do gan to nhanh, có  th ể  bi ể u hi ệ n gi ố ng nh ư  c ơ n  đ au b ụ ng c ấ p.  −   T ổ n th ươ ng h ệ  liên võng n ộ i mô: b ệ nh lý h ạ ch lan t ỏ a 50-70%; v ị  trí th ườ ng  g ặ p  ở  c ổ , h ạ ch m ạ c treo; h ạ ch không  đ au, m ề m và di  độ ng. Gan to g ặ p  ở  th ể  h ệ  th ố ng  ho ạ t  độ ng, có th ể  kèm men gan t ă ng. Lách to kho ả ng 30-50% tr ườ ng h ợ p. Trong h ộ i  ch ứ ng Felty, tr ẻ  có lách to và d ấ u hi ệ u c ườ ng lách (gi ả m c ả  ba dòng  ở  ngo ạ i vi).  −   Các tri ệ u ch ứ ng khác: tri ệ u ch ứ ng c ủ a h ệ  th ầ n kinh trung  ươ ng nh ư  kích thích,  gi ả m tri giác, co gi ậ t và d ấ u hi ệ u màng não. Viêm màng b ồ   đ ào ít g ặ p  ở  th ể  h ệ  th ố ng.  3.2. C ậ n lâm sàng    −   B ạ ch c ầ u máu th ườ ng t ă ng r ấ t cao 30.000-50.000/ mm 3  v ớ i  đ a nhân trung tính  3 chi ế m  ư u th ế . Ti ể u c ầ u t ă ng cao có th ể  t ớ i 1.000.000/ mm ; thi ế u máu v ớ i Hb t ừ  7-10  g/dl. T ố c  độ  l ắ ng máu t ă ng r ấ t cao, t ă ng Fibrinogen, Ferritin và D-dimer t ă ng v ừ a. N ế u  t ố c  độ  l ắ ng máu và Fibrinogen gi ả m  độ t ng ộ t c ầ n ph ả i dè ch ừ ng  đ ây là d ấ u hi ệ u s ớ m  c ủ a h ộ i ch ứ ng ho ạ t hóa  đạ i th ự c bào (MAS).  −   Gia t ă ng các globulin mi ễ n d ị ch  đ a dòng, nh ư ng các t ự  kháng th ể  (RF, ANA)  th ườ ng âm tính. N ồ ng  độ  b ổ  th ể  gia t ă ng nh ư  m ộ t ph ầ n c ủ a  đ áp  ứ ng viêm c ấ p.  −   Xét nghi ệ m d ị ch kh ớ p có s ố  l ượ ng b ạ ch c ầ u t ừ  10.000  đế n 40.000/mm 3 . Có  3 m ộ t s ố  ít tr ườ ng h ợ p b ạ ch c ầ u có th ể  t ă ng t ớ i 100.000/mm , c ầ n ch ẩ n  đ oán phân bi ệ t v ớ i  viêm kh ớ p nhi ễ m trùng.   74 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Xquang có thay  đổ i  ở  x ươ ng và ph ầ n m ề m chi ế m t ỷ  l ệ  cao  ở  tr ẻ  viêm kh ớ p  thi ế u niên t ự  phát th ể  h ệ  th ố ng. Loãng x ươ ng c ạ nh kh ớ p là d ấ u hi ệ u c ủ a viêm kh ớ p ho ạ t  độ ng 35%. H ẹ p khe kh ớ p 30%. B ấ t th ườ ng t ă ng tr ưở ng x ươ ng 10% (ch ậ m tu ổ i x ươ ng  th ườ ng  đượ c ghi nh ậ n  ở  th ờ i  đ i ể m khám). Nh ữ ng thay  đổ i s ớ m trên Xquang có liên  quan v ớ i t ă ng s ố  l ượ ng ti ể u c ầ u và t ồ n t ạ i tri ệ u ch ứ ng viêm toàn thân trên 6 tháng. T ổ n  th ươ ng kh ớ p th ườ ng g ặ p  ở  kh ớ p c ổ  tay, kh ớ p háng, kh ớ p vai. T ổ n th ươ ng c ộ t s ố ng c ổ   và kh ớ p háng th ườ ng  ở  giai  đ o ạ n tr ễ . Viêm dính c ộ t s ố ng và kh ố i x ươ ng c ổ  tay th ườ ng  g ặ p  ở  th ể  h ệ  th ố ng n ặ ng, kháng tr ị .   3.3. Tiêu chu ẩ n ch ẩ n  đ oán viêm kh ớ p thi ế u niên t ự  phát th ể  h ệ  th ố ng (ILAR)  Viêm b ấ t k ỳ  kh ớ p nào v ớ i s ố t  đặ c tr ư ng m ỗ i ngày. Kéo dài trên hai tu ầ n kèm theo  m ộ t ho ặ c nhi ề u h ơ n các tri ệ u ch ứ ng sau:  −   Ban mau phai m ờ .  −   H ạ ch toàn than.   −   Gan l ớ n ho ặ c lách l ớ n.  −   Viêm màng thanh d ị ch.  3.4. Ch ẩ n  đ oán phân bi ệ t   C ầ n ch ẩ n  đ oán lo ạ i tr ừ  b ệ nh viêm kh ớ p thi ế u niên t ự  phát th ể  h ệ  th ố ng khi có các  bi ể u hi ệ n  đ i kèm sau  đ ây:  −   B ệ nh v ẩ y n ế n ho ặ c ti ề n c ă n có b ệ nh v ẩ y n ế n  ở  h ọ  hàng  đờ i th ứ  nh ấ t.  −   Viêm kh ớ p  ở  tr ẻ  trai HLA-B27, kh ở i phát b ệ nh sau 6 tu ổ i  −   Viêm c ộ t s ố ng dính kh ớ p thi ế u niên, viêm  đ i ể m bám gân, viêm kh ớ p cùng ch ậ u  v ớ i viêm ru ộ t m ạ n tính, h ộ i ch ứ ng Reiter, viêm màng b ồ   đ ào tr ướ c, ho ặ c có b ệ nh s ử  c ủ a  m ộ t trong s ố  các b ệ nh lý này  ở  h ọ  hàng  đờ i th ứ  nh ấ t.  −   Hi ệ n di ệ n c ủ a y ế u t ố  d ạ ng th ấ p  ở  hai l ầ n xét nghi ệ m cách nhau trên ba tháng.      3.5. Ch ẩ n  đ oán bi ế n ch ứ ng  −   H ộ i ch ứ ng ho ạ t hóa  đạ i th ự c bào (MAS):  đượ c xem là h ộ i ch ứ ng th ự c bào  máu th ứ  phát (secondary hemophagocytic lymph o his tio cyto s is syndromes), m ộ t trong  nh ữ ng bi ế n ch ứ ng n ặ ng nh ấ t c ủ a th ể  h ệ  th ố ng. Y ế u t ố  kh ở i phát g ồ m: nhi ễ m virus; thêm  thu ố c ho ặ c thay  đổ i thu ố c,  đặ c bi ệ t là m ộ t s ố  thu ố c nh ư : thu ố c ch ố ng viêm không  steroids (NSAIDs), tiêm b ắ p mu ố i vàng, sulfasalazin, methotrexat, g ầ n  đ ây là etanercept  (thu ố c kháng TNF α ) và sau ghép t ủ y. B ệ nh bi ể u hi ệ n c ấ p tính v ớ i gan lách to, b ệ nh lý  h ạ ch b ạ ch huy ế t, ban xu ấ t huy ế t  ở  da và xu ấ t huy ế t niêm m ạ c, có th ể  suy  đ a c ơ  quan.  Xét nghi ệ m có gi ả m ba dòng t ế  bào máu ngo ạ i vi, t ă ng s ả n ph ẩ m thoái hóa fibrin, t ă ng  ferritin máu, t ă ng triglyceride máu. D ấ u hi ệ u g ợ i ý s ớ m là t ố c  độ  l ắ ng máu gi ả m th ấ p  độ t ng ộ t khi có bi ế n ch ứ ng này, do gi ả m fibrinogen th ứ  phát sau tiêu th ụ  các y ế u t ố   đ ông máu và r ố i lo ạ n ch ứ c n ă ng gan.  Đ i ề u tr ị  bi ế n ch ứ ng ho ạ t hóa  đạ i th ự c bào (MAS)  bao g ồ m methyl prednisone truy ề n t ĩ nh m ạ ch (30mg/kg, t ố i  đ a 1g) ph ố i h ợ p  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  75 cyclosporine A (3-6mg/kg/24h). Tr ườ ng h ợ p n ặ ng có th ể   đ áp  ứ ng v ớ i dexamethasone  và etoposide.  −   Thi ế u máu:  th ườ ng g ặ p  ở  th ể  ho ạ t  độ ng (40%), ch ủ  y ế u là thi ế u máu  đẳ ng bào  nh ượ c s ắ c, h ậ u qu ả  c ủ a quá trình viêm m ạ n tính. Thi ế u máu có th ể  th ứ  phát sau m ấ t  máu m ạ n tính  ở  d ạ  dày - ru ộ t do dùng thu ố c kháng viêm. Ngoài ra, tình tr ạ ng thi ế u máu  này còn có th ể  do huy ế t tán t ự  mi ễ n (hi ế m), do suy t ủ y (có th ể  liên quan t ớ i thu ố c) ho ặ c  do tác d ụ ng IL-1 β   đố i kháng v ớ i tác d ụ ng c ủ a Erythropoietin trên t ủ y x ươ ng. Do  đ ó,  thi ế u máu  ở  tr ẻ  viêm kh ớ p thi ế u niên t ự  phát th ể  h ệ  th ố ng th ườ ng h ồ i ph ụ c khi  đượ c  ch ố ng viêm t ố t. Có th ể  b ổ  sung s ắ t trong tr ườ ng h ợ p có thi ế u s ắ t n ặ ng.  −   Ch ậ m phát tri ể n th ể  ch ấ t:  tr ẻ  th ườ ng có gi ả m kh ố i c ơ  và t ă ng kh ố i m ỡ , t ă ng  tiêu hao n ă ng l ượ ng lúc ngh ỉ . Khi lui b ệ nh, tr ẻ  có th ể   đạ t  đượ c s ự  phát tri ể n bình th ườ ng  n ế u hành x ươ ng ch ư a  đ óng. Ch ậ m phát tri ể n có liên quan  đế n ho ạ t tính b ệ nh n ặ ng và  th ờ i gian b ệ nh, c ũ ng nh ư  th ờ i gian  đ i ề u tr ị  prednisone.   −   Loãng x ươ ng:  h ậ u qu ả  c ủ a b ệ nh và do  đ i ề u tr ị  corticoid. T ỉ  tr ọ ng khoáng  x ươ ng (BMD) th ấ p liên quan  đế n ho ạ t tính b ệ nh n ặ ng, dùng corticoid, tu ổ i nh ỏ , ch ỉ  s ố   kh ố i c ơ  th ể  (BMI), kh ố i c ơ , gi ả m cung c ấ p calci và vitamin D, gi ả m ho ạ t  độ ng th ể  ch ấ t  và ch ậ m d ậ y thì.  Đ i ề u tr ị  loãng x ươ ng bao g ồ m b ổ  sung calci và vitamin D và t ă ng ho ạ t  độ ng th ể  ch ấ t, nh ư ng t ố i  ư u v ẫ n là ki ể m soát có hi ệ u qu ả  ho ạ t tính b ệ nh  để  ng ă n ng ừ a  loãng x ươ ng do viêm.  −   Thoái hóa tinh b ộ t th ứ  phát (amyloidosis):  do l ắ ng  đọ ng protein amyloid A  c ủ a huy ế t thanh (SAA) trong các mô.  Đ ây là m ộ t bi ế n ch ứ ng hi ế m g ặ p, ph ả n ánh s ự  kéo  dài và m ứ c  độ  n ặ ng c ủ a b ệ nh. Tri ệ u ch ứ ng th ườ ng  đ i kèm v ớ i các tri ệ u ch ứ ng c ủ a nhi ề u  c ơ  quan khác nh ư  th ậ n, ru ộ t, gan, lách và tim.  Ở  th ể  b ệ nh n ặ ng và không  đượ c  đ i ề u tr ị   đầ y  đủ , bi ế n ch ứ ng này t ă ng lên v ớ i t ỉ  l ệ  1,4 - 9%. Cyclophosphamide là thu ố c  đượ c  ch ọ n thay th ế  khi có biên ch ứ ng thoái hóa tinh b ộ t và  đ i ề u tr ị  sinh h ọ c c ũ ng c ầ n  đượ c  xem xét k ế t h ợ p.  3.6. Di ễ n ti ế n và tiên l ượ ng  −   Di ễ n ti ế n:   Di ễ n ti ế n b ệ nh viêm kh ớ p thi ế u niên t ự  phát th ể  h ệ  th ố ng r ấ t thay  đổ i. B ệ nh  th ườ ng bi ể u hi ệ n b ằ ng s ố t c ơ n, phát ban kèm v ớ i  đ au kh ớ p và viêm kh ớ p trong th ờ i gian  4-6 tháng. Sau  đ ó là th ờ i gian t ươ ng  đố i yên l ặ ng. Theo Svantesson và c ộ ng s ự , có  kho ả ng 40-50% tr ườ ng h ợ p lui b ệ nh hoàn toàn. Có t ớ i 50% di ễ n ti ế n  đế n viêm  đ a kh ớ p  m ạ n tính và 25% có phá h ủ y kh ớ p,  đặ c bi ệ t là kh ớ p háng. Tiêu chu ẩ n lui b ệ nh còn nhi ề u  tranh cãi, nh ư ng các h ộ i th ả o qu ố c t ế  trong th ờ i gian g ầ n  đ ây th ố ng nh ấ t là không dùng  thu ố c trong 12 tháng mà không viêm kh ớ p; không s ố t, không ban d ạ ng th ấ p, không  viêm màng thanh d ị ch, không gan lách h ạ ch, t ố c  độ  l ắ ng máu ho ặ c protein C ph ả n  ứ ng  bình th ườ ng thì  đượ c coi là lui b ệ nh. H ầ u h ế t th ể  h ệ  th ố ng th ườ ng di ễ n ti ế n theo ba  nhóm chính nh ư  sau:   +   Có m ộ t  đợ t viêm duy nh ấ t (monocyclic) r ồ i t ự  lui b ệ nh hoàn toàn (t ự  kh ỏ i)  trong kho ả ng th ờ i gian 1 n ă m (chi ế m kho ả ng 11% tr ườ ng h ợ p).  76 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-+   Có nhi ề u  đợ t ti ế n tri ể n (polycyclic),  đợ t lui b ệ nh có th ể  t ự  nhiên ho ặ c do  đ i ề u  tr ị  và có xu h ướ ng n ặ ng d ầ n lên (chi ế m kho ả ng 34% tr ườ ng h ợ p).  +   B ệ nh di ễ n ti ế n m ạ n tính (persistent), không có  đợ t t ạ m lui b ệ nh, phá h ủ y kh ớ p  nhanh, ti ế n tri ể n  đế n tàn ph ế  có kèm nh ữ ng  đợ t bi ể u hi ệ n toàn thân ho ặ c không, (chi ế m  55% tr ườ ng h ợ p).  −   Tiên l ượ ng:   Có 1/3 b ệ nh nhân tàn ph ế  không h ồ i ph ụ c,  đặ c bi ệ t là th ể  h ệ  th ố ng có ti ế n tri ể n  ph ứ c t ạ p. Các y ế u t ố  tiên l ượ ng x ấ u: tu ổ i ch ẩ n  đ oán b ệ nh d ướ i 6 tu ổ i và viêm  đ a kh ớ p  trong 6 tháng  đầ u c ủ a b ệ nh; b ệ nh kéo dài trên 5 n ă m; t ă ng IgA; tri ệ u ch ứ ng toàn thân  kéo dài (s ố t kéo dài, ho ặ c ph ả i duy trì  đ i ề u tr ị  corticoid  để  ki ể m soát các tri ệ u ch ứ ng  3 toàn thân); t ă ng ti ể u c ầ u  ≥  600.000/mm .   4.  Đ I Ề U TR Ị   −   Tr ẻ  viêm kh ớ p thi ế u niên t ự  phát th ể  h ệ  th ố ng th ườ ng có b ệ nh c ả nh c ấ p tính  n ặ ng c ầ n ph ả i nh ậ p vi ệ n.  Đ i ề u tr ị  nh ằ m làm gi ả m các tri ệ u ch ứ ng viêm t ạ i kh ớ p và ph ả n  ứ ng viêm lan t ỏ a ngoài kh ớ p. Thu ố c  đ i ề u tr ị   đượ c l ự a ch ọ n tùy thu ộ c vào m ứ c  độ  n ặ ng  c ủ a ho ạ t tính b ệ nh.  −   M ứ c  độ  ho ạ t tính b ệ nh nh ẹ /th ể  h ệ  th ố ng  đơ n gi ả n (s ố t, phát ban,  đ au kh ớ p)   −   B ắ t  đầ u b ằ ng m ộ t trong s ố  thu ố c ch ố ng viêm không steroid (NSAIDs) cho  phép dùng  ở  tr ẻ  em (Ibuprofen; Naproxen…) trong 1 tháng. N ế u tri ệ u ch ứ ng viêm t ạ i  kh ớ p không c ả i thi ệ n, có th ể  k ế t h ợ p corticoid tiêm n ộ i kh ớ p (Triamcinolone  hexacetonide).  −   Đ a s ố  th ể  h ệ  th ố ng  đ áp  ứ ng kém v ớ i NSAIDs, nên c ầ n thay th ế  b ằ ng  Prednisone li ề u trung bình (0,5-1 mg/kg/24h), u ố ng.  −   N ế u  đạ t  đượ c s ự  lui b ệ nh s ớ m:  đ áp  ứ ng v ớ i NSAIDs và ho ặ c corticoid  đơ n  thu ầ n sau vài tu ầ n, li ề u corticoid  đượ c gi ả m nhanh và duy trì v ớ i thu ố c NSAIDs t ừ  6  tháng  đế n 1 n ă m k ể  t ừ  lúc  đạ t  đượ c s ự  lui b ệ nh.  −   M ứ c  độ  ho ạ t tính b ệ nh n ặ ng/th ể  h ệ  th ố ng ph ứ c t ạ p  (s ố t, tri ệ u ch ứ ng toàn  thân, viêm màng thanh d ị ch)  +   B ắ t  đầ u  đ i ề u tr ị  v ớ i Prednisone li ề u cao (1 - 2 mg/kg/24h) u ố ng. N ế u không  đ áp  ứ ng thay b ằ ng: Methyl pre dni sol one 20-30 mg/kg/24h, truy ề n t ĩ nh m ạ ch 3 – 5 ngày  liên t ụ c; sau  đ ó thu ố c  đượ c truy ề n t ừ ng  đợ t m ỗ i tu ầ n (giúp ki ể m soát m ứ c  độ  ho ạ t  độ ng  b ệ nh n ặ ng và giúp gi ả m li ề u corticoid u ố ng nhanh h ơ n).  +   N ế u b ệ nh ti ế n tri ể n n ặ ng liên t ụ c: thu ố c ch ố ng th ấ p kh ớ p làm thay  đổ i ti ế n  tri ể n b ệ nh (DMARDs)  đượ c k ế t h ợ p s ớ m v ớ i glucocorticoid: Methotrexat u ố ng li ề u 10- 2 15 mg/m , m ộ t l ầ n trong tu ầ n. Cyclosporin A có th ể  thay th ế  ho ặ c k ế t h ợ p v ớ i  Methotrexat, li ề u: 2,5 – 5 mg/kg/24h chia 2 l ầ n, u ố ng. Tr ườ ng h ợ p có bi ế n ch ứ ng ho ạ t  hoá  đạ i th ự c bào, Cyclosporin  đượ c tiêm t ĩ nh m ạ ch. S ự  k ế t h ợ p này làm gi ả m m ứ c  độ   ho ạ t  độ ng b ệ nh và giúp gi ả m li ề u corticoid.   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  77  
-
-+   N ế u th ể  h ệ  th ố ng t ồ n t ạ i không  đ áp  ứ ng v ớ i phác  đồ   đ i ề u tr ị  thông th ườ ng  sau 3 tháng, nên xem xét ch ỉ   đị nh li ệ u pháp sinh h ọ c nh ằ m tác  độ ng lên các cytokines  chính (TNF, IL1, IL6). Th ể  h ệ  th ố ng  đượ c x ế p vào nhóm b ệ nh ph ụ  thu ộ c IL6. M ộ t s ố   thu ố c sinh h ọ c có th ể   đượ c ch ọ n s ử  d ụ ng cho th ể  h ệ  th ố ng có ho ạ t tính b ệ nh n ặ ng  ho ặ c kháng tr ị .  •   Kháng IL1: Anakinra li ề u 1-2mg/kg/24h, có hi ệ u qu ả   ở  th ể  h ệ  th ố ng kháng tr ị   giúp c ả i thi ệ n các tri ệ u ch ứ ng toàn thân và  đạ t  đượ c s ự  lui b ệ nh  ở  50% tr ườ ng h ợ p.  •   Kháng TNF: có ch ỉ   đị nh  ở  th ể  h ệ  th ố ng kháng tr ị , nh ư ng ít hi ệ u qu ả  h ơ n so v ớ i  th ể   đ a kh ớ p và ít kh ớ p lan r ộ ng: Etanercept 25-50 mg tiêm d ướ i da 2 l ầ n trong tu ầ n;  ho ặ c Infliximab truy ề n t ĩ nh m ạ ch 2-3 mg/kg m ỗ i 4-8 tu ầ n; ho ặ c Adalimumab  40 mg  tiêm d ướ i da m ỗ i 2 tu ầ n.  •   Kháng th ụ  th ể  IL6: Tocilizumab, li ề u 8 mg/kg truy ề n t ĩ nh m ạ ch m ỗ i 2-4 tu ầ n,  dùng  đơ n tr ị  ho ặ c k ế t h ợ p v ớ i Methotrexat. Thu ố c có hi ệ u qu ả  t ố t c ả i thi ệ n nhanh các  tri ệ u ch ứ ng lâm sàng và c ậ n lâm sàng c ủ a th ể  h ệ  th ố ng kháng tr ị ,  đ áp  ứ ng kém v ớ i  Corticoid  đ ã k ế t h ợ p v ớ i trên 2 thu ố c ch ố ng th ấ p kh ớ p tác d ụ ng ch ậ m, ho ặ c thu ố c ch ố ng  y ế u t ố  ho ạ i t ử  u (Etanercept).   Viêm kh ớ p thi ế u niên t ự  phát th ể  h ệ  th ố ng  M ứ c  độ  ho ạ t tính b ệ nh nh ẹ   M ứ c  độ  ho ạ t tính b ệ nh n ặ ng  (s ố t, phát ban và viêm kh ớ p)  (s ố t, tri ệ u ch ứ ng toàn thân và viêm màng thanh d ị ch)  - B ắ t  đầ u b ằ ng m ộ t NSAIDs trong 1       - B ắ t  đầ u  đ i ề u tr ị  b ằ ng Prednisone li ề u cao  tháng. N ế u tri ệ u ch ứ ng viêm kh ớ p          (1-2 mg/kg/24h), ho ặ c n ế u không  đ áp  ứ ng:  không  đ áp  ứ ng, k ế t h ợ p corticoids        - Methyl pre dni sol one 30 mg/kg/24h, truy ề n   tiêm n ộ i kh ớ p.          TM 3 ngày liên t ụ c; sau  đ ó truy ề n TM m ỗ i tu ầ n 
-
- -  Đ a s ố  c ầ n Prednisone li ề u trung bình 
-
- (0.5 mg/kg/24h), u ố ng. 
-
-   Lui b ệ nh s ớ m  B ệ nh ti ế n tri ể n n ặ ng liên t ụ c          I. Lui b ệ nh mu ộ n  Đ áp  ứ ng v ớ i NSAIDs và/ho ặ c    MTX  CSA /AZT > 3 tháng,  đ áp  ứ ng kém:  corticoid  đơ n thu ầ n sau vài tu ầ n.   →  Anakinra  →  Etanercept  →  Tocilizumab    Duy trì v ớ i NSAIDs                                                     (n ế u > 4 tháng không  đ áp  ứ ng)  
-
-                    H ế t tri ệ u ch ứ ng toàn thân, nh ư ng còn viêm kh ớ p ho ạ t  độ ng                     →   NSAIDs / Corticoids tiêm n ộ i kh ớ p 
-
-         Đ i ề u tr ị  ti ế p nh ư  th ể   đ a kh ớ p   
-
-   (MTX: Methotrexat; CSA: Cyclosporin A; AZT: Azathioprine)  −   Các tr ị  li ệ u khác:  +   Thalidomide: m ộ t s ố  nghiên c ứ u cho th ấ y Thalidomide có hi ệ u qu ả  trong  đ i ề u  tr ị  viêm kh ớ p thi ế u niên t ự  phát th ể  h ệ  th ố ng kháng tr ị , ho ặ c không  đ áp  ứ ng v ớ i  Etanercept. Li ề u 3 – 5 mg/kg/24h.  +   Li ệ u pháp mi ễ n d ị ch: truy ề n t ĩ nh m ạ ch Immunoglobulin, li ề u 1-2g/kg/24h m ỗ i  2-4 tu ầ n trong th ờ i gian t ố i thi ể u 6 tháng. Li ệ u pháp này có th ể  làm gi ả m m ứ c  độ  ho ạ t  78 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  độ ng b ệ nh trong m ộ t s ố  tr ườ ng h ợ p, nh ư ng t ỷ  l ệ   đạ t  đượ c s ự  lui b ệ nh hoàn toàn không  cao (5-10%).   Ghép t ế  bào m ầ m t ự  thân:  đượ c xem xét  đố i v ớ i viêm kh ớ p thi ế u niên t ự  phát th ể   h ệ  th ố ng kháng tr ị , không  đ áp  ứ ng v ớ i  đ i ề u tr ị  sinh h ọ c.  5.  THEO DÕI VÀ QU Ả N LÝ  Bi ể u hi ệ n c ấ p tính c ủ a viêm kh ớ p thi ế u niên t ự  phát th ể  h ệ  th ố ng có th ể  kéo dài  nhi ề u tu ầ n  đế n nhi ề u tháng. B ệ nh nhi c ầ n  đượ c theo dõi tái khám  đị nh k ỳ  m ỗ i tháng  để   đ ánh giá s ự  c ả i thi ệ n ch ứ c n ă ng v ậ n  độ ng kh ớ p và m ứ c  độ  ho ạ t  độ ng b ệ nh thông qua  các tri ệ u ch ứ ng lâm sàng, c ậ n lâm sàng  đượ c ki ể m tra  đị nh k ỳ  (t ế  bào máu ngo ạ i vi, các  xét nghi ệ m  đ ánh giá tình tr ạ ng viêm,  đ i ệ n di protein huy ế t t ươ ng, ch ứ c n ă ng gan th ậ n,  ch ứ c n ă ng  đ ông máu, t ổ ng phân tích n ướ c ti ể u, Xquang x ươ ng kh ớ p…). Theo dõi s ự   xu ấ t hi ệ n c ủ a các tri ệ u ch ứ ng khác trong quá trình ti ế n tri ể n c ủ a b ệ nh  để  phát hi ệ n k ị p  th ờ i các bi ế n ch ứ ng n ặ ng c ủ a th ể  h ệ  th ố ng. Theo dõi tác d ụ ng không mong mu ố n c ủ a  thu ố c  để  k ị p th ờ i ng ừ ng thu ố c, gi ả m li ề u, ho ặ c thay th ế  thu ố c khác.       TÀI LI Ệ U THAM KH Ả O  1.   Adams A. and Lehman T. J. (2005), "Update on the pathogenesis and treatment  of systemic onset juvenile rheumatoid arthritis", Curr Opin Rheumatol, 17(5),  pp. 612-6.  2.   Fabrio De Benedetti and Rayfel Schneider (2011), “Systemic Juvenile  Idiopathic Arthritis”, Textbook of Pediatric Rheumatology, 6th edition,  Elsevier Saunders, Philadelphia, pp. 236-47.  3.   Hashkes. P.J (2011), “Strengths and challenges of a new guide for treating JIA,  Nat “. Rev.Rheumatol. 7, 377 - 378   4.   Laxer Ronald M. (2007), “Challenges in the Diagnosis and Management of  Systemic Juvenile Idiopathic Arthritis”, Paper presented at the American  College of Rheumatology (ACR) 71st Annual Meeting, Boston, Massachusetts.  5.   Mirkinson Laura J. and Katona Ildy M. (2007), "Systemic onset juvenile  idiopathic arthritis: update on pathogenesis and treatment", Expert Review of  Clinical Immunology, 3, pp. 313-21.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  79  
-
-VIÊM KH Ớ P THI Ế U NIÊN T Ự  PHÁT TH Ể    VIÊM KH Ớ P V Ẩ Y N Ế N  1.  ĐẠ I C ƯƠ NG  Viêm kh ớ p v ẩ y n ế n là m ộ t b ệ nh  đượ c x ế p vào nhóm b ệ nh lý c ộ t s ố ng huy ế t thanh  âm tính.  Đ ó là b ệ nh lý k ế t h ợ p th ươ ng t ổ n v ẩ y n ế n  ở  da và/ ho ặ c móng và tình tr ạ ng  viêm kh ớ p ngo ạ i biên, có kèm theo t ổ n th ươ ng t ạ i c ộ t s ố ng.  Ở  ng ườ i l ớ n, có t ừ  5  đế n  42% b ệ nh nhân v ẩ y n ế n có bi ể u hi ệ n t ổ n th ươ ng viêm kh ớ p. Viêm kh ớ p v ẩ y n ế n  ở  tr ẻ   em (Juvenile psoriatic arthritis) chi ế m 8-20% các tr ườ ng h ợ p viêm kh ớ p  ở  l ứ a tu ổ i này.  Tu ổ i th ườ ng g ặ p 9 – 12 tu ổ i. Tu ổ i kh ở i phát là 4-5 tu ổ i  đố i v ớ i tr ẻ  gái và 10 tu ổ i v ớ i tr ẻ   trai. Bé gái g ặ p nhi ề u h ơ n bé trai v ớ i t ỉ  l ệ  3:2. Bi ể u hi ệ n  ở  kh ớ p có th ể  xu ấ t hi ệ n tr ướ c  khi có các bi ể u hi ệ n  ở  da (19%), ho ặ c  đồ ng th ờ i (16%) ho ặ c các bi ể u hi ệ n  ở  da l ạ i xu ấ t  hi ệ n tr ướ c khi có viêm kh ớ p. Tr ườ ng h ợ p b ệ nh nhân xu ấ t hi ệ n các tri ệ u ch ứ ng kh ớ p  tr ướ c tri ệ u ch ứ ng da thì vi ệ c khai thác ti ề n s ử  gia  đ ình r ấ t c ầ n thi ế t cho ch ẩ n  đ oán.  2. NGUYÊN NHÂN  C ơ  ch ế  b ệ nh sinh c ủ a b ệ nh cho  đế n nay v ẫ n ch ư a  đượ c bi ế t t ườ ng t ậ n, tuy nhiên  23,4%  đế n 71% tr ẻ  b ị  v ẩ y n ế n có ti ề n s ử  trong gia  đ ình có ng ườ i m ắ c b ệ nh. B ệ nh có  m ố i liên quan ch ặ t ch ẽ  v ớ i kháng nguyên b ạ ch c ầ u HLA – Cw6. 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Tri ệ u ch ứ ng lâm sàng  Bi ể u hi ệ n  ở  kh ớ p:  −   Viêm m ộ t ho ặ c vài kh ớ p: th ườ ng viêm nh ữ ng kh ớ p nh ỏ   ở  bàn tay nh ư  kh ớ p  ngón xa, kh ớ p ngón g ầ n, có th ể  viêm kh ớ p g ố i. Các kh ớ p viêm không  đố i x ứ ng. Th ể   này th ườ ng g ặ p  ở  tr ẻ  gái, chi ế m t ỉ  l ệ  55 - 70%.  −   Ngón tay ngón chân s ư ng n ề ,  đỏ  nh ư  hình “khúc d ồ i”: có th ể   ở  m ộ t ho ặ c nhi ề u  ngón do tình tr ạ ng viêm lan t ỏ a ph ầ n m ề m ngón tay.  −   Viêm nhi ề u kh ớ p  đố i x ứ ng ít g ặ p. Th ể  này có bi ể u hi ệ n viêm kh ớ p gi ố ng viêm  kh ớ p d ạ ng th ấ p nên d ễ  ch ẩ n  đ oán nh ầ m n ế u không chú ý  đế n nh ữ ng t ổ n th ươ ng kèm  theo  ở  ngoài da. Y ế u t ố  d ạ ng th ấ p (RF) âm tính.   −   Viêm kh ớ p phá h ủ y kh ớ p nhi ề u gây tàn ph ế : th ể  này hi ế m g ặ p (3 - 5%)  để  l ạ i  di ch ứ ng n ặ ng n ề .  −   Th ể  c ộ t s ố ng: Bi ể u hi ệ n  đ au, h ạ n ch ế  v ậ n  độ ng c ộ t s ố ng th ắ t l ư ng, viêm các  đ i ể m bám t ậ n, viêm kh ớ p cùng ch ậ u. Th ể  này th ườ ng g ặ p  ở  tr ẻ  trai. T ỷ  l ệ  m ắ c b ệ nh   5 - 33%.  Có liên quan nhi ề u  đế n kháng nguyên b ạ ch c ầ u HLA – B27.   80 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-Bi ể u hi ệ n  ở  ngoài da:  −   T ổ n th ươ ng da là nh ữ ng m ả ng viêm  đỏ , ph ủ  nhi ề u l ớ p v ẩ y d ễ  bong, m ầ u tr ắ ng  đụ c nh ư  n ế n. Th ươ ng t ổ n có kích th ướ c  đ a d ạ ng, có th ể  nh ỏ  vài mm ho ặ c lan r ộ ng thành  m ả ng. V ị  trí t ổ n th ươ ng có th ể   ở  m ặ t tr ướ c c ủ a chân, tay, nh ữ ng vùng tì  đ è, da  đầ u,  nh ữ ng khe k ẽ  nh ư  nách, k ẽ  mông, n ế p l ằ n d ướ i vú, th ậ m chí trong r ố n.  −   T ổ n th ươ ng  ở  móng: do tình tr ạ ng lo ạ n d ưỡ ng móng, bi ể u hi ệ n m ấ t m ầ u móng,  d ầ y móng, l ỗ  r ỗ  nh ư  kim châm, có th ể  bong móng.  −   T ổ n th ươ ng viêm m ắ t: bi ể u hi ệ n viêm màng m ạ ch nho, chi ế m t ỉ  l ệ  14 -17% tr ẻ   viêm kh ớ p v ẩ y n ế n.     3.2. C ậ n lâm sàng  −   Các xét nghi ệ m  đ ánh giá tình tr ạ ng viêm: T ố c  độ  l ắ ng máu, CRP có th ể  t ă ng  cao trong giai  đ o ạ n ti ế n tri ể n c ủ a b ệ nh. T ế  bào máu ngo ạ i vi th ườ ng không thay  đổ i, khi  b ị  b ệ nh nhi ề u n ă m s ố  l ượ ng h ồ ng c ầ u có th ể  gi ả m.  −   Acid uric máu có th ể  t ă ng cao.  −   Y ế u t ố  d ạ ng th ấ p (RF) âm tính.  −   Các kháng nguyên b ạ ch c ầ u: HLA – B27 là m ộ t y ế u t ố  tiên l ượ ng. HLA – B27  d ươ ng tính th ườ ng liên quan v ớ i viêm kh ớ p v ả y n ế n th ể  nh ẹ  và có bi ể u hi ệ n viêm kh ớ p  cùng ch ậ u. Kháng nguyên HLA Cw6 (+).  −   Trong m ộ t s ố  tr ườ ng h ợ p viêm kh ớ p v ả y n ế n thi ế u niên có xét nghi ệ m v ề  ANA  d ươ ng tính, m ặ c dù  đ ây là xét nghi ệ m ch ỉ   đ i ể m cho các b ệ nh t ự  mi ễ n khác.  −   Xquang:   +   Hình  ả nh bào mòn, khuy ế t x ươ ng  ở  các kh ớ p ngón g ầ n, ngón xa bàn tay, bàn chân.  +   V ớ i th ể  phá h ủ y kh ớ p nhi ề u có th ể  th ấ y hình  ả nh tiêu x ươ ng nhi ề u  ở  các  x ươ ng ngón tay, ngón chân, hình  ả nh Xquang x ươ ng b ị  t ổ n th ươ ng gi ố ng nh ư  hình  ả nh  “bút chì c ắ m vào l ọ  m ự c” – “pencil – in – cup deformity”.  +   Hình  ả nh viêm dính kh ớ p cùng ch ậ u, x ơ  hóa các dây ch ằ ng c ộ t s ố ng gi ố ng  nh ư  viêm c ộ t s ố ng dính kh ớ p.  Nghi ệ m pháp c ạ o Brocq vùng da b ị  t ổ n th ươ ng th ấ y hi ệ n t ượ ng l ớ p v ẩ y da x ế p  thành nhi ề u l ớ p, sau khi c ạ o h ế t l ớ p v ẩ y l ộ  ra nh ữ ng  đ i ể m ch ả y máu. Làm xét nghi ệ m  gi ả i ph ẫ u b ệ nh: th ấ y tình tr ạ ng t ă ng sinh t ế  bào th ượ ng bì.  3.3. Ch ẩ n  đ oán xác  đị nh  Ch ủ  y ế u d ự a vào lâm sàng t ổ n th ươ ng da ph ố i h ợ p v ớ i t ổ n th ươ ng kh ớ p. Có m ộ t  vài tiêu chu ẩ n ch ẩ n  đ oán và phân lo ạ i b ệ nh viêm kh ớ p v ả y n ế n thi ế u niên (CASPAR,  Vasley và Espinoza…). Ph ầ n d ướ i  đ ây trình bày tiêu chu ẩ n CASPAR (Classification  Criteria for Psoriatic Arthritis)  đượ c xây d ự ng b ở i m ộ t nhóm nghiên c ứ u qu ố c t ế  l ớ n, có  độ   đặ c hi ệ u cao h ơ n so v ớ i tiêu chu ẩ n Vasey và Espinoza (98,7% so v ớ i 96%) nh ư ng có  độ  nh ạ y th ấ p h ơ n ( 91,4% so v ớ i 97,2%).  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  81  
-
-Theo tiêu chu ẩ n này, ch ẩ n  đ oán xác  đị nh b ệ nh khi b ệ nh nhân có bi ể u hi ệ n viêm  kh ớ p ho ặ c c ộ t s ố ng ho ặ c viêm  đ i ể m bám t ậ n kèm theo có ít nh ấ t 3  đ i ể m, các tiêu chí  c ủ a tiêu chu ẩ n này nh ư  sau:  Tiêu chu ẩ n CASPAR (Classification Criteria for Psoriatic Arthritis)  Hi ệ n t ạ i b ệ nh nhân có t ổ n th ươ ng v ả y n ế n   2  đ i ể m  B ệ nh nhân có ti ề n s ử  b ị  v ả y n ế n (hi ệ n t ạ i không có v ả y n ế n)  1  đ i ể m  Trong ti ề n s ử  gia  đ ình c ủ a b ệ nh nhân, có ng ườ i b ị  v ả y n ế n ( đ i ề u ki ệ n là  1  đ i ể m  trong ti ề n s ử  và hi ệ n t ạ i b ệ nh nhân không có v ả y n ế n)  Viêm ngón (ngón tay, ngón chân hình khúc d ồ i)  1  đ i ể m  Hình thành x ươ ng m ớ i  ở  v ị  trí g ầ n m ộ t kh ớ p   1  đ i ể m  Lo ạ n d ưỡ ng móng  1  đ i ể m  Ch ẩ n  đ oán xác  đị nh  3/7  3.4. Ch ẩ n  đ oán phân bi ệ t  Trong nh ữ ng tr ườ ng h ợ p t ổ n th ươ ng kh ớ p xu ấ t hi ệ n tr ướ c khi có các t ổ n th ươ ng  da, c ầ n ch ẩ n  đ oán phân bi ệ t v ớ i các b ệ nh kh ớ p khác.  −   Viêm kh ớ p thi ế u niên t ự  phát th ể  m ộ t ho ặ c vài kh ớ p: c ũ ng th ườ ng viêm các  kh ớ p nh ỏ  và nh ỡ  không  đố i x ứ ng nh ư ng không có viêm các kh ớ p ngón xa. Th ườ ng ti ế n  tri ể n thành viêm nhi ề u kh ớ p (>5 kh ớ p) sau m ộ t n ă m. Th ườ ng có kháng th ể  kháng nhân  d ươ ng tính.  −   Viêm kh ớ p thi ế u niên t ự  phát th ể  nhi ề u kh ớ p (> 5 kh ớ p): viêm nhi ề u kh ớ p có  tính ch ấ t  đố i x ứ ng, không có viêm các kh ớ p ngón xa. Th ườ ng có y ế u t ố  d ạ ng th ấ p (RF)  d ươ ng tính.  −   Viêm kh ớ p thi ế u niên t ự  phát th ể  viêm kh ớ p và các  đ i ể m bám t ậ n: viêm kh ớ p  v ẩ y n ế n th ể  c ộ t s ố ng có bi ể u hi ệ n lâm sàng v ề  x ươ ng kh ớ p gi ố ng v ớ i viêm kh ớ p thi ế u  niên t ự  phát th ể  viêm kh ớ p và các  đ i ể m bám t ậ n. D ễ  b ị  ch ẩ n  đ oán nh ầ m khi các bi ể u  hi ệ n ngoài da ch ư a xu ấ t hi ệ n. T ỷ  l ệ  HLA B27 d ươ ng tính trong b ệ nh viêm kh ớ p thi ế u  niên t ự  phát th ể  viêm kh ớ p và các  đ i ể m bám t ậ n cao h ơ n trong viêm kh ớ p v ẩ y n ế n.  4.  Đ I Ề U TR Ị   −   M ụ c tiêu  đ i ề u tr ị  là ki ể m soát t ố t tri ệ u ch ứ ng viêm kh ớ p, giúp cho tr ẻ  b ị  b ệ nh  có th ể   s ử  d ụ ng t ố i  đ a các kh ớ p t ổ n th ươ ng và phòng ng ừ a  đượ c các bi ế n d ạ ng kh ớ p v ề   sau. H ạ n ch ế  t ổ n th ươ ng da nh ằ m tránh các v ấ n  đề  v ề  tâm lý c ủ a tr ẻ  c ũ ng là m ụ c tiêu  quan tr ọ ng.  −   K ế  ho ạ ch  đ i ề u tr ị  bao g ồ m: dùng thu ố c, v ậ t lý tr ị  li ệ u, ph ụ c h ồ i ch ứ c n ă ng,  ch ă m sóc m ắ t và  đ i ề u tr ị  steroids bôi hay các li ệ u pháp  đ i ề u tr ị  da khác.  −   Thu ố c ch ố ng viêm gi ả m  đ au không Steroid (NSAIDs) là l ự a ch ọ n  đầ u tay  để   ki ể m soát viêm và  đ au kh ớ p. Các thu ố c ch ố ng th ấ p kh ớ p tác d ụ ng ch ậ m c ầ n  đượ c  đ i ề u  tr ị  s ớ m.  82 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  4.1. Thu ố c ch ố ng viêm gi ả m  đ au không Steroid:  có th ể  ch ỉ   đị nh m ộ t trong các thu ố c  d ướ i  đ ây:  −   Aspirin: li ề u dùng: 75 – 90 mg/kg cân n ặ ng/24h.   −   Ibuprofen: có th ể  dùng cho tr ẻ  t ừ  6 tháng tu ổ i. Li ề u dùng: 35 mg/kg/24h (d ạ ng  viên), 45 mg/kg/24h (d ạ ng siro) chia 3 l ầ n.   −   Naproxen: dùng cho tr ẻ  t ừ  2 tu ổ i, có c ả  d ạ ng viên và d ạ ng siro. Li ề u dùng: 15  mg/kg/24h chia 2 l ầ n.   −   Meloxicam: có th ể  dùng cho tr ẻ  t ừ  2 tu ổ i, li ề u 0,25 mg/kg/24h. Li ề u t ố i  đ a 7,5  mg/24h.  −   Celecoxib: có th ể  dùng cho tr ẻ  t ừ  2 tu ổ i, li ề u 6-12 mg/kg/24h chia hai l ầ n. Tuy  nhiên ch ỉ  nên s ử  d ụ ng trong th ờ i gian ng ắ n, vi ệ c s ử  d ụ ng kéo dài thu ố c này  để   đ i ề u tr ị   cho tr ẻ  c ầ n th ậ n tr ọ ng.  −   Corticoid ít  đượ c s ử  d ụ ng  để   đ i ề u tr ị  tri ệ u ch ứ ng viêm kh ớ p v ẩ y n ế n vì có nguy  c ơ  làm n ặ ng nh ữ ng t ổ n th ươ ng  ở  da. Có th ể  ch ỉ   đị nh tiêm corticoid t ạ i nh ữ ng kh ớ p s ư ng  đ au nhi ề u. Tuy nhiên vi ệ c ch ỉ   đị nh tiêm corticoid n ộ i kh ớ p ph ả i r ấ t th ậ n tr ọ ng và ph ả i  ở   nh ữ ng c ơ  s ở  y t ế  chuyên sâu v ề  c ơ  x ươ ng kh ớ p.  4.2. Thu ố c ch ố ng th ấ p kh ớ p tác d ụ ng ch ậ m (DMARDs)  −   Methotrexat: có tác d ụ ng  ứ c ch ế  t ổ ng h ợ p DNA,  ứ c ch ế  mi ễ n d ị ch và ch ố ng  viêm. Cho  đế n nay v ẫ n là thu ố c ch ố ng th ấ p kh ớ p tác d ụ ng ch ậ m  ư u tiên  đượ c s ử  d ụ ng  để   đ i ề u tr ị  viêm kh ớ p v ẩ y n ế n.  +   Li ề u: Viên 2,5mg,  ố ng 10mg: 0,2 – 0,4 mg/kg cân n ặ ng/tu ầ n. U ố ng m ộ t l ầ n  duy nh ấ t vào m ộ t ngày c ố   đị nh trong tu ầ n. Có th ể  tiêm d ướ i da, tiêm b ắ p ho ặ c tiêm t ĩ nh  m ạ ch n ế u không dung n ạ p  đượ c b ằ ng  đườ ng u ố ng. Hi ệ u qu ả   đ i ề u tr ị  th ườ ng  đạ t  đượ c  sau 6  đế n 8 tu ầ n.  +   Thu ố c ch ố ng nôn nh ư  Primperan u ố ng ho ặ c tiêm b ắ p n ế u b ệ nh nhân có bu ồ n  nôn.   +   Không nên  đ i ề u tr ị  ph ố i h ợ p các thu ố c salicylate và trimethoprim–sulphamethoxazole  v ớ i methotrexat.  +   B ổ  sung acid folic li ề u b ằ ng li ề u Methotrexat nh ằ m gi ả m các tác d ụ ng ngo ạ i ý  mà không làm gi ả m tác d ụ ng  đ i ề u tr ị .   +   Trong quá trình  đ i ề u tr ị  b ằ ng Methotrexat c ầ n ph ả i th ườ ng xuyên ki ể m tra các  ch ỉ  s ố  sau: công th ứ c máu, t ổ ng phân tích n ướ c ti ể u, ure, creatinin, bilirubin toàn ph ầ n,  AST, ALT, phosphatase ki ề m, albumin máu m ỗ i 2 tu ầ n trong 3 tháng  đầ u  đ i ề u tr ị  sau  đ ó  ki ể m tra  đị nh k ỳ  hàng tháng. Ch ụ p Xquang ph ổ i hàng n ă m. N ă m n ă m m ộ t l ầ n ti ế n hành  sinh thi ế t gan  để  phát hi ệ n tình tr ạ ng x ơ  gan.   −   Cyclosporin A (CYA): thu ố c có tác d ụ ng  ứ c ch ế  lympho T-CD4 và  ứ c ch ế   interleukin 2 (IL-2).  Đượ c ch ỉ   đị nh cho v ẩ y n ế n th ể  n ặ ng, khi s ử  d ụ ng các phác  đồ  khác  th ấ t b ạ i.   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  83  
-
-+   Li ề u: d ạ ng viên 25mg; 100mg, d ạ ng  ố ng 10mg, 2 – 5 mg/kg cân n ặ ng/24h.  Nên kh ở i  đầ u b ằ ng li ề u th ấ p nh ấ t, t ă ng d ầ n li ề u cho  đế n khi  đạ t hi ệ u qu ả   đ i ề u tr ị . CYA  đượ c khuy ế n cáo không nên s ử  d ụ ng kéo dài. M ộ t  đợ t  đ i ề u tr ị  ch ỉ  3 - 4 tháng sau  đ ó  gi ả m d ầ n li ề u r ồ i ng ừ ng.   +   Tác d ụ ng không mong mu ố n : gây t ă ng huy ế t áp,  độ c v ớ i th ậ n, li ề u cao gây  h ạ  calci và magnesi máu. Ch ố ng ch ỉ   đị nh v ớ i nh ữ ng tr ườ ng h ợ p suy th ậ n. Theo dõi ch ứ c  n ă ng gan, th ậ n và t ế  bào máu ngo ạ i vi m ỗ i 2-4 tu ầ n  đ i ề u tr ị . Tránh s ử  d ụ ng nh ữ ng thu ố c  ứ c ch ế  mi ễ n d ị ch  đ i ề u tr ị  viêm gan virus và tiêm vaccin phòng virus viêm gan trong th ờ i  gian  đ i ề u tr ị  CYA và sau khi ng ừ ng thu ố c 3-12 tháng tùy thu ộ c vào li ề u CYA  −   Các tác nhân sinh h ọ c: Etanercept (thu ố c kháng TNF) là thu ố c  đ ang  đượ c  nghiên c ứ u  để  s ử  d ụ ng  đ i ề u tr ị  viêm kh ớ p v ẩ y n ế n cho tr ẻ  em. N ă m 2004, thu ố c  đượ c  s ử  d ụ ng l ầ n  đầ u tiên  để   đ i ề u tr ị  v ẩ y n ế n  ở  ng ườ i l ớ n. Hi ệ n nay thu ố c  đ ang  đượ c châu Âu  và M ỹ  xem xét ch ỉ   đị nh  đ i ề u tr ị  cho v ẩ y n ế n th ể  v ừ a và n ặ ng  ở  tr ẻ  em. Có nghiên c ứ u  đ ã  s ử  d ụ ng  đ i ề u tr ị  v ẩ y n ế n cho tr ẻ  em v ớ i th ờ i gian 48 tu ầ n. Có th ể  ph ố i  h ợ p v ớ i MTX  li ề u th ấ p.  +   Li ề u: Etanercept  ố ng 0,8mg/kg cân n ặ ng/tu ầ n (li ề u t ố i  đ a 50mg), tiêm d ướ i da.     +   Tác d ụ ng không mong mu ố n: nhi ễ m trùng c ơ  h ộ i. Tr ướ c khi  đ i ề u tr ị  nên ki ể m  tra lo ạ i tr ừ  lao, các nhi ễ m trùng ti ề m tàng, xét nghi ệ m virus viêm gan.  −   Đ i ề u tr ị  các t ổ n th ươ ng da theo ch ỉ   đị nh c ủ a chuyên khoa da li ễ u. Có th ể  ph ố i  h ợ p các thu ố c bôi ngoài da và ph ươ ng pháp PUVA (u ố ng Psoralen gây c ả m  ứ ng ánh  sáng sau  đ ó chi ế u tia c ự c tím UVA). Các thu ố c ch ố ng th ấ p kh ớ p tác d ụ ng ch ậ m ngoài  tác d ụ ng v ớ i nh ữ ng t ổ n th ươ ng kh ớ p c ũ ng có tác d ụ ng v ớ i nh ữ ng t ổ n th ươ ng c ủ a da,  đặ c  bi ệ t là MTX và các tác nhân sinh h ọ c.  −   V ậ t lý tr ị  li ệ u: c ầ n  đượ c ph ố i h ợ p  đ i ề u tr ị  s ớ m nh ằ m tránh tình tr ạ ng dính kh ớ p,  giúp tr ẻ  hòa nh ậ p v ớ i sinh ho ạ t hàng ngày càng s ớ m càng t ố t.   −   Ph ẫ u thu ậ t ch ỉ nh hình ho ặ c thay kh ớ p nhân t ạ o trong tr ườ ng h ợ p kh ớ p b ị  phá  h ủ y n ặ ng.  5. TIÊN L ƯỢ NG   H ầ u h ế t tr ẻ  em m ắ c b ệ nh v ả y n ế n th ườ ng là th ể  nh ẹ , ch ỉ  c ầ n  đ i ề u tr ị  t ạ i ch ỗ  là  đủ .  Tuy nhiên c ũ ng nhi ề u tr ườ ng h ợ p b ệ nh ti ế n tri ể n n ặ ng, ph ố i h ợ p v ớ i t ổ n th ươ ng kh ớ p,  có th ể  kéo dài  đế n khi tr ưở ng thành và b ắ t bu ộ c ph ả i  đ i ề u tr ị  nh ữ ng thu ố c ch ố ng th ấ p  kh ớ p tác d ụ ng ch ậ m.   6. PHÒNG B Ệ NH  V ớ i nh ữ ng tr ẻ  m ắ c b ệ nh v ả y n ế n nói chung nên có ch ươ ng trình h ướ ng nghi ệ p  cho tr ẻ  khi tr ưở ng thành. Nên khuyên tr ẻ  ch ọ n nh ữ ng ngh ề  lao  độ ng nh ẹ  nhàng (công  vi ệ c v ă n phòng) tiên l ượ ng b ệ nh s ẽ  t ố t h ơ n.      84 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-TÀI LI Ệ U THAM KH Ả O  1.   Helliwell PS, Taylor WJ.  “Classification and diagnostic criteria for psoriatic  arthritis” . Ann Rheum Dis 2005;64 Suppl 2:ii3– 8.  2.   Claes et al.  “Therapy of moderate and severe psoriasis”.  GMS Health  Technology Assessment 2006, Vol 2, ISSN 1861 – 8863.  3.   Stoll ML, Zurakowski D, Nigrovic LE, Nichols DP, Sundel RP, Nigrovic PA.  “Patients with juvenile psoriatic arthritis comprise two distinct populations”.   Arthritis Rheum 2006;54: 3564–72.  4.   Timothy B., Nevedita M.P., Kennetth G.S., Sue T.R., Randy Q.C, Esi  M.deWitt, Norman T.I, Yukiko K. et al. (2011).  “American College of  Rheumatology Recommendations for the Treatment of Juvenile Idiopathic  Arthritis: Initiation and Safety Monitoring of Therapeutic Agents for the  Treatment of Arthritis and Systemic Features” . Arthritis Care & Research Vol.  63, No. 4, April 2011, pp 465–482.      H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  85  
-
-VIÊM MÀNG HO Ạ T D Ị CH KH Ớ P HÁNG THOÁNG QUA   (Transient synovitis of the hip)  1.  ĐỊ NH NGH Ĩ A  Viêm màng ho ạ t d ị ch kh ớ p háng thoáng qua còn  đượ c g ọ i là viêm màng ho ạ t d ị ch  do nhi ễ m  độ c (toxic synovitis) là tình tr ạ ng viêm khu trú  ở  màng ho ạ t d ị ch kh ớ p háng  m ộ t bên v ớ i tính ch ấ t kh ở i phát  độ t ng ộ t, kh ỏ i nhanh chóng trong vòng 7-10 ngày mà  không  để  l ạ i di ch ứ ng. B ệ nh th ườ ng g ặ p  ở  tr ẻ  em t ừ  3-10 tu ổ i, song có th ể   g ặ p  ở  tr ẻ  3  tháng tu ổ i ho ặ c  ở  ng ườ i tr ưở ng thành. Tr ẻ  trai g ặ p nhi ề u h ơ n tr ẻ  gái 2-4 l ầ n. Trong các  b ệ nh lý  đ au c ấ p tính c ủ a kh ớ p háng thì viêm màng ho ạ t d ị ch thoáng qua là lo ạ i hay g ặ p  nh ấ t  ở  tr ẻ  nh ỏ . Có th ể  g ặ p  ở  ng ườ i l ớ n.  2. NGUYÊN NHÂN VÀ C Ơ  CH Ế  B Ệ NH SINH  Nguyên nhân chính xác còn ch ư a rõ. Có th ể  liên quan  đế n nhi ễ m virus  đườ ng hô  h ấ p d ướ i ho ặ c  ch ấ n th ươ ng x ả y ra ngay tr ướ c khi có tri ệ u ch ứ ng viêm màng ho ạ t d ị ch.  Sinh thi ế t màng ho ạ t d ị ch th ấ y t ă ng sinh màng ho ạ t d ị ch và tình tr ạ ng viêm không  đặ c hi ệ u. Có hình  ả nh tràn d ị ch khi siêu âm kh ớ p háng và xét nghi ệ m d ị ch kh ớ p có t ă ng  n ồ ng  độ  proteoglycan. 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Lâm sàng  −   B ệ nh kh ở i phát  độ t ng ộ t, c ấ p tính v ớ i tri ệ u ch ứ ng  đ au t ạ i kh ớ p háng ho ặ c  đ ôi  khi  khi  đ au  ở   đ ùi ho ặ c t ạ i kh ớ p g ố i  ở  bên b ị  b ệ nh.  −   Ở  tr ẻ  nh ỏ , do tr ẻ  không có kh ả  n ă ng mô t ả , nên có th ể  bi ể u hi ệ n b ở i hi ệ n t ượ ng  đ i kh ậ p khi ễ ng ho ặ c bò l ế t b ấ t th ườ ng; tr ẻ  khóc b ấ t th ườ ng không gi ả i thích nguyên  nhân khi  đượ c thay tã.  −   S ờ  n ắ n vào kh ớ p háng t ổ n th ươ ng khi ế n tr ẻ  kêu  đ au ho ặ c khóc. H ạ n ch ế  v ậ n  độ ng kh ớ p háng,  đặ c bi ệ t là  độ ng tác d ạ ng và xoay trong  ở  bên t ổ n th ươ ng. Kh ớ p háng  bên  đố i di ệ n, các kh ớ p khác và c ộ t s ố ng không th ấ y d ấ u hi ệ u gì b ấ t th ườ ng.   −   S ố t: nhi ệ t  độ  t ă ng có th ể  v ừ a ph ả i ho ặ c cao. Tr ẻ  có tình tr ạ ng kích thích, khó ch ị u.  3.2. C ậ n lâm sàng  −   Các thông s ố  v ề  viêm nh ư  t ố c  độ  máu l ắ ng, CRP, b ạ ch c ầ u có th ể  t ă ng nh ẹ .  −   Ch ụ p Xquang kh ớ p háng th ườ ng không th ấ y gì  đặ c bi ệ t,  đ ôi khi th ấ y khe kh ớ p  nh ư  r ộ ng ra; ch ỏ m x ươ ng  đ ùi có v ẻ  nh ư  ph ẳ ng ra; m ấ t nh ẹ  ch ấ t khoáng  ở   đầ u x ươ ng.  C ầ n ch ụ p kh ớ p háng hai bên  để  d ễ  quan sát và so sánh.  86 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Siêu âm có th ể  th ấ y d ị ch trong  ổ  kh ớ p (không th ườ ng xuyên). Trong tr ườ ng  h ợ p ph ả i phân bi ệ t v ớ i viêm kh ớ p nhi ễ m khu ẩ n, c ầ n ch ọ c hút d ị ch d ướ i h ướ ng d ẫ n c ủ a  siêu âm, nuôi c ấ y vi khu ẩ n và làm kháng sinh  đồ .  −   Ch ụ p MRI  đ ôi khi  đượ c ch ỉ   đị nh trong tr ườ ng h ợ p khó, khi c ầ n ph ả i phân bi ệ t  v ớ i viêm kh ớ p nhi ễ m trùng (CT không có giá tr ị  trong tr ườ ng h ợ p này).  3.3. Ch ẩ n  đ oán xác  đị nh  Ch ẩ n  đ oán xác  đị nh d ự a vào các thông tin sau:   −    Các tri ệ u ch ứ ng viêm kh ớ p háng m ộ t bên v ớ i bi ể u hi ệ n:   +   Đ au, h ạ n ch ế  v ậ n  độ ng kh ớ p háng m ộ t bên.   +   Tràn d ị ch kh ớ p (th ườ ng phát hi ệ n trên siêu âm), có th ể  có t ă ng sinh màng ho ạ t  d ị ch kh ớ p th ấ y trên siêu âm ho ặ c c ộ ng h ưở ng t ừ .  +   T ă ng các thông s ố  viêm trên xét nghi ệ m.  −   Đ áp  ứ ng t ố t v ớ i thu ố c ch ố ng viêm không steroid và  kéo dài không quá 2 tu ầ n.  Đ i ề u c ầ n chú ý là ch ỉ  ch ẩ n  đ oán xác  đị nh viêm màng ho ạ t d ị ch kh ớ p háng thoáng  qua khi  đ ã lo ạ i tr ừ  t ấ t c ả  các b ệ nh có th ể  gây  đ au t ạ i kh ớ p háng m ộ t bên,  đặ c bi ệ t là  viêm kh ớ p háng nhi ễ m khu ẩ n. Tr ườ ng h ợ p  đ au, viêm kéo dài trên 2 tu ầ n c ầ n tìm  nguyên nhân khác.  3.4. Ch ẩ n  đ oán phân bi ệ t  −   Viêm kh ớ p háng nhi ễ m khu ẩ n:  Đ ây là ch ẩ n  đ oán phân bi ệ t quan tr ọ ng nh ấ t vì  n ế u b ỏ  qua m ộ t viêm kh ớ p háng nhi ễ m khu ẩ n s ẽ  gây phá h ủ y kh ớ p không h ồ i ph ụ c. Các  tri ệ u ch ứ ng g ợ i ý: s ố t th ườ ng cao, các thông s ố  viêm t ă ng m ạ nh, tình tr ạ ng nhi ễ m trùng  rõ. Ch ẩ n  đ oán xác  đị nh: ch ọ c hút có d ị ch kh ớ p là d ị ch m ủ , xét nghi ệ m có t ế  bào m ủ ; có  th ể  phân l ậ p  đượ c vi khu ẩ n và làm kháng sinh  đồ .  −   Các nguyên nhân gây  đ au kh ớ p háng khác nh ư  viêm x ươ ng, viêm x ươ ng t ủ y;  ch ấ n th ươ ng nh ư  ch ấ n th ươ ng ph ầ n m ề m  ở  chi d ướ i, sang ch ấ n gân, dây ch ằ ng, gãy  x ươ ng; b ệ nh Legg-Calves-Perthes; b ệ nh lý th ầ n kinh ngo ạ i biên; lo ạ n s ả n kh ớ p háng,  b ệ nh lý kh ố i u; áp xe c ơ  th ắ t l ư ng ch ậ u, viêm tinh hoàn...  −   Viêm kh ớ p m ạ n tính thi ế u niên giai  đ o ạ n  đầ u: tri ệ u ch ứ ng viêm kéo dài trên 3 tháng. 
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c  đ i ề u tr ị    Ch ủ  y ế u là ngh ỉ  ng ơ i, tránh cho kh ớ p kh ỏ i b ị   đ è ép và ch ị u t ả i tr ọ ng. 
-
- 4.2.  Đ i ề u tr ị  c ụ  th ể    −   Thu ố c ch ố ng viêm gi ả m  đ au không steroid:  ở  tr ẻ  em th ườ ng dùng Ibuprofen, vì  thu ố c ít tác d ụ ng ph ụ  so v ớ i các thu ố c ch ố ng viêm không steroid khác. Li ề u l ượ ng m ỗ i  l ầ n u ố ng 5-10 mg /kg cân n ặ ng, u ố ng 3-4 l ầ n trong m ộ t ngày. Tr ườ ng h ợ p  ở  tr ẻ  l ớ n trên  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  87 16 tu ổ i ho ặ c ng ườ i tr ưở ng thành có th ể  dùng m ộ t trong các thu ố c ch ố ng viêm không  steroid khác nh ư  diclofenac, piroxicam, meloxicam, celecoxib,… C ầ n chú ý các tác  d ụ ng không mong mu ố n trên  đườ ng tiêu hóa.  −   Kéo dãn kh ớ p háng  để  làm gi ả m b ớ t áp l ự c trong  ổ  kh ớ p và gi ả m  đ au.    5. TI Ế N TRI Ể N VÀ BI Ế N CH Ứ NG  B ệ nh lành tính và th ườ ng kh ỏ i trong vòng 7 – 10 ngày không  để  l ạ i di ch ứ ng.  Đ ôi  khi kéo dài vài tu ầ n. Có  4-17% b ệ nh nhân tái phát trong vòng 6 tháng  đầ u.  6. PHÒNG B Ệ NH  Phòng và  đ i ề u tr ị  các viêm  đườ ng hô h ấ p, tránh các ch ấ n th ươ ng.      TÀI LI Ệ U THAM KH Ả O  1.   Fischer SU, Beattie TF (Nov 1999).  "The limping child: epidemiology,  assessment and outcome" . J Bone Joint Surg Br. 81 (6): 1029–34.  2.   Scott Moses, MD.  "Transient hip tenosynovitis".  Family practice notebook.  Revision of August 9, 2007. Retrieved December 22, 2007  3.   Gough-Palmer A, McHugh K (Jun 2007).  "Investigating hip pain in a well  child" . BMJ 334 (7605): 1216–7.  4.   Bienvenu-Perrard M, de Suremain N, Wicart P, et al. (Mar 2007).  "Benefit of  hip ultrasound in management of the limping child [Benefit of hip ultrasound  in management of the limping child”  (in French). J Radiol 88 (3 Pt 1): 377–83.  5.   Kwack KS, Cho JH, Lee JH, Cho JH, Oh KK, Kim SY (Aug 2007).  "Septic  arthritis versus transient synovitis of the hip: gadolinium-enhanced MRI  finding of decreased perfusion at the femoral epiphysis".  AJR Am J  Roentgenol 189 (2): 437–45    88 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-B Ệ NH GÚT  (gout)  1.  ĐỊ NH  NGHĨ A    B ệ nh gút là b ệ nh viêm kh ớ p do vi tinh th ể ,  đặ c tr ư ng b ở i nh ữ ng  đợ t viêm kh ớ p  c ấ p tái phát, có l ắ ng  đọ ng tinh th ể  mu ố i urat natri trong các mô, gây ra do t ă ng acid uric  trong máu.  Đ ây là b ệ nh do r ố i lo ạ n chuy ể n hóa nhân purin, thu ộ c nhóm b ệ nh r ố i lo ạ n  chuy ể n hóa. 
-
- 2. NGUYÊN NHÂN  Chia làm hai lo ạ i: gút nguyên phát ( đ a s ố  các tr ườ ng h ợ p) và gút th ứ  phát. 
-
- 2.1. Nguyên phát    Ch ư a rõ nguyên nhân, ch ế   độ   ă n th ự c ph ẩ m có ch ứ a nhi ề u purin nh ư : gan, th ậ n,  tôm, cua, lòng  đỏ  tr ứ ng, n ấ m…  đượ c xem là làm n ặ ng thêm b ệ nh. G ặ p 95%  ở  nam gi ớ i,  độ  tu ổ i th ườ ng g ặ p là 30-60 tu ổ i.   2.2. Th ứ  phát    M ộ t s ố  hi ế m do các r ố i lo ạ n v ề  gen (nguyên nhân di truy ề n). Ngoài ra có th ể  do  t ă ng s ả n xu ấ t acid  uric ho ặ c gi ả m  đ ào th ả i acid  uric ho ặ c c ả  hai, c ụ  th ể :  −   Suy th ậ n nói riêng và các b ệ nh lý làm gi ả m  độ  thanh l ọ c acid uric c ủ a c ầ u th ậ n  nói chung.  −   Các b ệ nh v ề  máu: b ệ nh b ạ ch c ầ u c ấ p.  −   Dùng thu ố c l ợ i ti ể u nh ư  Furosemid, Thiazid, Acetazolamid…  −   S ử  d ụ ng các thu ố c  ứ c ch ế  t ế  bào  để   đ i ề u tr ị  các b ệ nh ác tính; thu ố c ch ố ng lao  (ethambutol, pyrazinamid)…   Các y ế u t ố  nguy c ơ  c ủ a b ệ nh là t ă ng huy ế t áp, béo phì và h ộ i ch ứ ng chuy ể n hóa,  t ă ng insulin máu và s ự   đề  kháng insulin, u ố ng nhi ề u r ượ u. 
-
- 3. CH Ẩ N  ĐOÁ N 
-
- 3.1.  Lâm sàng  C ơ n gút c ấ p tính  đầ u tiên th ườ ng xu ấ t hi ệ n  ở  l ứ a tu ổ i 35 - 55, ít khi tr ướ c 25 ho ặ c  sau 65 tu ổ i.  Ở  n ữ  ít x ả y ra tr ướ c tu ổ i mãn kinh,  ở  nam m ắ c  ở  tu ổ i càng tr ẻ  thì b ệ nh càng  n ặ ng.  Đ i ề u ki ệ n thu ậ n l ợ i: nhi ề u khi không rõ nh ư ng có th ể  x ả y ra sau b ữ a  ă n có nhi ề u  th ị t (nh ấ t là lo ạ i th ị t có nhi ề u purin), r ượ u, sau xúc c ả m m ạ nh, sau ch ấ n th ươ ng k ể  c ả  vi  ch ấ n th ươ ng ( đ i giày ch ậ t), sau nhi ễ m khu ẩ n, dùng các thu ố c l ợ i ti ể u nh ư  thiazid...  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  89  
-
-−   C ơ n gút c ấ p:  +   Xu ấ t hi ệ n  độ t ng ộ t ban  đ êm, b ệ nh nhân th ứ c d ậ y vì  đ au  ở  kh ớ p, th ườ ng là  kh ớ p bàn - ngón chân cái (60 - 70% ): kh ớ p s ư ng to,  đỏ , phù n ề , c ă ng bóng, nóng,  đ au  d ữ  d ộ i và ngày càng t ă ng, va ch ạ m nh ẹ  c ũ ng r ấ t  đ au, thay  đổ i th ứ  t ự : bàn chân, c ổ  chân,  g ố i, bàn tay, c ổ  tay, khu ỷ u, hi ế m th ấ y  ở  kh ớ p háng, vai, c ộ t s ố ng. Lúc  đầ u ch ỉ  viêm m ộ t  kh ớ p sau  đ ó có th ể  viêm nhi ề u kh ớ p.   +   Ngoài kh ớ p ra, túi thanh d ị ch, gân, bao kh ớ p c ũ ng có th ể  b ị  th ươ ng t ổ n.  +   Các d ấ u hi ệ u viêm có th ể  kéo dài nhi ề u ngày, th ườ ng t ừ  5-7 ngày r ồ i các d ấ u  hi ệ u viêm gi ả m d ầ n:  đỡ   đ au,  đỡ  n ề , b ớ t  đỏ . H ế t c ơ n, kh ớ p tr ở  l ạ i hoàn toàn bình th ườ ng.  +   Trong c ơ n gút c ấ p có th ể  có s ố t v ừ a ho ặ c nh ẹ , t ă ng t ố c  độ  l ắ ng h ồ ng c ầ u, d ị ch    3 kh ớ p (ch ỉ  làm  đượ c  ở  kh ớ p g ố i) th ấ y b ạ ch c ầ u 5000/mm ,  đ a s ố  là lo ạ i  đ a  nhân, d ướ i  kính hi ể n vi th ấ y nhi ề u tinh th ể  urat.  +   C ơ n gút c ấ p d ễ  tái phát, kho ả ng cách có th ể  g ầ n nh ư ng c ũ ng có th ể  r ấ t xa, có  khi  >10 n ă m.  +   Bên c ạ nh th ể   đ i ể n hình, c ũ ng có th ể  t ố i c ấ p v ớ i kh ớ p viêm s ư ng t ấ y d ữ  d ộ i,  b ệ nh nhân  đ au nhi ề u nh ư ng c ũ ng có th ể  g ặ p th ể  nh ẹ , kín  đ áo,  đ au ít d ễ  b ị  b ỏ  qua.  −   L ắ ng  đọ ng urat:  L ắ ng  đọ ng urat làm cho hình thành các tôphi d ướ i da và gây nên b ệ nh kh ớ p m ạ n  tính do urat.  +   Tôphi: th ườ ng bi ể u hi ệ n ch ậ m, hàng ch ụ c n ă m sau c ơ n gút  đầ u tiên nh ư ng  c ũ ng có khi s ớ m h ơ n. Khi  đ ã xu ấ t hi ệ n thì d ễ  t ă ng s ố  l ượ ng và kh ố i l ượ ng và có th ể  loét.  Tôphi th ườ ng th ấ y trên s ụ n vành tai r ồ i  đế n khu ỷ u tay, ngón chân cái, gót chân, mu bàn  chân, gân Achille.  +   B ệ nh kh ớ p do urat: xu ấ t hi ệ n ch ậ m. Kh ớ p b ị  c ứ ng,  đ au khi v ậ n  độ ng và làm  h ạ n ch ế  v ậ n  độ ng, kh ớ p có th ể  s ư ng to v ừ a ph ả i, không  đố i x ứ ng, c ũ ng có th ể  có tôphi  kèm theo. Trên Xquang th ấ y h ẹ p kh ớ p, hình  ả nh khuy ế t x ươ ng hình h ố c  ở   đầ u x ươ ng.  −   Bi ể u hi ệ n v ề  th ậ n:  Urat l ắ ng  đọ ng r ả i rác  ở  t ổ  ch ứ c k ẽ  th ậ n, b ể  th ậ n, ni ệ u qu ả n.  +   S ỏ i th ậ n: 10 - 20% các tr ườ ng h ợ p gút,  đ i ề u ki ệ n thu ậ n l ợ i là pH n ướ c ti ể u quá  toan, n ồ ng  độ  acid uric cao. S ỏ i urat th ườ ng nh ỏ  và không c ả n quang.  +   T ổ n th ươ ng th ậ n: lúc  đầ u ch ỉ  có protein ni ệ u, có th ể  có kèm theo h ồ ng  c ầ u,  b ạ ch c ầ u vi th ể , d ầ n d ầ n di ễ n ti ế n  đế n suy th ậ n. Suy th ậ n th ườ ng g ặ p  ở  th ể  có tôphi, ti ế n  tri ể n ch ậ m và là nguyên nhân gây t ử  vong.  3.2. C ậ n lâm sàng  −   Acid uric máu t ă ng > 420 µmol/l, tuy nhiên kho ả ng 40% b ệ nh nhân có c ơ n gút  c ấ p nh ư ng acid uric máu bình th ườ ng.  90 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Đị nh l ượ ng acid uric ni ệ u 24 gi ờ :  để  xác  đị nh t ă ng bài ti ế t (> 600mg/24h) hay  gi ả m th ả i t ươ ng  đố i (< 600mg/24h). N ế u acid uric ni ệ u t ă ng d ễ  gây s ỏ i th ậ n và không  đượ c ch ỉ   đị nh nhóm thu ố c t ă ng  đ ào th ả i acid uric.  −   Xét nghi ệ m d ị ch kh ớ p: quan tr ọ ng nh ấ t là tìm th ấ y tinh th ể  urat trong d ị ch kh ớ p.  3 D ị ch kh ớ p viêm giàu t ế  bào (> 2000 tb/mm ), ch ủ  y ế u là b ạ ch c ầ u  đ a nhân trung tính.  −   Các xét nghi ệ m khác: t ố c  độ  l ắ ng máu t ă ng, CRP bình th ườ ng ho ặ c t ă ng...  −    Xquang kh ớ p: giai  đ o ạ n  đầ u bình th ườ ng, n ế u mu ộ n có th ể  th ấ y các khuy ế t  x ươ ng hình h ố c  ở   đầ u x ươ ng, h ẹ p khe kh ớ p, gai x ươ ng...  3.3. Ch ẩ n  đ oán xác  đị nh   (có th ể  áp d ụ ng m ộ t trong các tiêu chu ẩ n sau)   −   Tiêu chu ẩ n Bennet và Wood (1968):   Độ  nh ạ y 70%,  độ   đặ c hi ệ u 82,7%  Tiêu chu ẩ n Bennet và Wood (1968)   đượ c áp d ụ ng r ộ ng rãi nh ấ t  ở  Vi ệ t Nam do d ễ   nh ớ  và phù h ợ p v ớ i  đ i ề u ki ệ n thi ế u xét nghi ệ m.   a. Ho ặ c tìm th ấ y tinh th ể  natri urat trong d ị ch kh ớ p hay trong các h ạ t tôphi.  b. Ho ặ c t ố i thi ể u có hai trong các y ế u t ố  sau  đ ây:  +   Ti ề n s ử  ho ặ c hi ệ n t ạ i có t ố i thi ể u hai  đợ t s ư ng  đ au c ủ a m ộ t kh ớ p v ớ i tính ch ấ t  kh ở i phát  độ t ng ộ t,  đ au d ữ  d ộ i, và kh ỏ i hoàn toàn trong vòng 2 tu ầ n.  +   Ti ề n s ử  ho ặ c hi ệ n t ạ i có s ư ng  đ au kh ớ p bàn ngón chân cái v ớ i các tính ch ấ t  nh ư   trên.  +   Có h ạ t tôphi.  +   Đ áp  ứ ng t ố t v ớ i colchicin (gi ả m viêm, gi ả m  đ au trong 48 gi ờ ) trong ti ề n s ử   ho ặ c hi ệ n t ạ i.  Ch ẩ n  đ oán xác  đị nh khi có tiêu chu ẩ n a ho ặ c 2 y ế u t ố  c ủ a tiêu chu ẩ n b.  −   Theo tiêu chu ẩ n c ủ a ILAR và Omeract n ă m 2000:  Độ  nh ạ y 70%,  đặ c hi ệ u 78,8%.  +   Có tinh th ể  urat  đặ c tr ư ng trong d ị ch kh ớ p, và / ho ặ c:  +   H ạ t tôphi  đượ c ch ứ ng minh có ch ứ a tinh th ể  urat b ằ ng ph ươ ng pháp hóa h ọ c  ho ặ c kính hi ể n vi phân c ự c, và / ho ặ c:  +   Có 6 trong s ố  12 bi ể u hi ệ n lâm sàng, xét nghi ệ m và Xquang sau:  1. Viêm ti ế n tri ể n t ố i  đ a trong vòng m ộ t ngày.  2. Có h ơ n m ộ t c ơ n viêm kh ớ p c ấ p.  3. Viêm kh ớ p  ở  m ộ t kh ớ p.  4.  Đỏ  vùng kh ớ p.  5. S ư ng,  đ au kh ớ p bàn ngón chân I.  6. Viêm kh ớ p bàn ngón chân I  ở  m ộ t bên.  7. Viêm kh ớ p c ổ  chân m ộ t bên.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  91  
-
-8. Tôphi nhìn th ấ y  đượ c.  9. T ă ng acid uric máu (nam  ≥  420  µ mol/l, n ữ   ≥  360 µ mol/l).  10. S ư ng  đ au kh ớ p không  đố i x ứ ng.  11. Nang d ướ i v ỏ  x ươ ng, không có hình khuy ế t x ươ ng trên Xquang.  12. C ấ y vi khu ẩ n âm tính. 
-
- 3.4. Phân lo ạ i  −   B ệ nh gút c ấ p tính.  −   B ệ nh gút m ạ n tính.  −   Th ờ i gian  ổ n  đị nh gi ữ a các c ơ n gút c ấ p. 
-
- 3.5. Ch ẩ n  đ oán phân bi ệ t  −   Viêm kh ớ p do l ắ ng  đọ ng các tinh th ể  khác (pyrophosphat calci dihydrat) hay  b ệ nh gi ả  gút.   −   Viêm kh ớ p nhi ễ m khu ẩ n.  −   Viêm kh ớ p d ạ ng th ấ p.  −   Viêm kh ớ p ph ả n  ứ ng.  −   B ệ nh lí khác: viêm mô t ế  bào, b ệ nh m ạ ch máu ngo ạ i biên… 
-
- 4.  Đ I Ề U  TRỊ  
-
- 4.1.  Nguyên t ắ c chung  −   Đ i ề u tr ị  viêm kh ớ p trong c ơ n gút c ấ p.  −   D ự  phòng tái phát c ơ n gút, d ự  phòng l ắ ng  đọ ng urat trong các t ổ  ch ứ c và d ự   phòng bi ế n ch ứ ng thông qua  đ i ề u tr ị  h ộ i ch ứ ng t ă ng acid uric máu v ớ i m ụ c tiêu ki ể m  soát acid uric máu d ướ i 360  µ mol/l (60 mg/l) v ớ i gút ch ư a có h ạ t tô phi và d ướ i 320  µ mol/l (50 mg/l) khi gút có h ạ t tô phi.  
-
- 4.2.  Đ i ề u tr ị  c ụ  th ể  
-
- 4.2.1. Ch ế   độ   ă n u ố ng - sinh ho ạ t  −   Tránh các ch ấ t có nhi ề u purin nh ư  t ạ ng  độ ng v ậ t, th ị t, cá, tôm, cua…. Có th ể   ă n tr ứ ng, hoa qu ả .  Ă n th ị t không quá 150g/24 gi ờ .   −   Không u ố ng r ượ u, c ầ n gi ả m cân, t ậ p luy ệ n th ể  d ụ c th ườ ng xuyên…  −   U ố ng nhi ề u n ướ c, kho ả ng 2-4lít/24 gi ờ ,  đặ c bi ệ t là các lo ạ i n ướ c khoáng có  ki ề m ho ặ c n ướ c ki ề m 14‰.  Đ i ề u này s ẽ  làm t ă ng l ượ ng n ướ c ti ể u trong 24 gi ờ , giúp  h ạ n ch ế  t ố i  đ a s ự  l ắ ng  đọ ng urat trong  đườ ng ti ế t ni ệ u.  92 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Tránh các thu ố c làm t ă ng acid uric máu, tránh các y ế u t ố  làm kh ở i phát c ơ n gút  c ấ p nh ư  stress, ch ấ n th ươ ng…   4.2.2.  Đ i ề u tr ị  n ộ i khoa  −   Thu ố c ch ố ng viêm:  +   Colchicin:  V ớ i m ụ c  đ ích ch ố ng viêm, gi ả m  đ au trong c ơ n gút c ấ p ho ặ c  đợ t c ấ p c ủ a gút m ạ n  tính:  theo quan  đ i ể m m ớ i colchicin không nên s ử  d ụ ng li ề u cao vì có tác d ụ ng không  mong mu ố n. Nên s ử  d ụ ng li ề u 1mg/ngày, nh ư ng c ầ n dùng càng s ớ m càng t ố t (trong  vòng 12 gi ờ   đầ u kh ở i phát c ơ n gút). Ph ố i h ợ p v ớ i m ộ t thu ố c nhóm ch ố ng viêm không  steroid n ế u không có ch ố ng ch ỉ   đị nh c ủ a thu ố c này)  để   đạ t hi ệ u qu ả  c ắ t c ơ n gút.   Tr ườ ng h ợ p b ệ nh nhân có ch ố ng ch ỉ   đị nh v ớ i ch ố ng viêm không steroid, colchicin  dùng v ớ i li ề u 1mg x 3 l ầ n trong ngày  đầ u tiên (có th ể  cho 0,5mg cách nhau 2 gi ờ  m ộ t  l ầ n, nh ư ng t ố i  đ a không quá 4mg), 1 mg x 2 l ầ n trong ngày th ứ  2, 1mg t ừ  ngày th ứ  3 tr ở   đ i. Thông th ườ ng sau 24-48 gi ờ  s ử  d ụ ng, tri ệ u ch ứ ng t ạ i kh ớ p s ẽ  gi ả m nhanh.  Test colchicin: hai ngày  đầ u: 1mg x 3 l ầ n; tri ệ u ch ứ ng t ạ i kh ớ p s ẽ  gi ả m nhanh sau  48 gi ờ . Tuy nhiên, sau 48 gi ờ  th ườ ng có tiêu ch ả y, c ầ n k ế t h ợ p m ộ t s ố  thu ố c nh ư   loperamid 2 mg ngày 02 –viên, chia 2 l ầ n nh ằ m ki ể m soát tri ệ u ch ứ ng này.  D ự  phòng tái phát: 0,5- 1,2 mg u ố ng 1-2 l ầ n/ ngày, trung bình 1mg/ ngày kéo dài  ít nh ấ t 6 tháng. C ầ n chú ý gi ả m li ề u  ở  b ệ nh nhân có b ệ nh th ậ n m ạ n tính, l ớ n tu ổ i (trên  70 tu ổ i)… Trong tr ườ ng h ợ p không s ử  d ụ ng  đượ c b ằ ng cochicine có th ể  d ự  phòng b ằ ng   các thu ố c kháng viêm không steroid b ằ ng li ề u th ấ p.  +   Thu ố c kháng viêm không steroid   Có th ể  dùng m ộ t trong các thu ố c sau: Indometacin, Naproxen, Ibuprofen,  Ketoprofen, Piroxicam, Diclofena, các nhóm thu ố c  ứ c ch ế  ch ọ n l ọ c COX-2 (meloxicam,  celecoxib, etoricoxib...). L ư u ý các ch ố ng ch ỉ   đị nh c ủ a thu ố c này (viêm loét d ạ  dày tá  tràng, suy th ậ n…). Có th ể  dùng  đơ n  độ c ho ặ c k ế t h ợ p v ớ i colchicin.   +   Corticoid   Corticoid  đườ ng toàn thân  đượ c ch ỉ   đị nh khi các thu ố c trên không hi ệ u qu ả  ho ặ c  có ch ố ng ch ỉ   đị nh, c ầ n r ấ t h ạ n ch ế  và dùng ng ắ n ngày.  Đườ ng t ạ i ch ỗ  (tiêm corticoid  tr ự c ti ế p vào kh ớ p viêm) ph ả i  đượ c th ự c hi ệ n b ở i th ầ y thu ố c chuyên khoa c ơ  x ươ ng  kh ớ p sau khi lo ạ i tr ừ  viêm kh ớ p nhi ễ m khu ẩ n.  −   Thu ố c gi ả m acid  uric máu  +   Nhóm thu ố c  ứ c ch ế  t ổ ng h ợ p acid uric:   Allopurinol:  Li ề u l ượ ng h ằ ng ngày d ự a vào n ồ ng  độ  acid uric máu. Li ề u kh ở i  đầ u:  Allopurinol 100mg/ngày trong vòng 1 tu ầ n, sau  đ ó t ă ng 200-300mg/ngày. N ồ ng  độ  acid  uric máu th ườ ng tr ở  v ề  bình th ườ ng v ớ i li ề u 200-300mg/ngày. Không nên ch ỉ   đị nh  trong trong c ơ n gút c ấ p mà nên ch ỉ   đị nh khi tình tr ạ ng viêm kh ớ p  đ ã thuyên gi ả m, sau  1-2 tu ầ n s ử  d ụ ng colchicin. C ầ n l ư u ý tác d ụ ng ph ụ  c ủ a allopurinol nh ư  s ố t, nôn, bu ồ n  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  93 nôn,  đ au  đầ u, ban  đỏ   ở  da, d ị   ứ ng… c ầ n theo dõi sát trong nh ữ ng ngày  đầ u dùng thu ố c,  th ậ m chí sau 1-2 tu ầ n dùng thu ố c này.  +   Nhóm thu ố c t ă ng th ả i acid uric:   Probenecid (250mg- 3g/ngày), Sunfinpyrazol (100-800mg/ngày), Benzbriodaron,  Benzbromaron… Ch ỉ   đị nh nhóm này c ầ n xét nghi ệ m acid uric ni ệ u. Ch ố ng ch ỉ   đị nh khi  acid uric ni ệ u trên 600 mg/24 gi ờ , suy th ậ n, s ỏ i th ậ n, ng ườ i cao tu ổ i, gút m ạ n có h ạ t  tophi.  Đ ôi khi có th ể  dùng ph ố i h ợ p allopurinol v ớ i m ộ t lo ạ i thu ố c t ă ng  đ ào th ả i acid   uric. C ả  hai nhóm thu ố c này  đề u nên ch ỉ   đị nh trong c ơ n gút c ấ p.  4.2.3.  Đ i ề u tr ị  ngo ạ i khoa    Ph ẫ u thu ậ t c ắ t b ỏ  h ạ t tôphi  đượ c ch ỉ   đị nh trong tr ườ ng h ợ p gút kèm bi ế n ch ứ ng  loét, b ộ i nhi ễ m h ạ t tôphi ho ặ c h ạ t tôphi kích th ướ c l ớ n,  ả nh h ưở ng  đế n v ậ n  độ ng ho ặ c vì  lý do th ẩ m m ỹ . Khi ph ẫ u thu ậ t l ư u ý cho dùng colchicin nh ằ m tránh kh ở i phát c ơ n gút  c ấ p. C ầ n k ế t h ợ p thu ố c h ạ  acid uric máu.  5. TI Ế N TRI Ể N - BI Ế N CH Ứ NG  −   Thông th ườ ng có 1 - 2 c ơ n m ỗ i n ă m, kho ả ng cách các c ơ n ng ắ n l ạ i, 10 - 20  n ă m sau c ơ n  đầ u tiên, xu ấ t hi ệ n các tophi và b ệ nh kh ớ p urat làm h ạ n ch ế  v ậ n  độ ng.  B ệ nh nhân ch ế t do suy th ậ n hay do tai bi ế n m ạ ch máu.  −   Có m ộ t s ố  th ể  nh ẹ  h ơ n, c ơ n gút ít x ả y ra, không có tophi. C ũ ng có m ộ t s ố  th ể   n ặ ng h ơ n, x ả y ra  ở  ng ườ i tr ẻ  < 30 tu ổ i, c ơ n gút dày liên ti ế p, tophi và b ệ nh kh ớ p do urat  xu ấ t hi ệ n s ớ m.  6. PHÒNG B Ệ NH  −   Ch ế   độ  sinh ho ạ t h ợ p lí, gi ả m  ă n các ch ấ t giàu purin, ch ấ t béo…  −   Đ i ề u tr ị  t ố t các b ệ nh lí gây b ệ nh gút th ứ  phát nh ư  suy th ậ n, do thu ố c, các b ệ nh  lí chuy ể n hóa…    TÀI LI Ệ U THAM KH Ả O  1.   Hoàng V ă n D ũ ng (2009),  “Ch ẩ n  đ oán và  đ i ề u tr ị  b ệ nh gút” ; Ch ẩ n  đ oán và  đ i ề u tr ị  nh ữ ng b ệ nh c ơ  x ươ ng kh ớ p, Nhà xu ấ t b ả n Y h ọ c, tr. 110-123.  2.   H ồ  V ă n L ộ c (2009),  “B ệ nh gút”,  Giáo trình chuyên ngành c ơ  x ươ ng kh ớ p,  Đạ i  h ọ c Y D ượ c Hu ế , tr. 26-31.  3.   Hector Molina và CS (2010),  “Crystal- Induced Synovitis, Arthritis and  Rheumatologic Diseases” , The Washington manual of medical thepapeutics,  pp.860- 864. 4.   John H. Klippel và CS (2008),  “Gout”,  Primer on the rheumatic diseases,  edition 13, pp. 241-262.    94 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-VIÊM KH Ớ P NHI Ễ M KHU Ẩ N  (Septic arthritis)  1.  ĐẠ I C ƯƠ NG  Viêm kh ớ p nhi ễ m khu ẩ n hay viêm kh ớ p sinh m ủ  (pyogenic/ suppurative arthritis)  là viêm kh ớ p do vi khu ẩ n sinh m ủ  không  đặ c hi ệ u (không ph ả i do lao, phong, n ấ m, ký  sinh trùng hay virus) gây nên.   2. NGUYÊN NHÂN  Phân làm hai nhóm nguyên nhân chính theo tác nhân gây b ệ nh:  −   Viêm kh ớ p nhi ễ m khu ẩ n do l ậ u c ầ u (gonococcal bacterial/ suppurative  arthritis): l ậ u c ầ u khu ẩ n ( N.gonorrhoeae ), chi ế m t ớ i 70-75% nhi ễ m khu ẩ n kh ớ p  ở  ng ườ i  l ớ n d ướ i 40 tu ổ i.  −   Viêm kh ớ p nhi ễ m khu ẩ n không do l ậ u c ầ u (nongonococcal bacterial/  suppurative arthritis): nguyên nhân hay g ặ p nh ấ t là do vi khu ẩ n gram d ươ ng  đặ c bi ệ t là  t ụ  c ầ u vàng  (50-70% tr ườ ng h ợ p),  liên c ầ u  (20%),  ph ế  c ầ u ... Vi khu ẩ n gram âm ít g ặ p  h ơ n (15-20%):  E.coli ,  th ươ ng hàn, tr ự c khu ẩ n m ủ  xanh, Haemophilus influenza ; vi  khu ẩ n k ỵ  khí chi ế m kho ả ng 5% tr ườ ng h ợ p. Có kho ả ng 5-10% tr ườ ng h ợ p nhi ễ m  đồ ng  th ờ i nhi ề u lo ạ i vi khu ẩ n,  đ ây là lo ạ i nhi ễ m khu ẩ n kh ớ p th ườ ng g ặ p sau ch ấ n th ươ ng. 
-
- 3. TRI Ệ U CH Ứ NG - CH Ẩ N  Đ OÁN 
-
- 3.1. Lâm sàng  Th ườ ng x ả y ra c ấ p tính, g ồ m hai b ệ nh c ả nh viêm kh ớ p nhi ễ m khu ẩ n không ph ả i  do l ậ u c ầ u và do l ậ u c ầ u.  −   Viêm kh ớ p nhi ễ m khu ẩ n không do l ậ u c ầ u:  th ườ ng x ả y ra  ở  m ộ t kh ớ p  đơ n  độ c (90% tr ườ ng h ợ p), hay g ặ p nh ấ t là kh ớ p g ố i.  +   Tri ệ u ch ứ ng t ạ i kh ớ p: s ư ng nóng  đỏ   đ au, có th ể  tràn d ị ch kh ớ p, co c ơ , h ạ n ch ế   v ậ n  độ ng.    +   H ộ i ch ứ ng nhi ễ m trùng: s ố t, kèm rét run, môi khô, l ưỡ i b ẩ n, h ơ i th ở  hôi.  −   Nhi ễ m khu ẩ n kh ớ p do l ậ u c ầ u:  có hai b ệ nh c ả nh lâm sàng trong nhi ễ m trùng  do l ậ u c ầ u:   +   H ộ i ch ứ ng nhi ễ m khu ẩ n l ậ u c ầ u phát tán:  s ố t, rét run, ban  đỏ  và m ụ n m ủ   ngoài da cùng các tri ệ u ch ứ ng viêm kh ớ p, tri ệ u ch ứ ng t ạ i b ộ  ph ậ n sinh d ụ c nh ư   đ ái bu ố t,  đ ái r ắ t,  đ ái máu- m ủ … Viêm nhi ề u kh ớ p nh ỏ  có tính ch ấ t di chuy ể n kèm viêm bao ho ạ t  d ị ch - gân.  +   Viêm kh ớ p th ự c s ự  do l ậ u c ầ u:  th ườ ng t ổ n th ươ ng m ộ t kh ớ p  đơ n  độ c nh ư  háng,  g ố i, c ổ  tay, c ổ  chân v ớ i tri ệ u ch ứ ng s ư ng nóng  đỏ   đ au, có th ể  tràn d ị ch kh ớ p. Có th ể   kèm theo viêm nhi ễ m  ở   đườ ng ti ế t ni ệ u, sinh d ụ c nh ư   đ ái bu ố t,  đ ái r ắ t,  đ ái máu - m ủ …  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  95 3.2. C ậ n lâm sàng  −   Xét nghi ệ m t ế  bào máu ngo ạ i vi: th ườ ng có s ố  l ượ ng b ạ ch c ầ u t ă ng cao, t ỷ  l ệ   b ạ ch c ầ u trung tính t ă ng; t ố c  độ  máu l ắ ng, CRP (protein C ph ả n  ứ ng) th ườ ng t ă ng.   −   Procalcitonin th ườ ng t ă ng khi có nhi ễ m trùng n ặ ng,  đặ c bi ệ t là nhi ễ m trùng huy ế t.  −   Xét nghi ệ m d ị ch kh ớ p: l ấ y b ệ nh ph ẩ m  đế m t ế  bào, soi t ươ i, nhu ộ m gram, nuôi  c ấ y d ị ch kh ớ p tìm vi khu ẩ n gây b ệ nh.  −   C ấ y máu tìm vi khu ẩ n gây b ệ nh.   −   Ch ẩ n  đ oán hình  ả nh: ch ụ p Xquang quy  ướ c, siêu âm kh ớ p, ch ụ p c ắ t l ớ p vi tính,  ch ụ p c ộ ng h ưở ng t ừ , ch ụ p x ạ  hình x ươ ng tùy tr ườ ng h ợ p.  3.3. Ch ẩ n  đ oán xác  đị nh  Khi có  ít nh ấ t m ộ t trong hai tiêu chu ẩ n:  −   Xét nghi ệ m d ị ch kh ớ p có m ủ  (b ạ ch c ầ u  đ a nhân trung tính thoái hóa ho ặ c t ế   bào d ị ch kh ớ p cao trên 100.000/ml v ớ i trên 80% là b ạ ch c ầ u  đ a nhân trung tính) ho ặ c  tìm th ấ y vi khu ẩ n qua soi t ươ i, nhu ộ m gram.  −   C ấ y máu ho ặ c d ị ch kh ớ p d ươ ng tính v ớ i vi khu ẩ n.  K ế t h ợ p  v ớ i ít nh ấ t m ộ t trong hai tiêu chu ẩ n:  −   Lâm sàng viêm kh ớ p  đ i ể n hình.  −   D ấ u hi ệ u Xquang viêm kh ớ p  đ i ể n hình: hình  ả nh soi g ươ ng. 
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c  −   Ch ẩ n  đ oán và ch ỉ   đị nh kháng sinh s ớ m; th ự c hi ệ n ngay c ấ y máu, c ấ y d ị ch  kh ớ p, soi t ươ i d ị ch nhu ộ m gram tìm vi khu ẩ n tr ướ c khi cho kháng sinh.   −    L ự a ch ọ n kháng sinh ban  đầ u d ự a vào kinh nghi ệ m, tình hình kháng kháng  sinh t ạ i c ộ ng  đồ ng, b ệ nh vi ệ n; k ế t qu ả  nhu ộ m gram (âm hay d ươ ng), l ứ a tu ổ i,  đườ ng lây  nhi ễ m  để  d ự   đ oán vi khu ẩ n gây b ệ nh.   −   C ầ n dùng ít nh ấ t m ộ t thu ố c kháng sinh  đườ ng t ĩ nh m ạ ch. Th ờ i gian  đ i ề u tr ị   kháng sinh th ườ ng t ừ  4-6 tu ầ n.   −   D ẫ n l ư u m ủ  kh ớ p, b ấ t  độ ng kh ớ p, can thi ệ p ngo ạ i khoa khi c ầ n thi ế t.  4.2.  Đ i ề u tr ị  c ụ  th ể   Đ i ề u tr ị  kháng sinh:  Tr ườ ng h ợ p viêm kh ớ p nhi ễ m khu ẩ n không do l ậ u c ầ u:  −   Khi ch ư a có k ế t qu ả  c ấ y máu, d ị ch: dùng ngay kháng sinh oxacillin ho ặ c  nafcillin 2g  đườ ng t ĩ nh m ạ ch (TM) m ỗ i 6 gi ờ  m ộ t l ầ n (8g/ngày), ho ặ c clindamycin 2,4g  TM/ngày chia 4 l ầ n.   96 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Tr ườ ng h ợ p soi t ươ i nhu ộ m gram d ị ch kh ớ p phát hi ệ n c ầ u khu ẩ n gram d ươ ng:  oxacillin ho ặ c nafcillin 2g m ỗ i 6 gi ờ  m ộ t l ầ n (8g/ngày), ho ặ c clindamycin 2,4g  TM/ngày chia 4 l ầ n. N ế u t ạ i c ộ ng  đồ ng hay b ệ nh vi ệ n nghi ng ờ  nhi ễ m t ụ  c ầ u vàng  kháng kháng sinh: vancomycin 2g/ngày chia hai l ầ n pha truy ề n t ĩ nh m ạ ch ho ặ c  daptomycin 4-6 mg/kg cân n ặ ng  đườ ng TM m ộ t l ầ n/ngày ho ặ c teicoplanin 6mg/kg  1l ầ n/ngàytrong nh ữ ng ngày  đầ u, sau  đ ó gi ả m còn 3mg/kg TM ho ặ c tiêm b ắ p.  −   Tr ườ ng h ợ p nghi nhi ễ m trùng tr ự c khu ẩ n m ủ  xanh c ầ n ph ố i h ợ p ceftazidim  2g/l ầ n x 2-3 l ầ n/ ngày v ớ i kháng sinh nhóm aminoglycosid (nh ư  gentamycin 3 mg/kg/  ngày - dùng m ộ t l ầ n tiêm b ắ p vào bu ổ i sáng ho ặ c amikacin 15mg/kg/ngày tiêm b ắ p  ho ặ c pha truy ề n TM 1l ầ n /ngày).  −   Tr ườ ng h ợ p c ấ y máu, d ị ch kh ớ p d ươ ng tính thì  đ i ề u tr ị  theo kháng sinh  đồ   (ho ặ c ti ế p t ụ c duy trì kháng sinh theo nh ư   đ i ề u tr ị  ban  đầ u n ế u th ấ y  đ áp  ứ ng t ố t):   +   Nhi ễ m khu ẩ n do t ụ  c ầ u vàng nh ậ y c ả m v ớ i kháng sinh thì dùng oxacillin, ho ặ c  nafcillin, ho ặ c clindamycin (li ề u nh ư  trên); t ụ  c ầ u vàng kháng methicillin thì dùng  vancomycin, ho ặ c daptomycin, ho ặ c teicoplanin (li ề u nh ư  trên) trong 4 tu ầ n.   +   Nhi ễ m khu ẩ n do ph ế  c ầ u ho ặ c liên c ầ u do vi khu ẩ n nh ậ y v ớ i penicillin:  penicillin G 2 tri ệ u  đơ n v ị  TM m ỗ i 4 gi ờ  trong 2 tu ầ n.   +   Nhi ễ m khu ẩ n do  H. influenzae  và  S. pneumoniae   ứ c ch ế   β -lactamase:  ceftriaxon 1-2 g m ộ t l ầ n /ngày, ho ặ c cefotaxim 1 g 3 l ầ n/ngày trong 2 tu ầ n.  +   Ph ầ n l ớ n các nhi ễ m vi khu ẩ n gram âm  đườ ng ru ộ t: kháng sinh cephalosporin  th ế  h ệ  3 ho ặ c 4  đườ ng TM trong 3-4 tu ầ n, ho ặ c thu ố c nhóm fluoroquinolon nh ư   levofloxacin 500mg  đườ ng t ĩ nh m ạ ch ho ặ c u ố ng m ỗ i 24 gi ờ .  +   Nhi ễ m khu ẩ n tr ự c khu ẩ n m ủ  xanh: ph ố i h ợ p kháng sinh nhóm aminoglycosid  v ớ i ceftazidim 1g m ỗ i 8 gi ờ  (ho ặ c v ớ i mezlocillin 3g t ĩ nh m ạ ch m ỗ i 4 gi ờ ). Th ờ i gian  dùng trong kho ả ng 2 tu ầ n, sau  đ ó dùng kháng sinh nhóm fluoroquinolon nh ư   ciprofloxacin 500 mg u ố ng 2 l ầ n /ngày  đơ n  độ c ho ặ c ph ố i h ợ p v ớ i ceftazidim.  Đ i ề u tr ị  viêm kh ớ p do l ậ u c ầ u:   −   Tr ườ ng h ợ p l ậ u c ầ u nh ạ y c ả m penicillin có th ể  dùng amoxicillin u ố ng 1500  mg/ngày chia 3 l ầ n, ho ặ c dùng ciprofloxacin u ố ng 1000 mg chia hai l ầ n /ngày (ngo ạ i  trú) trong 7 ngày.   −   Tr ườ ng h ợ p nghi ng ờ  l ậ u c ầ u kháng penicillin: kh ở i  đầ u ceftriaxon 1g tiêm b ắ p  ho ặ c tiêm t ĩ nh m ạ ch m ỗ i 24 gi ờ  trong 7 ngày, sau  đ ó chuy ể n dùng ciprofloxacin u ố ng  500 mg hai l ầ n /ngày; ho ặ c spectinomycin 2g tiêm b ắ p m ỗ i 12 gi ờ  /ngày trong 7 ngày.   −   Khi nghi ng ờ  b ộ i nhi ễ m  Chlamydia trachomatis : ph ố i h ợ p kháng sinh u ố ng  doxycyclin 100mg 2 l ầ n/ngày ho ặ c tetracyclin 500mg 4 l ầ n/ngày ho ặ c ho ặ c  erythromycin 500mg 4 l ầ n/ ngày trong 7 ngày.  Các bi ệ n pháp khác có th ể  ph ố i h ợ p v ớ i  đ i ề u tr ị  kháng sinh:  −   Hút, d ẫ n l ư u kh ớ p khi có viêm kh ớ p có d ị ch m ủ .   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  97  
-
-−   N ộ i soi kh ớ p r ử a kh ớ p: trong tr ườ ng h ợ p sau 5 - 7 ngày  đ i ề u tr ị   đ úng thu ố c k ế t  h ợ p hút, d ẫ n l ư u d ị ch kh ớ p nhi ề u l ầ n th ấ t b ạ i; ho ặ c nhi ễ m khu ẩ n kh ớ p d ị ch m ủ   đặ c hay  có vách ng ă n không hút  đượ c d ị ch kh ớ p.  −   Ph ẫ u thu ậ t m ở  kh ớ p l ấ y b ỏ  t ổ  ch ứ c nhi ễ m khu ẩ n khi kèm nhi ễ m khu ẩ n ph ầ n  m ề m lân c ậ n, nhi ễ m khu ẩ n s ụ n kh ớ p hay x ươ ng; nhi ễ m khu ẩ n  ở  kh ớ p nhân t ạ o ( đ a s ố   tr ườ ng h ợ p ph ả i l ấ y b ỏ  kh ớ p nhân t ạ o, dùng kháng sinh  đườ ng t ĩ nh m ạ ch ít nh ấ t 4-6  tu ầ n, sau  đ ó m ớ i xem xét có làm l ạ i kh ớ p nhân t ạ o khác ho ặ c không); nhi ễ m khu ẩ n  kh ớ p  ở  sâu khó hút nh ư  kh ớ p háng; nhi ễ m khu ẩ n kh ớ p háng  ở  tr ẻ  em (là bi ệ n pháp t ố t  nh ấ t  để  tránh t ổ n th ươ ng làm h ư  h ạ i ch ỏ m x ươ ng  đ ùi).  5. PHÒNG B Ệ NH   Th ự c hi ệ n vô trùng tuy ệ t  đố i khi làm các th ủ  thu ậ t, ph ẫ u thu ậ t ti ế n hành t ạ i kh ớ p.  Đ i ề u tr ị  t ố t các nhi ễ m khu ẩ n t ạ i các c ơ  quan khác,  đặ c bi ệ t t ạ i da, ph ầ n m ề m và x ươ ng.  Đố i v ớ i b ệ nh l ậ u phòng b ằ ng cách th ự c hi ệ n hành vi tình d ụ c an toàn.    TÀI LI Ệ U THAM KH Ả O  1.   Lê Ng ọ c Tr ọ ng,  Đỗ  Kháng Chi ế n (ch ủ  biên);  “Viêm kh ớ p m ủ  và viêm kh ớ p do  l ậ u” ; H ướ ng d ẫ n  đ i ề u tr ị , t ậ p II: h ướ ng d ẫ n  đ i ề u tr ị  m ộ t s ố  b ệ nh nhi ễ m khu ẩ n  th ườ ng g ặ p; Nhà xu ấ t b ả n Y h ọ c, 2006; trang 24-28.  2.   Goldenberg D,  “Bacterial Arthritis” , Textbook of Rheumatology, fourth  Edition, Vol 2; W.B Saunder Company, 2003; p 1449- 1466.  3.   Goldenberg D, Sexton D; “Septic arthritis in adults”; Uptodate 19.3, 2011.  4.   Madoff Lawrence; “ Infectious Arthritis ”; Harisson’s Principles of internal  th medicine 17  Edition, Vol II; Mac Graw Hill, 2008, p2169-2175  5.   Osmon DR, Steckelberg JM;  “Osteomyelitis, Infectious arthritis and  Prosthetic- joint infection” ; Current diagnosis and treatment in infectious  diseases, 1th Edition; MacGraw- Hill/Appleton and Lange, 2001; p 160-168.          98 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-VIÊM C Ơ , ÁP XE C Ơ  NHI Ễ M KHU Ẩ N  1.  ĐỊ NH NGH Ĩ A    Viêm c ơ  nhi ễ m khu ẩ n (infectiuos myositis) là t ổ n th ươ ng viêm ho ặ c áp xe t ạ i c ơ   vân do vi khu ẩ n gây nên.  2. NGUYÊN NHÂN  Vi khu ẩ n gây b ệ nh:   −    Nguyên nhân th ườ ng g ặ p nh ấ t là t ụ  c ầ u vàng.  −    Các lo ạ i vi khu ẩ n khác: Liên c ầ u, l ậ u c ầ u, ph ế  c ầ u, não mô c ầ u,  Burkholderia  pseudomallei , vi khu ẩ n Gram âm, các vi khu ẩ n y ế m khí khác. 
-
- 3. TRI Ệ U CH Ứ NG - CH Ẩ N  Đ OÁN 
-
- 3.1. Tri ệ u ch ứ ng lâm sàng   −    V ị  trí t ổ n th ươ ng: có th ể  g ặ p  ở  b ấ t k ỳ  v ị  trí nào.  −    S ố  l ượ ng: th ườ ng  ở  m ộ t c ơ .  Ở  nh ữ ng b ệ nh nhân nhi ễ m trùng huy ế t ho ặ c  ở  c ơ   đị a suy gi ả m mi ễ n d ị ch có th ể  t ổ n th ươ ng  ở  nhi ề u c ơ .  −    Viêm c ơ  th ắ t l ư ng ch ậ u th ườ ng x ả y ra sau các nhi ễ m trùng  đườ ng ti ế t ni ệ u  sinh d ụ c ho ặ c ph ẫ u thu ậ t  ở  vùng b ụ ng, th ườ ng do vi trùng lao ho ặ c do vi trùng sinh m ủ .  Trên lâm sàng, b ệ nh nhân th ườ ng  đ au  ở  vùng h ạ  s ườ n. B ệ nh nhân th ườ ng không du ỗ i  đượ c chân bên có c ơ  b ị  viêm, khám kh ớ p háng bình th ườ ng.  −    Tính ch ấ t:  +   Giai  đ o ạ n  đầ u (1-2 tu ầ n  đầ u): s ư ng c ơ ,  ấ n ch ắ c, có th ể   đỏ  ho ặ c  đ au nh ẹ .  +   Giai  đ o ạ n 2 (tu ầ n 2-4): c ơ  s ư ng t ấ y  đỏ  r ấ t  đ au, bùng nhùng khi  ấ n, ch ọ c hút ra m ủ .  +   Giai  đ o ạ n 3: có th ể  xu ấ t hi ệ n các bi ế n ch ứ ng nh ư  áp xe xa, s ố c nhi ễ m khu ẩ n...  −    Bi ể u hi ệ n toàn thân: h ộ i ch ứ ng nhi ễ m trùng th ườ ng rõ:   +   S ố t cao 39- 40ºC, s ố t liên t ụ c, dao  độ ng.  +   G ầ y sút, m ệ t m ỏ i, môi khô, l ưỡ i b ẩ n.  3.2. Các th ă m dò c ậ n lâm sàng  −   Xét nghi ệ m:  +   Xét nghi ệ m máu: t ế  bào máu ngo ạ i vi có th ể  t ă ng s ố  l ượ ng b ạ ch c ầ u, t ă ng t ỷ  l ệ   b ạ ch c ầ u  đ o ạ n trung tính; t ă ng t ố c  độ  máu l ắ ng, t ă ng CRP, t ă ng fibrinogen, t ă ng  globulin. Procalcitonin máu có th ể  t ă ng trong tr ườ ng h ợ p nhi ễ m trùng n ặ ng.   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  99  
-
-+   C ấ y máu có th ể  d ươ ng tính.  +   Ch ọ c hút  ổ  m ủ : ch ọ c mù ho ặ c d ướ i h ướ ng d ẫ n c ủ a siêu âm l ấ y m ủ  xét nghi ệ m:  T ế  bào h ọ c: th ấ y nhi ề u b ạ ch c ầ u  đ a nhân trung tính thoái hóa (t ế  bào m ủ ).   Các xét nghi ệ m vi sinh: soi t ươ i, nhu ộ m Gram, nuôi c ấ y, BK, PCR lao. Có th ể   phân l ậ p  đượ c vi khu ẩ n qua soi tr ự c ti ế p ho ặ c nuôi c ấ y m ủ .  −   Ch ẩ n  đ oán hình  ả nh:  +   Siêu âm c ơ :  có th ể  th ấ y các hình  ả nh c ơ  t ă ng th ể  tích, m ấ t c ấ u trúc s ợ i c ơ , các  ổ  có c ấ u trúc siêu âm h ỗ n h ợ p, áp xe c ơ .  +   Xquang quy  ướ c:  t ổ n th ươ ng các c ơ   ở  chi: ch ụ p chi có c ơ  t ổ n th ươ ng có th ể   th ấ y hình  ả nh viêm x ươ ng màng x ươ ng k ế t h ợ p. T ổ n th ươ ng c ơ  th ắ t l ư ng ch ậ u: vùng c ộ t  s ố ng th ắ t l ư ng có th ể  th ấ y rõ bóng c ơ  th ắ t l ư ng ch ậ u, bóng khí. Hình  ả nh calci hóa t ạ i  vùng áp xe g ợ i ý vi khu ẩ n lao.  +   Ch ụ p c ắ t l ớ p vi tính:   đượ c ch ỉ   đị nh v ớ i c ơ  th ắ t l ư ng ch ậ u cho phép phát hi ệ n  s ớ m t ổ n th ươ ng v ớ i  độ  nh ạ y cao. N ế u th ấ y khí t ạ i vùng c ơ , t ứ c là  đ ã có áp xe.  +   C ộ ng h ưở ng t ừ :   ch ỉ   đị nh trong tr ườ ng h ợ p viêm ho ặ c áp xe c ơ   ở  chi ho ặ c c ơ   th ắ t l ư ng ch ậ u: gi ả m tín hi ệ u trên T1, t ă ng tín hi ệ u trên T2 thành  ổ  khu trú trên c ơ . 
-
- 3.3. Ch ẩ n  đ oán xác  đị nh  −   D ự a vào lâm sàng (các d ấ u hi ệ u t ạ i ch ỗ  và toàn thân).  −   Xét nghi ệ m bilan nhi ễ m trùng.  −   Ch ẩ n  đ oán hình  ả nh (siêu âm, ch ụ p c ắ t l ớ p vi tính, ho ặ c ch ụ p c ộ ng h ưở ng t ừ ).  −   Nuôi c ấ y phân l ậ p vi khu ẩ n.   
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c  đ i ề u tr ị   −   Dùng kháng sinh s ớ m (ngay sau khi làm các xét nghi ệ m vi sinh), li ề u cao,  đườ ng t ĩ nh m ạ ch (sau có th ể  chuy ể n  đườ ng u ố ng),  đủ  th ờ i gian (4-6 tu ầ n). L ự a ch ọ n  kháng sinh d ự a theo kháng sinh  đồ .   −   Khi ch ư a có k ế t qu ả  vi sinh, l ự a ch ọ n kháng sinh theo kinh nghi ệ m d ự a trên  b ệ nh c ả nh lâm sàng:  +   Kháng sinh s ử  d ụ ng  đầ u tiên nên h ướ ng t ớ i t ụ  c ầ u vàng. N ế u nghi ng ờ  t ụ  c ầ u  kháng methicilin, xem xét s ử  d ụ ng vancomycin.  +   V ớ i c ơ   đị a suy gi ả m mi ễ n d ị ch, nên s ử  d ụ ng kháng sinh ph ổ  r ộ ng, trong  đ ó có  tr ự c khu ẩ n gram âm và vi khu ẩ n y ế m khí, ch ẳ ng h ạ n  vancomycin và m ộ t kháng sinh  nhóm carbapenem ho ặ c piperacillin/tazobactam.  Đố i v ớ i vi khu ẩ n y ế m khí, có th ể  dùng  clindamycin.  −   K ế t h ợ p ch ọ c hút d ẫ n l ư u m ủ  ho ặ c ph ẫ u thu ậ t d ẫ n l ư u  ổ  m ủ  (giai  đ o ạ n 2, 3).  100 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Đ i ề u tr ị  tri ệ u ch ứ ng và nâng cao th ể  tr ạ ng, ch ố ng s ố c nhi ễ m khu ẩ n (n ế u có).  4.2.  Đ i ề u tr ị  c ụ  th ể   −   Khi ch ư a có k ế t qu ả  c ấ y máu, d ị ch: dùng ngay kháng sinh oxacillin ho ặ c  nafcillin 2g  đườ ng t ĩ nh m ạ ch (TM) m ỗ i 6 gi ờ  m ộ t l ầ n (8g/ngày), ho ặ c clindamycin 2,4g  TM/ngày chia 4 l ầ n.  −   Đố i v ớ i t ụ  c ầ u còn nh ạ y c ả m v ớ i methicillin:  +   Cefazolin 1g TM m ỗ i 8 gi ờ  x 2 tu ầ n   ho ặ c    +   Levofloxacin 750mg TM m ỗ i 24 gi ờ  x 2 tu ầ n  ho ặ c     +   Moxifloxacin 400mg TM m ỗ i 24 gi ờ  x 2 tu ầ n  ho ặ c   +   Ampicillin/sulbactam 3g TM m ỗ i 6 gi ờ  x 2 tu ầ n  ho ặ c  Sau  đ ó chuy ể n sang:    +   Cephalexin 500mg u ố ng m ỗ i 6 gi ờ  x 2 tu ầ n  ho ặ c   +   Đ i ề u tr ị  ph ố i h ợ p clindamycin 300mg u ố ng m ỗ i 6 gi ờ  x 2 tu ầ n  v ớ i    levofloxacin 750mg u ố ng m ỗ i 24 gi ờ  x 2 tu ầ n  ho ặ c  moxifloxacin 400mg u ố ng  m ỗ i 24  gi ờ  x 2 tu ầ n.     −   N ế u nghi ng ờ  t ụ  c ầ u ( Staphylococcus aureus ) kháng methicillin:  +   Vancomycin 1g TM m ỗ i 12 gi ờ  x 2 tu ầ n,  ho ặ c   +   Linezolid 600mg TM m ỗ i 12 gi ờ  x 2 tu ầ n  ho ặ c   +   Daptomycine 4mg/kg TM m ỗ i 24 gi ờ  x 2 tu ầ n    Sau  đ ó chuy ể n sang:   +   Linezolid 600mg u ố ng m ỗ i 12 gi ờ  x 2 tu ầ n  ho ặ c   +   Minocycline 100mg u ố ng m ỗ i 12 gi ờ  x 2 tu ầ n.  −   N ế u nghi ng ờ  nhi ễ m Gram (+) khác:   +   Cefazolin TM 3g/ngày chia 3 l ầ n trong 2-3 tu ầ n sau  đ ó dùng cefalexin  4g/ngày chia 4 l ầ n (4-6 tu ầ n).  ho ặ c    +   Clindamycin TM 1800 mg/ngày, chia 3 l ầ n trong 2-3 tu ầ n; sau  đ ó duy trì b ằ ng  u ố ng clindamycin 1800 mg/ngày, chia 3 l ầ n trong 4-6 tu ầ n,  ho ặ c    +   Lincomycin TM 1800 mg/ngày, chia 3 l ầ n (2-3 tu ầ n); sau  đ ó duy trì b ằ ng u ố ng  lincomycin 1800 mg/ngày, chia 3 l ầ n trong 4-6 tu ầ n.  −   N ế u nghi ng ờ  nhi ễ m liên c ầ u ( Streptococcus group A ):  +   Penicillin G TM 2-4 tri ệ u IU m ỗ i 4-6 gi ờ , sau chuy ể n sang penicillin V u ố ng,  ho ặ c   +   Ceftriaxone TM 1-2 g/24 gi ờ   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  101  
-
-−     N ế u nghi nhi ễ m trùng tr ự c khu ẩ n m ủ  xanh c ầ n ph ố i h ợ p ceftazidim 2g/l ầ n   x 2-3 l ầ n/ngày v ớ i kháng sinh nhóm aminoglycosid (nh ư  gentamycin 3 mg/kg/ngày -  dùng m ộ t l ầ n tiêm b ắ p vào bu ổ i sáng ho ặ c amikacin 15mg/kg/ngày tiêm b ắ p ho ặ c pha  truy ề n TM 1l ầ n /ngày).  −   Ph ầ n l ớ n các nhi ễ m vi khu ẩ n gram âm  đườ ng ru ộ t: kháng sinh cephalosporin  th ế  h ệ  3 ho ặ c 4  đườ ng TM trong 3-4 tu ầ n, ho ặ c thu ố c nhóm fluoroquinolon nh ư   levofloxacin 500mg  đườ ng t ĩ nh m ạ ch ho ặ c u ố ng m ỗ i 24 gi ờ . 
-
- 5. D Ự  PHÒNG  −   Đả m b ả o nguyên t ắ c vô trùng khi làm th ủ  thu ậ t ho ặ c tiêm chích.  −   Đ i ề u tr ị  t ố t các  ổ  nhi ễ m  ban  đầ u  ở  da nh ư  m ụ n nh ọ t, v ế t loét...  −   Ki ể m soát t ố t các b ệ nh lý m ạ n tính nh ư   đ ái tháo  đườ ng, các b ệ nh lý t ự  mi ễ n. 
-
-   TÀI LI Ệ U THAM KH Ả O  1.   Nguy ễ n Th ị  Ng ọ c Lan. (2010), “ Viêm c ơ  do vi khu ẩ n” , B ệ nh h ọ c c ơ  x ươ ng  kh ớ p n ộ i khoa. NXB Giáo d ụ c Vi ệ t Nam, 2010: 239-246.  2.   Burke Acunha. (2008).  Antibiotic essentials . Eighth edition- Physician’S Press.  3.   David N Gilbert, Robert C. Modeellering, et al.(2011)  The Sanfford Guide to  Antimicrobial therapy . 41st  Edition  4. Clinical Procedures in Emergency  th Medicine . 5  ed.   5.   Stryjewski ME, Chambers HF. (2008)  Skin and soft-tissue infections caused by  community-acquired methicillin-resistant Staphylococcus aureus .  Clin Infect  Dis . Jun 1;46 Suppl 5:S368-77.          102 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-VIÊM X ƯƠ NG T Ủ Y NHI Ễ M KHU Ẩ N  1.  ĐẠ I C ƯƠ NG   Viêm x ươ ng t ủ y (Osteomyelitis), hay còn g ọ i là c ố t t ủ y viêm, là m ộ t b ệ nh nhi ễ m  trùng c ủ a x ươ ng (v ỏ  ho ặ c t ủ y x ươ ng), có th ể  là c ấ p tính ho ặ c m ạ n tính, do nhi ề u lo ạ i vi  sinh v ậ t gây nên, nh ư ng th ườ ng g ặ p nh ấ t là vi khu ẩ n.  
-
- 2. NGUYÊN NHÂN 
-
- 2.1. Nguyên nhân   −   Vi khu ẩ n hay g ặ p nh ấ t là t ụ  c ầ u vàng ( Staphylococcus aureus). −   Các vi khu ẩ n th ườ ng g ặ p khác bao g ồ m liên c ầ u tan huy ế t nhóm B, các ch ủ ng  Pseudomonas ,  E. coli  và các tr ự c khu ẩ n  đườ ng ru ộ t khác và m ộ t s ố  lo ạ i vi khu ẩ n khác.  2.2. Y ế u t ố  nguy c ơ   Nhi ễ m trùng da kéo dài, b ệ nh ti ể u  đườ ng không  đượ c ki ể m soát, máu l ư u thông  kém (x ơ  c ứ ng  độ ng m ạ ch), các y ế u t ố  nguy c ơ  cho máu l ư u thông kém (huy ế t áp cao,  hút thu ố c lá, cholesterol máu cao và b ệ nh ti ể u  đườ ng), suy gi ả m mi ễ n d ị ch, kh ớ p gi ả ,  vi ệ c s ử  d ụ ng thu ố c tiêm t ĩ nh m ạ ch, ung th ư .  
-
- 2.3. Phân lo ạ i  −   Viêm x ươ ng t ủ y c ấ p tính: t ừ   đườ ng máu và t ừ   đườ ng k ế  c ậ n.  −   Viêm x ươ ng t ủ y m ạ n tính: x ả y ra sau viêm x ươ ng t ủ y c ấ p tính  đườ ng máu.  
-
- 3. TRI Ệ U CH Ứ NG - CH Ẩ N  Đ OÁN 
-
- 3.1. Lâm sàng  −   Viêm x ươ ng t ủ y  đườ ng máu:  bi ể u hi ệ n h ộ i ch ứ ng viêm (s ố t, rét run, m ệ t  m ỏ i…). Bi ể u hi ệ n  đ au không rõ ràng, th ườ ng ch ỉ  th ấ y h ơ i s ư ng n ề  t ạ i vùng  đ au. Mu ộ n  h ơ n th ấ y có kh ố i s ư ng, nóng,  đỏ ,  đ au rõ, gi ố ng nh ư  m ộ t viêm c ơ , vùng kh ớ p lân c ậ n  s ư ng n ề . Ch ọ c dò có th ể  th ấ y m ủ , nuôi c ấ y vi khu ẩ n th ấ y  đ a s ố  là t ụ  c ầ u vàng.   −   Viêm x ươ ng t ủ y  đườ ng k ế  c ậ n:  sau m ổ , sau g ẫ y x ươ ng h ở ... t ừ  ngày th ứ  4, 5  tr ở   đ i, b ệ nh nhân ti ế p t ụ c s ố t cao, rét run.   Đ au nh ứ c t ạ i  ổ  g ẫ y ho ặ c t ạ i v ế t th ươ ng,  đ au  ngày càng t ă ng. C ă ng n ề , t ấ y  đỏ  lan t ỏ a t ạ i v ế t th ươ ng hay v ế t m ổ , ch ả y m ủ  th ố i qua v ế t  th ươ ng, v ế t m ổ .   −   Viêm x ươ ng t ủ y m ạ n tính:  x ả y ra sau viêm x ươ ng t ủ y c ấ p không  đượ c  đ i ề u tr ị   tri ệ t  để , b ệ nh tái phát t ừ ng  đợ t v ớ i  đặ c tr ư ng là l ỗ  dò và x ươ ng ch ế t.    H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  103 3.2. C ậ n lâm sàng  −   Xét nghi ệ m máu:  Trong viêm x ươ ng t ủ y c ấ p th ườ ng có t ă ng b ạ ch c ầ u (viêm  x ươ ng t ủ y m ạ n tính b ạ ch c ầ u máu th ườ ng bình th ườ ng). T ố c  độ  máu l ắ ng và protein C  ph ả n  ứ ng (CRP) th ườ ng t ă ng cao.     −   Xquang:  Hình  ả nh h ủ y x ươ ng và ph ả n  ứ ng màng x ươ ng. T ổ n th ươ ng trên  Xquang th ườ ng ch ỉ  rõ khi nhi ễ m trùng  đ ã có t ừ  10-14 ngày. Xquang bình th ườ ng   không lo ạ i tr ừ  ch ẩ n  đ oán viêm t ủ y x ươ ng.  −   X ạ  hình x ươ ng:  Có ích trong ch ẩ n  đ oán s ớ m viêm x ươ ng t ủ y c ấ p. Th ườ ng làm  x ạ  hình x ươ ng ba pha. Thu ố c s ử  d ụ ng là Technecium-99,  đượ c tích l ũ y trong v ị  trí gia  t ă ng l ư u l ượ ng máu và hình thành x ươ ng ph ả n  ứ ng.   −   Ch ụ p c ắ t l ớ p vi tính (CT scan) và ch ụ p c ộ ng h ưở ng t ừ  (MRI)  r ấ t có giá tr ị   trong ch ẩ n  đ oán và  đ ánh giá c ủ a viêm t ủ y x ươ ng.    −   Đị nh danh vi khu ẩ n:   +   Sinh thi ế t mô x ươ ng viêm là tiêu chu ẩ n vàng  để  ch ẩ n  đ oán viêm t ủ y x ươ ng và  để  l ự a ch ọ n m ộ t lo ạ i kháng sinh phù h ợ p.   +   C ầ n thi ế t ph ả i c ấ y máu, c ấ y m ủ  ho ặ c các v ậ t c ấ y ghép vào c ơ  th ể  và c ầ n nuôi  c ấ y trên môi tr ườ ng k ỵ  khí.  
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c chung  Ch ẩ n  đ oán b ệ nh s ớ m, dùng kháng sinh (li ề u cao,  đườ ng t ĩ nh m ạ ch, k ế t h ợ p kháng  sinh, kéo dài ít nh ấ t 6 tu ầ n), c ầ n c ấ y máu ho ặ c mô  để   đị nh danh vi khu ẩ n tr ướ c khi dùng  kháng sinh, d ẫ n l ư u m ủ  và t ổ  ch ứ c ho ạ i t ử , lo ạ i b ỏ  các v ậ t c ấ y ghép vào c ơ  th ể .  4.2.  Đ i ề u tr ị  c ụ  th ể   −   Kháng sinh:   +   Giai  đ o ạ n  đầ u: L ự a ch ọ n kháng sinh d ự a theo kinh nghi ệ m.  Staphylococcus aureus  (nguyên nhân hàng  đầ u):  T ụ  c ầ u nh ạ y c ả m v ớ i methicillin (MSSA): nafcillin ho ặ c oxacillin 2g tiêm m ạ ch  m ỗ i 6 gi ờ  1 l ầ n (8g/ngày).  T ụ  c ầ u kháng methicillin (MRSA): vancomycin 1g tiêm m ạ ch m ỗ i 12 gi ờ , ho ặ c  daptomycin 4-6 mg/kg cân n ặ ng  đườ ng TM 1 l ầ n/ngày, ho ặ c teicoplanin 6mg/kg  1l ầ n/ngàytrong nh ữ ng ngày  đầ u, sau  đ ó gi ả m còn 3mg/kg TM ho ặ c tiêm b ắ p; ho ặ c  linezolid 600mg m ỗ i 12 gi ờ  tiêm m ạ ch, ho ặ c u ố ng rifampicin 300mg u ố ng 2 l ầ n/ngày.  N ế u d ị   ứ ng ho ặ c không  đ áp  ứ ng các kháng sinh trên: clindamycin 6mg/kg 600- 900mg tiêm m ạ ch m ỗ i 8 gi ờ , ho ặ c levofloxacin 750mg u ố ng m ỗ i 24 gi ờ  ± rifampicin  300mg u ố ng 2 l ầ n/ngày, ho ặ c acid fusidic 500mg tiêm m ạ ch m ỗ i 8 gi ờ  k ế t h ợ p v ớ i  rifampicin 300mg u ố ng 2 l ầ n/ngày.  104 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-Tr ườ ng h ợ p do tr ự c khu ẩ n m ủ  xanh ( P.aegurinosa) : ph ố i h ợ p kháng sinh nhóm  aminoglycosid v ớ i ceftazidim 1g m ỗ i 8 gi ờ  (ho ặ c v ớ i mezlocillin 3g t ĩ nh m ạ ch m ỗ i 4  gi ờ ). Th ờ i gian dùng trong kho ả ng 2 tu ầ n, sau  đ ó dùng kháng sinh nhóm fluoroquinolon  nh ư  ciprofloxacin 500 mg u ố ng 2 l ầ n /ngày  đơ n  độ c ho ặ c ph ố i h ợ p v ớ i ceftazidim.  Tr ườ ng h ợ p nhi ễ m nhi ề u vi khu ẩ n ( S.aureus , vi trùng Gram âm,  P.aeruginosa )  hay g ặ p trong viêm x ươ ng dài sau  đ óng  đ inh n ộ i t ủ y:   vancomycin 1g TM m ỗ i 12 gi ờ  +  ceftazidim (ho ặ c cefepim). Ho ặ c thay th ế  b ằ ng linezolid 600mg TM ho ặ c u ố ng 2  l ầ n/ngày + ceftazidim (ho ặ c cefepim).  Ph ầ n l ớ n các nhi ễ m vi khu ẩ n gram âm  đườ ng ru ộ t: kháng sinh cephalosporin th ế   h ệ  3 ho ặ c 4  đườ ng TM trong 3-4 tu ầ n, ho ặ c thu ố c nhóm fluoroquinolon nh ư   levofloxacin 500mg  đườ ng t ĩ nh m ạ ch ho ặ c u ố ng m ỗ i 24 gi ờ .  L ư u ý:   +   Tr ườ ng h ợ p viêm x ươ ng m ạ n tính, viêm x ươ ng trên c ơ   đị a  đ ái tháo  đườ ng:  c ầ n thi ế t có b ằ ng ch ứ ng c ủ a vi khu ẩ n h ọ c và kháng sinh  đồ   để   đ i ề u tr ị .  +   Giai  đ o ạ n sau: Tùy theo   đ áp  ứ ng lâm sàng và k ế t qu ả  kháng sinh  đồ .  Các bi ệ n pháp ph ố i h ợ p:  −   B ấ t  độ ng: Bó b ộ t  đượ c ch ỉ   đị nh r ộ ng rãi cho m ọ i tr ườ ng h ợ p viêm x ươ ng t ủ y c ấ p  tính, nh ằ m phòng g ẫ y x ươ ng b ệ nh lý và giúp cho quá trình ch ố ng  đỡ  c ủ a c ơ  th ể  t ố t h ơ n.  −   Dinh d ưỡ ng:  Đả m b ả o ch ế   độ   ă n u ố ng  đủ  ch ấ t dinh d ưỡ ng.  −   Ph ẫ u thu ậ t: R ạ ch r ộ ng tháo m ủ , lo ạ i b ỏ  ho ạ i t ử . Ti ế n hành  đụ c x ươ ng  đế n t ậ n  x ươ ng lành (ch ỗ  x ươ ng có r ỉ  máu). Tháo b ỏ  các v ậ t c ấ y ghép ho ặ c th ậ m chí ph ả i c ắ t b ỏ   chi  để  ng ă n ch ặ n nhi ễ m trùng lan r ộ ng thêm. Có th ể  truy ề n kháng sinh t ạ i ch ỗ . L ấ p  đầ y  ổ  khuy ế t x ươ ng là  đ i ề u c ầ n thi ế t và b ắ t bu ộ c trong ph ẫ u thu ậ t  đ i ề u tr ị  viêm x ươ ng.   5. D Ự  PHÒNG  Viêm x ươ ng t ủ y n ế u không  đ i ề u tr ị  k ị p th ờ i ho ặ c  đ i ề u tr ị  không  đầ y  đủ  s ẽ  ti ế n  tri ể n thành m ạ n tính r ấ t khó  đ i ề u tr ị  d ứ t b ệ nh. Vì v ậ y nh ằ m phòng ch ố ng viêm x ươ ng  t ủ y, vi ệ c qu ả n lý thích h ợ p các v ế t th ươ ng và ch ă m sóc y t ế  k ị p th ờ i các b ệ nh nhi ễ m  trùng là r ấ t c ầ n thi ế t và c ầ n  đượ c tuân th ủ  nghiêm ng ặ t.    TÀI LI Ệ U THAM KH Ả O  1.   Chihara S, Segreti J (2010),”  Osteomy elitis” . Dis Mon . ;  56(1):5-31.  2.   Calhoun JH, Manring MM (2005), “ Adult osteomyelitis” . Infect Dis Clin North  Am. ;19(4):765–86. 3.   Aloui N, Nessib N, Jalel C, et al. (2004 ), “Acute osteomyelitis in children:  early MRI diagnosis” . J Radiol .  Apr ;85(4 Pt 1):403-8.  4.   Joseph M. Fritz, Jay R. Mc Donald  (2008), “ Osteomyelitis: Aproach to  Diagnosis and Treatment” . Phys Sportsmed.; 36(1): nihpa 116823.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  105  
-
-CH Ẩ N  Đ OÁN -  Đ I Ề U TR Ị  NHI Ễ M KHU Ẩ N DA VÀ MÔ M Ề M  1.  ĐỊ NH NGH Ĩ A VÀ PHÂN LO Ạ I  −   Nhi ễ m trùng da và mô m ề m là tình tr ạ ng viêm c ấ p tính c ủ a da và mô m ề m  th ườ ng do các vi khu ẩ n ký sinh trên da nh ư  t ụ  c ầ u, liên c ầ u,… gây ra khi có các y ế u t ố   thu ậ n l ợ i v ớ i các  đặ c  đ i ể m s ư ng nóng  đỏ   đ au vùng da và ph ầ n m ề m b ị  t ổ n th ươ ng.  −   Phân lo ạ i theo Hi ệ p h ộ i b ệ nh truy ề n nhi ễ m Hoa K ỳ  (IDSA) g ồ m n ă m lo ạ i:   +   Nhi ễ m trùng b ề  m ặ t da.  +   Nhi ễ m trùng  đơ n gi ả n: ch ố c, viêm qu ầ ng, viêm mô t ế  bào.  +   Nhi ễ m trùng ho ạ i t ử .  +   Nhi ễ m trùng liên quan  đế n v ế t c ắ n c ủ a thú v ậ t.  +   Nhi ễ m trùng liên quan  đế n ph ẫ u thu ậ t và suy gi ả m mi ễ n d ị ch.  2. NGUYÊN NHÂN  M ộ t s ố  tác nhân gây b ệ nh theo c ấ u trúc da và mô m ề m:  C ấ u trúc gi ả i ph ẫ u  Lo ạ i nhi ễ m khu ẩ n  Tác nhân gây b ệ nh  Th ượ ng bì  Thu ỷ   đậ u, s ở i  Varicella zoster virus, Measles virus  Microsporum  L ớ p keratin  N ấ m da  Epidermophyton  Trichophyton   Strep pyogenes  Bi ể u bì  Ch ố c, loét  Staphylococus aureus   H ạ  bì  Viêm qu ầ ng  Strep pyogenes  Nang lông  Viêm nang lông, m ụ n nh ọ t  Staphylococus aureus  Tuy ế n bã  M ụ n tr ứ ng cá  Prop ion i bacterium acnes  Mô m ỡ  d ướ i da  Viêm mô t ế  bào  Liên c ầ u tan huy ế t nhóm  β   Cân m ạ c  Viêm ho ạ i t ử  cân m ạ c  S.pyogenes và vi khuân y ế m khí  L ớ p c ơ   Viêm c ơ  và ho ạ i t ử  c ơ   S.aureus và C.perfringens  3.  ĐƯỜ NG XÂM NH Ậ P C Ủ A VI KHU Ẩ N  −   Nhi ễ m trùng th ườ ng theo sau m ộ t t ổ n th ươ ng da: v ế t th ươ ng da (gi ậ p, n ứ t,  rách,  đ âm xuyên, côn trùng hay thú v ậ t c ắ n,…), v ế t th ươ ng ph ẫ u thu ậ t (kim tiêm, v ế t  m ổ  hay th ủ  thu ậ t nh ư  thông ti ể u, các v ậ t li ệ u thay th ế ), ho ặ c không phát hi ệ n  đượ c t ổ n  th ươ ng ban  đầ u.  106 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Đ i ề u ki ệ n thu ậ n l ợ i t ạ i ch ỗ   là tình tr ạ ng h ă m do  ẩ m  ướ t, n ấ m da, viêm t ắ c t ĩ nh  m ạ ch hay b ạ ch huy ế t, loét tì dè, béo phì.  −   Đ i ề u ki ệ n thu ậ n l ợ i toàn thân là c ơ   đị a d ễ  b ị  nhi ễ m khu ẩ n nh ư   đ ái tháo  đườ ng,  nhi ễ m HIV, các b ệ nh lý t ự  mi ễ n, b ệ nh ác tính, ng ườ i già, tình tr ạ ng suy ki ệ t  ho ặ c s ử   d ụ ng kéo dài m ộ t s ố  thu ố c nh ư  glucocorticoid, methotrexate, và các thu ố c  ứ c ch ế  mi ễ n  d ị ch khác… 
-
- 4. CH Ẩ N  Đ OÁN 
-
- 4.1. Lâm sàng  −   Tri ệ u ch ứ ng t ạ i ch ỗ :   +   Nh ẹ : nh ọ t, m ụ n m ủ , b ọ ng n ướ c, m ả ng h ồ ng ban, sau  đ ó  đ óng v ẩ y, di ễ n ti ế n ly tâm.  +   T ổ n th ươ ng sâu h ơ n (viêm mô t ế  bào, ho ạ i t ử  m ạ c-c ơ ) s ư ng, nóng,  đỏ ,  đ au, b ề   m ặ t da gi ố ng nh ư  v ỏ  cam, ranh gi ớ i gi ữ a vùng da b ệ nh và lành không rõ.  +   B ọ ng n ướ c, xu ấ t huy ế t d ạ ng  đ i ể m ho ặ c m ả ng, v ỡ  ra làm cho nhi ễ m trùng càng  lan r ộ ng và sâu h ơ n.  −   H ạ ch vùng da t ổ n th ươ ng có th ể  có ho ặ c không.  −   Tri ệ u ch ứ ng toàn thân: s ố t cao, rét run, m ệ t m ỏ i, xanh xao, g ầ y sút, chán  ă n.  −   D ấ u hi ệ u n ặ ng:   +   Huy ế t áp tâm thu < 90mmHg  +   M ạ ch > 100 l ầ n/phút ho ặ c < 60 l ầ n/phút  0 0 +   Nhi ệ t  độ  > 39 C ho ặ c < 36,5 C  −   Phân  độ : (Eron)  Độ   D ấ u hi ệ u toàn thân  B ệ nh kèm  I  (-)  (-)  II  (+/-)  (+/-)  D ấ u hi ệ u nhi ễ m  độ c và tri ệ u ch ứ ng toàn thân (s ố t,  III  (+/-)  m ạ ch nhanh, HA t ụ t, th ở  nhanh)  H ộ i ch ứ ng nhi ễ m trùng nhi ễ m  độ c n ặ ng  đ e d ọ a tính  IV  (+/-)  m ạ ng (S ố c, tru ỵ  tim m ạ ch, nhi ễ m toan, suy hô h ấ p,…)  4.2. C ậ n lâm sàng  −   T ế  bào máu ngo ạ i vi: t ă ng s ố  l ượ ng b ạ ch c ầ u,  đặ c bi ệ t là b ạ ch c ầ u  đ a nhân.  −   T ă ng t ố c  độ  l ắ ng máu.   −   T ă ng n ồ ng  độ  protein C ph ả n  ứ ng huy ế t thanh (CRP).  −   C ấ y máu  đị nh danh vi khu ẩ n: có th ể  d ươ ng tính.  −   Siêu âm, CT-scanner, MRI: có th ể  th ấ y hình  ả nh viêm - ápxe t ổ  ch ứ c d ướ i da  và mô m ề m, c ơ . Ngoài ra MRI còn giúp ch ẩ n  đ oán phân bi ệ t gi ữ a viêm x ươ ng tu ỷ  v ớ i  ho ạ i t ử  c ơ  do vi khu ẩ n k ỵ  khí.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  107  
-
-−   Vi trùng h ọ c: soi t ươ i, nuôi c ấ y, kháng sinh  đồ  c ủ a các lo ạ i b ệ nh ph ẩ m nh ư   máu và d ị ch ti ế t ho ặ c m ủ  t ạ i v ị  trí sang th ươ ng.  4.3. Ch ẩ n  đ oán xác  đị nh  Tiêu chu ẩ n vàng cho ch ẩ n  đ oán xác  đị nh là phân l ậ p  đượ c vi khu ẩ n gây b ệ nh,  nh ư ng trong th ự c t ế  ch ỉ  có kho ả ng 5% tr ườ ng h ợ p c ấ y máu cho k ế t qu ả  (+), và 20-30%   t ừ  d ị ch v ế t th ươ ng.  Ch ẩ n  đ oán th ườ ng  đượ c xác l ậ p d ự a trên b ệ nh c ả nh lâm sàng v ớ i các d ấ u hi ệ u t ạ i  ch ỗ , toàn thân k ế t h ợ p v ớ i c ậ n lâm sàng và hình  ả nh h ọ c. 
-
- 4.4. Ch ẩ n  đ oán phân bi ệ t  −   Ung th ư  di c ă n da.  −   Viêm da c ơ  t ự  mi ễ n.  −   Tình tr ạ ng phù n ề  ph ầ n m ề m c ạ nh kh ớ p trong gout c ấ p.   
-
- 5.  Đ I Ề U TR Ị  
-
- 5.1. Nguyên t ắ c  đ i ề u tr ị    Lo ạ i b ỏ  tình tr ạ ng nhi ễ m trùng b ằ ng kháng sinh phù h ợ p và ch ă m sóc  v ế t th ươ ng.  Phòng ng ừ a tình tr ạ ng nhi ễ m trùng lan r ộ ng.  −   Kháng sinh:  Kháng sinh nên  đ i ề u tr ị  ngay tr ướ c khi có k ế t qu ả  kháng sinh  đồ , có th ể  d ự a trên  phân  độ  Eron:  +   Độ  I: kháng sinh  đườ ng u ố ng: dicloxacillin, erythromycin, cephalexin,  augmentin, clindamycin.  +   Độ   II và  độ  III: kháng sinh  đườ ng toàn thân:  nafcillin ho ặ c oxacillin   (1-2g/4h/ngày); clindamycin (600mg/8h/ngày), vancomycin (30mg/kg chia 2 l ầ n/ngày).  MRSA: vancomycin, linezolid, daptomycin.  +   Độ  III-IV: ph ố i h ợ p các kháng sinh, ho ặ c v ớ i meropenem, ertapenem, imipenem.  +   Đ ánh giá  đ áp  ứ ng lâm sàng sau 48-72 gi ờ , sau  đ ó  đ i ề u ch ỉ nh kháng sinh theo  kháng sinh  đồ .   −   Đ i ề u tr ị  h ỗ  tr ợ :  +   Gi ả m  đ au: paracetamol, codein, tramadol…  +   Kháng viêm không steroid khi c ầ n.  +   T ạ i ch ỗ : thay b ă ng hay ch ă m sóc v ế t th ươ ng, ph ẫ u thu ậ t c ắ t l ọ c hay d ẫ n l ư u  m ủ  khi c ầ n.  +   Toàn thân: nâng t ổ ng tr ạ ng,  đ i ề u ch ỉ nh n ướ c -  đ i ệ n gi ả i, bù protein, albumin,  huy ế t t ươ ng, máu khi c ầ n.  108 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  5.2. Theo dõi  −   Theo dõi các d ấ u hi ệ u sinh t ồ n, các tri ệ u ch ứ ng toàn thân, tri ệ u ch ứ ng t ạ i ch ỗ   để  phát hi ệ n di ễ n bi ế n chuy ể n  độ  n ặ ng  đ òi h ỏ i thay  đổ i chi ế n thu ậ t  đ i ề u  tr ị  phù h ợ p và  k ị p th ờ i.  SƠ ĐƠ ĐIƠU TRƠ    NHI Ễ M TRÙNG DA-MÔ M Ề M    D Ấ U HI Ệ U TOÀN THÂN           ERON I  ERON II  ERON III-IV      N Ộ I TRÚ    NGO Ạ I TRÚ  H Ồ I S Ứ C      Đ i ề u tr ị  h ỗ  tr ợ :    -  Gi ả m  đ au  KS (tiêm)  KS (u ố ng):   -  KVKS  Nafcillin  Dicloxacillin,  KS ph ố i h ợ p (tiêm)  -  T ạ i ch ỗ : thay b ă ng,  ho ặ c  Erythromycin Meropenem  c ắ t l ọ c, d ẫ n l ư u,..  Oxacillin  Cephalexin  Clindamycin  Ertapenem  Augmentin  -  Nâng t ổ ng tr ạ ng,  Vancomycin    Imirenem  Clindamycin  đ i ệ n gi ả i    Linezolid  H ồ i s ứ c tích c ự c  -   Đ i ề u tr ị  b ệ nh  đ i kèm    Daptomycin .  Đ i ề u tr ị  h ỗ  tr ợ         Sau  48-72gi ờ      
-
-   Đ ánh giá l ạ i lâm sàng, c ậ n lâm sàng 
-
-   Đ i ề u ch ỉ nh KS theo k ế t qu ả  kháng sinh  đồ  (n ế u c ầ n) 
-
-   KS: Kháng sinh  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  109  
-
-−   Theo dõi ch ứ c n ă ng gan, th ậ n và bilan viêm (t ế  bào máu ngo ạ i vi, t ố c  độ  l ắ ng  máu, CRP) th ườ ng xuyên.   −   Th ờ i gian  đ i ề u tr ị  tu ỳ  d ạ ng lâm sàng, có th ể  kéo dài 4-6 tu ầ n.  −   Có th ể  chuy ể n sang kháng sinh  đườ ng u ố ng khi lâm sàng  ổ n  đị nh sau 10-14  ngày.  Đ i ề u ki ệ n là ph ả i phù h ợ p kháng sinh  đồ  và ki ể m soát t ố t tình tr ạ ng nhi ễ m trùng,  các b ệ nh  đ i kèm  ổ n  đị nh.    TÀI LI Ệ U THAM KH Ả O  1.   Barr Walter G. 2009. “ Mycobacterial infections of bones and joints” . Kelley’s  textbook of rheumatology.chap 101.   2.   Bhattacharya Roby P. SIMMONS Rachel P. and Basgoz. 2011. “ Infectious  diseases. Pocket medicine 4 th” .  The handbook general hospital handbook of  Internal medicine. P. 6-16.  3.   Eron Lawrence J. , Laine Christine ed al (2008), “ Cellulitis and soft tissues  infections” . Annals of Internal medicine.  4.   Ghafur Abdul, Shareek PS, Chenai (2012), “ Skin and soft tissue infection ”  Medicine up date. Vol 22. P. 60-66.  5.   Hagan Jose E. Babcock Hilaty M. and Kimani Nigar, (2010), “ Treatment of  rd infection diseases ”. The Washington manual of medical therapeutics 33   edition. P. 444.                  110 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-H Ồ NG BAN NÚT 
-
- 1.  ĐẠ I C ƯƠ NG   H ồ ng ban nút (Erythema nodosum) là tình tr ạ ng viêm c ủ a các t ế  bào m ỡ  d ướ i da 
-
- (panniculitis) bi ể u hi ệ n d ướ i d ạ ng s ẩ n ho ặ c u c ụ c nh ỏ  màu  đỏ , th ườ ng g ặ p nh ấ t  ở  hai  c ẳ ng chân. C ơ  ch ế  b ệ nh sinh ch ư a bi ế t rõ, th ườ ng x ả y ra  ở  ng ườ i mang gen HLA B8  (80%) và 6% có tính ch ấ t gia  đ ình.  Đ ây  đượ c coi là s ự   đ áp  ứ ng mi ễ n d ị ch v ớ i các  nguyên nhân khác nhau (tình tr ạ ng nhi ễ m khu ẩ n, s ử  d ụ ng m ộ t s ố  thu ố c) ho ặ c có th ể  là  tri ệ u ch ứ ng c ủ a m ộ t s ố  b ệ nh h ệ  th ố ng,  đ ôi khi có th ể  không rõ nguyên nhân.  Ở  Vi ệ t  Nam, nguyên nhân th ườ ng g ặ p nh ấ t là lao và nhi ễ m liên c ầ u khu ẩ n tan huy ế t và  đ i ề u tr ị   nguyên nhân khi ế n b ệ nh kh ỏ i hoàn toàn. B ệ nh g ặ p  ở  n ữ  nhi ề u h ơ n nam, t ỷ  l ệ  3-7 n ữ /1  nam,  ở  b ấ t k ỳ  l ứ a tu ổ i nào song th ườ ng g ặ p nh ấ t  ở  l ứ a tu ổ i t ừ  20  đế n 40.   2. NGUYÊN NHÂN  Có kho ả ng 25-50% tr ườ ng h ợ p không tìm th ấ y nguyên nhân. S ố  còn l ạ i do hai  nhóm nguyên nhân chính: b ệ nh lý nhi ễ m trùng, viêm.     −   Trong s ố  các nhi ễ m trùng  ở  Vi ệ t Nam, nguyên nhân th ườ ng g ặ p nh ấ t là lao và  nhi ễ m liên c ầ u. Ngoài ra có th ể  g ặ p nhi ễ m  Yersinia, Chlamydia, Salmonela ; viêm gan  virus A,B,C;  Brucelose ho ặ c Mycobacterium leprae  (B ệ nh phong).  −   B ệ nh viêm: sarcoidose, b ệ nh Behcet; viêm  đạ i tr ự c tràng ch ả y máu và b ệ nh  Crohn  −   Nguyên nhân khác do thu ố c (sulfamid, thu ố c ch ố ng viêm không steroid, d ẫ n  xu ấ t iod, thu ố c tránh thai), tình tr ạ ng mang thai... 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Lâm sàng  H ồ ng ban nút: ban màu  đỏ , d ạ ng u c ụ c, s ẩ n c ứ ng.  −   Hình thái h ồ ng ban nút: nh ữ ng u c ụ c có th ể  nhìn ho ặ c s ờ  th ấ y  ở  d ướ i da, hình  tròn ho ặ c ovan; kích th ướ c có th ể  dao  độ ng t ừ  1-10 cm  đườ ng kính, th ườ ng g ặ p kho ả ng  1- 2 cm. S ẩ n c ụ c này r ắ n, ít di  độ ng, xung quanh các c ụ c s ư ng n ề .  Đ ôi khi nhi ề u s ẩ n c ụ c  k ế t h ợ p l ạ i thành m ộ t m ả ng l ớ n.   −   V ị  trí: m ặ t tr ướ c c ẳ ng chân, hai bên,  đố i x ứ ng. Các n ố t có th ể  x ả y ra b ấ t c ứ  n ơ i  nào có ch ấ t béo d ướ i da, bao g ồ m c ả   đ ùi, cánh tay, thân, m ặ t, song hi ế m g ặ p  ở  chi trên,  ở  m ặ t và vùng c ổ .  −   Ti ế n tri ể n: ban  đ a d ạ ng, tu ổ i khác nhau v ớ i màu s ắ c thay  đổ i nh ư   đ ám xu ấ t huy ế t  d ướ i da (chuy ể n thành màu tím h ơ i xanh, nâu, vàng nh ạ t, và cu ố i cùng là màu xanh lá  cây). Ban bi ế n m ấ t trong vòng t ừ  10-15 ngày, không  để  l ạ i s ẹ o hay di ch ứ ng teo da.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  111  
-
-−   Tri ệ u ch ứ ng ph ố i h ợ p:   H ồ ng ban nút ban  đỏ  th ườ ng xu ấ t hi ệ n cùng v ớ i các tri ệ u ch ứ ng t ươ ng t ự  nh ư  cúm,  s ố t và c ả m giác m ệ t m ỏ i.  Đ au kh ớ p, viêm màng ho ạ t d ị ch và c ả m giác c ứ ng kh ớ p, có  th ể  x ả y ra tr ướ c ho ặ c  đồ ng th ờ i v ớ i t ổ n th ươ ng da, và có th ể  kéo dài  đế n 6 tháng.  3.2. C ậ n lâm sàng  −   H ộ i ch ứ ng viêm: t ố c  độ  máu l ắ ng gi ờ   đầ u t ă ng, b ạ ch c ầ u  đ a nhân trung tính t ă ng.  −   Mô b ệ nh h ọ c: sinh thi ế t t ổ n th ươ ng da ch ỉ   đượ c ch ỉ   đị nh trong tr ườ ng h ợ p  không  đ i ể n hình. K ế t qu ả  cho th ấ y tình tr ạ ng viêm có vách c ủ a các t ế  bào m ỡ  d ướ i da  (panniculitis) c ấ p tính ho ặ c m ạ n tính t ạ i t ổ  ch ứ c m ỡ  và xung quanh các m ạ ch máu.   −   Các xét nghi ệ m tìm ki ế m nguyên nhân:  +   Phân l ậ p liên c ầ u khu ẩ n tan huy ế t beta t ừ  d ị ch l ấ y t ừ  h ọ ng, xét nghi ệ m ASLO.  +   Test Mantoux, Xquang ph ổ i ( đ ôi khi c ầ n ch ụ p CT ph ổ i) và phát hi ệ n tình tr ạ ng  nhi ễ m vi khu ẩ n BK khi n ộ i soi ph ế  qu ả n.  +   X quang ph ổ i: h ạ ch r ố n ph ổ i m ộ t bên th ườ ng g ặ p trong các b ệ nh nhi ễ m trùng  ho ặ c b ệ nh ác tính; h ạ ch r ố n ph ổ i  hai bên th ườ ng k ế t h ợ p v ớ i sarcoidosis.  3.3. Ch ẩ n  đ oán xác  đị nh   −   Th ể   đ i ể n hình: h ồ ng ban nút bi ể u hi ệ n rõ, d ễ  dàng phát hi ệ n, kèm theo  b ệ nh  nhân có s ố t,  đ au kh ớ p.   −   Th ể  không  đ i ể n hình: Sinh thi ế t t ổ n th ươ ng da.   3.4. Ch ẩ n  đ oán phân bi ệ t  Phân bi ệ t các ban trong viêm da bán c ấ p ho ặ c m ạ n tính. Giai  đ o ạ n  đầ u c ầ n phân  bi ệ t: Viêm qu ầ ng (erysipèle), v ế t côn trùng c ắ n, s ẩ n mày  đ ay c ấ p tính, viêm t ắ c t ĩ nh  m ạ ch nông, viêm t ắ c t ĩ nh m ạ ch d ạ ng n ố t. Giai  đ o ạ n ti ế n tri ể n c ầ n phân bi ệ t v ớ i viêm nút  quanh  độ ng m ạ ch; viêm m ạ ch ho ạ i t ử ... 
-
- 4.  Đ I Ề U TR Ị   H ồ ng ban nút th ườ ng t ự  bi ế n m ấ t trong vòng 3-6 tu ầ n. C ầ n  đ i ề u tr ị  nguyên nhân 
-
- (lao, liên c ầ u) n ế u phát hi ệ n  đượ c nguyên nhân. Thalidomid  đượ c ch ỉ   đị nh trong tr ườ ng  h ợ p h ồ ng ban nút do  Mycobacterium leprae  (b ệ nh phong).  Đ i ề u tr ị  tri ệ u ch ứ ng bao g ồ m  các bi ệ n pháp d ướ i  đ ây.   −   Ngh ỉ  t ạ i gi ườ ng, nâng cao chân, s ử  d ụ ng t ấ t  đ àn h ồ i nh ư  trong  đ i ề u tr ị  giãn t ĩ nh  m ạ ch chi d ướ i có th ể  c ả i thi ệ n tri ệ u ch ứ ng phù chân.  −   Thu ố c ch ố ng viêm không steroid, thu ố c gi ả m  đ au (n ế u c ầ n).  −   Corticosteroid: li ề u 40 mg m ỗ i ngày (ch ỉ   đị nh v ớ i th ể  không rõ nguyên nhân):  các n ố t h ồ ng ban m ấ t sau vài ngày. Tr ườ ng h ợ p h ồ ng ban kéo dài có th ể  tiêm  triamcinolone acetonide, v ớ i li ề u 5 mg/ml, tiêm tr ự c ti ế p vào trung tâm c ủ a các n ố t  h ồ ng ban.  112 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Colchicin: li ề u 0,6 mg  đế n 1,2 mg, hai l ầ n m ỗ i ngày, th ườ ng  đượ c ch ỉ   đị nh  trong tr ườ ng h ợ p h ồ ng ban nút do b ệ nh Be ς hcet.  −   Tr ườ ng h ợ p h ồ ng ban nút do nguyên nhân viêm  đạ i tr ự c tràng ch ả y máu hay  b ệ nh Crohn có th ể  ch ỉ   đị nh Hydroxychloroquin 200mg/ngày ho ặ c cyclosporin A, ho ặ c  các thu ố c sinh h ọ c (Infliximab, Rituximab...).  −   Thu ố c ch ố ng s ố t rét t ổ ng h ợ p: hydroxy chloroquine: 200 mg hai l ầ n m ỗ i ngày.   −   Mu ố i iod (iodure de potassium): có th ể  ch ỉ   đị nh trong tr ườ ng h ợ p t ổ n th ươ ng  kéo dài không rõ nguyên nhân (c ơ  ch ế  ch ư a rõ).  5. TI Ế N TRI Ể N VÀ BI Ế N CH Ứ NG  H ồ ng ban nút kh ỏ i t ự  nhiên t ừ  3-6 tu ầ n, tuy nhiên b ệ nh hay tái phát 3-4 l ầ n (12-14%)  n ế u không  đ i ề u tr ị  d ứ t  đ i ể m nguyên nhân gây b ệ nh.     TÀI LI Ệ UTHAM KH Ả O  1.   C. Longueville, V. Doffoel-Hantz, S. Hantz, N. Souyri, Y. Nouaille, C. Bédane,  A. Sparsa. (2012),  ‘ Erytheme noueux induit par le Gardasil’,  Rev Med Int  2012 ; 33 (3) e17-e18      2.   M. Mazouni. (2009), “ A propos de l’érythème noueux chez l’enfant  ’’,  Paediatrica 2009 ; 20 (2) 32-35  3.   S. Youssef, H. Hammami, S. Cheffaï, M.R. Dhaoui, K. Jaber, N. Doss. (2009),  ‘ Erytheme   noueux unilatéral associé à une leishmaniose cutanée homolatérale’ ,  Med Mal Infect 2009 ; 39 (9) 739-740.              H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  113  
-
-LO Ạ N D ƯỠ NG C Ơ  TI Ế N TRI Ể N 
-
- 1.  ĐẠ I C ƯƠ NG 
-
- 1.1.  Đị nh ngh ĩ a  −   Lo ạ n d ưỡ ng c ơ  ti ế n tri ể n (Progressive muscular dystrophies) là m ộ t nhóm b ệ nh  c ơ  vân thoái hóa ti ế n tri ể n do các b ấ t th ườ ng v ề  gen di truy ề n v ớ i các  đặ c  đ i ể m v ề  lâm  sàng và di truy ề n  đặ c tr ư ng.    −   B ệ nh  đượ c chia thành các th ể :  +   Lo ạ n d ưỡ ng c ơ  Duchenne.  +   Lo ạ n d ưỡ ng c ơ  Becker.  +   Lo ạ n d ưỡ ng c ơ  m ặ t - vai - cánh tay và m ộ t s ố  th ể  hi ế m g ặ p khác.  1.2. D ị ch t ễ  h ọ c  Tùy theo th ể , b ệ nh có th ể  g ặ p  ở  tr ẻ  em ho ặ c c ả  tr ẻ  em và ng ườ i l ớ n. Riêng lo ạ n  d ưỡ ng c ơ  Duchenne và b ẩ m sinh g ặ p  ở  tr ẻ  em d ướ i 5 tu ổ i và tr ẻ  s ơ  sinh ho ặ c nh ữ ng  tháng  đầ u sau  đẻ , lo ạ n d ưỡ ng c ơ  m ắ t và h ầ u h ọ ng g ặ p  ở  nh ữ ng ng ườ i 50-60 tu ổ i.  1.3. C ơ  ch ế  b ệ nh sinh  Do các b ấ t th ườ ng v ề  di truy ề n gây ra thi ế u h ụ t ho ặ c bi ế n  đổ i các protien c ấ u trúc  c ủ a t ế  bào c ơ . H ậ u qu ả  là làm r ố i lo ạ n quá trình phát tri ể n c ủ a c ơ  gây ra thoái hóa, teo  c ơ , gi ả m ho ặ c m ấ t ch ứ c n ă ng v ậ n  độ ng c ủ a c ơ .  
-
- 2. CH Ẩ N  Đ OÁN  
-
- 2.1. Ch ẩ n  đ oán xác  đị nh  Ch ẩ n  đ oán c ủ a ch ứ ng lo ạ n d ưỡ ng c ơ   đượ c d ự a trên tình tr ạ ng y ế u c ơ , teo c ơ , t ă ng  enzym c ơ  (creatine phosphokinase - CK), r ố i lo ạ n  đ i ệ n c ơ  có ngu ồ n g ố c c ơ , k ế t h ợ p v ớ i  k ế t qu ả  sinh thi ế t c ơ  và  phân tích DNA.  2.1.1. Lo ạ n d ưỡ ng c ơ  Duchenne  −   G ặ p ch ủ  y ế u  ở  nam.  −   Y ế u c ơ  xu ấ t hi ệ n s ớ m ngay sau  đẻ  ho ặ c tr ướ c 6 tu ổ i, y ế u c ơ  xu ấ t hi ệ n ban  đầ u  ở  các c ơ  mông, chi d ướ i sau  đ ó  ở  các c ơ  l ư ng, hô h ấ p, chi trên, t ổ n th ươ ng c ơ  g ố c chi  xu ấ t hi ệ n tr ướ c.  Ở  giai  đ o ạ n s ớ m có th ể  có phì  đạ i m ộ t s ố  c ơ  do xâm nh ậ p các t ổ  ch ứ c  m ỡ  thay vì các mô c ơ  ( đượ c g ọ i là teo c ơ  gi ả  phì  đạ i) - th ườ ng g ặ p nh ấ t  ở  các c ơ  c ẳ ng  chân. Ti ế p sau  đ ó là giai  đ o ạ n teo c ơ  ti ế n tri ể n. Th ườ ng không có teo  ở  c ơ  b ụ ng chân và  m ộ t s ố  tr ườ ng h ợ p c ơ  r ộ ng và c ơ  delta cánh tay.   −   Tr ẻ  th ườ ng y ế u, ch ậ m bi ế t  đ i, hay ngã.  114 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Bi ế n d ạ ng c ộ t s ố ng: gù v ẹ o, v ẹ o ho ặ c  ưỡ n c ộ t s ố ng.  −   Giai  đ o ạ n mu ộ n có teo c ơ  hô h ấ p, khó th ở , gi ả m ho ặ c m ấ t ph ả n x ạ  gân x ươ ng.  −   Có th ể  có b ệ nh lý c ơ  tim và thi ể u n ă ng trí tu ệ  kèm theo.  −   Xét nghi ệ m enzym c ơ  (CK) th ườ ng t ă ng cao.  −   Đ i ệ n c ơ  có các r ố i lo ạ n ngu ồ n g ố c c ơ .  −   Sinh thi ế t c ơ  nhu ộ m hóa mi ễ n d ị ch ho ặ c xét nghi ệ m ELISA không tìm th ấ y  dystrophin.  −   Xét nghi ệ m di truy ề n có b ấ t th ườ ng gen mã hóa dystrophin  2.1.2. Lo ạ n d ưỡ ng c ơ  Becker  −   G ặ p ch ủ  y ế u  ở  nam.  −   Các tri ệ u ch ứ ng y ế u c ơ , phì  đạ i và teo c ơ  gi ố ng nh ư  trong lo ạ n d ưỡ ng c ơ   Duchenne nh ư ng th ườ ng xu ấ t hi ệ n mu ộ n h ơ n kho ả ng t ừ  10 - 15 tu ổ i.  −   M ứ c  độ  t ổ n th ươ ng c ơ  nh ẹ  h ơ n so v ớ i lo ạ n d ưỡ ng c ơ  Duchenne.  −   Xét nghi ệ m enzym c ơ  (CK) bình th ườ ng ho ặ c t ă ng nh ẹ .  −   Đ i ệ n c ơ  có các r ố i lo ạ n ngu ồ n g ố c c ơ .  −   Th ườ ng không có thi ể u n ă ng trí tu ệ  kèm theo.  −   Sinh thi ế t c ơ  nhu ộ m hóa mi ễ n d ị ch th ấ y bi ế n  đổ i v ề  c ấ u trúc c ủ a dystrophin.  Có m ộ t s ố  tr ườ ng h ợ p cho k ế t qu ả  v ừ a có gi ả m s ố  l ượ ng và bi ế n  đổ i v ề  c ấ u trúc c ủ a  dystrophin  đượ c x ế p vào lo ạ n d ưỡ ng c ơ  th ể  trung gian gi ữ a Duchenne và Becker.  −   Xét nghi ệ m di truy ề n có b ấ t th ườ ng gen mã hóa dystrophin  2.1.3. Lo ạ n d ưỡ ng c ơ  m ặ t - vai - cánh tay  −   Tu ổ i b ị  b ệ nh th ườ ng là  ở  l ứ a tu ổ i thanh niên.  −   Y ế u c ơ  m ặ t bi ể u hi ệ n b ằ ng h ạ n ch ế  v ậ n  độ ng môi, môi h ơ i tr ễ  và cong ra  ngoài, m ắ t nh ắ m không kín, không làm  đượ c các  độ ng tác nh ư  huýt sáo, th ổ i bóng.  −   X ươ ng b ả  vai nhô lên trông nh ư  cánh gà. B ệ nh nhân không gi ơ  tay lên ngang  vai  đượ c m ặ c dù c ơ  delta không y ế u.  −   Đ ai vai có hình d ạ ng  đặ c tr ư ng, nhìn t ừ  phía tr ướ c x ươ ng  đ òn có v ẻ  xu ố ng  th ấ p,  đỉ nh x ươ ng b ả  vai nhô lên bên trên h ố  th ượ ng  đ òn.  −   Y ế u c ơ  g ố c chi  ở  chân, tay h ơ n là c ơ  mác và c ơ  chày tr ướ c.  −   B ệ nh có th ể  g ặ p  ở  nhi ề u thành viên trong m ộ t gia  đ ình, v ớ i các m ứ c  độ  khác  nhau t ừ  nh ẹ , ti ế n tri ể n ch ậ m  đế n n ặ ng d ẫ n  đế n tàn ph ế  cho ng ườ i b ệ nh.  −   Các tri ệ u ch ứ ng khác có th ể  g ặ p nh ư   đ i ế c, ch ậ m phát tri ể n trí tu ệ , li ệ t m ặ t hai  bên, b ệ nh m ạ ch máu võng m ạ c nh ư  dãn m ạ ch t ừ ng  đ i ể m và xu ấ t ti ế t võng m ạ c.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  115 2.2. Ch ẩ n  đ oán phân bi ệ t  Lo ạ n d ưỡ ng c ơ  c ầ n  đượ c ch ẩ n  đ oán phân bi ệ t v ớ i m ộ t s ố  tình tr ạ ng bình th ườ ng  ho ặ c b ệ nh lý sau: 
-
- 2.2.1. Ch ậ m phát tri ể n v ậ n  độ ng  ở  tr ẻ  em  −   Không có y ế u c ơ  b ấ t th ườ ng.  −   Các xét nghi ệ m enzym c ơ  (CK) bình th ườ ng.  −   Đ i ệ n c ơ  không có r ố i lo ạ n.  −   Sinh thi ế t c ơ  bình th ườ ng. 
-
- 2.2.2. Tr ườ ng h ợ p có y ế u c ơ  g ố c chi lan t ỏ a  C ầ n phân bi ệ t v ớ i viêm  đ a c ơ , viêm da c ơ ...  
-
- 2.2.3. Các b ệ nh lý c ơ  do nguyên nhân th ầ n kinh  −   D ự a vào các d ấ u hi ệ n v ề  th ầ n kinh.  −   Đ i ệ n c ơ  có t ổ n th ươ ng ngu ồ n g ố c th ầ n kinh.  −   Xét nghi ệ m enzym c ơ  (CK) không thay  đổ i.  −   Sinh thi ế t c ơ  bình th ườ ng. 
-
- 2.2.4. Các b ệ nh lý c ơ  nguyên nhân do thu ố c, chuy ể n hóa, n ộ i ti ế t   C ầ n khai thác k ỹ  ti ề n s ử  dùng thu ố c, c ă n c ứ  vào các tri ệ u ch ứ ng lâm sàng và xét  nghi ệ m c ủ a các b ệ nh này.  3.  Đ I Ề U TR Ị   −   Hi ệ n t ạ i không có ph ươ ng pháp  đ i ề u tr ị   đặ c hi ệ u lo ạ n d ưỡ ng c ơ  ti ế n tri ể n.  −   Các bi ệ n pháp  đ i ề u tr ị  ch ủ  y ế u  để  h ạ n ch ế  các bi ế n ch ứ ng có th ể  x ả y ra do tình  tr ạ ng y ế u c ơ  ti ế n tri ể n, suy hô h ấ p, r ố i lo ạ n tim m ạ ch.  3.1. Các bi ệ n pháp không dùng thu ố c  −   Không nên ngh ỉ  ng ơ i t ạ i gi ườ ng trong th ờ i gian dài. Khuy ế n khích ng ườ i b ệ nh  duy trì các ho ạ t  độ ng trong sinh ho ạ t hàng ngày. B ơ i là m ộ t trong nh ữ ng bi ệ n pháp t ố t  (n ế u có  đ i ề u ki ệ n).  −   C ầ n khuy ế n khích b ệ nh nhân t ậ p th ở . Hô h ấ p h ỗ  tr ợ  khi có t ổ n th ươ ng c ơ  hô h ấ p.   −   V ậ t lý tr ị  li ệ u b ằ ng kích thích  đ i ệ n.  −   C ầ n có ch ế   độ  dinh d ưỡ ng giàu protein nh ư  th ị t n ạ c, h ả i s ả n,  đậ u. Nên t ă ng  c ườ ng s ử  d ụ ng d ầ u ô liu, ch ấ t ch ố ng oxy hóa. Gi ả m l ượ ng th ự c ph ẩ m ch ế  bi ế n, ch ấ t  béo, và cafein và các  đồ  u ố ng có c ồ n ...  116 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-3.2. Các thu ố c  đ i ề u tr ị   −   Corticosteroid: prednisolone  đườ ng u ố ng b ắ t  đầ u v ớ i li ề u 0,75 mg/kg/ngày, sau  đ ó gi ả m li ề u d ầ n. Thu ố c có tác d ụ ng làm ch ậ m quá trình ti ế n tri ể n b ệ nh nh ư ng không  ng ă n ch ặ n  đượ c hoàn toàn. Th ờ i gian dùng corticoid có th ể  kéo dài trong nhi ề u n ă m.  −   Đ i ề u tr ị  bi ế n ch ứ ng nhi ễ m trùng hô h ấ p, suy hô h ấ p, r ố i lo ạ n tim m ạ ch n ế u có.  −   Đ i ề u tr ị  thay th ế  ho ặ c c ấ y ghép gen, t ế  bào g ố c hi ệ n  đ ang  đượ c nghiên c ứ u.    TÀI LI Ệ U THAM KH Ả O  1.   Nguy ễ n Th ị  Ng ọ c Lan và CS (2011), “ B ệ nh h ọ c c ơ  x ươ ng kh ớ p n ộ i khoa” .  NXB Giáo d ụ c Vi ệ t Nam.  2.   Dalakas, M.C.,  “Polymyositis, Dermatomyositis, and Inclusion Body  3.   Myositis” , in Harrison's Principles of Internal Medicine. Fauci, A.S., et al.,  Editors. 2008, McGraw-Hill  4.   McPhee, S.J., M.A. Papadakis, “ Current Medical Diagnosis & Treatment” .  50th ed. 2011: McGraw-Hill.  5.   Ropper, A.H., Samuels, M.A., “ The Muscular Dystrophies, in Adams and  6.   Victor's Principles of Neurology”.  Ropper, A.H., Samuels,  M.A ., Editors 9th  ed.2008: McGraw-Hill.      H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  117  
-
-CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  NH ƯỢ C C Ơ   1.  ĐẠ I C ƯƠ NG   Nh ượ c c ơ  là m ộ t b ệ nh v ề  r ố i lo ạ n th ầ n kinh c ơ ,  đượ c  đặ c tr ư ng b ở i tình tr ạ ng y ế u  và m ỏ i c ơ . B ả n ch ấ t c ủ a b ệ nh là tình tr ạ ng gi ả m s ố  l ượ ng các th ụ  th ể  acetylcholine t ạ i  b ả n v ậ n  độ ng c ơ  do s ự  t ấ n công c ủ a các kháng th ể  t ự  mi ễ n vào các th ụ  th ể  này. Tình  tr ạ ng y ế u c ơ  thay  đổ i và x ả y ra v ớ i m ộ t s ố  c ơ  ch ủ   độ ng, nh ấ t là các c ơ  kích thích b ở i các  t ế  bào th ầ n kinh v ậ n  độ ng ví d ụ  nh ư  các c ơ  v ậ n nhãn, c ơ  nhai, c ơ  m ặ t, c ơ  nu ố t và c ơ   thanh qu ả n. Y ế u c ơ  x ả y ra khi c ơ  ho ạ t  độ ng liên t ụ c và ph ụ c h ồ i khi ngh ỉ  ng ơ i. S ử  d ụ ng  các thu ố c kháng cholinesterase giúp ph ụ c h ồ i c ơ  l ự c nhanh. B ệ nh có liên quan rõ r ệ t t ớ i  tuy ế n  ứ c: 10-15% tr ườ ng h ợ p có u tân sinh (neoplasm) c ủ a tuy ế n  ứ c, 65% có t ă ng s ả n  các nang lympho (lymphofollicular hyperplasia)  ở  t ủ y tuy ế n  ứ c, v ớ i các trung tâm m ầ m  (germinal centers) ho ạ t  độ ng m ạ nh  ở  ph ầ n t ủ y c ủ a tuy ế n.   Kh ở i phát  ở  b ấ t k ỳ  l ứ a tu ổ i nào, th ườ ng g ặ p  độ  tu ổ i 20-30 ( đố i v ớ i ph ụ  n ữ ) và trên  50 ( đố i v ớ i nam) và có 10% tr ẻ  d ướ i 10 tu ổ i. N ữ  chi ế m  đ a s ố  (t ỷ  l ệ  nam/n ữ  là kho ả ng  2/3 và 1/5  đố i v ớ i tr ẻ  em. T ỷ  l ệ  m ớ i m ắ c hàng n ă m là 1-9 ng ườ i/1 tri ệ u dân, t ỷ  l ệ  m ắ c  b ệ nh hi ệ n có (prevalence) là 25-142 ng ườ i/1 tri ệ u dân. Ng ườ i châu Á có t ỷ  l ệ  kh ở i phát  b ệ nh  ở  tu ổ i tr ẻ  nhi ề u h ơ n so v ớ i các ch ủ ng t ộ c khác. 
-
- 2. CH Ẩ N  Đ OÁN 
-
- 2.1. Tri ệ u ch ứ ng lâm sàng  Nét  đặ t tr ư ng c ủ a b ệ nh nh ượ c c ơ  là y ế u c ơ . Y ế u m ộ t nhóm c ơ  t ă ng lên sau khi v ậ n  độ ng và h ồ i ph ụ c (hoàn toàn ho ặ c m ộ t ph ầ n) khi ngh ỉ  ng ơ i.   Đ a s ố  tr ườ ng h ợ p b ệ nh kh ở i phát âm th ầ m, ch ỉ  m ộ t s ố  ít phát tri ể n r ấ t nhanh.  B ệ nh có th ể  kh ở i phát sau m ộ t stress hay b ệ nh nhi ễ m trùng (th ườ ng là nhi ễ m trùng hô  h ấ p); khi có thai ho ặ c khi gây mê.   V ị  trí c ơ  t ổ n th ươ ng: Bi ể u hi ệ n  đầ u tiên th ườ ng  ở  các c ơ   ổ  m ắ t, c ơ   ở  m ặ t, c ơ  nhai,  c ơ  c ổ , c ơ  h ọ ng. Hi ế m khi bi ể u hi ệ n  đầ u tiên  ở  c ơ  t ứ  chi. Giai  đ o ạ n cu ố i, t ổ n th ươ ng c ơ   ra toàn thân. Phân b ố củ a y ế u c ơ  không theo  đị nh khu  giả i ph ẫ u.   −   T ổ n th ươ ng các c ơ  v ậ n nhãn:  (g ặ p  ở  kho ả ng 85% s ố  b ệ nh nhân)   +   Tri ệ u ch ứ ng s ụ p mi r ấ t g ợ i ý,  đ ôi khi s ụ p mi m ộ t bên kèm v ớ i m ở  to m ắ t bên  đố i di ệ n, do ph ả n  ứ ng c ố  g ắ ng bù tr ừ  t ự  nhiên. Có th ể  kèm theo nhìn  đ ôi.  +   D ấ u hi ệ u Cogan: cho b ệ nh nhân nhìn xu ố ng  để  c ơ  nâng mi  đượ c ngh ỉ , sau  đ ó  yêu c ầ u nhìn th ẳ ng th ậ t nhanh, mi trên s ẽ  gi ậ t m ạ nh, r ồ i nhanh chóng s ụ p xu ố ng.   +   Thao tác Gorelick: cho b ệ nh nhân nhìn ng ướ c ch ằ m ch ằ m lên m ộ t  đ i ể m c ố   đị nh trên cao, mi trên  ở  m ộ t bên m ắ t  sẽ  t ừ  t ừ  s ụ p xu ố ng, dùng ngón tay (c ủ a ng ườ i  khám)  để  kéo và gi ữ  mi bên  đ ó lên, sau m ộ t lúc l ạ i th ấ y mi trên phía bên kia t ừ  t ừ  s ụ p  xu ố ng. Thao tác này là r ấ t  đặ c hi ệ u cho b ệ nh nh ượ c c ơ .   118 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Các c ơ  khác : các c ơ   ở  m ặ t, các c ơ  tham gia nhai, nu ố t và nói c ũ ng th ườ ng b ị   t ổ n th ươ ng (5-10% t ổ ng s ố  b ệ nh nhân  ở  giai  đ o ạ n s ớ m và 80%  ở  giai  đ o ạ n toàn phát).  B ệ nh nhân chóng b ị  m ỏ i hàm khi nhai, th ậ m chí c ằ m có th ể  tr ễ  xu ố ng ph ả i l ấ y tay  đẩ y  lên. B ữ a  ă n d ễ  b ị  ng ắ t quãng do không nhai  đượ c và nu ố t ngh ẹ n t ă ng d ầ n. Khi h ộ i tho ạ i  thì càng v ề  cu ố i, gi ọ ng nói càng khó nghe h ơ n và chuy ể n thành gi ọ ng m ũ i. C ổ  có th ể  r ũ   xu ố ng do y ế u các c ơ  gáy. Khi b ệ nh  đ ã phát tri ể n, t ấ t c ả  các c ơ   đề u có th ể  b ị  y ế u, bao  g ồ m c ả  các c ơ  hô h ấ p nh ư  c ơ  hoành, c ơ  liên s ườ n, c ơ  thành b ụ ng. Th ậ m chí khi b ệ nh  n ặ ng, có th ể  các c ơ  vòng c ủ a bàng quang và tr ự c tràng c ũ ng b ị   ả nh h ưở ng. Trong các c ơ   ở  t ứ  chi, thì các c ơ  g ố c chi th ườ ng b ị  n ặ ng h ơ n các c ơ   ở  ngo ạ i biên.  +   Đặ c  đ i ể m: Trong m ộ t ngày, m ứ c  độ  y ế u c ơ  nh ẹ  vào bu ổ i sáng và n ặ ng lên vào  bu ổ i chi ề u t ố i. Hi ế m khi có teo c ơ .  C ơ  tim và các c ơ  tr ơ n không b ị   ả nh h ưở ng. Ph ả n x ạ   gân x ươ ng bình th ườ ng. Ph ả n x ạ   đồ ng t ử  v ớ i ánh sáng và  đ i ề u ti ế t v ẫ n bình th ườ ng.  +   Tính m ạ ng b ệ nh nhân s ẽ  b ị   đ e d ọ a trong hai tình hu ố ng g ầ n nh ư  ng ượ c nhau,  đ ó là c ơ n nh ượ c c ơ  (myasthenic crisis) và c ơ n c ườ ng cholin (cholinergic crisis) (xem  ở   ph ầ n  đ i ề u tr ị  c ấ p c ứ u).   −   T ổ n th ươ ng k ế t h ợ p : Kho ả ng 5-10% b ệ nh nhân nh ượ c c ơ  có các r ố i lo ạ n tuy ế n  giáp (c ườ ng giáp ho ặ c suy giáp).  −   Nh ượ c c ơ  s ơ  sinh : G ặ p  ở  kho ả ng 10-15% tr ẻ  s ơ  sinh c ủ a nh ữ ng bà m ẹ   nh ượ c c ơ . Các tri ệ u ch ứ ng nh ượ c c ơ  ch ỉ  t ạ m th ờ i, kéo dài trung bình 18 ngày r ồ i h ế t,  không tái phát.  Đ ã phát hi ệ n th ấ y kháng th ể  kháng AChR vào c ơ  th ể  c ủ a tr ẻ  qua  nhau thai.   2.2. Các test ch ẩ n  đ oán trong lâm sàng  −   Edrophonium (Tensilon) test:  dùng  để  ch ẩ n  đ oán nh ượ c c ơ  và r ấ t h ữ u ích  để   ch ẩ n  đ oán phân bi ệ t c ơ n nh ượ c c ơ  v ớ i c ơ n c ườ ng cholin do thu ố c tác d ụ ng nhanh và h ế t  tác d ụ ng c ũ ng nhanh trên c ơ  s ở  l ự c c ơ  ph ụ c h ồ i sau tiêm Edrophonium.  Tr ướ c khi ti ế n hành test, cho b ệ nh nhân d ướ i da 0,8 mg Atropine, nh ằ m lo ạ i tr ừ   tác d ụ ng không mong mu ố n muscarinic c ủ a thu ố c. Gây kh ở i phát tri ệ u ch ứ ng: Cho b ệ nh  nhân nhìn ng ướ c lên  đế n khi xu ấ t hi ệ n hi ệ n t ượ ng s ụ p mi; ho ặ c nhìn c ố   đị nh v ề  m ộ t  h ướ ng nào  để  xu ấ t hi ệ n hi ệ n t ượ ng nhìn  đ ôi. Sau khi xu ấ t hi ệ n tri ệ u ch ứ ng: Tiêm  Tensilon t ĩ nh m ạ ch. T ổ ng li ề u 10 mg (= 1 ml). Kh ở i  đầ u tiêm 1 mg (= 0,1ml). N ế u b ệ nh  nhân dung n ạ p thu ố c t ố t và không th ấ y c ả i thi ệ n s ứ c c ơ  sau 45 giây, b ơ m ti ế p 3-6 mg.  Sau 45 giây, n ế u v ẫ n không có  đ áp  ứ ng, có th ể  dùng n ố t l ượ ng còn l ạ i trong vòng 1 phút.  Đ a s ố  b ệ nh nhân có  đ áp  ứ ng v ớ i 5 mg Tensilon, và tác d ụ ng kéo dài 4-5 phút.  Đ áp  ứ ng:  h ế t nhìn  đ ôi ho ặ c h ế t s ụ p mi. L ư u ý test này có th ể  d ươ ng tính trong nh ữ ng tr ườ ng h ợ p  s ụ p mi không do nh ượ c c ơ  (h ộ i ch ứ ng Guillain - Barré, li ệ t dây v ậ n nhãn do kh ố i u,  b ệ nh lý tuy ế n giáp, phình m ạ ch c ả nh...), và có th ể  không âm tính gi ả  trong giai  đ o ạ n  đầ u  c ủ a b ệ nh nh ượ c c ơ . Tuy nhiên, n ế u  đ ã dùng t ớ i li ề u t ố i  đ a mà không có  đ áp  ứ ng, thì có  th ể  là c ơ n c ườ ng cholin ho ặ c y ế u c ơ  không do b ệ nh nh ượ c c ơ  (xem thêm  ở  ph ầ n c ấ p  c ứ u d ướ i  đ ây).  −   Neostigmine test:  C ũ ng tiêm d ướ i da 0,8 mg Atropin tr ướ c khi làm test. Sau  đ ó  tiêm b ắ p 1,5 mg Neostigmin. Các bi ể u hi ệ n nh ượ c c ơ  thuyên gi ả m sau 10-15, tác d ụ ng  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  119 t ố i  đ a th ườ ng sau 20 phút. Tác d ụ ng kéo dài 2-3 gi ờ . N ế u test âm tính,  đ a s ố  các tr ườ ng  h ợ p không ph ả i là nh ượ c c ơ  tuy c ũ ng không lo ạ i tr ừ  hoàn toàn b ệ nh này.  −   Test túi n ướ c  đ á (Ice pack test):  trên b ệ nh nhân s ụ p mi nghi do nh ượ c c ơ , làm  test b ằ ng cách b ỏ  n ướ c  đ á vào g ă ng tay cao su, qu ấ n quanh b ằ ng kh ă n m ặ t,  đặ t trên mi  m ắ t b ệ nh nhân trong 2 phút. Test d ươ ng tính n ế u h ế t s ụ p mi.  Độ  nh ậ y c ủ a test là 82% và  độ   đặ c hi ệ u là 96%.  2.3. C ậ n lâm sàng  −   Các ph ươ ng pháp ch ẩ n  đ oán c ậ n lâm sàng bao g ồ m  đ i ệ n c ơ  th ườ ng quy,  đ i ệ n  c ơ  s ợ i  đơ n  độ c (SF-EMG), kích thích l ặ p l ạ i liên ti ế p, xét nghi ệ m tìm kháng th ể  ch ố ng  th ụ  c ả m th ể  acetylcholine (acetylcholine receptor antibody- ARA và kháng th ể  kháng  MuSK (muscle-specific tyrosine kinase). Xét nghi ệ m kháng th ể  có  độ   đặ c hi ệ u cao nh ấ t  và  đ i ệ n c ơ  s ợ i  đơ n  độ c SF-EMG có  độ  nh ậ y cao nh ấ t. Do  đ ây là b ệ nh hi ế m g ặ p và các  xét nghi ệ m chuyên bi ệ t nên chúng tôi không trình bày chi ti ế t.   −   Xquang ph ổ i: phát hi ệ n viêm ph ổ i do s ặ c (khá th ườ ng g ặ p) và có th ể  phát hi ệ n  g ầ n 30% tr ườ ng h ợ p u tuy ế n  ứ c ( đ a s ố  c ầ n phát hi ệ n u ho ặ c t ă ng s ả n tuy ế n  ứ c trên CT  scan và MRI). Các ph ươ ng pháp b ơ m h ơ i trung th ấ t ít khi  đượ c dùng.   −   Khí máu  độ ng m ạ ch và ch ứ c n ă ng hô h ấ p: nên ki ể m tra trong tr ườ ng h ợ p  nh ượ c c ơ  n ặ ng nh ằ m ch ỉ   đị nh th ở  máy. 
-
- 3.  Đ I Ề U TR Ị  
-
- 3.1. Thu ố c kháng Cholinesterase  Pyridostigmine (Mestinon) th ườ ng  đượ c dùng h ơ n  neostigmine (Prostigmin).  Li ề u l ượ ng u ố ng pyridostigmine (viên Mestinon 60 mg) 1/2 viên x 3 l ầ n/ngày, có th ể   30-90 mg c ứ   6 gi ờ  1 l ầ n (t ố i  đ a 120 mg/l ầ n, 3 gi ờ  1 l ầ n). Có lo ạ i viên tác d ụ ng ch ậ m,  ch ỉ  dùng lúc  đ i ng ủ , dành cho ng ườ i hay có nh ượ c c ơ  n ặ ng lên v ề   đ êm, ho ặ c sáng s ớ m.  Li ề u l ượ ng và th ờ i gian dùng c ủ a m ỗ i thu ố c c ầ n  đượ c  đ i ề u ch ỉ nh cho t ừ ng tr ườ ng h ợ p  c ụ  th ể . V ớ i các b ệ nh nhân nh ượ c c ơ  nh ẹ , ho ặ c sau ph ẫ u thu ậ t tuy ế n  ứ c và nh ượ c c ơ  th ể   m ắ t  đơ n thu ầ n có th ể  ch ỉ  c ầ n dùng thu ố c kháng cholinesterase (tr ườ ng h ợ p có bi ể u hi ệ n  nhìn  đ ôi, có th ể  dùng thêm corticosteroids  li ề u th ấ p). D ướ i  đ ây là m ộ t s ố  ch ể  ph ẩ m và  li ề u t ươ ng  đươ ng c ủ a các thu ố c  ứ c ch ế  cholinesterase s ử  d ụ ng trong  đ i ề u tr ị  nh ượ c c ơ .  Thu ố c  ứ c ch ế   Li ề u t ươ ng  Th ờ i gian b ắ t  đầ u  Th ờ i gian  đạ t hi ệ u  cholinesterase  đươ ng  tác d ụ ng  qu ả  t ố i  đ a  Pyridostigmine u ố ng  60 mg  40 phút  1 gi ờ   (Mestinon)  Neostigmine u ố ng  15 mg  1 gi ờ   1,5 gi ờ   Neostigmine t ĩ nh m ạ ch  1,5 mg  30 phút  1 gi ờ   Neostigmine tiêm b ắ p  0,5 mg  ngay  20 phút  Thu ộ c nhóm kháng Cholinesterase  cò n  có  ambenonium (Mytelase), viên 10 mg,  li ề u l ượ ng 5-25 mg/l ầ n x 3-4 l ầ n/ ngà y, ít  đượ c dùng h ơ n hai thu ố c trên.  120 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Các thu ố c kháng cholinesterase th ườ ng có tác d ụ ng không mong mu ố n là h ộ i  ch ứ ng muscarinic nh ư : bu ồ n nôn và nôn, da xanh tái, toát m ồ  hôi và ch ả y dãi, nh ị p tim  ch ậ m,  đ au b ụ ng và tiêu ch ả y, có th ể  h ạ  huy ế t áp. Th ườ ng c ầ n k ế t h ợ p Atropin nh ằ m  gi ả m thi ể u tác d ụ ng này.  3.2. Corticosteroids  Ch ỉ   đị nh cho nh ượ c c ơ  toàn thân m ứ c  độ  trung bình ho ặ c n ặ ng. Li ề u tính theo  prednisone: Th ườ ng dùng  đườ ng u ố ng, kh ở i  đầ u 10-15 mg/ngày, t ă ng d ầ n li ề u cho t ớ i là  1-2 mg/kg cân n ặ ng d ự a vào tri ệ u ch ứ ng lâm sàng. N ế u li ề u kh ở i  đầ u cao quá ho ặ c t ă ng  li ề u nhanh quá thì tri ệ u ch ứ ng nh ượ c c ơ  có th ể  n ặ ng lên. Th ườ ng  đạ t hi ệ u qu ả  (sau vài  tu ầ n), c ầ n gi ả m d ầ n li ề u l ượ ng ch ậ m, r ồ i chuy ể n sang cho u ố ng cách nh ậ t (ngày u ố ng,  ngày ngh ỉ ). L ư u ý b ổ  sung kali, calci và cho thu ố c b ả o v ệ  niêm m ạ ch d ạ  dày (nên dùng  nhóm  ứ c ch ế  b ơ m proton)  để  tránh loét d ạ  dày.   Tr ườ ng h ợ p b ệ nh nhân không th ể  u ố ng có th ể  dùng  đườ ng tiêm t ĩ nh m ạ ch:  methyl pre dni sol one (Solu-Medrol) li ề u t ĩ nh m ạ ch 40-60 mg/l ầ n và 3-4 l ầ n/ngày (tr ẻ  em  1-2 mg/kg cân n ặ ng x 3-4 (l ầ n/ngày).   L ư u ý các ch ỉ   đị nh, ch ố ng ch ỉ   đị nh c ủ a corticosteroid,  đặ c bi ệ t  đố i v ớ i b ệ nh nhân  tr ẻ  em. Nên nh ớ  r ằ ng khi m ớ i b ắ t  đầ u dùng corticosteroid c ũ ng có th ể  làm cho tri ệ u  ch ứ ng nh ượ c c ơ  n ặ ng lên.   3.3. Các thu ố c  ứ c ch ế  mi ễ n d ị ch  Ch ỉ   đị nh: ph ố i h ợ p v ớ i corticosteroids, ho ặ c dùng  đơ n  độ c khi b ệ nh nhân không  dung n ạ p v ớ i corticosteroids. C ầ n theo dõi ch ứ c n ă ng gan, th ậ n và s ố  l ượ ng b ạ ch c ầ u.   −   Azathioprine (Immuran - Imurel viên 50 mg): Kh ở i  đầ u 1 viên/ngày x vài  ngày. N ế u dung n ạ p t ố t thì t ă ng d ầ n li ề u, cho t ớ i 2-4 viên/ngày (2-3 mg/kg cân  n ặ ng/ngày).  Đ áp  ứ ng v ớ i thu ố c có th ể  sau vài tháng ho ặ c 1 n ă m.   −   Cyclosporine: li ề u 6 mg/kg cân n ặ ng/ngày, chia làm hai l ầ n. Tác d ụ ng không  mong mu ố n: t ă ng huy ế t áp, suy th ậ n, ch ả y máu bàng quang...  −   Mycophenolate mofetyl (Cellcept): hi ệ u qu ả  t ươ ng  đươ ng azathioprine, song  dung  nạ p t ố t h ơ n.   3.4. Thay huy ế t t ươ ng (plasma exchange)  Nh ằ m m ụ c  đ ích l ọ c các kháng th ể . Ch ỉ   đị nh: b ệ nh nh ượ c c ơ  n ặ ng, không  đ áp  ứ ng  v ớ i các ph ươ ng pháp  đ i ề u tr ị   đ ã nêu trên, ho ặ c  đ ang trong c ơ n nh ượ c c ơ  n ặ ng  (myasthenic crisis) ho ặ c tr ướ c và sau m ổ  c ắ t b ỏ  tuy ế n  ứ c, ho ặ c khi b ắ t  đầ u dùng thu ố c  ứ c ch ế  mi ễ n d ị ch.   3.5. Globulin mi ễ n d ị ch  Truy ề n imunoglobulin t ĩ nh m ạ ch (intravenous immunoglobulin – IVIG) là m ộ t  ph ươ ng pháp  đ i ề u tr ị  t ố t nh ư ng r ấ t t ố n kém. Li ề u l ượ ng m ỗ i  đợ t là 2g/kg cân n ặ ng chia  đề u trong 5 ngày ho ặ c trong 2 ngày. M ỗ i tháng l ặ p l ạ i 01 li ề u n ế u c ầ n.   Ch ỉ   đị nh: b ệ nh nh ượ c c ơ  n ặ ng, không  đ áp  ứ ng v ớ i các ph ươ ng pháp  đ i ề u tr ị   đ ã  nêu trên.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  121 3.6. C ắ t b ỏ  tuy ế n  ứ c (thymectomy)  N ế u có u, nên ph ẫ u thu ậ t c ắ t b ỏ  t ấ t c ả cá c u tuy ế n  ứ c. Sau m ổ  nên chi ế u x ạ  t ạ i ch ỗ   để  di ệ t ph ầ n còn sót,  và  có th ể  dùng hóa tr ị  li ệ u (v ớ i cisplatin)  để   đ i ề u tr ị  các xâm l ấ n  h ạ ch b ạ ch huy ế t. Trong tr ườ ng h ợ p không l ấ y  đượ c hoàn toàn tuy ế n  ứ c có th ể  c ầ n ph ố i  h ợ p  đ i ề u tr ị  x ạ  tr ị  t ạ i ch ỗ  ho ặ c hóa ch ấ t. Nh ượ c c ơ   ở  tr ẻ  em, dù c ắ t b ỏ  tuy ế n  ứ c hi ệ u qu ả   t ố t, nh ư ng do t ầ m quan tr ọ ng c ủ a tuy ế n  ứ c  đố i v ớ i s ự  phát tri ể n c ủ a h ệ  th ố ng mi ễ n d ị ch,  nên ch ờ  t ớ i tu ổ i d ậ y thì (n ế u  đượ c). Không nên ph ẫ u thu ậ t cho b ệ nh nh ượ c c ơ  khu trú  ở   m ắ t. Sau m ổ , nh ớ  tránh dùng m ộ t s ố  kháng sinh có th ể  làm v ượ ng tri ệ u ch ứ ng nh ượ c c ơ ,  chúng tôi s ẽ  li ệ t kê  ở  ph ầ n sau.  3.7. Các tình tr ạ ng c ấ p c ứ u  Bao g ồ m c ơ n nh ượ c c ơ  (th ườ ng g ặ p h ơ n) và c ơ n c ườ ng cholin, có nguy c ơ  t ử   vong cao. N ế u y ế u c ơ  toàn thân n ặ ng kèm khó th ở   ở  ng ườ i  đ ang dùng thu ố c li ề u cao,  dùng Tensilon test  để  ch ẩ n  đ oán phân bi ệ t: n ế u y ế u c ơ  có c ả i thi ệ n rõ, ch ứ ng t ỏ  thu ố c  ch ư a  đủ  li ề u; ng ượ c l ạ i n ế u y ế u c ơ  t ă ng lên ho ặ c không thay  đổ i, thì có th ể  là c ơ n  c ườ ng cholin.   −   C ơ n c ườ ng cholin (cholinergic crisis) do dùng quá nhi ề u thu ố c  ứ c ch ế   cholinesterase, bi ể u hi ệ n g ầ n gi ố ng nh ư  tình tr ạ ng nhi ễ m  độ c phospho h ữ u c ơ . Tình  tr ạ ng kích thích quá m ứ c các th ụ  c ả m th ể  gây nên li ệ t m ề m các c ơ , h ầ u nh ư  không th ể   phân bi ệ t  đượ c v ớ i y ế u c ơ  do nh ượ c c ơ  gây ra, và  đề u có th ể  gây co th ắ t ph ế  qu ả n.   −   N ế u có co  đồ ng t ử  và h ộ i ch ứ ng SLUDGE (Salivation – ti ế t n ướ c mi ế ng,  Lacrimation – ch ả y n ướ c m ắ t, Urinary incontinence – ti ể u d ầ m, Diarrhea – tiêu ch ả y, GI  upset and hypermotility – r ố i lo ạ n d ạ  dày ru ộ t và t ă ng nhu  độ ng, và Emesis – nôn ói) là  c ơ n c ườ ng cholin. Tuy nhiên các d ấ u hi ệ u này không ph ả i lúc nào c ũ ng bi ể u hi ệ n. C ầ n  ki ể m tra khí máu  độ ng m ạ ch, và khi pCO 2  t ă ng cao thì ti ế n hành c ấ p c ứ u v ề   đườ ng th ở   k ị p th ờ i.  −   C ơ n nh ượ c c ơ  (myasthenic crisis) là tình tr ạ ng nh ượ c c ơ  t ă ng ti ế n nhanh chóng  gây li ệ t t ứ  chi kèm suy hô h ấ p. D ấ u hi ệ u báo  độ ng: gi ả m dung tích s ố ng, b ệ nh nhân b ồ n  ch ồ n b ấ t an, s ợ  hãi, run r ẩ y, toát m ồ  hôi. N ế u li ệ t c ơ  hoành, ta s ẽ  th ấ y th ở  nông, ho ặ c  hi ệ n t ượ ng c ử   độ ng ngh ị ch  đả o c ủ a thành b ụ ng và ng ự c khi hô h ấ p: b ụ ng thót l ạ i khi  b ệ nh nhân hít vào.   C ầ n theo dõi  để  k ị p th ờ i ti ế n hành c ấ p c ứ u v ề   đườ ng th ở . Khi  đ ã th ở má y,  có  th ể  t ạ m ng ừ ng thu ố c kháng cholinesterase, nên thay huy ế t t ươ ng ho ặ c IVIG n ế u có  đ i ề u  ki ệ n. Th ườ ng sau vài ngày  đế n 1 tu ầ n, tr ướ c khi b ỏ  máy th ở , cho dùng l ạ i thu ố c kháng  cholinesterase, kèm corticosteroids.  3.8. C ầ n tránh s ử  d ụ ng các thu ố c làm b ộ c l ộ  b ệ nh nh ượ c c ơ  ti ề m  ẩ n ho ặ c làm t ă ng  n ặ ng b ệ nh nh ượ c c ơ   Các kháng sinh (nhóm aminoglycosides, polymyxin B, colistin, clindamycin,  ciprofloxacin, netilmicin, azithromycin, pefoxacin, norfloxacin, và erythromycin); Các  thu ố c ch ố ng lo ạ n nh ị p (lidocaine, quinidine, quinine, procainamide, và trimetaphan  camsylate); Corticosteroid; Magnesi ( đườ ng tiêm truy ề n)...  122 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-4. TIÊN L ƯỢ NG  Di ễ n ti ế n c ủ a b ệ nh nh ượ c c ơ  r ấ t khác nhau. Nguy c ơ  t ử  vong ch ủ  y ế u do bi ế n  ch ứ ng hô h ấ p. B ệ nh ti ế n tri ể n t ớ i m ứ c n ặ ng nh ấ t trong vòng 1-7 n ă m. Th ờ i k ỳ  nh ượ c  các c ơ  v ậ n nhãn  đơ n thu ầ n càng kéo dài, thì nguy c ơ  y ế u c ơ  toàn thân càng gi ả m. Ti ế n  tri ể n  ở  nam gi ớ i nhanh h ơ n  ở  n ữ  gi ớ i; kh ở i phát  ở  ng ườ i tr ẻ  n ặ ng h ơ n ng ườ i già. Nh ượ c  c ơ  tr ẻ  em th ườ ng có tiên l ượ ng xa khá t ố t: kho ả ng 30% tr ẻ  không c ắ t tuy ế n  ứ c và 40%  tr ẻ   đượ c c ắ t tuy ế n  ứ c s ẽ  kh ỏ i hoàn toàn.    TÀI LI Ệ U THAM KH Ả O  1.   Anthony A. Amato, James A. Russell (2008), ”  Neuromuscular Disorders” .  McGraw-Hill, p 457-528.  2.   Cortese I, Chaudhry V, So YT, Cantor F, Cornblath DR, Rae-Grant A (2011),  “ Evidence-based guideline update: Plasmapheresis in neurologic disorders;  Report of the Therapeutics and Technology Assessment Subcommittee of the  American Academy of Neurology” . Neurology, Jan 18 ; 76(3):294-300.  3.   Henry J. Kaminski (2009), “ Myasthenia Gravis and Related Disorders, Second  Edition” . Humana Press, p 71-208, 293-302.  4.   Marisa Schiller Sosinsky, Petra Kaufmann (2008), ” Myasthenia Gravis &  Other Disorders of the Neuromuscular Junction. In: Current Diagnosis &  Treatment in Neurology” . Edited by John CM Brust. Mc GrawHill, p 350-359.   5.   Stephen J. McPhee, Maxime A. Papadakis (2008), “ Current Medical Diagnosis  & Treatment” . Mc GrawHill, p 892-8893.                        H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  123  
-
-CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  THOÁI  HOÁ KH Ớ P G Ố I  1.  ĐỊ NH NGH Ĩ A  Thoái hoá kh ớ p g ố i là h ậ u qu ả  c ủ a quá trình c ơ  h ọ c và sinh h ọ c làm m ấ t cân b ằ ng  gi ữ a t ổ ng h ợ p và hu ỷ  ho ạ i c ủ a s ụ n và x ươ ng d ướ i s ụ n. S ự  m ấ t cân b ằ ng này có th ể   đượ c  b ắ t  đầ u b ở i nhi ề u y ế u t ố : di truy ề n, phát tri ể n, chuy ể n hoá và ch ấ n th ươ ng, bi ể u hi ệ n  cu ố i cùng c ủ a thoái hóa kh ớ p là các thay  đổ i hình thái, sinh hoá, phân t ử  và c ơ  sinh h ọ c  c ủ a t ế  bào và ch ấ t c ơ  b ả n c ủ a s ụ n d ẫ n  đế n nhuy ễ n hoá, n ứ t loét và m ấ t s ụ n kh ớ p, x ơ  hoá  x ươ ng d ướ i s ụ n, t ạ o gai x ươ ng và h ố c x ươ ng d ướ i s ụ n.   B ệ nh th ườ ng g ặ p  ở  n ữ  gi ớ i, chi ế m 80% các tr ườ ng h ợ p thoái hóa kh ớ p g ố i. 
-
- 2. NGUYÊN NHÂN  Theo nguyên nhân chia hai lo ạ i: thoái hóa kh ớ p nguyên phát và th ứ  phát. 
-
- 2.1. Thoái hoá kh ớ p nguyên phát  Là nguyên nhân chính, xu ấ t hi ệ n mu ộ n, th ườ ng  ở  ng ườ i sau 60 tu ổ i, có th ể   ở  m ộ t  ho ặ c nhi ề u kh ớ p, ti ế n tri ể n ch ậ m. Ngoài ra có th ể  có y ế u t ố  di truy ề n, y ế u t ố  n ộ i ti ế t và  chuy ể n hoá (mãn kinh,  đ ái tháo  đườ ng...) có th ể  gia t ă ng tình tr ạ ng thoái hóa.  2.2. Thoái hoá kh ớ p th ứ  phát  B ệ nh g ặ p  ở  m ọ i l ứ a tu ổ i, nguyên nhân có th ể  do sau các ch ấ n th ươ ng khi ế n tr ụ c  kh ớ p thay  đổ i (gãy x ươ ng kh ớ p, can l ệ ch...); Các b ấ t th ườ ng tr ụ c kh ớ p g ố i b ẩ m sinh:  kh ớ p g ố i quay ra ngoài (genu valgum); Kh ớ p g ố i quay vào trong (genu varum); Kh ớ p  g ố i quá du ỗ i (genu recurvatum...) ho ặ c sau các t ổ n th ươ ng viêm khác t ạ i kh ớ p g ố i (viêm  kh ớ p d ạ ng th ấ p, viêm c ộ t s ố ng dính kh ớ p ,  lao kh ớ p, viêm m ủ , b ệ nh gút, ch ả y máu trong  kh ớ p - b ệ nh Hemophilie…)  
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Ch ẩ n  đ oán xác  đị nh  Áp d ụ ng tiêu chu ẩ n ch ẩ n  đ oán c ủ a   H ộ i th ấ p kh ớ p h ọ c M ỹ -ACR (American  College of Rheumatology), 1991.  −   Có  gai x ươ ng  ở  rìa kh ớ p (trên Xquang).  −   D ị ch kh ớ p là d ị ch thoái hoá.  −   Tu ổ i trên 38.  −   C ứ ng kh ớ p d ướ i 30 phút.  −   Có d ấ u hi ệ u l ụ c kh ụ c khi c ử   độ ng kh ớ p.  Ch ẩ n  đ oán xác  đị nh  khi có y ế u t ố  1,2,3,4 ho ặ c 1,2,5 ho ặ c 1,4,5.  124 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−    Các d ấ u hi ệ u khác:   +   Tràn d ị ch kh ớ p:  đ ôi khi th ấ y  ở  kh ớ p g ố i, do ph ả n  ứ ng viêm c ủ a màng ho ạ t d ị ch.  +   Bi ế n d ạ ng: do xu ấ t hi ệ n các gai x ươ ng, do l ệ ch tr ụ c kh ớ p ho ặ c thoát v ị  màng  ho ạ t d ị ch.   −   Các ph ươ ng pháp th ă m dò hình  ả nh ch ẩ n  đ oán.   +   Xquang qui  ướ c: Tiêu chu ẩ n ch ẩ n  đ oán thoái hoá kh ớ p c ủ a Kellgren và Lawrence:     Giai  đ o ạ n 1: Gai x ươ ng nh ỏ  ho ặ c nghi ng ờ  có gai x ươ ng.  Giai  đ o ạ n 2: M ọ c gai x ươ ng rõ.  Giai  đ o ạ n 3: H ẹ p khe kh ớ p v ừ a.  Giai  đ o ạ n 4: H ẹ p khe kh ớ p nhi ề u kèm x ơ  x ươ ng d ướ i s ụ n.  +   Siêu âm kh ớ p:  đ ánh giá tình tr ạ ng h ẹ p khe kh ớ p, gai x ươ ng, tràn d ị ch kh ớ p,  đ o  độ  dày s ụ n kh ớ p, màng ho ạ t d ị ch kh ớ p, phát hi ệ n các m ả nh s ụ n thoái hóa bong vào  trong  ổ  kh ớ p.  +   Ch ụ p c ộ ng h ưở ng t ừ  (MRI)): ph ươ ng pháp này có th ể  quan sát  đượ c hình  ả nh  kh ớ p m ộ t cách  đầ y  đủ  trong không gian ba chi ề u, phát hi ệ n  đượ c các t ổ n th ươ ng s ụ n  kh ớ p, dây ch ằ ng, màng ho ạ t d ị ch.  +   N ộ i soi kh ớ p: ph ươ ng pháp n ộ i soi kh ớ p quan sát tr ự c ti ế p  đượ c các t ổ n  th ươ ng thoái hoá c ủ a s ụ n kh ớ p   ở  các m ứ c  độ  khác nhau (theo Outbright chia b ố n  độ ),  qua n ộ i soi kh ớ p k ế t h ợ p sinh thi ế t màng ho ạ t d ị ch  để  làm xét nghi ệ m t ế  bào ch ẩ n  đ oán  phân bi ệ t v ớ i các b ệ nh lý kh ớ p khác.  −     Các xét nghi ệ m khác:  +   Xét nghi ệ m máu và sinh hoá: T ố c  độ  l ắ ng máu bình th ườ ng.  3 +   D ị ch kh ớ p:  Đế m t ế  bào d ị ch kh ớ p < 1000 t ế  bào/1mm .   3.2. Ch ẩ n  đ oán phân bi ệ t    Viêm kh ớ p d ạ ng th ấ p: ch ẩ n  đ oán phân bi ệ t khi ch ỉ  t ổ n th ươ ng t ạ i kh ớ p g ố i,  đặ c  bi ệ t khi ch ỉ  bi ể u hi ệ n  ở  m ộ t kh ớ p: tình tr ạ ng viêm t ạ i kh ớ p và các bi ể u hi ệ n viêm sinh  h ọ c rõ (t ố c  độ  máu l ắ ng t ă ng, CRP t ă ng…) và có th ể  có y ế u t ố  d ạ ng th ấ p d ươ ng tính.  Th ườ ng  đượ c ch ẩ n  đ oán qua n ộ i soi và sinh thi ế t màng ho ạ t d ị ch. 
-
- 4.  Đ I Ề U TR Ị   
-
- 4.1. Nguyên t ắ c  đ i ề u tr ị   −   Gi ả m  đ au trong các  đợ t ti ế n tri ể n.  −   Ph ụ c h ồ i ch ứ c n ă ng v ậ n  độ ng c ủ a kh ớ p, h ạ n ch ế  và ng ă n ng ừ a bi ế n d ạ ng kh ớ p.  −   Tránh các tác d ụ ng không mong mu ố n c ủ a thu ố c, l ư u ý t ươ ng tác thu ố c và các  b ệ nh k ế t h ợ p  ở  ng ườ i cao tu ổ i.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  125  
-
-−   Nâng cao ch ấ t l ượ ng cu ộ c s ố ng cho ng ườ i b ệ nh. 
-
- 4.2.  Đ i ề u tr ị  n ộ i khoa 
-
- 4.2.1. V ậ t lý tr ị  li ệ u  Các ph ươ ng pháp siêu âm, h ồ ng ngo ạ i, ch ườ m nóng, li ệ u pháp su ố i khoáng, bùn  có hi ệ u qu ả  cao.  4.2.2. Thu ố c  đ i ề u tr ị  tri ệ u ch ứ ng tác d ụ ng nhanh  Ch ỉ   đị nh khi có  đ au kh ớ p :  −   Thu ố c gi ả m  đ au: Paracetamol: 1g -2g/ ngày.   Đ ôi khi c ầ n ch ỉ   đị nh các thu ố c gi ả m  đ au b ậ c 2: Paracetamol ph ố i h ợ p v ớ i  Tramadol 1g-2g/ngày.  −   Thu ố c ch ố ng viêm không steroid (NSAIDs): l ự a ch ọ n m ộ t trong các thu ố c sau:  +   Etoricoxia 30mg -60 mg/ngày, Celecoxib 200mg/ngày, Meloxicam 7,5- 15mg/ngày.  +   Thu ố c ch ố ng viêm không steroid khác: Diclofenac 50-100mg/ngày, Piroxicam  20mg/ngày...  −   Thu ố c bôi ngoài da: bôi t ạ i kh ớ p  đ au 2-3 l ầ n/ ngày. Các lo ạ i gel nh ư : Voltaren  Emugel.. có tác d ụ ng gi ả m  đ au và r ấ t ít tác d ụ ng ph ụ .  −   Corticosteroid: Không có ch ỉ   đị nh cho  đườ ng toàn thân.  −   Đườ ng tiêm n ộ i kh ớ p   +   Hydrocortison acetat: M ỗ i  đợ t tiêm cách nhau 5-7 ngày, không v ượ t quá 3 m ũ i  tiêm m ỗ i  đợ t. Không tiêm quá 3  đợ t trong m ộ t n ă m.  +   Các ch ế  ph ẩ m ch ậ m: Methyl pre dni solon, Betamethasone dipropionate tiêm  m ỗ i m ũ i cách nhau 6-8 tu ầ n. Không tiêm quá 3  đợ t m ộ t n ă m vì thu ố c gây t ổ n th ươ ng  s ụ n kh ớ p n ế u dùng quá li ề u.   +   Acid hyaluronic (AH) d ướ i d ạ ng hyaluronate: 1  ố ng/1 tu ầ n x 3-5 tu ầ n li ề n.   4.2.3. Thu ố c  đ i ề u tr ị  tri ệ u ch ứ ng tác d ụ ng ch ậ m (SYSADOA)    Nên ch ỉ   đị nh s ớ m, kéo dài, khi có  đợ t  đ au kh ớ p, k ế t h ợ p v ớ i các thu ố c  đ i ề u tr ị   tri ệ u ch ứ ng tác d ụ ng nhanh nêu trên.   +   Piascledine 300mg (cao toàn ph ầ n không xà phòng hóa qu ả  b ơ  và  đậ u nành):   1 viên/ngày.  +   Glucosamine sulfate: 1,5g/ngày.    +   Acid hyaluronic k ế t h ợ p Chondroitin sulfate :  30ml u ố ng m ỗ i ngày.  +   Thu ố c  ứ c ch ế  Interleukin 1: Diacerein 50mg x 2 viên/ngày.  126 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  4.2.4. Huy ế t t ươ ng giàu ti ể u c ầ u t ự  thân (PRP)  +   Huy ế t t ươ ng t ự  thân giàu ti ể u c ầ u (PRP): l ấ y máu t ĩ nh m ạ ch, ch ố ng  đ ông, ly  tâm tách huy ế t t ươ ng sau  đ ó b ơ m vào kh ớ p g ố i 6ml- 8ml PRP. 
-
- 4.2.5. C ấ y ghép t ế  bào g ố c (Stem cell transplantation)    +   T ế  bào g ố c chi ế t xu ấ t t ừ  mô m ỡ  t ự  thân (Adipose Derived Stemcell-ADSCs).  +   T ế  bào g ố c t ừ  ngu ồ n g ố c t ủ y x ươ ng t ự  thân. 
-
- 4.3.  Đ i ề u tr ị  ngo ạ i khoa 
-
- 4.3.1.  Đ i ề u tr ị  d ướ i n ộ i soi kh ớ p  +   C ắ t l ọ c, bào, r ử a kh ớ p.  +   Khoan kích thích t ạ o x ươ ng (microfrature).  +   C ấ y ghép t ế  bào s ụ n. 
-
- 4.3.2. Ph ẫ u thu ậ t thay kh ớ p nhân t ạ o   Đượ c ch ỉ   đị nh  ở  các th ể  n ặ ng ti ế n tri ể n, có gi ả m nhi ề u ch ứ c n ă ng v ậ n  độ ng.  Th ườ ng  đượ c  áp d ụ ng   ở  nh ữ ng b ệ nh nhân trên 60 tu ổ i. Thay kh ớ p g ố i m ộ t ph ầ n hay  toàn b ộ  kh ớ p.  5. THEO DÕI  VÀ QU Ả N LÝ  −   Ch ố ng béo phì.  −   Có ch ế   độ  v ậ n  độ ng th ể  d ụ c th ể  thao h ợ p lý, b ả o v ệ  kh ớ p tránh quá t ả i.   −   Phát hi ệ n  đ i ề u tr ị  ch ỉ nh hình s ớ m các d ị  t ậ t kh ớ p (l ệ ch tr ụ c kh ớ p, kh ớ p g ố i v ẹ o  trong, v ẹ o ngoài..).          H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  127  
-
-CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  U S Ụ N MÀNG HO Ạ T D Ị CH  1.  ĐỊ NH NGH Ĩ A  B ệ nh u s ụ n màng ho ạ t d ị ch (Synovial Osteochondromatosis) là m ộ t d ạ ng d ị  s ả n  lành tính c ủ a bao ho ạ t d ị ch trong  đ ó các t ế  bào liên k ế t có kh ả  n ă ng t ự  t ạ o s ụ n. Trong  ổ   kh ớ p, các kh ố i s ụ n nh ỏ  m ọ c ch ồ i lên b ề  m ặ t, sau  đ ó phát tri ể n cu ố ng và tr ở  thành các u,  các u này x ơ  c ứ ng l ạ i và  đượ c g ọ i là u s ụ n, m ộ t s ố  r ơ i vào trong  ổ  kh ớ p và tr ở  thành các  d ị  v ậ t kh ớ p.   U s ụ n màng ho ạ t d ị ch th ườ ng hay g ặ p  ở  kh ớ p g ố i, chi ế m 50%-60%, sau  đ ó là các  kh ớ p khác nh ư  kh ớ p háng và kh ớ p vai, kh ớ p khu ỷ u, kh ớ p c ổ  chân.   2. NGUYÊN NHÂN  Nguyên nhân gây b ệ nh  ch ư a  đượ c bi ế t rõ nh ấ t là  đố i v ớ i u s ụ n nguyên phát.  −   Nguyên phát (Primary synovial ost e och on droma to s is): g ặ p  ở  l ứ a tu ổ i t ừ  30-50  tu ổ i, nguyên nhân ch ư a rõ.  −   Th ứ  phát (Secondary synovial ost e och on droma to s is): g ặ p  ở  ng ườ i có ti ề n s ử   b ệ nh kh ớ p:  +   Thoái hóa kh ớ p.  +   Viêm kh ớ p do lao.  +   Viêm x ươ ng s ụ n bóc tách.  +   Gãy  đầ u x ươ ng trong  ổ  kh ớ p, v ỡ  s ụ n. 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Lâm sàng  B ệ nh u  x ươ ng s ụ n th ườ ng g ặ p  ở  ng ườ i l ớ n 30-50 tu ổ i, nam: n ữ  = 2: 1    −    Bi ể u hi ệ n t ạ i kh ớ p:  +   Đ au, s ư ng kh ớ p, th ườ ng có d ấ u hi ệ u k ẹ t kh ớ p.  +   Gi ả m kh ả  n ă ng v ậ n  độ ng kh ớ p.  +   Khám có th ể  th ấ y u c ụ c quanh kh ớ p, c ứ ng, di  độ ng ho ặ c không.  +   Tràn d ị ch kh ớ p: hi ế m g ặ p.   +   Bi ể u hi ệ n viêm kh ớ p: ít g ặ p.  −   D ấ u hi ệ u toàn thân ít thay  đổ i. 
-
- 3.2. C ậ n lâm sàng   −    Xét nghi ệ m t ế  bào máu ngo ạ i vi và sinh hoá: bình th ườ ng.   128 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−    Xquang:  Đặ c  đ i ể m Xquang th ườ ng quy  (Milgram, 1997).   +   D à y bao kh ớ p  và mà ng  hoạ t d ị ch.  +   N ố t calci  hó a trong  và cạ nh kh ớ p  hì nh  trò n ho ặ c ovan.  +   Khe kh ớ p không  hẹ p.  +   M ậ t  độ  x ươ ng  tạ i  đầ u kh ớ p  bì nh th ườ ng.  N ố t u s ụ n th ườ ng ch ỉ  có th ể   đượ c phát hi ệ n trên Xquang vào giai  đ o ạ n 2, khi xu ấ t  hi ệ n các n ố t calci hóa rõ.  −   Ch ụ p c ắ t l ớ p vi tính có th ể  phát hi ệ n:  +   N ố t calci  hó a  cả n quang.  +   Trà n  dị ch kh ớ p.  −   C ộ ng h ưở ng t ừ : ngoài các hình  ả nh nh ư  ch ụ p c ắ t l ớ p vi tính còn có th ể  quan sát  th ấ y:   +   Dà y  mà ng ho ạ t d ị ch.  +   Th ể  t ự  do gi ả m tín hi ệ u  ở  T1, t ă ng tín hi ệ u T2.  +   N ế u calci hoá nhi ề u: gi ả m tín hi ệ u T1 ho ặ c T1  và  T2  −   Ph ươ ng pháp n ộ i soi kh ớ p:  đượ c ch ỉ   đị nh khi các b ằ ng ch ứ ng v ẫ n còn ch ư a  ch ắ c ch ắ n, nh ằ m m ụ c  đ ích ch ẩ n  đ oán xác  đị nh và k ế t h ợ p  đ i ề u tr ị .   Ngoà i ra qua n ộ i soi  kh ớ p  có  th ể  k ế t h ợ p sinh thi ế t  mà ng  hoạ t  dị ch,  cá c t ổ  ch ứ c u  sụ n,  sụ n kh ớ p  là m  xé t  nghi ệ m mô b ệ nh  họ c  để  ch ẩ n  đoá n  xá c  đị nh.  −   Mô b ệ nh h ọ c:  +   Hình  ả nh  đạ i th ể : do s ụ n  đượ c nuôi d ưỡ ng b ằ ng d ị ch c ủ a màng ho ạ t d ị ch nên  các u s ụ n có th ể  phát tri ể n và t ă ng d ầ n lên v ề  kích th ướ c. Các u s ụ n trong  ổ  kh ớ p, túi  ho ạ t d ị ch ho ặ c bao gân th ườ ng có cùng hình d ạ ng và kích th ướ c (thay  đổ i t ừ  m ộ t vài  mm  đế n m ộ t vài cm). N ế u s ự  g ắ n k ế t nhi ề u u s ụ n có th ể  t ạ o hình d ạ ng kh ố i s ụ n l ớ n  ( hì nh d ạ ng  đá tả ng).  +   Hình  ả nh vi th ể : ch ụ p d ướ i  kí nh hi ể n vi quang  họ c th ấ y  hì nh  ả nh t ă ng sinh  mà ng  ho ạ t d ị ch, th ấ y nhi ề u t ế  bào hai nhân, nhân  đ ông.   3.3. Ch ẩ n  đ oán phân bi ệ t  −   Viêm kh ớ p d ạ ng th ấ p có hình  ả nh h ạ t g ạ o.  −   Viêm kh ớ p nhi ễ m khu ẩ n (lao kh ớ p).  −   B ệ nh  gú t.  −   Viêm màng ho ạ t d ị ch th ể  lông n ố t s ắ c t ố .  −   Viêm kh ớ p nhi ễ m khu ẩ n (lao kh ớ p).  −   U máu màng ho ạ t d ị ch.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  129  
-
-−   Ch ấ n th ươ ng v ỡ  x ươ ng s ụ n.  3.4. Ch ẩ n  đ oán các giai  đ o ạ n b ệ nh  Milgram chia b ệ nh lý u x ươ ng s ụ n thành ba giai  đ o ạ n:  −   Giai  đ o ạ n 1: b ệ nh ti ề m  ẩ n trong bao ho ạ t d ị ch nh ư ng không có các v ậ t th ể  l ạ  t ự  do.  −   Giai  đ o ạ n 2: t ă ng sinh màng ho ạ t d ị ch có kèm các v ậ t th ể  l ạ  t ự  do.  −   Giai  đ o ạ n 3: các u s ụ n t ă ng sinh nhi ề u  ở  bao kh ớ p, màng ho ạ t d ị ch ho ặ c nhi ề u  h ạ t t ự  do trong  ổ  kh ớ p. 
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c  đ i ề u tr ị   −   Gi ả m  đ au, c ả i thi ệ n ch ứ c n ă ng v ậ n  độ ng kh ớ p.  −   Tránh tái phát b ệ nh. 
-
- 4.2.  Đ i ề u tr ị  c ụ  th ể   −   Đ i ề u tr ị  n ộ i khoa:  +   Thu ố c ch ố ng viêm không steroid (NSAIDs):  Etoricoxib 30-90mg/ngày; Meloxicam 7,5-15mg/ngày;  Celecoxib 200mg/ngày.   +   Thu ố c  đ i ề u tr ị  tri ệ u ch ứ ng tác d ụ ng ch ậ m.     Glucosamine sulfate và chondroitin sulfate:    1500mg /ngày   +   Thu ố c  ứ c ch ế  Interleukin 1: Diacerhein 50mg x 2 viên/ngày.   −   N ộ i soi kh ớ p :  có  th ể  v ừ a th ự c hi ệ n ch ẩ n  đoá n l ấ y v ậ t th ể  l ạ  ho ặ c c ắ t t ừ ng ph ầ n  màng ho ạ t d ị ch b ị  t ổ n th ươ ng (khi có viêm màng ho ạ t d ị ch).   Chú ý: ph ươ ng pháp ch ỉ   đị nh  đố i khi u s ụ n kích th ướ c nh ỏ  d ướ i 2 cm.   −   Ch ỉ   đị nh ngo ạ i khoa :  trong tr ườ ng h ợ p b ệ nh nhân  đế n mu ộ n, nh ữ ng t ổ  ch ứ c u  s ụ n phát tri ể n nhi ề u ho ặ c quá to s ẽ  có ch ỉ   đị nh c ắ t b ỏ  u s ụ n và ph ầ n màng ho ạ t d ị ch t ổ n  th ươ ng qua ph ẫ u thu ậ t m ở .   5. THEO DÕI  VÀ QU Ả N LÝ  C ầ n th ă m khám  đị nh k ỳ  cho  đế n khi h ế t tri ệ u ch ứ ng trên lâm sàng và Xquang  để   đ ánh giá k ế t qu ả   đ i ề u tr ị  c ũ ng nh ư  phát hi ệ n các u s ụ n m ớ i có th ể  xu ấ t hi ệ n  để  có bi ệ n  pháp  đ i ề u tr ị  k ị p th ờ i.  130 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-B Ệ NH THOÁI HÓA C Ộ T S Ố NG TH Ắ T L Ư NG  (Spondylosis)  1.  ĐỊ NH NGH Ĩ A  Thoái hóa c ộ t s ố ng th ắ t l ư ng (Spondylosis ho ặ c Oteoarthritis of lumbar spine) là  b ệ nh m ạ n tính ti ế n tri ể n t ừ  t ừ  t ă ng d ầ n gây  đ au, h ạ n ch ế  v ậ n  độ ng, bi ế n d ạ ng c ộ t s ố ng  th ắ t l ư ng mà không có bi ể u hi ệ n viêm. T ổ n th ươ ng c ơ  b ả n c ủ a b ệ nh là tình tr ạ ng thoái  hóa s ụ n kh ớ p và  đĩ a  đệ m c ộ t s ố ng ph ố i h ợ p v ớ i nh ữ ng thay  đổ i  ở  ph ầ n x ươ ng d ướ i s ụ n  và màng ho ạ t d ị ch.   2. NGUYÊN NHÂN  Thoái hóa c ộ t s ố ng là h ậ u qu ả  c ủ a nhi ề u y ế u t ố : tu ổ i cao; n ữ ; ngh ề  nghi ệ p lao  độ ng n ặ ng; m ộ t s ố  y ế u t ố  khác nh ư : ti ề n s ử  ch ấ n th ươ ng c ộ t s ố ng, b ấ t th ườ ng tr ụ c chi  d ướ i, ti ề n s ử  ph ẫ u thu ậ t c ộ t s ố ng, y ế u c ơ , di truy ề n, t ư  th ế  lao  độ ng …  Do tình tr ạ ng ch ị u áp l ự c quá t ả i lên s ụ n kh ớ p và  đĩ a  đệ m l ặ p  đ i l ặ p l ạ i kéo dài  trong  nhi ề u n ă m d ẫ n  đế n s ự  t ổ n th ươ ng s ụ n kh ớ p, ph ầ n x ươ ng d ướ i s ụ n, m ấ t tính  đ àn  h ồ i c ủ a  đĩ a  đệ m, x ơ  c ứ ng dây ch ằ ng bao kh ớ p t ạ o nên nh ữ ng tri ệ u ch ứ ng và bi ế n ch ứ ng  trong thoái hóa c ộ t s ố ng. 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Lâm sàng  Có th ể  có d ấ u hi ệ u c ứ ng c ộ t s ố ng vào bu ổ i sáng.  Đ au c ộ t s ố ng âm  ỉ  và có tính ch ấ t  c ơ  h ọ c ( đ au t ă ng khi v ậ n  độ ng và gi ả m khi ngh ỉ   ng ơ i). Khi thoái hóa  ở  giai  đ o ạ n n ặ ng,  có th ể   đ au liên t ụ c và  ả nh h ưở ng  đế n gi ấ c ng ủ . B ệ nh nhân có th ể  c ả m th ấ y ti ế ng l ụ c  kh ụ c khi c ử   độ ng c ộ t s ố ng.  Đ au c ộ t s ố ng th ắ t l ư ng do thoái hóa không có bi ể u hi ệ n tri ệ u ch ứ ng toàn thân nh ư   s ố t, thi ế u máu, g ầ y sút cân. Nói chung b ệ nh nhân  đ au khu trú t ạ i c ộ t s ố ng. M ộ t s ố   tr ườ ng h ợ p có  đ au r ễ  dây th ầ n kinh do h ẹ p l ỗ  liên h ợ p ho ặ c thoát v ị   đĩ a  đệ m k ế t h ợ p. Có  th ể  có bi ế n d ạ ng c ộ t s ố ng: gù, v ẹ o c ộ t s ố ng. Tr ườ ng h ợ p h ẹ p  ố ng s ố ng: bi ể u hi ệ n  đ au  cách h ồ i th ầ n kinh: b ệ nh nhân  đ au theo  đườ ng  đ i c ủ a dây th ầ n kinh t ọ a, xu ấ t hi ệ n khi  đ i  l ạ i, ngh ỉ  ng ơ i  đỡ   đ au (C ộ ng h ưở ng t ừ  cho phép ch ẩ n  đ oán m ứ c  độ  h ẹ p  ố ng s ố ng).    3.2. C ậ n lâm sàng  −   Xquang th ườ ng quy c ộ t s ố ng th ẳ ng, nghiêng: hình  ả nh h ẹ p khe  đĩ a  đệ m, mâm  đĩ a  đệ m nh ẵ n,  đặ c x ươ ng d ướ i s ụ n, gai x ươ ng thân  đố t s ố ng, h ẹ p l ỗ  liên h ợ p  đố t s ố ng.  Tr ườ ng h ợ p tr ượ t  đố t s ố ng có ch ỉ   đị nh ch ụ p ch ế ch 3/4 ph ả i, trái nh ằ m phát hi ệ n tình  tr ạ ng g ẫ y cu ố ng  đố t s ố ng “g ẫ y c ổ  chó”.  −   Xét nghi ệ m t ế  bào máu ngo ạ i vi và sinh hóa: bình th ườ ng.  −   Ch ụ p c ộ ng h ưở ng t ừ  c ộ t s ố ng: ch ỉ   đị nh trong tr ườ ng h ợ p có thoát v ị   đĩ a  đệ m.   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  131 3.3. Ch ẩ n  đ oán xác  đị nh  −   Ch ẩ n  đ oán thoái hóa c ộ t s ố ng  đơ n thu ầ n d ự a vào nh ữ ng d ấ u hi ệ u:  +   Lâm sàng là  đ au c ộ t s ố ng có tính ch ấ t c ơ  h ọ c.  +   Xquang c ộ t s ố ng th ắ t l ư ng th ườ ng quy (th ẳ ng – nghiêng – ch ế ch ¾ hai bên):  h ẹ p khe kh ớ p v ớ i b ờ  di ệ n kh ớ p nh ẵ n,  đặ c x ươ ng d ướ i s ụ n, gai x ươ ng thân  đố t s ố ng, h ẹ p  l ỗ  liên h ợ p  đố t s ố ng.   +   C ầ n l ư u ý b ệ nh nhân ph ả i không có tri ệ u ch ứ ng toàn thân nh ư : s ố t, g ầ y sút cân,  thi ế u máu... C ầ n làm các xét nghi ệ m máu (bilan viêm, phosphatase ki ề m..)  để  kh ẳ ng  đị nh là các thông s ố  này bình th ườ ng. Tr ườ ng h ợ p có các b ấ t th ườ ng v ề  lâm sàng ( đ au  quá m ứ c, g ầ y sút cân, s ố t…) ho ặ c t ố c  độ  l ắ ng máu t ă ng cao c ầ n ph ả i tìm nguyên nhân  khác (xem thêm bài  đ au c ộ t s ố ng th ắ t l ư ng).   +   Thoái hóa c ộ t s ố ng th ắ t l ư ng ít khi di ễ n ra m ộ t cách  đơ n thu ầ n,  đ a ph ầ n k ế t  h ợ p v ớ i thoái hóa  đĩ a  đệ m c ộ t s ố ng, có th ể  thoát v ị   đĩ a  đệ m c ộ t s ố ng và  ở  ng ườ i có tu ổ i,  th ườ ng ph ố i h ợ p v ớ i loãng x ươ ng, lún x ẹ p  đố t s ố ng do loãng x ươ ng.   3.4. Ch ẩ n  đ oán phân bi ệ t  Tr ườ ng h ợ p  đ au c ộ t s ố ng có bi ể u hi ệ n viêm: có d ấ u hi ệ u toàn thân nh ư : s ố t, thi ế u  máu, g ầ y sút cân, h ạ ch ngo ạ i vi…c ầ n ch ẩ n  đ oán phân bi ệ t v ớ i các b ệ nh lý d ướ i  đ ây:  −   B ệ nh lý c ộ t s ố ng huy ế t thanh âm tính ( đặ c bi ệ t viêm c ộ t s ố ng dính kh ớ p): nam  gi ớ i, tr ẻ  tu ổ i,  đ au và h ạ n ch ế  các  độ ng tác c ủ a c ộ t s ố ng th ắ t l ư ng cùng, Xquang có viêm  kh ớ p cùng ch ậ u, xét nghi ệ m t ố c  độ  l ắ ng máu t ă ng.  −   Viêm  đố t s ố ng  đĩ a  đệ m (do nhi ễ m khu ẩ n ho ặ c do lao): tính ch ấ t  đ au ki ể u viêm,  đ au liên t ụ c, kèm theo d ấ u hi ệ u toàn thân; Xquang có di ệ n kh ớ p h ẹ p, b ờ  kh ớ p nham nh ở   không  đề u; c ộ ng h ưở ng t ừ  có hình  ả nh viêm  đĩ a  đệ m  đố t s ố ng, xét nghi ệ m bilan viêm  d ươ ng tính.  −   Ung th ư  di c ă n x ươ ng:  đ au m ứ c  độ  n ặ ng, ki ể u viêm; kèm theo d ấ u hi ệ u  toàn  thân, Xquang có h ủ y x ươ ng ho ặ c k ế t  đặ c x ươ ng, c ộ ng h ưở ng t ừ  và x ạ  hình x ươ ng có  vai trò quan tr ọ ng trong ch ẩ n  đ oán. 
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c  −     Đ i ề u tr ị  theo tri ệ u ch ứ ng (thu ố c ch ố ng viêm, gi ả m  đ au, giãn c ơ ...) k ế t h ợ p v ớ i  các thu ố c ch ố ng thoái hóa tác d ụ ng ch ậ m.   −   Nên ph ố i h ợ p các bi ệ n pháp  đ i ề u tr ị  n ộ i khoa, v ậ t lý tr ị   li ệ u, ph ụ c h ồ i ch ứ c  n ă ng. Tr ườ ng h ợ p có chèn ép r ễ  có th ể  ch ỉ   đị nh ngo ạ i khoa. 
-
- 4.2.  Đ i ề u tr ị  c ụ  th ể  
-
- 4.2.1. V ậ t lý tr ị  li ệ u   Bài t ậ p th ể  d ụ c, xoa bóp, kéo n ắ n, chi ế u h ồ ng ngo ạ i, ch ườ m nóng, li ệ u pháp su ố i  khoáng, bùn nóng, paraphin, t ậ p c ơ  d ự ng l ư ng....  132 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-4.2.2.  Đ i ề u tr ị  n ộ i khoa  −   Thu ố c gi ả m  đ au theo b ậ c thang gi ả m  đ au c ủ a WHO:  +   B ậ c 1 - paracetamol 500 mg/ngày u ố ng 4  đế n 6 l ầ n, không quá 4g/ngày. Thu ố c  có th ể  gây h ạ i cho gan.  +   B ậ c 2 - Paracetamol k ế t h ợ p v ớ i codein ho ặ c k ế t h ợ p v ớ i tramadol: Ultracet  li ề u 2-4 viên/24gi ờ , tuy nhiên u ố ng thu ố c này th ườ ng gây chóng m ặ t, bu ồ n nôn.  Efferalgan-codein li ề u  2-4 viên/24gi ờ .  +   B ậ c 3 - Opiat và d ẫ n xu ấ t c ủ a opiat.  −   Thu ố c ch ố ng viêm không steroid:  Ch ọ n m ộ t trong các thu ố c sau. L ư u ý tuy ệ t  đố i không ph ố i h ợ p thu ố c trong nhóm  vì không t ă ng tác d ụ ng  đ i ề u tr ị  mà l ạ i có nhi ề u tác d ụ ng không mong mu ố n.   +   Diclofenac viên 25mg, 50 mg, 75mg: li ề u 50 - 150mg/ ngày, dùng sau khi  ă n  no. Có th ể  s ử  d ụ ng d ạ ng  ố ng tiêm b ắ p 75 mg/ngày trong 2-3 ngày  đầ u khi b ệ nh nhân  đ au nhi ề u, sau  đ ó chuy ể n sang  đườ ng u ố ng.  +   Meloxicam viên 7,5 mg: 2 viên/ngày sau khi  ă n no ho ặ c d ạ ng  ố ng tiêm  b ắ p  15 mg/ngày x 2- 3 ngày n ế u b ệ nh nhân  đ au nhi ề u, sau  đ ó chuy ể n sang  đườ ng u ố ng.   +   Piroxicam viên hay  ố ng 20 mg, u ố ng 1 viên /ngày u ố ng sau khi  ă n no, ho ặ c  tiêm b ắ p ngày 1  ố ng trong 2-3 ngày  đầ u khi b ệ nh nhân  đ au nhi ề u, sau  đ ó chuy ể n sang  đườ ng u ố ng.  +   Celecoxib viên 200 mg li ề u 1  đế n 2 viên/ngày sau khi  ă n no. Không nên dùng  cho b ệ nh nhân có b ệ nh tim m ạ ch và th ậ n tr ọ ng  ở  ng ườ i cao tu ổ i.     +   Etoricoxib (viên 60mg, 90mg, 120mg), ngày u ố ng 1 viên, th ậ n tr ọ ng dùng  ở   ng ườ i có b ệ nh lý tim m ạ ch.   +   Thu ố c ch ố ng viêm bôi ngoài da: diclofenac gel, profenid gel, xoa 2-3 l ầ n/ngày  ở  v ị  trí  đ au.  −   Thu ố c giãn c ơ : eperison (viên 50mg): 3 viên/ngày, ho ặ c tolperisone (viên  50mg, 150mg): 2-6 viên/ngày.  −   Thu ố c  đ i ề u tr ị  tri ệ u ch ứ ng tác d ụ ng ch ậ m:  +   Piascledine 300mg (cao toàn ph ầ n không xà phòng hóa qu ả  b ơ  và  đậ u nành):   1 viên/ngày   +   Glucosamine sulfate và chondroitin sulphat, u ố ng tr ướ c  ă n 15 phút, dùng kéo  dài trong nhi ề u n ă m.   +   Thu ố c  ứ c ch ế  IL1: diacerhein 50mg (viên 50mg) 1-2 viên /ngày, dùng kéo dài  trong nhi ề u n ă m.   −   Tiêm corticoid t ạ i ch ỗ : tiêm ngoài màng c ứ ng b ằ ng hydrocortison acetat, ho ặ c  methyl prednisolon acetate trong tr ườ ng h ợ p  đ au th ầ n kinh t ọ a, tiêm c ạ nh c ộ t s ố ng, tiêm  kh ớ p liên m ấ u (d ướ i màn t ă ng sáng ho ặ c d ướ i h ướ ng d ẫ n c ủ a ch ụ p c ắ t l ớ p vi tính).  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  133 4.2.3.  Đ i ề u tr ị  ngo ạ i khoa  Ch ỉ   đị nh khi thoát v ị   đĩ a  đệ m, tr ượ t  đố t s ố ng gây  đ au th ầ n kinh t ọ a kéo dài, ho ặ c  có h ẹ p  ố ng s ố ng v ớ i các d ấ u hi ệ u th ầ n kinh ti ế n tri ể n n ặ ng  ả nh h ưở ng t ớ i ch ấ t l ượ ng  cu ộ c s ố ng mà các bi ệ n pháp  đ i ề u tr ị  n ộ i khoa không k ế t qu ả . Trong tr ườ ng h ợ p  đĩ a  đệ m  thoái hóa nhi ề u, có th ể  xem xét thay  đĩ a  đệ m nhân t ạ o.  5. TI Ế N TRI Ể N VÀ BI Ế N CH Ứ NG  −   Thoái hóa c ộ t s ố ng th ắ t l ư ng ti ế n tri ể n n ặ ng d ầ n theo tu ổ i và m ộ t s ố  y ế u t ố   nguy c ơ  nh ư : mang vác n ặ ng  ở  t ư  th ế  c ộ t s ố ng x ấ u.  −   D ấ u hi ệ u chèn ép r ễ  dây th ầ n kinh th ườ ng g ặ p  ở  thoái hóa c ộ t s ố ng n ặ ng khi  nh ữ ng gai x ươ ng thân  đố t s ố ng phát tri ể n chèn ép vào l ỗ  liên h ợ p  đố t s ố ng. Cùng v ớ i s ự   thoái hóa  đố t s ố ng,  đĩ a  đệ m c ũ ng b ị  thoái hóa và nguy c ơ  phình, thoát v ị   đĩ a  đệ m s ẽ  d ẫ n  t ớ i chèn ép r ễ  dây th ầ n kinh (bi ể u hi ệ n  đ au dây th ầ n kinh t ọ a).  6. PHÒNG B Ệ NH  −   Theo dõi và phát hi ệ n s ớ m các d ị  t ậ t c ộ t s ố ng  để   đ i ề u tr ị  k ị p th ờ i.  −   Giáo d ụ c t ư  v ấ n các bài t ậ p t ố t cho c ộ t s ố ng, s ử a ch ữ a các t ư  th ế  x ấ u.  −   Đị nh h ướ ng ngh ề  nghi ệ p thích h ợ p v ớ i tình tr ạ ng b ệ nh, ki ể m tra  đị nh k ỳ  nh ữ ng  ng ườ i lao  độ ng n ặ ng (khám phát hi ệ n tri ệ u ch ứ ng, ch ụ p Xquang c ộ t s ố ng khi c ầ n...).    TÀI LI Ệ U THAM KH Ả O  1.   Clifton O. Bingham,  “Bone and Osteoarthritis” , Novel Osteoarthritis  Therapeutics, Vol 4, 2007; p 181   2.   Kenneth C, Kanulian,  “Diagnosis and classification of osteoarthritis” ,  Uptodate 17.1, January 2009.  3.   Shari M.Ling, Yvette L.Ju,  ”Osteoarthritis”  – chapter 116, 2009;  p 1411-  1420.   4.   Stephanie G Wheeler,  “Approach to the diagnosis and evaluation of low back  pain in adults” , UpToDate 2010, Last literature review version 18.2: May  2010 | This topic last updated: May 6, 2010          134 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-H Ộ I CH Ứ NG  Đ AU TH Ắ T L Ư NG  (Low back pain)  1.  ĐỊ NH NGH Ĩ A  Đ au c ộ t s ố ng th ắ t l ư ng hay còn g ọ i là  đ au l ư ng vùng th ấ p (Low back pain) là h ộ i  ch ứ ng do  đ au khu trú trong kho ả ng t ừ  ngang m ứ c L1  đế n n ế p l ằ n mông (có th ể   ở  m ộ t  bên ho ặ c c ả  hai bên),  đ ây là m ộ t h ộ i ch ứ ng x ươ ng kh ớ p hay g ặ p nh ấ t trong th ự c hành  lâm sàng. Kho ả ng 65-80% nh ữ ng ng ườ i tr ưở ng thành trong c ộ ng  đồ ng có  đ au c ộ t s ố ng  th ắ t l ư ng (CSTL) c ấ p tính ho ặ c t ừ ng  đợ t m ộ t vài l ầ n trong cu ộ c  đờ i và kho ả ng 10% s ố   này b ị  chuy ể n thành  đ au CSTL m ạ n tính.  
-
- 2. NGUYÊN NHÂN 
-
- 2.1.  Đ au c ộ t s ố ng th ắ t l ư ng do nguyên nhân c ơ  h ọ c   Nguyên nhân ph ổ  bi ế n do c ă ng giãn c ơ , dây ch ằ ng c ạ nh c ộ t s ố ng quá m ứ c; thoái  hóa  đĩ a  đệ m c ộ t s ố ng;   thoát v ị   đĩ a  đệ m CSTL; tr ượ t thân  đố t s ố ng, d ị  d ạ ng thân  đố t s ố ng  (cùng hóa th ắ t l ư ng 5, th ắ t l ư ng hóa cùng 1…), loãng x ươ ng nguyên phát... Lo ạ i này  di ễ n bi ế n lành tính, chi ế m 90% s ố  tr ườ ng h ợ p  đ au CSTL.   2.2.  Đ au c ộ t s ố ng th ắ t l ư ng do m ộ t b ệ nh toàn thân ( Đ au c ộ t s ố ng th ắ t l ư ng “tri ệ u  ch ứ ng”)  Đ au c ộ t s ố ng th ắ t l ư ng là tri ệ u ch ứ ng c ủ a m ộ t trong các b ệ nh kh ớ p m ạ n tính  (viêm c ộ t s ố ng dính kh ớ p, viêm kh ớ p d ạ ng th ấ p, loãng x ươ ng); ho ặ c t ổ n th ươ ng t ạ i c ộ t  s ố ng do nguyên nhân nhi ễ m khu ẩ n (viêm  đĩ a  đệ m  đố t s ố ng do vi khu ẩ n lao ho ặ c vi  khu ẩ n sinh m ủ ); do ung th ư ; do các nguyên nhân khác (s ỏ i th ậ n, loét hành tá tràng, b ệ nh  lý  độ ng m ạ ch ch ủ  b ụ ng, u x ơ  tuy ế n ti ề n li ệ t…), t ổ n th ươ ng c ộ t s ố ng do ch ấ n th ươ ng... 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Lâm sàng  −   Đ au c ộ t s ố ng th ắ t l ư ng do nguyên nhân c ơ  h ọ c:  +   Đ au CSTL do c ă ng giãn dây ch ằ ng quá m ứ c:  đ au xu ấ t hi ệ n  độ t ng ộ t sau bê v ậ t  n ặ ng, sau ho ạ t  độ ng sai t ư  th ế  (lao  độ ng chân tay kéo dài,  đ i gu ố c cao gót…), rung xóc  do  đ i xe  đườ ng dài, sau nhi ễ m l ạ nh ho ặ c sau m ộ t c ử   độ ng  độ t ng ộ t.  Đ au th ườ ng kèm  theo co c ứ ng kh ố i c ơ  c ạ nh c ộ t s ố ng, t ư  th ế  c ộ t s ố ng b ị  l ệ ch v ẹ o m ấ t  đườ ng cong sinh lý,  khi th ầ y thu ố c  ấ n ngón tay d ọ c các m ỏ m gai sau ho ặ c vào khe liên  đố t  ở  hai bên c ộ t  s ố ng có th ể  xác  đị nh  đượ c  đ i ể m  đ au.  +   Thoát v ị   đĩ a  đệ m c ộ t s ố ng th ắ t l ư ng: th ườ ng có bi ể u hi ệ n c ủ a  đ au th ầ n kinh t ọ a.  Ng ườ i b ệ nh  đ au lan t ừ  c ộ t s ố ng th ắ t l ư ng lan xu ố ng mông, phía sau ngoài  đ ùi, m ặ t tr ướ c  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  135 bên c ẳ ng chân, m ắ t cá ngoài, qua mu chân t ớ i ngón I n ế u b ị  chèn ép  ở  L5. N ế u t ổ n  th ươ ng  ở  S1,  đ au lan xu ố ng m ặ t sau  đ ùi, c ẳ ng chân, gân Achille, m ắ t cá ngoài qua b ờ   ngoài gan chân t ớ i ngón V.  Đ ôi khi có r ố i lo ạ n c ả m giác nông: c ả m giác tê bì, ki ế n bò,  kim châm… d ấ u hi ệ u gi ậ t dây chuông d ươ ng tính, d ấ u hi ệ u Lasegue d ươ ng tính.  Tr ườ ng h ợ p có chèn ép n ặ ng ng ườ i b ệ nh có th ể  có r ố i lo ạ n c ơ  tròn. Ph ả n x ạ  gân x ươ ng  chi d ướ i th ườ ng gi ả m ho ặ c m ấ t, có th ể  có teo c ơ   đ ùi và c ẳ ng chân n ế u  đ au kéo dài.   −   Đ au c ộ t s ố ng th ắ t l ư ng do m ộ t b ệ nh toàn thân:  Trong tr ườ ng h ợ p  Đ au c ộ t s ố ng th ắ t l ư ng là tri ệ u ch ứ ng c ủ a m ộ t b ệ nh toàn thân,  ng ườ i b ệ nh th ườ ng có các tri ệ u ch ứ ng khác kèm theo nh ư : s ố t, d ấ u hi ệ u nhi ễ m trùng  th ườ ng g ặ p do nguyên nhân nhi ễ m khu ẩ n; g ầ y, sút cân nhanh,  đ au ngày càng t ă ng,  không  đ áp  ứ ng v ớ i các thu ố c ch ố ng viêm gi ả m  đ au thông th ườ ng là các tri ệ u ch ứ ng g ợ i  ý nguyên nhân c ủ a b ệ nh ung th ư ; tr ườ ng h ợ p  đ au th ắ t l ư ng d ữ  d ộ i ngày càng t ă ng kèm  theo d ấ u hi ệ u s ố c (shock), da xanh thi ế u máu nên nghi ng ờ  phình tách  độ ng m ạ ch ch ủ   b ụ ng… Khi có d ấ u hi ệ u ch ỉ   đ i ể m c ủ a m ộ t b ệ nh toàn thân liên quan  đế n  đ au vùng th ắ t  l ư ng, th ầ y thu ố c c ầ n h ướ ng d ẫ n ng ườ i b ệ nh  đế n các c ơ  s ở  chuyên khoa th ự c hi ệ n các  xét nghi ệ m, th ă m dò chuyên sâu  để  tìm nguyên nhân.   M ộ t s ố  các tr ườ ng h ợ p có nguyên nhân do tâm lý: d ấ u hi ệ u  đ au th ắ t l ư ng xu ấ t  hi ệ n sau các stress do áp l ự c c ủ a tâm lý ho ặ c lao  độ ng th ể  l ự c quá s ứ c, sau  đ ó chuy ể n  thành  đ au th ắ t l ư ng m ạ n tính dai d ẳ ng. Tuy nhiên, th ầ y thu ố c c ầ n lo ạ i tr ừ  các b ệ nh th ự c  th ể  gây  đ au th ắ t l ư ng tr ướ c khi ch ẩ n  đ oán  đ au do nguyên nhân tâm lý.  3.2. C ậ n lâm sàng  −   Đ au th ắ t l ư ng do nguyên nhân c ơ  h ọ c:  +   Các xét nghi ệ m phát hi ệ n d ấ u hi ệ u viêm, bilan phospho - calci th ườ ng  ở  trong  gi ớ i h ạ n bình th ườ ng.  +   Xquang th ườ ng quy  đ a s ố  bình th ườ ng ho ặ c có th ể  g ặ p m ộ t trong các hình  ả nh sau:  •   Hình  ả nh thoái hóa c ộ t s ố ng: h ẹ p các khe liên  đố t,  đặ c x ươ ng  ở  mâm  đố t s ố ng,  các gai x ươ ng  ở  thân  đố t s ố ng,  đ ôi khi có tr ượ t thân  đố t s ố ng.  •   Hình  ả nh loãng x ươ ng:  đố t s ố ng t ă ng th ấ u quang ho ặ c có lún x ẹ p.  •   Có th ể  có các hình  ả nh t ổ n th ươ ng thân  đố t s ố ng trong m ộ t s ố  tr ườ ng h ợ p  đ au th ắ t l ư ng  do thu ộ c nhóm  đ au c ộ t s ố ng th ắ t l ư ng “tri ệ u ch ứ ng” ( ổ  khuy ế t x ươ ng, v ỡ  thân  đố t s ố ng… ).  +   Ch ụ p c ộ ng h ưở ng t ừ  c ộ t s ố ng th ắ t l ư ng: ch ỉ   đị nh khi có tri ệ u ch ứ ng  đ au th ầ n  kinh t ọ a.  −   Đ au c ộ t s ố ng th ắ t l ư ng là tri ệ u ch ứ ng c ủ a m ộ t b ệ nh toàn thân:  Khi có các tri ệ u ch ứ ng nghi ng ờ   đ au c ộ t s ố ng th ắ t l ư ng là tri ệ u ch ứ ng c ủ a m ộ t  b ệ nh toàn thân, tùy theo nguyên nhân  đượ c  đị nh h ướ ng mà ch ỉ   đị nh thêm các xét  nghi ệ m khác (bilan lao, bilan  đ a u t ủ y x ươ ng (b ệ nh Kahler), bilan ung th ư ... nh ằ m xác  đị nh nguyên nhân.  136 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-3.3. Ch ẩ n  đ oán xác  đị nh và ch ẩ n  đ oán nguyên nhân  Ch ẩ n  đ oán xác  đị nh d ự a vào tri ệ u ch ứ ng lâm sàng. Ph ả i ch ẩ n  đ oán nguyên nhân  đ au  c ộ t s ố ng th ắ t l ư ng, và  đ i ề u này không ph ả i luôn d ễ  dàng.   B ằ ng ch ứ ng  để  ch ẩ n  đ oán  xác  đị nh “ Đ au c ộ t s ố ng th ắ t l ư ng do nguyên nhân c ơ   h ọ c” nh ư  sau:   −   Đ au t ạ i vùng c ộ t s ố ng th ắ t l ư ng, ki ể u c ơ  h ọ c (ngh ỉ  ng ơ i có  đỡ ).  −    G ầ n  đ ây tình tr ạ ng toàn thân không thay  đổ i, không s ố t, không có các r ố i lo ạ n  ch ứ c n ă ng thu ộ c b ấ t c ứ  c ơ  quan nào (d ạ  dày, ru ộ t, s ả n ph ụ  khoa, ph ế  qu ả n-ph ổ i...) m ớ i  xu ấ t hi ệ n; không có các bi ể u hi ệ n  đ au vùng c ộ t s ố ng khác: l ư ng, c ổ , s ườ n, kh ớ p khác…   −   Các xét nghi ệ m d ấ u hi ệ u viêm và bilan phospho-calci âm tính.  −    Xquang c ộ t s ố ng th ắ t l ư ng bình th ườ ng ho ặ c có các tri ệ u ch ứ ng c ủ a thoái hóa.  Tr ườ ng h ợ p có m ộ t ho ặ c càng nhi ề u các tri ệ u ch ứ ng nêu trên b ấ t th ườ ng, càng  nghi ng ờ   đ au c ộ t s ố ng th ắ t l ư ng “tri ệ u ch ứ ng” và c ầ n ph ả i tìm nguyên nhân. Tùy theo  g ợ i ý nguyên nhân nào mà ch ỉ   đị nh các xét nghi ệ m t ươ ng  ứ ng. 
-
- 4.  Đ I Ề U TR Ị   
-
- 4.1. Nguyên t ắ c chung  Đ i ề u tr ị  theo nguyên nhân. Ph ầ n d ướ i  đ ây ch ỉ  nêu  đ i ề u tr ị  nhóm  đ au c ộ t s ố ng th ắ t  l ư ng do nguyên nhân c ơ  h ọ c”.  −   K ế t h ợ p  đ i ề u tr ị  thu ố c v ớ i các bi ệ n pháp ph ụ c h ồ i ch ứ c n ă ng, luy ệ n t ậ p, thay  đổ i l ố i s ố ng nh ằ m b ả o v ệ  c ộ t s ố ng th ắ t l ư ng.  −   Không l ạ m d ụ ng  đ i ề u tr ị  ngo ạ i khoa,  đặ c bi ệ t  đố i v ớ i nh ữ ng tr ườ ng h ợ p  đ au c ộ t  s ố ng th ắ t l ư ng c ấ p ho ặ c bán c ấ p.  4.2.  Đ i ề u tr ị  c ụ  th ể   Th ườ ng k ế t h ợ p các nhóm: thu ố c ch ố ng viêm không steroid, thu ố c gi ả m  đ au,  thu ố c giãn c ơ .  4.2.1.  Đ i ề u tr ị  n ộ i khoa   −   Đ au th ắ t l ư ng c ấ p tính:  +   Thu ố c ch ố ng viêm không steroid (NSAIDs): có th ể  l ự a ch ọ n m ộ t trong các  thu ố c trong nhóm này nh ư ng l ư u ý không s ử  d ụ ng k ế t h ợ p hai lo ạ i thu ố c NSAID, vi ệ c  l ự a ch ọ n thu ố c c ụ  th ể  ph ụ  thu ộ c vào tình tr ạ ng  đ au và c ầ n cân nh ắ c các nguy c ơ  trên  đườ ng tiêu hóa và trên tim m ạ ch c ủ a b ệ nh nhân c ụ  th ể .  •   Piroxicam 20mg ho ặ c meloxicam 15mg tiêm b ắ p ngày 1  ố ng trong 2-3 ngày,  sau  đ ó chuy ể n sang d ạ ng u ố ng 1 viên piroxicam 20mg ho ặ c 2 viên meloxicam 7,5mg  m ỗ i ngày.  •   Celecoxib 200mg: u ố ng 1-2 viên m ỗ i ngày  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  137  
-
-+   Paracetamol:  •   Paracetamol: 0,5g x 4-6 viên /24h, chia 3 l ầ n u ố ng sau  ă n. T ố i  đ a 4000mg/ngày.  •   Paracetamol k ế t h ợ p v ớ i codein ho ặ c paracetamol k ế t h ợ p v ớ i tramadol (li ề u  l ượ ng c ụ  th ể  c ủ a các thu ố c này tùy thu ộ c vào li ề u khuy ế n cáo c ủ a nhà s ả n xu ấ t).   +   Các thu ố c giãn c ơ :  •     Đườ ng tiêm: tolperisone 100-200mg/24h chia 2 l ầ n.  •     Đườ ng u ố ng: tolperisone 150mg x 2-3 viên/24h ho ặ c eperisone: 50mg x 2-3  viên/24h.  +   Tr ườ ng h ợ p  đ au có ngu ồ n g ố c th ầ n kinh  có th ể  k ế t h ợ p v ớ i m ộ t trong các  thu ố c gi ả m  đ au sau:  •    Gabapentin:  viên 300 mg. Li ề u 600-900 mg/ngày, chia 2-3 l ầ n  •    Pregabalin: viên 75 mg. Li ề u: 150-300 mg/ngày chia 2 l ầ n.  +   N ằ m ngh ỉ  t ạ i ch ỗ  trên gi ườ ng ph ẳ ng,  đ eo  đ ai h ỗ  tr ợ  vùng th ắ t l ư ng khi ng ồ i  d ậ y ho ặ c  đ i l ạ i v ậ n  độ ng, chi ế u  đ èn h ồ ng ngo ạ i ho ặ c  đ i ề u tr ị   đ i ệ n xung, châm c ứ u k ế t  h ợ p dùng thu ố c. Khi  đỡ   đ au l ư ng có th ể  t ă ng d ầ n m ứ c  độ  ho ạ t  độ ng.  −   Đ au th ắ t l ư ng m ạ n tính:  +   Thu ố c ch ố ng tr ầ m c ả m ba vòng (tricyclic antidepressant), ch ố ng lo âu:   Amitriptylin: viên 25 mg .Kéo dãn c ộ t s ố ng, b ơ i, th ể  d ụ c nh ẹ  nhàng.  Đ i ề u ch ỉ nh l ố i  s ố ng và thói quen làm vi ệ c, v ậ n  độ ng  để  tránh gây  đ au tái phát. Có th ể  duy trì các nhóm  thu ố c trên nh ư ng chú ý s ử  d ụ ng li ề u th ấ p nh ấ t có hi ệ u qu ả   để  tránh tác d ụ ng không  mong mu ố n c ủ a thu ố c.   4.2.2.  Đ i ề u tr ị  ngo ạ i khoa  +   Ch ỉ   đị nh ph ẫ u thu ậ t cho các tr ườ ng h ợ p  đ au th ắ t l ư ng do thoát v ị   đĩ a  đệ m ho ặ c  kèm tr ượ t  đố t s ố ng  đ ã  đượ c  đ i ề u tr ị  n ộ i khoa tích c ự c trong ba tháng nh ư ng không  đạ t  hi ệ u qu ả ,  đặ c bi ệ t  đố i v ớ i tr ườ ng h ợ p  đ au nhi ề u, có d ấ u hi ệ u ép r ễ  n ặ ng (teo c ơ  nhanh,  r ố i lo ạ n c ơ  tròn, r ố i lo ạ n c ả m giác).   5. PHÒNG B Ệ NH  +   T ư  v ấ n cho b ệ nh nhân hi ể u rõ v ề  b ệ nh và th ự c hi ệ n các bi ệ n pháp tránh tái  phát  đ au vùng th ắ t l ư ng: làm vi ệ c  đ úng t ư  th ế ,  đặ c bi ệ t t ư  th ế   đ úng khi mang v ậ t n ặ ng,  tránh xo ắ n v ặ n vùng th ắ t l ư ng, nên b ơ i hàng tu ầ n, t ậ p luy ệ n các  độ ng tác làm ch ắ c kh ỏ e  c ơ  b ụ ng, c ơ  l ư ng…    138 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  TÀI LI Ệ U THAM KH Ả O  1.   Nguy ễ n Th ị  Ng ọ c Lan;  “ Đ au c ộ t s ố ng th ắ t l ư ng và  đ au th ầ n kinh t ọ a do thoát  v ị   đĩ a  đệ m” ;  B ệ nh h ọ c N ộ i khoa . NXB Y h ọ c, t ậ p 2, 2008; trang 343-354.  2.   Chou R, Qaseem A, Snow V  et al; "Diagnosis and treatment of low back pain:  a joint clinical practice guideline from the American College of Physicians and  the American Pain Society" ;  Ann Intern Med  147 (7), 2007, p478–91.  3.   Last A, et al;  “Chronic low back pain: Evaluation and management”.  American Family Physician ; 2009; p79:1067.  4.   Malanga GA, Dunn KR;  “Low back pain management: approaches to  treatment” ;  J Musculoskel Med .27, 2010; p305-315  5.   Pepijn DDM Roelofs, et al ;  “Non-steroidal anti-inflammatory drugs for low  back pain” ;   Cochrane Database of Systematic Reviews . Accessed July 15, 2012  6.   Van Middelkoop M, Rubinstein SM, Verhagen AP, Ostelo RW, Koes BW, van  Tulder MW;  "Exercise therapy for chronic nonspecific low-back pain" ;  Best  Pract Res Clin Rheumatol  24 (2), 2010; p193–204.         H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  139  
-
-Đ AU TH Ầ N KINH T Ọ A  (Sciatica pain)  1.  ĐỊ NH  NGHĨ A   Đ au th ầ n kinh t ọ a (sciatica pain) còn g ọ i là  đ au th ầ n kinh hông to, bi ể u hi ệ n b ở i  c ả m giác  đ au d ọ c theo  đườ ng  đ i c ủ a th ầ n kinh t ọ a:  đ au t ạ i c ộ t s ố ng th ắ t l ư ng lan t ớ i m ặ t  ngoài  đ ùi, m ặ t tr ướ c ngoài c ẳ ng chân, m ắ t cá ngoài và t ậ n  ở  các ngón chân. Tùy theo v ị   trí t ổ n th ươ ng mà h ướ ng lan c ủ a  đ au có khác nhau.   Th ườ ng g ặ p  đ au th ầ n kinh t ọ a m ộ t bên,  ở  l ứ a tu ổ i lao  độ ng (30-50 tu ổ i). Tr ướ c  kia t ỷ  l ệ  nam cao h ơ n n ữ , song các nghiên c ứ u n ă m 2011 cho th ấ y t ỷ  l ệ  n ữ  cao h ơ n nam.  Nguyên nhân th ườ ng g ặ p nh ấ t là do thoát v ị   đĩ a  đệ m. T ỷ  l ệ   đ au th ầ n t ọ a do thoát v ị   đĩ a  đệ m c ộ t s ố ng th ắ t l ư ng t ạ i c ộ ng  đồ ng mi ề n B ắ c Vi ệ t Nam là 0,64% (2010).  
-
- 2. NGUYÊN NHÂN  −   Nguyên nhân hàng  đầ u gây chèn ép r ễ  th ầ n kinh t ọ a là thoát v ị   đĩ a  đệ m 
-
- (th ườ ng g ặ p nh ấ t là  đĩ a  đệ m L4-L5 ho ặ c L5-S1 gây chèn ép r ễ  L5 ho ặ c S1 t ươ ng  ứ ng);  tr ượ t  đố t s ố ng; thoái hóa c ộ t s ố ng th ắ t l ư ng gây h ẹ p  ố ng s ố ng th ắ t l ư ng.  Các nhóm  nguyên nhân do thoái hóa này có th ể  k ế t h ợ p v ớ i nhau.  −   Các nguyên nhân hi ế m g ặ p h ơ n: viêm  đĩ a  đệ m  đố t s ố ng, t ổ n th ươ ng thân  đố t  s ố ng (th ườ ng do lao, vi khu ẩ n, u), ch ấ n th ươ ng, tình tr ạ ng mang thai… 
-
- 3. CH Ẩ N  ĐOÁ N 
-
- 3.1. Ch ẩ n  đ oán xác  đị nh 
-
- 3.1.1. Lâm sàng  −   Đ au d ọ c  đườ ng  đ i c ủ a dây th ầ n kinh t ọ a,  đ au t ạ i c ộ t s ố ng th ắ t l ư ng lan t ớ i m ặ t  ngoài  đ ùi, m ặ t tr ướ c ngoài c ẳ ng chân, m ắ t cá ngoài và t ậ n  ở  các ngón chân. Tùy theo v ị   trí t ổ n th ươ ng mà bi ể u hi ệ n trên lâm sàng có khác nhau: T ổ n th ươ ng r ễ  L4  đ au  đế n  khoeo chân; t ổ n th ươ ng r ễ  L5  đ au lan t ớ i mu bàn chân t ậ n h ế t  ở  ngón chân cái (ngón I);  t ổ n th ươ ng r ễ  L5  đ au lan t ớ i lòng bàn chân (gan chân) t ậ n h ế t  ở  ngón V (ngón út). M ộ t  s ố  tr ườ ng h ợ p không  đ au c ộ t s ố ng th ắ t l ư ng, ch ỉ   đ au d ọ c chân.  −   Đ au có th ể  liên t ụ c ho ặ c t ừ ng c ơ n, gi ả m khi n ằ m ngh ỉ  ng ơ i, t ă ng khi  đ i l ạ i  nhi ề u. Tr ườ ng h ợ p có h ộ i ch ứ ng chèn ép: t ă ng khi ho, r ặ n, h ắ t h ơ i. Có th ể  có tri ệ u  ch ứ ng y ế u c ơ . Giai  đ o ạ n mu ộ n có teo c ơ  t ứ   đầ u  đ ùi, h ạ n ch ế  v ậ n  độ ng, co c ứ ng c ơ  c ạ nh  c ộ t s ố ng.  −   M ộ t s ố  nghi ệ m pháp:  +   H ệ  th ố ng  đ i ể m  đ au Valleix, d ấ u chuông b ấ m d ươ ng tính.  +   D ấ u hi ệ u Lasègue d ươ ng tính.   140 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-+   Các d ấ u hi ệ u khác có giá tr ị  t ươ ng  đươ ng d ấ u hi ệ u Lasègue: d ấ u hi ệ u Chavany,  d ấ u hi ệ u Bonnet.  +   Ph ả n x ạ  gân x ươ ng: Ph ả n x ạ  gân bánh chè gi ả m ho ặ c m ấ t trong t ổ n th ươ ng r ễ   L4, ph ả n x ạ  gân gót gi ả m ho ặ c m ấ t trong t ổ n th ươ ng r ễ  S1.  3.1.2. C ậ n lâm sàng  −   Các xét nghi ệ m v ề  d ấ u hi ệ u viêm trong xét nghi ệ m máu âm tính, các ch ỉ  s ố   sinh hóa thông th ườ ng không thay  đổ i. Tuy nhiên c ầ n ch ỉ   đị nh xét nghi ệ m bilan viêm,  các xét nghi ệ m c ơ  b ả n nh ằ m m ụ c  đ ích lo ạ i tr ừ  nh ữ ng b ệ nh lý nh ư  viêm nhi ễ m, ác tính  và c ầ n thi ế t khi ch ỉ   đị nh thu ố c.  −   Ch ụ p Xquang th ườ ng quy c ộ t s ố ng th ắ t l ư ng: ít có giá tr ị  ch ẩ n  đ oán nguyên  nhân.  Đ a s ố  các tr ườ ng h ợ p Xquang th ườ ng quy bình th ườ ng ho ặ c có d ấ u hi ệ u thoái hóa  c ộ t s ố ng th ắ t l ư ng, tr ượ t  đố t s ố ng. Ch ỉ   đị nh ch ụ p Xquang th ườ ng quy nh ằ m lo ạ i tr ừ  m ộ t  s ố  nguyên nhân (viêm  đĩ a  đệ m  đố t s ố ng, tình tr ạ ng h ủ y  đố t s ố ng do ung th ư …).  −   Ch ụ p c ộ ng h ưở ng t ừ  (MRI) c ộ t s ố ng th ắ t l ư ng: nh ằ m xác  đị nh chính xác d ạ ng  t ổ n th ươ ng c ũ ng nh ư  v ị  trí kh ố i thoát v ị , m ứ c  độ  thoát v ị   đĩ a  đệ m,  đồ ng th ờ i có th ể  phát  hi ệ n các nguyên nhân ít g ặ p khác (viêm  đĩ a  đệ m  đố t s ố ng, kh ố i u, …).  −   Ch ụ p CT-scan: ch ỉ   đượ c ch ỉ   đị nh khi không có  đ i ề u ki ệ n ch ụ p c ộ ng h ưở ng t ừ .  −   Đ i ệ n c ơ : giúp phát hi ệ n và  đ ánh giá t ổ n th ươ ng các r ễ  th ầ n kinh. 
-
- 3.2. Ch ẩ n  đ oán phân bi ệ t   C ầ n phân bi ệ t v ớ i các tr ườ ng h ợ p gi ả   đ au th ầ n kinh t ọ a.   −   Đ au th ầ n kinh  đ ùi,  đ au th ầ n kinh bì  đ ùi,  đ au th ầ n kinh b ị t.  −   Đ au kh ớ p háng do viêm, ho ạ i t ử , thoái hóa, ch ấ n th ươ ng.  −   Viêm kh ớ p cùng ch ậ u, viêm, áp xe c ơ  th ắ t l ư ng ch ậ u. 
-
- 4.  Đ I Ề U  TRỊ  
-
- 4.1. Nguyên t ắ c  đ i ề u tr ị   −   Đ i ề u tr ị  theo nguyên nhân (th ườ ng g ặ p nh ấ t là thoát v ị   đĩ a  đệ m c ộ t s ố ng th ắ t l ư ng).  −   Gi ả m  đ au và ph ụ c h ồ i v ậ n  độ ng nhanh.  −   Đ i ề u tr ị  n ộ i khoa v ớ i nh ữ ng tr ườ ng h ợ p nh ẹ  và v ừ a.  −   Can thi ệ p ngo ạ i khoa khi có nh ữ ng bi ế n ch ứ ng liên quan  đế n v ậ n  độ ng, c ả m giác.  −   Đ au th ầ n kinh t ọ a do nguyên nhân ác tính:  đ i ề u tr ị  gi ả i ép c ộ t s ố ng k ế t h ợ p  đ i ề u  tr ị  chuyên khoa. 
-
- 4.2.  Đ i ề u tr ị  c ụ  th ể   
-
- 4.2.1. N ộ i khoa  −   Ch ế   độ  ngh ỉ  ng ơ i:  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  141  
-
-N ằ m gi ườ ng c ứ ng, tránh các  độ ng tác m ạ nh  độ t ng ộ t, mang vác n ặ ng,  đứ ng, ng ồ i  quá lâu.  −   Đ i ề u tr ị  thu ố c:  +   Thu ố c gi ả m  đ au. Tùy m ứ c  độ   đ au mà s ử  d ụ ng m ộ t ho ặ c ph ố i h ợ p các thu ố c  gi ả m  đ au sau  đ ây:  •   Thu ố c gi ả m  đ au: paracetamol 1-3 gam/ ngày chia 2-4 l ầ n. Tr ườ ng h ợ p  đ au  nhi ề u, ch ỉ   đị nh paracetamol k ế t h ợ p v ớ i opiad nh ẹ  nh ư  Codein ho ặ c Tramadol 2-4  viên/ngày.  •   Thu ố c kháng viêm không steroid (NSAID): tùy  đố i t ượ ng b ệ nh nhân, có th ể   dùng m ộ t trong các NSAID không ch ọ n l ọ c ho ặ c có  ứ c ch ế  ch ọ n l ọ c COX-2, ví d ụ :  Ibubrofen (400 mg x 3-4 l ầ n/ngày), naproxen (500 mg x 2 l ầ n/ngày, diclofenac (75-150  mg/ngày), piroxicam (20 mg/ngày), meloxicam (15 mg/ngày), celecoxib (200 mg/ngày),  etoricoxib (60 mg/ngày). C ầ n l ư u ý các tác d ụ ng ph ụ  trên  đườ ng tiêu hóa, th ậ n, tim  m ạ ch.  Để  gi ả m nguy c ơ  tiêu hóa ( đặ c bi ệ t khi s ử  d ụ ng các NSAID không ch ọ n l ọ c) nên  xem xét s ử  d ụ ng ph ố i h ợ p v ớ i m ộ t thu ố c b ả o v ệ  d ạ  dày thu ố c nhóm  ứ c ch ế  b ơ m proton  (PPI) (xem thêm ph ầ n ph ụ  l ụ c).  •   Trong tr ườ ng h ợ p  đ au nhi ề u có th ể  c ầ n ph ả i dùng  đế n các ch ế  ph ẩ m thu ố c  phi ệ n nh ư  morphin.  +   Thu ố c giãn c ơ : Tolperisone (100-150 mg x 3 l ầ n u ố ng/ngày) ho ặ c Eperisone  (50 mg x 2-3 l ầ n/ngày) …  +   Các thu ố c khác: khi b ệ nh nhân có  đ au nhi ề u,  đ au m ạ n tính, có th ể  s ử  d ụ ng  ph ố i h ợ p v ớ i các thu ố c gi ả m  đ au th ầ n kinh nh ư :  •   Gabapentin: 600-1200 mg/ngày (b ắ t  đầ u b ằ ng li ề u 300/ngày trong tu ầ n  đầ u).  •   Pregabalin: 150-300 mg/ngày (b ắ t  đầ u b ằ ng li ề u 75 mg/ngày trong tu ầ n  đầ u).  •   Các thu ố c khác: các vitamin nhóm B ho ặ c Mecobalamin.  +   Tiêm corticosteroid ngoài màng c ứ ng: gi ả m  đ au do r ễ  trong b ệ nh th ầ n kinh t ọ a,  có th ể  tiêm d ướ i h ướ ng d ẫ n c ủ a màn hu ỳ nh quang t ă ng sáng ho ặ c CT.  4.2.2. V ậ t lý tr ị  li ệ u  −   Mát xa li ệ u pháp.  −   Th ể  d ụ c tr ị  li ệ u: nh ữ ng bài t ậ p kéo giãn c ộ t s ố ng, xà  đơ n treo ng ườ i nh ẹ . B ơ i,  m ộ t s ố  bài t ậ p c ơ  l ư ng giúp t ă ng c ườ ng s ứ c m ạ nh c ộ t s ố ng.  −   Đ eo  đ ai l ư ng h ỗ  tr ợ  nh ằ m tránh quá t ả i trên  đĩ a  đệ m c ộ t s ố ng.   4.2.3. Các th ủ  thu ậ t can thi ệ p xâm l ấ n t ố i thi ể u  −   Các th ủ  thu ậ t  đ i ề u tr ị  can thi ệ p t ố i thi ể u: s ử  d ụ ng sóng cao t ầ n (t ạ o hình nhân  đĩ a  đệ m). M ụ c  đ ích là l ấ y b ỏ  ho ặ c làm tiêu t ổ  ch ứ c t ừ  vùng trung tâm  đĩ a  đệ m  để  làm  gi ả m áp l ự c chèn ép c ủ a  đĩ a  đệ m b ị  thoát v ị   đố i v ớ i r ễ  th ầ n kinh.   142 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Ch ỉ   đị nh: nh ữ ng thoát v ị   đĩ a  đệ m d ướ i dây ch ằ ng, t ứ c là ch ư a qua dây ch ằ ng  d ọ c sau.  
-
- 4.2.4.  Đ i ề u tr ị  ngo ạ i khoa  −   Ch ỉ   đị nh khi  đ i ề u tr ị  n ộ i khoa th ấ t b ạ i ho ặ c nh ữ ng tr ườ ng h ợ p có chèn ép n ặ ng 
-
- (h ộ i ch ứ ng  đ uôi ng ự a, h ẹ p  ố ng s ố ng, li ệ t chi d ướ i…), teo c ơ .  −   Tùy theo tình tr ạ ng thoát v ị , tr ượ t  đố t s ố ng ho ặ c u chèn ép c ũ ng nh ư   đ i ề u  ki ệ n k ỹ  thu ậ t cho phép mà s ử  d ụ ng các ph ươ ng pháp ph ẫ u thu ậ t khác nhau (n ộ i soi,  sóng cao t ầ n, vi ph ẫ u ho ặ c m ổ  h ở , làm v ữ ng c ộ t s ố ng). Hai ph ươ ng pháp ph ẫ u thu ậ t  th ườ ng s ử  d ụ ng:  +   Ph ẫ u thu ậ t l ấ y nhân  đệ m: c ắ t b ỏ  m ộ t ph ầ n nh ỏ   đĩ a  đệ m thoát v ị  gây chèn ép  th ầ n kinh. Ch ỉ   đị nh sau khi  đ i ề u tr ị   đ au 03 tháng không k ế t qu ả . Tr ườ ng h ợ p b ệ nh nhân  đ ã có bi ế n ch ứ ng h ạ n ch ế  v ậ n  độ ng và r ố i lo ạ n c ả m giác n ặ ng, c ầ n ph ẫ u thu ậ t s ớ m h ơ n.  +   Ph ẫ u thu ậ t c ắ t cung sau  đố t s ố ng: ch ỉ   đị nh  đố i v ớ i  đ au th ầ n kinh t ọ a do h ẹ p  ố ng s ố ng, ph ươ ng pháp này làm c ộ t s ố ng m ấ t v ữ ng và d ễ  tái phát.  +   Tr ườ ng h ợ p tr ượ t  đố t s ố ng gây chèn ép th ầ n kinh n ặ ng: c ố   đị nh b ằ ng ph ươ ng  pháp làm c ứ ng  đố t s ố ng, n ẹ p vít c ộ t s ố ng.    S Ơ   ĐỒ  CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị   Đ AU TH Ầ N KINH T Ọ A    Đ au d ọ c  đườ ng  đ i c ủ a th ầ n kinh t ọ a    D ấ u Valleix (+)  Lasegue (+)        Ch ẩ n  đ oán  đ au th ầ n kinh t ọ a      Xquang c ộ t s ố ng th ắ t l ư ng quy  ướ c  MRI/CT c ộ t s ố ng th ắ t l ư ng      Thoái hóa c ộ t s ố ng th ắ t l ư ng    Chèn ép t ủ y n ặ ng  Chèn ép t ủ y s ố ng nh ẹ       Đ i ề u tr ị  n ộ i khoa  Can thi ệ p xâm l ấ n  Đ i ề u tr ị  ngo ạ i khoa    t ố i thi ể u  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  143  
-
- 5. TI Ế N TRI Ể N VÀ BI Ế N CH Ứ NG  −   R ố i lo ạ n v ậ n  độ ng chi d ướ i gây h ạ n ch ế  v ậ n  độ ng m ộ t ph ầ n ho ặ c hoàn toàn li ệ t  chi d ướ i.  −   R ố i lo ạ n c ả m giác chi d ướ i.  −   R ố i lo ạ n c ơ  vòng (c ơ  tròn).  6. THEO DÕI VÀ QU Ả N LÝ  −   C ầ n các bi ệ n pháp b ả o v ệ  c ộ t s ố ng k ế t h ợ p (thay  đổ i l ố i s ố ng, có các bi ệ n pháp  tránh cho c ộ t s ố ng b ị  quá t ả i, nên b ơ i hàng tu ầ n).   −   N ế u do các nguyên nhân ác tính t ạ i ch ỗ  ho ặ c di c ă n, c ầ n k ế t h ợ p  đ i ề u tr ị  ung  th ư  (hóa tr ị , x ạ  tr ị ).  −   Nên mang  đ ai l ư ng sau ph ẫ u thu ậ t ít nh ấ t 1 tháng khi  đ i l ạ i ho ặ c ng ồ i lâu.   −   Tái khám  đị nh k ỳ  sau  đ i ề u tr ị  n ộ i khoa ho ặ c ngo ạ i khoa theo h ẹ n.  7. PHÒNG B Ệ NH  −   Gi ữ  t ư  th ế  c ộ t s ố ng th ẳ ng  đứ ng khi ng ồ i lâu ho ặ c lái xe, có th ể  mang  đ ai l ư ng  h ỗ  tr ợ .  −   Tránh các  độ ng tác m ạ nh  độ t ng ộ t, sai t ư  th ế , mang vác n ặ ng.  −   Luy ệ n t ậ p b ơ i l ộ i ho ặ c yoga giúp t ă ng s ứ c b ề n và s ự  linh ho ạ t kh ố i c ơ  l ư ng.    TÀI LI Ệ U THAM KH Ả O  1.   Bradley WG, et al;  “Neurology in Clinical Practice” ; 5th ed. Philadelphia, Pa.:  Butterworth-Heinemann Elsevier; 2008.   2.   Knight  CL,  et  al;  “Treatment  of  acute  low  back  pain” ;  http://www.uptodate.com/index. Accessed Aug. 9, 2012.  3.   Hsu PS, et al;  “Lumbosacral radiculopathy: Pathophysiology, clinical features  and diagnosis”;  http://www.uptodate.com/index. Accessed Aug. 2, 2012.  4.   Levin K, et al;  “Acute lumbosacral radiculopathy: Prognosis and treatment” ;  http://www.uptodate.com/index. Accessed Aug. 2, 2012.  5.   Van Tulder M, Peul W, Koes B ; “Sciatica: what the rheumatologist needs to  know’ ’; Nat Rev Rheumatol. 2010;6(3):139-45        144 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-B Ệ NH THOÁI HÓA C Ộ T S Ố NG C Ổ    (Cervical spondylosis)  1.  ĐỊ NH  NGHĨ A  Thoái hóa c ộ t s ố ng c ổ  (Cervical spondylosis) là b ệ nh lý m ạ n tính khá ph ổ  bi ế n,  ti ế n tri ể n ch ậ m, th ườ ng g ặ p  ở  ng ườ i l ớ n tu ổ i và/ho ặ c liên quan  đế n t ư  th ế  v ậ n  độ ng. T ổ n  th ươ ng c ơ  b ả n c ủ a b ệ nh là tình tr ạ ng thoái hóa s ụ n kh ớ p và/ho ặ c  đĩ a  đệ m  ở  c ộ t s ố ng c ổ .  Có th ể  g ặ p thoái hóa  ở  b ấ t k ỳ   đ o ạ n nào song  đ o ạ n C5-C6-C7 là th ườ ng g ặ p nh ấ t.   2. NGUYÊN NHÂN  −   Quá trình lão hóa c ủ a t ổ  ch ứ c s ụ n, t ế  bào và t ổ  ch ứ c kh ớ p và quanh kh ớ p (c ơ   c ạ nh c ộ t s ố ng, dây ch ằ ng, th ầ n kinh…).  −   Tình tr ạ ng ch ị u áp l ự c quá t ả i kéo dài c ủ a s ụ n kh ớ p.  
-
- 3. CH Ẩ N  ĐOÁ N 
-
- 3.1. Lâm sàng  Bi ể u hi ệ n r ấ t  đ a d ạ ng, th ườ ng g ồ m b ố n h ộ i ch ứ ng chính sau:  −   H ộ i ch ứ ng c ộ t s ố ng c ổ :  đ au, có th ể  kèm theo co c ứ ng vùng c ơ  c ạ nh c ộ t s ố ng c ổ   c ấ p ho ặ c m ạ n tính; tri ệ u ch ứ ng  đ au t ă ng lên  ở  t ư  th ế  c ổ  th ẳ ng ho ặ c cúi  đầ u kéo dài, m ệ t  m ỏ i, c ă ng th ẳ ng, lao  độ ng n ặ ng, thay  đổ i th ờ i ti ế t  đặ c bi ệ t b ị  nhi ễ m l ạ nh; có  đ i ể m  đ au  c ộ t s ố ng c ổ ; h ạ n ch ế  v ậ n  độ ng c ộ t s ố ng c ổ .  −   H ộ i ch ứ ng r ễ  th ầ n kinh c ổ : tùy theo v ị  trí r ễ  t ổ n th ươ ng (m ộ t bên ho ặ c c ả  hai  bên) mà  đ au lan t ừ  c ổ  xu ố ng tay bên  đ ó. Có th ể   đ au t ạ i vùng gáy,  đ au quanh kh ớ p vai.  Đ au sâu trong c ơ  x ươ ng, b ệ nh nhân có c ả m giác nh ứ c nh ố i; có th ể  kèm c ả m giác ki ế n  bò, tê r ầ n d ọ c cánh tay, có th ể  lan  đế n các ngón tay.  Đ au t ă ng lên khi v ậ n  độ ng c ộ t s ố ng  c ổ   ở  các t ư  th ế  (cúi, ng ử a, nghiêng, quay) ho ặ c khi ho, h ắ t h ơ i, ng ồ i lâu… Có th ể  kèm  theo hi ệ n t ượ ng chóng m ặ t, y ế u c ơ  ho ặ c teo c ơ  t ạ i vai, cánh tay bên t ổ n th ươ ng.  −   H ộ i ch ứ ng  độ ng m ạ ch  đố t s ố ng: nh ứ c  đầ u vùng ch ẩ m, thái d ươ ng, trán và hai  h ố  m ắ t th ườ ng x ả y ra vào bu ổ i sáng; có khi kèm chóng m ặ t, ù tai, hoa m ắ t, m ờ  m ắ t,  nu ố t v ướ ng;  đ au tai, lan ra sau tai,  đ au khi  để   đầ u  ở  m ộ t t ư  th ế  nh ấ t  đị nh.  −   H ộ i ch ứ ng ép t ủ y: tùy theo m ứ c  độ  và v ị  trí t ổ n th ươ ng mà bi ể u hi ệ n ch ỉ   ở  chi  trên ho ặ c c ả  thân và chi d ướ i. Dáng  đ i không v ữ ng,  đ i l ạ i khó kh ă n; y ế u ho ặ c li ệ t chi,  teo c ơ  ng ọ n chi, d ị  c ả m. T ă ng ph ả n x ạ  gân x ươ ng.  −   Bi ể u hi ệ n khác: d ễ  cáu g ắ t, thay  đổ i tính tình, r ố i lo ạ n gi ấ c ng ủ , gi ả m kh ả  n ă ng  làm vi ệ c…  Tùy theo v ị  trí c ộ t s ố ng c ổ  b ị  t ổ n th ươ ng mà có th ể  xu ấ t hi ệ n riêng l ẻ  ho ặ c  đồ ng  th ờ i các bi ể u hi ệ n trên.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  145 3.2. C ậ n lâm sàng  −   Các xét nghi ệ m phát hi ệ n d ấ u hi ệ u viêm, bilan phosphor - calci th ườ ng  ở  trong  gi ớ i h ạ n bình th ườ ng. Tuy nhiên c ầ n ch ỉ   đị nh xét nghi ệ m bilan viêm, các xét nghi ệ m c ơ   b ả n nh ằ m m ụ c  đ ích lo ạ i tr ừ  nh ữ ng b ệ nh lý nh ư  viêm nhi ễ m, b ệ nh lý ác tính và c ầ n thi ế t  khi ch ỉ   đị nh thu ố c.  −   Xquang c ộ t s ố ng c ổ  th ườ ng quy v ớ i các t ư  th ế  sau: th ẳ ng, nghiêng, ch ế ch ¾  trái và ph ả i. Trên phim Xquang có th ể  phát hi ệ n các b ấ t th ườ ng: m ấ t  đườ ng cong sinh lí,  gai x ươ ng  ở  thân  đố t s ố ng, gi ả m chi ề u cao  đố t s ố ng,  đĩ a  đệ m,  đặ c x ươ ng d ướ i s ụ n, h ẹ p  l ỗ  liên h ợ p…  −   Ch ụ p c ộ ng h ưở ng t ừ  (MRI) c ộ t s ố ng c ổ : ph ươ ng pháp có giá tr ị  nh ấ t nh ằ m xác  đị nh chính xác v ị  trí r ễ  b ị  chèn ép, v ị  trí kh ố i thoát v ị , m ứ c  độ  thoát v ị   đĩ a  đệ m, m ứ c  độ   h ẹ p  ố ng s ố ng,  đồ ng th ờ i có th ể  phát hi ệ n các nguyên nhân ít g ặ p khác (viêm  đĩ a  đệ m  đố t  s ố ng, kh ố i u, …).  −   Ch ụ p CT-scan: do hi ệ u qu ả  ch ẩ n  đ oán kém chính xác h ơ n nên ch ỉ   đượ c ch ỉ   đị nh khi không có  đ i ề u ki ệ n ch ụ p c ộ ng h ưở ng t ừ .  −   Đ i ệ n c ơ : giúp phát hi ệ n và  đ ánh giá t ổ n th ươ ng các r ễ  th ầ n kinh.  3.3. Ch ẩ n  đ oán xác  đị nh  Hi ệ n t ạ i v ẫ n ch ư a có tiêu chu ẩ n ch ẩ n  đ oán xác  đị nh b ệ nh lí thoái hóa c ộ t s ố ng c ổ .  Ch ẩ n  đ oán c ầ n d ự a vào tri ệ u ch ứ ng lâm sàng và c ậ n lâm sàng, trong  đ ó:  −   Đ au t ạ i vùng c ộ t s ố ng c ổ  và có m ộ t ho ặ c nhi ề u các tri ệ u ch ứ ng thu ộ c b ố n h ộ i  ch ứ ng nêu trên.   −   Xquang c ộ t s ố ng c ổ  bình th ườ ng ho ặ c có các tri ệ u ch ứ ng c ủ a thoái hóa.  −   C ộ ng h ưở ng t ừ  ho ặ c CT-scan: v ị  trí, m ứ c  độ  r ễ  th ầ n kinh b ị  chèn ép; nguyên  nhân chèn ép (thoát v ị   đĩ a  đệ m, gai x ươ ng ...).   −   C ầ n l ư u ý: g ầ n  đ ây tình tr ạ ng toàn thân không b ị  thay  đổ i, không s ố t, không có  các r ố i lo ạ n ch ứ c n ă ng thu ộ c b ấ t c ứ  c ơ  quan nào (d ạ  dày, ru ộ t, s ả n ph ụ  khoa, ph ế  qu ả n- ph ổ i...) m ớ i xu ấ t hi ệ n; không có các bi ể u hi ệ n  đ au các vùng c ộ t s ố ng khác: l ư ng, c ổ ,  s ườ n, kh ớ p khác...   Các xét nghi ệ m d ấ u hi ệ u viêm và bilan phospho-calci âm tính.   3.4. Ch ẩ n  đ oán phân bi ệ t  −   Các ch ấ n th ươ ng vùng c ộ t s ố ng c ổ  gây t ổ n th ươ ng x ươ ng và  đĩ a  đệ m.  −   Các ung th ư  x ươ ng ho ặ c di c ă n x ươ ng, các b ệ nh lý t ủ y x ươ ng lành tính ho ặ c ác  tính.  −   U n ộ i t ủ y, u th ầ n kinh…  −   B ệ nh lý c ủ a h ệ   độ ng m ạ ch s ố ng n ề n.  146 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-4.  Đ I Ề U  TRỊ  
-
- 4.1. Nguyên t ắ c chung  −   C ầ n ph ố i h ợ p ph ươ ng pháp n ộ i khoa và ph ụ c h ồ i ch ứ c n ă ng, luy ệ n t ậ p, thay  đổ i  l ố i s ố ng nh ằ m b ả o v ệ  c ộ t s ố ng c ổ , tránh tái phát.  −   Áp d ụ ng các li ệ u pháp gi ả m  đ au theo m ứ c  độ  nh ẹ  - v ừ a - n ặ ng, h ạ n ch ế  s ử   d ụ ng dài ngày.  −   C ầ n t ă ng c ườ ng các nhóm thu ố c  đ i ề u tr ị  b ệ nh theo nguyên nhân. 
-
- 4.2.  Đ i ề u tr ị  c ụ  th ể  
-
- 4.2.1.  Đ i ề u tr ị  n ộ i khoa  −    Paracetamol:  đ ây là l ự a ch ọ n  ư u tiên v ớ i s ự  cân b ằ ng gi ữ a tác d ụ ng ph ụ  và  hi ệ u qu ả  mong mu ố n. Có th ể   đơ n ch ấ t ho ặ c ph ố i h ợ p v ớ i các ch ấ t gi ả m  đ au trung  ươ ng  nh ư  codein, dextropropoxiphene…  −   Tramadol: có hi ệ u qu ả , ch ỉ  dùng khi không  đ áp  ứ ng v ớ i nhóm gi ả m  đ au nêu  trên và tránh dùng kéo dài. M ộ t vài tr ườ ng h ợ p hãn h ữ u, th ể  t ă ng  đ au có th ể  ch ỉ   đị nh  opioids ng ắ n ngày và li ề u th ấ p nh ấ t có th ể .   −   Nhóm thu ố c gi ả m  đ au ch ố ng viêm không steroid li ề u th ấ p: các d ạ ng kinh  đ i ể n  (diclofenac, ibuprofen, naproxen…) ho ặ c các thu ố c  ứ c ch ế  ch ọ n l ọ c COX-2 (celecoxib,  etoricoxib...), tuy nhiên c ầ n th ậ n tr ọ ng  ở  b ệ nh nhân l ớ n tu ổ i, có b ệ nh lý  ố ng tiêu hóa,  tim m ạ ch ho ặ c th ậ n m ạ n tính. Có th ể  dùng  đườ ng u ố ng ho ặ c bôi ngoài da.  −   Thu ố c giãn c ơ .   −   Nhóm thu ố c ch ố ng thoái hóa tác d ụ ng ch ậ m (piascledine 300mg/ngày;  glucosamine sulfate: 1500mg/ngày, dùng  đơ n  độ c ho ặ c ph ố i h ợ p v ớ i  chondroitin  sulfate); ho ặ c diacerein 50mg x 2 viên/ngày.  −   Các thu ố c khác: khi b ệ nh nhân có bi ể u hi ệ n  đ au ki ể u r ễ , có th ể  s ử  d ụ ng ph ố i  h ợ p v ớ i các thu ố c gi ả m  đ au th ầ n kinh nh ư :  +   Gabapentin: 600-1200 mg/ngày (nên b ắ t  đầ u b ằ ng li ề u th ấ p)  +   Pregabalin: 150-300 mg/ngày (nên b ắ t  đầ u b ằ ng li ề u th ấ p)  +   Các vitamin nhóm B (B1, B6, B12), mecobalamin   −   Tiêm Glucocorticoid c ạ nh c ộ t s ố ng: có hi ệ u qu ả  t ừ  vài ngày  đế n vài tháng.  Không nên tiêm quá 3 l ầ n trên cùng m ộ t kh ớ p trong m ộ t n ă m. C ầ n có s ự  h ướ ng d ẫ n c ủ a  bác s ĩ  chuyên khoa. Tr ườ ng h ợ p chèn ép r ễ , có th ể  tiêm th ẩ m phân corticosteroid t ạ i r ễ   b ị  chèn ép d ướ i h ướ ng d ẫ n c ủ a CT.  4.2.2. Ph ụ c h ồ i ch ứ c n ă ng  −   C ầ n th ự c hi ệ n các bài t ậ p v ậ n  độ ng vùng c ổ ,  đặ c bi ệ t v ớ i b ệ nh nhân  đ ã mang  n ẹ p c ổ  th ờ i gian dài, b ệ nh nhân có công vi ệ c ít v ậ n  độ ng vùng c ổ .  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  147  
-
-−   Ngh ỉ  ng ơ i, gi ữ   ấ m, tránh thay  đổ i t ư  th ế  c ộ t s ố ng c ổ   độ t ng ộ t.  −   Các li ệ u pháp v ậ t lý tr ị  li ệ u: s ử  d ụ ng nhi ệ t, sóng siêu âm... Có th ể  kéo dãn c ộ t  s ố ng c ổ  song nên th ự c hi ệ n v ớ i m ứ c  độ  t ă ng d ầ n t ừ  t ừ .   4.2.3.  Đ i ề u tr ị  ngo ạ i khoa  Ch ỉ  ch ỉ   đị nh áp d ụ ng trong các tr ườ ng h ợ p: có bi ể u hi ệ n chèn ép r ễ  th ầ n kinh ho ặ c  t ủ y s ố ng ti ế n tri ể n n ặ ng, tr ượ t  đố t s ố ng  độ  3-4 ho ặ c  đ ã th ấ t b ạ i v ớ i  đ i ề u tr ị  n ộ i khoa và  ph ụ c h ồ i ch ứ c n ă ng sau 03 tháng. 
-
- 5. TI Ế N TRI Ể N - BI Ế N CH Ứ NG  −   Chèn ép th ầ n kinh gây h ộ i ch ứ ng vai cánh tay m ộ t ho ặ c hai bên.  −   Chèn ép các  độ ng m ạ ch  đố t s ố ng gây  đ au  đầ u, chóng m ặ t.  −   Chèn ép t ủ y: gây y ế u,  đ au t ứ  chi,  đ i l ạ i khó kh ă n ho ặ c li ệ t không v ậ n  độ ng  đượ c. 
-
- 6. PHÒNG B Ệ NH  −   Phát hi ệ n và  đ i ề u tr ị  s ớ m các d ị  t ậ t c ộ t s ố ng c ổ .  −   Tránh các t ư  th ế  c ộ t s ố ng c ổ  b ị  quá t ả i do v ậ n  độ ng và tr ọ ng l ượ ng, tránh các  độ ng tác m ạ nh  độ t ng ộ t t ạ i c ộ t s ố ng c ổ  …    TÀI LI Ệ U THAM KH Ả O  1.   Nguy ễ n Mai H ồ ng; “ Thoái hóa c ộ t s ố ng, ch ẩ n  đ oán và  đ i ề u tr ị  nh ữ ng b ệ nh c ơ   x ươ ng kh ớ p” ; Nhà xu ấ t b ả n Y h ọ c, 2009; trang 56-64.  2.   Đ ào Th ị  Vân Khánh; “Thoái kh ớ p”; Bài gi ả ng b ệ nh h ọ c n ộ i khoa - t ậ p 2, Nhà  xu ấ t b ả n Y h ọ c, 2007 ; trang 111-116.  3.   Hector Molina và CS;  “Osteoarthritis, Arthritis and Rheumatologic Diseases” ;  The Washington manual of medical thepapeutics, 2010; p.870-872.  4.   John H. Klippel và CS;  “Osteoarthritis, Primer on the rheumatic diseases” ;  edition 13, 2008; p. 224-240.    148 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-H Ộ I CH Ứ NG C Ổ  VAI CÁNH TAY  (Cervical scapulohumeral syndrome)  1.  ĐẠ I C ƯƠ NG  −   H ộ i ch ứ ng c ổ  vai cánh tay (cervical scapulohumeral syndrome), còn g ọ i là h ộ i  ch ứ ng vai cánh tay (scapulohumeral syndrome) hay b ệ nh lý r ễ  t ủ y c ổ  (cervical  radiculopathy), là m ộ t nhóm các tri ệ u ch ứ ng lâm sàng liên quan  đế n các b ệ nh lý c ộ t  s ố ng c ổ  có kèm theo các r ố i lo ạ n ch ứ c n ă ng r ễ , dây th ầ n kinh c ộ t s ố ng c ổ  và/ho ặ c t ủ y  c ổ , không liên quan t ớ i b ệ nh lý viêm.   −   Bi ể u hi ệ n lâm sàng th ườ ng g ặ p là  đ au vùng c ổ , vai và m ộ t bên tay, kèm theo  m ộ t s ố  r ố i lo ạ n c ả m giác và/ho ặ c v ậ n  độ ng  t ạ i vùng chi ph ố i c ủ a r ễ  dây th ầ n kinh c ộ t  s ố ng c ổ  b ị   ả nh h ưở ng.  2. NGUYÊN NHÂN  −   Nguyên nhân th ườ ng g ặ p nh ấ t (70-80%) là do thoái hóa c ộ t s ố ng c ổ , thoái hóa  các kh ớ p liên  đố t và liên m ỏ m bên làm h ẹ p l ỗ  ti ế p h ợ p, h ậ u qu ả  là gây chèn ép r ễ /dây  th ầ n kinh c ộ t s ố ng c ổ  t ạ i các l ỗ  ti ế p h ợ p.  −   Thoát v ị   đĩ a  đệ m c ộ t s ố ng c ổ  (20-25%),  đơ n thu ầ n ho ặ c ph ố i h ợ p v ớ i thoái hóa  c ộ t s ố ng c ổ .  −   Các nguyên nhân ít g ặ p khác g ồ m ch ấ n th ươ ng, kh ố i u, nhi ễ m trùng, loãng  x ươ ng, b ệ nh lý viêm c ộ t s ố ng, b ệ nh lý ph ầ n m ề m c ạ nh c ộ t s ố ng.   −   Trong m ộ t s ố  tr ườ ng h ợ p h ộ i ch ứ ng c ổ  vai cánh tay là do b ả n thân b ệ nh lý c ủ a  c ộ t s ố ng c ổ  gây  đ au c ổ  và lan ra vai ho ặ c tay, mà không có b ệ nh lý r ễ  dây th ầ n kinh c ổ . 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Ch ẩ n  đ oán xác  đị nh 
-
- 3.1.1. Lâm sàng  Tùy thu ộ c nguyên nhân, m ứ c  độ  và giai  đ o ạ n b ệ nh, b ệ nh nhân có th ể  có ít nhi ề u  nh ữ ng tri ệ u ch ứ ng và h ộ i ch ứ ng sau  đ ây:   −   H ộ i ch ứ ng c ộ t s ố ng c ổ :   +   Đ au vùng c ổ  gáy, có th ể  kh ở i phát c ấ p tính sau ch ấ n th ươ ng, sau  độ ng tác   v ậ n  độ ng c ổ  quá m ứ c, ho ặ c t ự  nhiên nh ư  sau khi ng ủ  d ậ y.  Đ au c ũ ng có th ể  xu ấ t hi ệ n t ừ  t ừ ,  âm  ỉ , m ạ n tính .  +   H ạ n ch ế  v ậ n  độ ng c ộ t s ố ng c ổ , có th ể  kèm theo d ấ u hi ệ u v ẹ o c ổ , hay g ặ p trong  đ au c ộ t s ố ng c ổ  c ấ p tính.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  149  
-
-+   Đ i ể m  đ au c ộ t s ố ng c ổ  khi  ấ n vào các gai sau, c ạ nh c ộ t s ố ng c ổ  t ươ ng  ứ ng các  r ễ  th ầ n kinh.  −   H ộ i ch ứ ng r ễ  th ầ n kinh:    +   Đ au vùng gáy lan lên vùng ch ẩ m và xu ố ng vai ho ặ c cánh tay, bàn tay, bi ể u  hi ệ n lâm sàng là h ộ i ch ứ ng vai gáy, ho ặ c h ộ i ch ứ ng vai cánh tay.  Đ au th ườ ng t ă ng lên  khi xoay  đầ u ho ặ c g ậ p c ổ  v ề  phía bên  đ au.   +   R ố i lo ạ n v ậ n  độ ng, c ả m giác ki ể u r ễ : Y ế u c ơ  và r ố i lo ạ n c ả m giác nh ư  rát b ỏ ng,  ki ế n bò, tê bì  ở  vùng vai, cánh tay, ho ặ c  ở  bàn tay và các ngón tay.  +   M ộ t s ố  nghi ệ m pháp  đ ánh giá t ổ n th ươ ng r ễ  th ầ n kinh c ổ :   D ấ u hi ệ u chuông b ấ m:   Ấ n  đ i ể m c ạ nh s ố ng t ươ ng  ứ ng v ớ i l ỗ  ti ế p h ợ p th ấ y  đ au  xu ấ t hi ệ n t ừ  c ổ  lan xu ố ng vai và cánh tay.   Nghi ệ m pháp Spurling:  B ệ nh nhân ng ồ i ho ặ c n ằ m nghiêng  đầ u v ề  bên  đ au, th ầ y  thu ố c dùng tay ép lên  đỉ nh  đầ u b ệ nh nhân, làm cho  đ au t ă ng lên.   Nghi ệ m pháp d ạ ng vai:  B ệ nh nhân ng ồ i, cánh tay bên  đ au  đư a lên trên  đầ u và ra  sau, các tri ệ u ch ứ ng r ễ  gi ả m ho ặ c m ấ t.   Nghi ệ m pháp kéo giãn c ổ : B ệ nh nhân n ằ m ng ử a, th ầ y thu ố c dùng tay gi ữ  ch ẩ m  và c ằ m và kéo t ừ  t ừ  theo tr ụ c d ọ c, làm gi ả m tri ệ u ch ứ ng.  −   H ộ i ch ứ ng t ủ y c ổ :   +   Do l ồ i ho ặ c thoát v ị   đĩ a  đệ m gây chèn ép tu ỷ  c ổ  ti ế n tri ể n trong m ộ t th ờ i gian dài.  +   Bi ể u hi ệ n s ớ m là d ấ u hi ệ u tê bì và m ấ t s ự  khéo léo c ủ a hai bàn tay, teo c ơ   hai tay,  đ i l ạ i khó kh ă n, nhanh m ỏ i. Giai  đ o ạ n mu ộ n tùy v ị  trí t ổ n th ươ ng có th ể  th ấ y  li ệ t trung  ươ ng t ứ  chi; li ệ t ngo ạ i vi hai tay và li ệ t trung  ươ ng hai chân; r ố i lo ạ n ph ả n  x ạ   đạ i ti ể u ti ệ n.  −   Các tri ệ u ch ứ ng khác:  +   H ộ i ch ứ ng  độ ng m ạ ch s ố ng n ề n:   Đ au  đầ u vùng ch ẩ m, chóng m ặ t, ù tai, m ờ   m ắ t,  đ ôi khi có gi ả m th ị  l ự c thoáng qua, m ấ t th ă ng b ằ ng, m ệ t m ỏ i.  +   Có th ể  có các r ố i lo ạ n th ầ n kinh th ự c v ậ t:  Đ au kèm theo ù tai, r ố i lo ạ n th ị   l ự c, r ố i lo ạ n v ậ n m ạ ch vùng ch ẩ m vai ho ặ c tay.    +   Khi có các tri ệ u ch ứ ng toàn thân nh ư  s ố t, rét run, vã m ồ  hôi vào ban  đ êm,  s ụ t cân,… c ầ n ph ả i  đặ c bi ệ t l ư u ý lo ạ i tr ừ  b ệ nh lý ác tính, nhi ễ m trùng.   3.1.2. C ậ n lâm sàng  −   Xét nghi ệ m máu :  Ít có giá tr ị  ch ẩ n  đ oán trong b ệ nh lý c ộ t s ố ng c ổ  và  đĩ a  đệ m  gây chèn ép c ơ  h ọ c. Trong nh ữ ng b ệ nh nh ư  kh ố i u, viêm, nhi ễ m trùng có th ể  th ấ y thay  đổ i trong m ộ t s ố  xét nghi ệ m nh ư  t ế  bào máu ngo ạ i vi, t ố c  độ  l ắ ng máu, CRP,  phosphatase ki ề m,  đ i ệ n di protein huy ế t thanh, v.v…  150 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Ch ụ p Xquang th ườ ng quy : C ầ n ch ụ p t ư  th ế  tr ướ c sau, nghiêng và ch ế ch 3/4.  Xquang có th ể  phát hi ệ n nh ữ ng t ổ n th ươ ng c ộ t s ố ng c ổ  do ch ấ n th ươ ng, thoái hóa, h ẹ p  l ỗ  ti ế p h ợ p, x ẹ p  đố t s ố ng do loãng x ươ ng, h ủ y x ươ ng do b ệ nh lý ác tính, v.v.    −   Ch ụ p c ộ ng h ưở ng t ừ  (MRI ): MRI th ườ ng  đượ c ch ỉ   đị nh khi b ệ nh nhân  đ au  kéo dài (>4-6 tu ầ n),  đ au ngày càng t ă ng, có t ổ n th ươ ng th ầ n kinh ti ế n tri ể n, có bi ể u hi ệ n  b ệ nh lý t ủ y c ổ , ho ặ c các d ấ u hi ệ u c ả nh báo g ợ i ý b ệ nh lý ác tính hay nhi ễ m trùng.   −   Ch ụ p c ắ t l ớ p vi tính (CT Scan)  đơ n thu ầ n ho ặ c kèm ch ụ p t ủ y c ả n quang:  Ch ụ p   CT  đơ n thu ầ n có th ể   đượ c ch ỉ   đị nh khi không có MRI ho ặ c ch ố ng ch ỉ   đị nh ch ụ p MRI.    −   X ạ  hình x ươ ng:  Khi nghi ng ờ  ung th ư  di c ă n ho ặ c viêm  đĩ a  đệ m  đố t s ố ng, c ố t  t ủ y viêm.  −   Đ i ệ n c ơ :  Có th ể  giúp phát hi ệ n t ổ n th ươ ng ngu ồ n g ố c th ầ n kinh và phân bi ệ t  b ệ nh lý t ủ y c ổ  v ớ i b ệ nh lý r ễ  và dây th ầ n kinh ngo ạ i biên.  3.2. Ch ẩ n  đ oán phân bi ệ t  −   B ệ nh lý kh ớ p vai và viêm quanh kh ớ p vai.  −   H ộ i ch ứ ng l ố i ra l ồ ng ng ự c, viêm  đ ám r ố i th ầ n kinh cánh tay, h ộ i ch ứ ng  đườ ng  h ầ m c ổ  tay.  −   H ộ i ch ứ ng  đ au lo ạ n d ưỡ ng giao c ả m ph ả n x ạ .  −   B ệ nh lý t ủ y s ố ng do viêm, nhi ễ m trùng,  đ a x ơ  c ứ ng.  −   B ệ nh lý não, màng não, tim m ạ ch, hô h ấ p, tiêu hóa gây  đ au vùng c ổ  vai ho ặ c tay. 
-
- 4.  Đ I Ề U TR Ị  
-
-  4.1. Nguyên t ắ c  đ i ề u tr ị   −   Đ i ề u tr ị  tri ệ u ch ứ ng b ệ nh k ế t h ợ p v ớ i gi ả i quy ế t nguyên nhân n ế u có th ể .  −   K ế t h ợ p  đ i ề u tr ị  thu ố c v ớ i các bi ệ n pháp v ậ t lý tr ị  li ệ u, ph ụ c h ồ i ch ứ c n ă ng và  các bi ệ n pháp không dùng thu ố c khác.  −   Ch ỉ   đị nh  đ i ề u tr ị  ngo ạ i khoa khi c ầ n thi ế t. 
-
- 4.2.  Đ i ề u tr ị  c ụ  th ể  
-
- 4.2.1. Các bi ệ n pháp không dùng thu ố c  −   Giáo d ụ c b ệ nh nhân, thay  đổ i thói quen sinh ho ạ t, công vi ệ c (t ư  th ế  ng ồ i làm  vi ệ c, s ử  d ụ ng máy tính, …).  −   Trong giai  đ o ạ n c ấ p khi có  đ au nhi ề u ho ặ c sau ch ấ n th ươ ng có th ể  b ấ t  độ ng c ộ t  s ố ng c ổ  t ươ ng  đố i b ằ ng  đ ai c ổ  m ề m.   −   T ậ p v ậ n  độ ng c ộ t s ố ng c ổ , vai, cánh tay v ớ i các bài t ậ p thích h ợ p.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  151  
-
-−   V ậ t lý tr ị  li ệ u: Li ệ u pháp nhi ệ t, kích thích  đ i ệ n, siêu âm li ệ u pháp, xoa bóp b ấ m  huy ệ t, châm c ứ u, kéo giãn c ộ t s ố ng (t ạ i các c ơ  s ở   đ i ề u tr ị  v ậ t lý và ph ụ c h ồ i ch ứ c n ă ng). 
-
- 4.2.2. Các ph ươ ng pháp  đ i ề u tr ị  thu ố c  −   Thu ố c gi ả m  đ au:    Tùy m ứ c  độ   đ au, có th ể  dùng  đơ n thu ầ n ho ặ c ph ố i h ợ p các nhóm thu ố c sau:  +   Thu ố c gi ả m  đ au thông th ườ ng: Paracetamol viên 0,5-0,65g x 2-4 viên/24h 
-
- (không dùng quá 4 gam paracetamol/24h).  +   Thu ố c gi ả m  đ au d ạ ng ph ố i h ợ p: Paracetamol k ế t h ợ p v ớ i m ộ t opiad nh ẹ  nh ư   codein ho ặ c tramadol: 2-4 viên/24h.  +   Thu ố c kháng viêm không steroid (NSAID): L ự a ch ọ n m ộ t thu ố c thích h ợ p tùy  c ơ   đị a b ệ nh nhân và các nguy c ơ  tác d ụ ng ph ụ . Li ề u th ườ ng dùng: diclofenac 75-150  mg/ngày; piroxicam 20 mg/ngày; meloxicam 7,5-15 mg/ngày; celecoxib 100-200  mg/ngày; ho ặ c etoricoxib 30-60 mg/ngày. N ế u b ệ nh nhân có nguy c ơ  tiêu hóa nên dùng  nhóm  ứ c ch ế  ch ọ n l ọ c COX-2 ho ặ c ph ố i h ợ p v ớ i m ộ t thu ố c  ứ c ch ế  b ơ m proton.   −   Thu ố c giãn c ơ :  +   Th ườ ng dùng trong  đợ t  đ au c ấ p,  đặ c bi ệ t khi có tình tr ạ ng co c ứ ng c ơ .   +   Các thu ố c th ườ ng dùng: Epirisone 50 mg x 2-3 l ầ n/ngày, ho ặ c tolperisone   50-150 mg x 2-3 l ầ n/ngày), ho ặ c mephenesine 250 mg x 2-4 l ầ n/ngày, ho ặ c diazepam.  −   Các thu ố c khác:  +   Thu ố c gi ả m  đ au th ầ n kinh: Có th ể  ch ỉ   đị nh khi có b ệ nh lý r ễ  th ầ n kinh n ặ ng  ho ặ c dai d ẳ ng, nên b ắ t  đầ u b ằ ng li ề u th ấ p, sau  đ ó t ă ng li ề u d ầ n tùy theo  đ áp  ứ ng  đ i ề u  tr ị : gabapentin 600-1200 mg/ngày, ho ặ c pregabalin 150-300 mg/ngày.  +   Thu ố c ch ố ng tr ầ m c ả m ba vòng (li ề u th ấ p): amitriptyline ho ặ c nortriptyline  
-
- (10-25 mg/ngày) khi có bi ể u hi ệ n  đ au th ầ n kinh m ạ n tính ho ặ c khi có kèm r ố i lo ạ n gi ấ c ng ủ .   +   Vitamin nhóm B: Viên 3B (B 1 , B 6 , B 12 ) ho ặ c d ẫ n ch ấ t B 12  mecobalamin  
-
- (1000 -1500 mcg/ngày).  +   Corticosteroid: Trong m ộ t s ố  tr ườ ng h ợ p có bi ể u hi ệ n chèn ép r ễ  n ặ ng và có  tính ch ấ t c ấ p tính mà các thu ố c khác ít hi ệ u qu ả , có th ể  xem xét dùng m ộ t  đợ t ng ắ n h ạ n  corticosteroid  đườ ng u ố ng (prednisolone, methylprednisolone) trong 1-2 tu ầ n.  4.2.3.  Đ i ề u tr ị  ngo ạ i khoa  −   M ộ t s ố  ch ỉ   đị nh:   Đ au nhi ề u song  đ i ề u tr ị  n ộ i khoa ít có k ế t qu ả , có t ổ n th ươ ng  th ầ n kinh n ặ ng và ti ế n tri ể n, có chèn ép t ủ y c ổ   đ áng k ể .   −   M ộ t s ố  ph ươ ng pháp ph ẫ u thu ậ t ch ủ  y ế u: Ch ỉ nh s ử a c ộ t s ố ng  để  gi ả i phóng  chèn ép th ầ n kinh t ạ i các l ỗ  ti ế p h ợ p b ị  h ẹ p, l ấ y nhân nhày  đĩ a  đệ m thoát v ị , làm dính và  v ữ ng c ộ t s ố ng.  152 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  4.2.4. Các ph ươ ng pháp khác  −   Tiêm corticosteroid ngoài màng c ứ ng ho ặ c tiêm kh ớ p liên m ỏ m sau (facet)  c ạ nh c ộ t s ố ng c ổ : Có th ể   đượ c ch ỉ   đị nh và th ự c hi ệ n t ạ i các c ơ  s ở  chuyên khoa.   −   Các th ủ  thu ậ t gi ả m  đ au can thi ệ p: Phong b ế  r ễ  th ầ n kinh ch ọ n l ọ c;  đ i ề u tr ị   đố t  th ầ n kinh c ạ nh h ạ ch giao c ả m c ổ  b ằ ng sóng cao t ầ n (radio frequency ablation, RFA).  5.  TI Ế N TRI Ể N, BI Ế N CH Ứ NG, THEO DÕI  −   Tiên l ượ ng nhìn chung là t ố t n ế u  đượ c  đ i ề u tr ị  thích h ợ p.  Đ i ề u tr ị  n ộ i khoa b ả o t ồ n  có hi ệ u qu ả  trong 80-90% tr ườ ng h ợ p.  Đ a s ố  b ệ nh nhân s ẽ  h ế t các tri ệ u ch ứ ng sau khi  đượ c  đ i ề u tr ị  b ả o t ồ n và  ở  m ộ t s ố  b ệ nh nhân các tri ệ u ch ứ ng có th ể  h ế t m ộ t cách t ự  nhiên.   −   M ộ t s ố  b ệ nh nhân dù  đượ c  đ i ề u tr ị  v ẫ n có th ể  còn nh ữ ng di ch ứ ng nh ư  không  h ế t hoàn toàn các tri ệ u ch ứ ng, v ậ n  độ ng c ộ t s ố ng c ổ  không tr ở  v ề  m ứ c  độ  bình th ườ ng,  m ấ t  độ   ưỡ n t ự  nhiên c ủ a c ộ t s ố ng c ổ . Nh ữ ng tr ườ ng h ợ p chèn ép r ễ  ho ặ c t ủ y c ổ  n ặ ng có  th ể  gây r ố i lo ạ n n ặ ng c ả m giác và v ậ n  độ ng.   −   B ệ nh nhân c ầ n  đượ c th ă m khám  đị nh k ỳ  cho  đế n khi h ế t tri ệ u ch ứ ng  để   đ ánh  giá k ế t qu ả   đ i ề u tr ị ,  đ i ề u ch ỉ nh ph ươ ng pháp  đ i ề u tr ị  n ế u c ầ n và  để  phát hi ệ n các t ổ n  th ươ ng th ầ n kinh ti ế n tri ể n n ặ ng thêm ho ặ c các tri ệ u ch ứ ng n ặ ng khác n ế u có.  6. PHÒNG B Ệ NH  −    C ầ n duy trì t ư  th ế   đầ u và c ổ  thích h ợ p trong sinh ho ạ t, công vi ệ c, h ọ c t ậ p và  các ho ạ t  độ ng th ể  thao, tránh nh ữ ng t ư  th ế  ng ồ i, t ư  th ế  làm vi ệ c gây g ậ p c ổ ,  ưỡ n c ổ  ho ặ c  xoay c ổ  quá m ứ c kéo dài, tránh ng ồ i ho ặ c  đứ ng quá lâu, chú ý t ư  th ế  ng ồ i và gh ế  ng ồ i  thích h ợ p.   −   Th ự c hi ệ n các bài t ậ p v ậ n  độ ng c ộ t s ố ng c ổ  thích h ợ p  để  t ă ng c ườ ng s ứ c c ơ   vùng c ổ  ng ự c và vai, c ũ ng nh ư  tránh cho c ơ  vùng c ổ  b ị  m ỏ i m ệ t ho ặ c c ă ng c ứ ng.    TÀI LI Ệ U THAM KH Ả O  1.   Bono CM, Ghiselli G, Gilbert TJ, et al; “North American Spine Society.  An  evidence-based clinical guideline for the diagnosis and treatment of cervical  radiculopathy from degenerative disorders” ; Spine J. 2011;11(1):64-72.   2.   Caridi JM, Pumberger M, and Hughes AP; “Cervical Radiculopathy: A  Review”; HSS J. 2011; 7(3): 265–272  3.   Douglass AB, Bope ET; “Evaluation and  treatment  of posterior  neck pain  in  family practice”; J Am Board Fam Pract. 2004;17 Suppl:S13-22.  4.   Gross A, Miller J, D'Sylva J, et al ;  ‘Manipulation or mobilisation for  neck  pain .  Cochrane Database Syst Rev” ; 2010;(1):CD004249.  5.   Guzman J, Haldeman S, Carroll LJ, et al; “ Bone and Joint Decade 2000-2010  Task Force on Neck Pain and Its Associated Disorders . Clinical practice  implications of the Bone and Joint Decade 2000-2010 Task Force on Neck Pain  and  Its  Associated  Disorders:  from  concepts  and  findings  to  recommendations”; Spine. 2008;33(4 Suppl):S199-213.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  153  
-
-CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  VIÊM QUANH KH Ớ P VAI   (Periarthritis humeroscapularis)  1.  ĐỊ NH NGH Ĩ A  Viêm quanh kh ớ p vai  ( Periarthritis humeroscapularis)   là  thu ậ t ng ữ dù ng chung  cho  cá c b ệ nh  lý  viêm  cá c c ấ u  trú c ph ầ n m ề m quanh kh ớ p vai: gân,  tú i thanh  dị ch, bao  kh ớ p; không bao g ồ m  cá c b ệ nh  lý có  t ổ n th ươ ng  đầ u x ươ ng,  sụ n kh ớ p  và mà ng  hoạ t  dị ch nh ư  viêm kh ớ p nhi ễ m khu ẩ n, viêm kh ớ p  dạ ng th ấ p…   Theo Welfling (1981)  có  b ố n th ể  lâm  sà ng  củ a viêm quanh kh ớ p vai:   −   Đ au vai  đơ n thu ầ n th ườ ng do b ệ nh  lý  gân.  −   Đ au vai c ấ p do l ắ ng  đọ ng vi tinh th ể .  −   Giả  li ệ t kh ớ p vai do  đứ t  cá c gân c ủ a  bó dà i gân  nhị đầ u ho ặ c  đứ t  cá c gân  mũ  c ơ   quay khi ế n c ơ  delta không  hoạ t  độ ng  đượ c.  −   C ứ ng kh ớ p vai do viêm  dí nh bao  hoạ t  dị ch, co th ắ t bao kh ớ p, bao kh ớ p dày,  d ẫ n  đế n gi ả m v ậ n  độ ng kh ớ p  ổ  ch ả o - x ươ ng cánh tay.    2. NGUYÊN NHÂN   −   Thoái hóa gân do tu ổ i tác: B ệ nh th ườ ng x ả y ra  ở  ng ườ i trên 50 tu ổ i.  −   Ngh ề  nghi ệ p lao  độ ng n ặ ng có các ch ấ n th ươ ng c ơ  h ọ c l ặ p  đ i l ặ p l ạ i, gây t ổ n  th ươ ng các gân c ơ  quanh kh ớ p vai nh ư  gân c ơ  trên gai, c ơ  nh ị   đầ u cánh tay.  −   T ậ p th ể  thao quá s ứ c, ch ơ i m ộ t s ố  môn th ể  thao  đ òi h ỏ i ph ả i nh ấ c tay lên quá  vai nh ư  ch ơ i c ầ u lông, tennis, bóng r ổ , bóng chuy ề n.   −   Ch ấ n th ươ ng vùng vai do ngã, tr ượ t, tai n ạ n ô tô, xe máy.   −   M ộ t s ố  b ệ nh lý khác (tim m ạ ch, hô h ấ p, ti ể u  đườ ng, ung th ư  vú, th ầ n kinh, l ạ m  d ụ ng thu ố c ng ủ ). 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Lâm sàng 
-
- 3.1.1.  Đ au kh ớ p vai  đơ n thu ầ n (viêm gân m ạ n tính)  Đ au vùng kh ớ p vai th ườ ng xu ấ t hi ệ n sau v ậ n  độ ng kh ớ p vai  quá  m ứ c, ho ặ c sau  nh ữ ng vi ch ấ n th ươ ng liên ti ế p  ở  kh ớ p vai.  Đ au ki ể u c ơ   họ c.  Đ au t ă ng khi  là m  cá c  độ ng  tá c co  cá nh tay  đố i  khá ng. Ít h ạ n ch ế  v ậ n  độ ng kh ớ p. Th ườ ng g ặ p t ổ n th ươ ng gân c ơ  nh ị   đầ u và gân c ơ  trên gai. Th ườ ng có  đ i ể m  đ au chói khi  ấ n t ạ i  đ i ể m bám t ậ n gân bó dài c ủ a  gân c ơ  nh ị   đầ u cánh tay (m ặ t tr ướ c c ủ a kh ớ p vai, d ướ i m ỏ m qu ạ  1cm) ho ặ c gân trên gai  (m ỏ m cùng vai).   154 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  3.1.2.  Đ au vai c ấ p (viêm kh ớ p vi tinh th ể )  Đ au vai xu ấ t hi ệ n  độ t ng ộ t v ớ i c á c  tí nh ch ấ t d ữ  d ộ i,  đ au gây m ấ t  ngủ ,  đ au lan  toà n  b ộ  vai, lan lên c ổ , lan xu ố ng tay,  đ ôi khi xu ố ng t ậ n  bà n tay. B ệ nh nhân gi ả m v ậ n  độ ng  kh ớ p vai nhi ề u th ườ ng  có  t ư  th ế cá nh tay  sá t  và o thân,  không th ự c hi ệ n  đượ c  cá c  độ ng  tá c v ậ n  độ ng  thụ độ ng kh ớ p vai,  đặ c bi ệ t  là độ ng  tá c  giạ ng ( giả  c ứ ng kh ớ p vai do  đ au).  Vai s ư ng to  nó ng.  Có  th ể  th ấ y kh ố i s ư ng  bù ng  nhù ng  ở  tr ướ c  cá nh tay t ươ ng  ứ ng v ớ i  tú i  thanh  mạ c  bị  viêm. Có th ể có  s ố t  nhẹ .   3.1.3.  Giả  li ệ t kh ớ p vai ( đứ t m ũ  gân c ơ  quay)  Đ au d ữ  d ộ i  kè m theo ti ế ng kêu r ă ng r ắ c,  có  th ể  xu ấ t hi ệ n  đá m b ầ m  tí m  ở  ph ầ n  tr ướ c trên  cá nh tay sau  đó và i  ngà y.  Đ au k ế t h ợ p v ớ i  hạ n ch ế  v ậ n  độ ng  rõ . Khám th ấ y  m ấ t  độ ng  tá c nâng vai  chủ độ ng, trong khi v ậ n  độ ng  thụ độ ng  hoà n  toà n  bì nh th ườ ng,  không  có cá c d ấ u hi ệ u th ầ n kinh. N ế u  đứ t  bó dà i gân  nhị đầ u  khá m th ấ y ph ầ n  đứ t c ơ   ở  tr ướ c d ướ i  cá nh tay khi g ấ p  có đố i  khá ng c ẳ ng tay.  3.1.4. C ứ ng kh ớ p vai ( đ ông c ứ ng kh ớ p vai)  Đ au kh ớ p vai ki ể u c ơ  h ọ c,  đ ôi khi  đ au v ề   đ êm. Khám: h ạ n ch ế  v ậ n  độ ng kh ớ p vai  c ả   độ ng tác ch ủ   độ ng và th ụ   độ ng. H ạ n ch ế  các  độ ng tác,  đặ c bi ệ t là  độ ng tác gi ạ ng và  quay ngoài. Khi quan sát b ệ nh nhân t ừ  phía sau, lúc b ệ nh nhân gi ơ  tay lên s ẽ  th ấ y  x ươ ng b ả  vai di chuy ể n cùng m ộ t kh ố i v ớ i x ươ ng cánh tay.      
-
- 3.2. C ậ n lâm sàng 
-
- 3.2.1. X é t nghi ệ m  má u   Các xét nghi ệ m máu v ề  h ộ i ch ứ ng viêm sinh h ọ c th ườ ng âm tính. 
-
- 3.2.2. Ch ẩ n  đ oán hình  ả nh  −     Đ au kh ớ p vai  đơ n thu ầ n (viêm gân m ạ n tính):  +   Hì nh  ả nh Xquang  bì nh th ườ ng, có th ể  th ấ y  hì nh  ả nh calci  hó a  tạ i gân.  +   Siêu âm:  Hì nh  ả nh gân  giả m âm h ơ n  bì nh th ườ ng. N ế u gân  bị  vôi  hó a  sẽ  th ấ y  n ố t t ă ng âm  kè m  bó ng  cả n.  Có  th ể  th ấ y  dị ch quanh bao gân  nhị đầ u. Trên Doppler n ă ng  l ượ ng th ấ y hình  ả nh t ă ng sinh m ạ ch trong gân ho ặ c bao gân.  −     Đ au vai c ấ p (viêm kh ớ p vi tinh th ể ):  +   Xquang: Th ườ ng th ấ y  hì nh  ả nh calci  hó a  kí ch th ướ c  khá c nhau  ở khoả ng  cù ng  vai - m ấ u  độ ng. Các calci hóa này có th ể  bi ế n m ấ t sau vài ngày.  +   Siêu âm:  Có hì nh  ả nh  cá c n ố t t ă ng âm  kè m  bó ng  cả n (calci  hó a)  ở  gân  và  bao  thanh  dị ch d ướ i  mỏ m  cù ng vai,  có  th ể có dị ch (c ấ u  trú c tr ố ng âm)  ở  bao thanh  dị ch d ướ i  mỏ m  cù ng vai. Trên Doppler n ă ng l ượ ng có hình  ả nh t ă ng sinh m ạ ch trong gân, bao gân,  ho ặ c bao thanh d ị ch.  −   Giả  li ệ t kh ớ p vai ( đứ t gân m ũ  c ơ  quay):  +   Xquang:  Chụ p kh ớ p vai  cả n quang  phá t hi ệ n  đứ t  cá c gân  mũ  c ơ  quay do th ấ y  hì nh  cả n quang  củ a  tú i thanh m ạ c d ướ i  mỏ m  cù ng c ơ  delta, ch ứ ng  tỏ  s ự  thông th ươ ng  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  155  
-
-gi ữ a khoang kh ớ p  và tú i thanh  mạ c. G ầ n  đ ây th ườ ng phát hi ệ n tình tr ạ ng  đứ t gân trên  c ộ ng h ưở ng t ừ .  +   Siêu âm:  Đứ t gân nh ị   đầ u, không th ấ y hình  ả nh gân nh ị   đầ u  ở  h ố  liên m ấ u  độ ng ho ặ c phía trong h ố  liên m ấ u  độ ng; có th ể  th ấ y hình  ả nh t ụ  máu trong c ơ  m ặ t tr ướ c  cánh tay. N ế u  đứ t gân trên gai th ấ y gân m ấ t tính liên t ụ c, co rút hai  đầ u gân  đứ t. Th ườ ng  có d ị ch  ở  v ị  trí  đứ t.  −   C ứ ng kh ớ p vai ( đ ông c ứ ng kh ớ p vai):  −   Xquang: Ch ụ p kh ớ p v ớ i thu ố c c ả n quang, khó kh ă n khi b ơ m thu ố c. Hình  ả nh  cho th ấ y khoang kh ớ p b ị  thu h ẹ p (ch ỉ  5-10ml trong khi bình th ườ ng 30-35ml); gi ả m c ả n  quang kh ớ p, các túi cùng màng ho ạ t d ị ch bi ế n m ấ t.  Đ ây là ph ươ ng pháp v ừ a ch ẩ n  đ oán  v ừ a  đ i ề u tr ị : b ơ m thu ố c có tác d ụ ng nong r ộ ng khoang kh ớ p, sau th ủ  thu ậ t b ệ nh nhân  v ậ n  độ ng d ễ  dàng h ơ n. 
-
- 3.3. Ch ẩ n  đ oán xác  đị nh  D ự a vào các tri ệ u ch ứ ng lâm sàng và c ậ n lâm sang. 
-
- 3.4. Phân lo ạ i các th ể  lâm sàng  Theo Welfling (1981)  có  b ố n th ể  lâm  sà ng  củ a viêm quanh kh ớ p vai:   −   Đ au vai  đơ n thu ầ n   −   Đ au vai c ấ p   −   Giả  li ệ t kh ớ p vai   −   C ứ ng kh ớ p vai  
-
- 3.5. Ch ẩ n  đ oán phân bi ệ t  −   Đ au vai do các nguyên nhân khác nh ư   đ au th ắ t ng ự c, t ổ n th ươ ng  đỉ nh ph ổ i,  đ au  r ễ  c ộ t s ố ng c ổ  …  −   B ệ nh lý x ươ ng: Ho ạ i t ử  vô m ạ ch  đầ u trên x ươ ng cánh tay.  −   B ệ nh lý kh ớ p: Viêm kh ớ p m ủ , viêm kh ớ p do lao, viêm do tinh th ể  nh ư  gút  ho ặ c calci hóa s ụ n kh ớ p, viêm kh ớ p d ạ ng th ấ p, viêm c ộ t s ố ng dính kh ớ p… 
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c chung  Đ i ề u tr ị  viêm quanh kh ớ p vai bao g ồ m  đ i ề u tr ị   đợ t c ấ p và  đ i ề u tr ị  duy trì. C ầ n  k ế t h ợ p nhi ề u bi ệ n pháp khác nhau nh ư  n ộ i khoa, ngo ạ i khoa, v ậ t lý tr ị  li ệ u, ph ụ c h ồ i  ch ứ c n ă ng.  
-
- 4.2.   Đ i ề u tr ị  c ụ  th ể   
-
- 4.2.1. N ộ i khoa  −   Thu ố c gi ả m  đ au thông th ườ ng. S ử  d ụ ng thu ố c theo b ậ c thang c ủ a T ổ  ch ứ c Y t ế   Th ế  gi ớ i. Ch ọ n m ộ t trong các thu ố c sau: acetaminophen 0,5g x 2-4 viên /24h;  acetaminophen k ế t h ợ p v ớ i codein ho ặ c tramadol 2-4 viên/ 24h.   156 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Thu ố c ch ố ng viêm không steroid: Ch ỉ   đị nh m ộ t trong các thu ố c sau:   +   Diclofenac 50mg x 2 viên/24h.  +   Piroxicam 20mg x 1 viên/24h.  +   Meloxicam 7,5mg x 1-2 viên/24h.  +   Celecoxib 200mg x 1 – 2 viên/24h.  −   Tiêm corticoid t ạ i ch ỗ  áp d ụ ng cho th ể  viêm kh ớ p vai  đơ n thu ầ n. Thu ố c tiêm  t ạ i ch ỗ  (vào bao gân, bao thanh d ị ch d ướ i c ơ  delta) th ườ ng s ử  d ụ ng là các mu ố i c ủ a  corticoid nh ư  methyl pre dni solon acetat 40mg; betamethason dipropionat 5mg ho ặ c  betamethason sodium phosphat 2mg tiêm 1 l ầ n duy nh ấ t; sau 3-6 tháng có th ể  tiêm nh ắ c  l ạ i n ế u b ệ nh nhân  đ au tr ở  l ạ i. Tránh tiêm corticoid  ở  b ệ nh nhân có  đứ t gân bán ph ầ n do  thoái hóa. Tiêm corticoid  ở  b ệ nh nhân này có th ể  d ẫ n  đế n ho ạ i t ử  gân và gây  đứ t gân  hoàn toàn. Nên tiêm d ướ i h ướ ng d ẫ n c ủ a siêu âm.  −   Nhóm thu ố c ch ố ng thoái hóa kh ớ p tác d ụ ng ch ậ m:   +   Glucosamin sulfat:  1500mg  x 1gói/24h.  +   Diacerein 50mg: 01-02 viên m ỗ i ngày. Có th ể  duy trì 3 tháng.   −   Có ch ế   độ  sinh ho ạ t v ậ n  độ ng  h ợ p lý. Trong giai  đ o ạ n  đ au vai c ấ p tính c ầ n  ph ả i  để  cho vai  đượ c ngh ỉ  ng ơ i. Sau khi  đ i ề u tr ị  có hi ệ u qu ả  thì b ắ t  đầ u t ậ p luy ệ n  để   ph ụ c h ồ i ch ứ c n ă ng kh ớ p vai,  đặ c bi ệ t th ể   đ ông c ứ ng kh ớ p vai. Tránh lao  độ ng quá m ứ c  trong th ờ i gian dài, tránh các  độ ng tác d ạ ng quá m ứ c hay nâng tay lên cao quá vai.   +   N ộ i soi  ổ  kh ớ p l ấ y các tinh th ể  calci l ắ ng  đọ ng.  −   Tiêm huy ế t t ươ ng giàu ti ể u c ầ u t ự  thân áp d ụ ng cho các th ể   đứ t bán ph ầ n các  gân m ũ  c ơ  quay do ch ấ n th ươ ng  ở  b ệ nh nhân < 60 tu ổ i.  4.2.2. Ngo ạ i khoa  −    Ch ỉ   đị nh v ớ i th ể  gi ả  li ệ t,  đặ c bi ệ t  ở  ng ườ i tr ẻ  tu ổ i có  đứ t các gân vùng kh ớ p  vai do ch ấ n th ươ ng. Ph ẫ u thu ậ t n ố i gân b ị   đứ t.  Ở  ng ườ i l ớ n tu ổ i (> 60 tu ổ i),  đứ t gân do  thoái hóa, ch ỉ   đị nh ngo ạ i khoa c ầ n th ậ n tr ọ ng.   −   C ầ n tái khám  đị nh k ỳ  sau 1-3 tháng, tùy theo tình tr ạ ng b ệ nh. Có th ể  siêu âm  kh ớ p vai  để  ki ể m tra tình tr ạ ng c ủ a gân, bao gân và kh ớ p vai.  5. TI Ế N TRI Ể N VÀ BI Ế N CH Ứ NG  Đố i v ớ i th ể   đ au vai  đơ n thu ầ n và  đ au vai c ấ p n ế u không  đượ c ch ẩ n  đ oán và  đ i ề u  tr ị  s ớ m s ẽ  d ẫ n  đế n tình tr ạ ng  đ au dai d ẳ ng và h ạ n ch ế  v ậ n  độ ng kh ớ p vai,  ả nh h ưở ng  nhi ề u  đế n ch ấ t l ượ ng cu ộ c s ố ng c ủ a ng ườ i b ệ nh và theo th ờ i gian s ẽ  d ẫ n  đế n viêm  quanh kh ớ p vai th ể   đ ông c ứ ng ho ặ c  đứ t gân.    6. PHÒNG B Ệ NH  −   Tránh lao  độ ng quá m ứ c, tránh các  độ ng tác d ạ ng quá m ứ c hay nâng tay lên  cao quá vai.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  157  
-
-−   Tránh các ch ấ n th ươ ng  ở  vùng kh ớ p vai.  −   Phát hi ệ n và  đ i ề u tr ị  s ớ m các tr ườ ng h ợ p  đ au vai  đơ n thu ầ n và  đ au vai c ấ p.   TÀI LI Ệ U THAM KH Ả O  1.   Tr ầ n Ng ọ c Ân;  “Viêm quanh kh ớ p vai” ;  B ệ nh th ấ p kh ớ p, Nhà xu ấ t b ả n Y h ọ c  2002; trang 364- 374.  2.   De Winter. AF, Jans MP, Scholten .RJ, Deville. W, van Schaardenburg. D,  Bouter .LM;  “Diagnostic classification of shoulder disorders: interobserver  agreement and determinants of disagreement” ; Ann Rheum Dis, 1999 ; p58 : 272-7.  3.   Ebenbichler . GR, Erdogmus.CB, Resch. KL, et coll;  “Ultrasound therapy for  calcific tendinitis of the shoulder” ; N Eng J Med 340(20), 1999; p1533.  4.   Hurt .G, Baker .CL Jr;  “Calcific tendinitis of the shoulder”;  Orthop Clin North  Am. 2003;34(4); p567–75.  5.   Jess D Salinas Jr, Jerrold N Rosenberg;  “Corticosteroid Injections of Joints  and  Soft  Tissues” ;  Emedicine  Specialities-Physical  Medicine  and  Rehabilitation, 2009.      158 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-VIÊM GÂN VÙNG M Ỏ M TRÂM QUAY C Ổ  TAY   (De quervain syndrome)  1.  ĐẠ I C ƯƠ NG  Viêm gân vùng m ỏ m trâm quay c ổ  tay (De Quervain syndrome) là b ệ nh lý viêm  bao gân c ơ  d ạ ng dài và du ỗ i ng ắ n ngón tay cái do nhà ph ẫ u thu ậ t ng ườ i Thu ỵ  S ỹ   Fréderic De Quervain phát hi ệ n n ă m 1895. B ệ nh th ườ ng g ặ p  ở  n ữ  gi ớ i t ừ  30  đế n 50 tu ổ i.  Bình th ườ ng c ơ  d ạ ng dài và c ơ  du ỗ i ng ắ n ngón cái tr ượ t trong  đườ ng h ầ m  đượ c bao b ọ c  b ở i bao ho ạ t d ị ch gân, có tác d ụ ng làm tr ơ n  để  hai gân tr ượ t  đượ c d ễ  dàng. Khi bao gân  này b ị  viêm s ẽ  s ư ng ph ồ ng lên gây ra hi ệ n t ượ ng chèn ép d ẫ n  đế n h ạ n ch ế  v ậ n  độ ng c ủ a  gân trong  đườ ng h ầ m g ọ i là h ộ i ch ứ ng De Querrvain.  2. NGUYÊN NHÂN  Nguyên nhân còn ch ư a rõ (t ự  phát). Tuy nhiên có m ộ t s ố  y ế u t ố  nguy c ơ  nh ư :  −   Các ch ấ n th ươ ng vùng c ổ  bàn tay.  −   Ph ụ  n ữ  có thai và cho con bú.  −   Các ngh ề  nghi ệ p ph ả i s ử  d ụ ng bàn tay nhi ề u nh ư  làm ru ộ ng, giáo viên, ph ẫ u  thu ậ t, c ắ t tóc, n ộ i tr ợ . Vi ch ấ n th ươ ng (các  độ ng tác l ặ p l ạ i nhi ề u l ầ n nh ư  c ầ m, n ắ m,  xoay, v ặ n c ủ a c ổ  tay và ngón cái) là  đ i ề u ki ệ n thu ậ n l ợ i gây nên viêm bao gân.   −   Trong m ộ t s ố  tr ườ ng h ợ p có s ự  k ế t h ợ p v ớ i m ộ t s ố  b ệ nh kh ớ p nh ư  viêm kh ớ p  d ạ ng th ấ p, thoái hóa kh ớ p. 
-
- 3. CH Ẩ N  Đ OÁN  
-
- 3.1. Lâm sàng  −   Đ au vùng m ỏ m trâm quay,  đ au t ă ng khi v ậ n  độ ng ngón cái,  đ au liên t ụ c nh ấ t là  v ề   đ êm.  Đ au có th ể  lan ra ngón cái và lan lên c ẳ ng tay.   −   S ư ng n ề  vùng m ỏ m trâm quay.  −   Ph ụ  n ữ  có thai và cho con bú.  −   S ờ  th ấ y bao gân d ầ y lên, có khi có nóng,  đỏ ,  ấ n vào  đ au h ơ n.   −   Khó n ắ m tay.  Khi v ậ n  độ ng ngón cái có th ể  nghe th ấ y ti ế ng kêu cót két.   −   Test Finkelstein: g ấ p ngón cái và khép v ề  phía ngón 5 vào trong lòng bàn tay.  N ắ m các ngón tay trùm lên ngón cái. U ố n c ổ  tay v ề  phía x ươ ng tr ụ . N ế u b ệ nh nhân th ấ y  đ au chói vùng gân d ạ ng dài và gân du ỗ i ng ắ n ngón cái ho ặ c  ở  g ố c ngón cái là d ấ u hi ệ u  d ươ ng tính c ủ a nghi ệ m pháp.   3.2. C ậ n lâm sàng  −   Có th ể  siêu âm vùng m ỏ m trâm quay: Hình  ả nh gân d ạ ng dài và du ỗ i ng ắ n d ầ y  lên, bao gân d ầ y, có d ị ch quanh gân.    H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  159  
-
-−   Có th ể  th ấ y hình  ả nh t ă ng sinh m ạ ch trong gân ho ặ c bao gân trên Doppler n ă ng  l ượ ng (PW).  −   Làm thêm các xét nghi ệ m c ơ  b ả n ( đườ ng máu, ch ứ c n ă ng gan, th ậ n...).   3.3. Ch ẩ n  đ oán xác  đị nh   Ch ẩ n  đ oán b ệ nh ch ủ  y ế u d ự a vào khám lâm sàng. Tri ệ u ch ứ ng  đ au chói vùng  m ỏ m trâm quay và test Finkelstein d ươ ng tính là b ắ t bu ộ c ph ả i có  để  ch ẩ n  đ oán xác  đị nh b ệ nh.  C ũ ng c ầ n  đ ánh giá các y ế u t ố  nguyên nhân hay y ế u t ố  nguyên nhân gây b ệ nh nh ư   ti ề n s ử  ngh ề  nghi ệ p, ch ấ n th ươ ng vùng c ổ  bàn tay, các b ệ nh kh ớ p kèm theo nh ư  viêm  kh ớ p d ạ ng th ấ p, thoái hóa kh ớ p. Có th ể  s ử  d ụ ng thêm siêu âm vùng m ỏ m trâm quay  ở    c ơ  s ở  y t ế  có  đ i ề u ki ệ n.  
-
- 3.4. Ch ẩ n  đ oán phân bi ệ t  −   Viêm màng ho ạ t d ị ch kh ớ p c ổ  tay.  −   Thoái hóa kh ớ p g ố c ngón tay cái.  −   Viêm bao ho ạ t d ị ch gân c ơ  du ỗ i c ổ  tay quay ng ắ n và dài.  −   Chèn ép nhánh nông th ầ n kinh quay. 
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c chung   −   K ế t h ợ p nhi ề u ph ươ ng pháp  đ i ề u tr ị : Không dùng thu ố c, dùng thu ố c, v ậ t lý tr ị   li ệ u, ph ụ c h ồ i ch ứ c n ă ng, ngo ạ i khoa.  −   D ự  phòng b ệ nh tái phát: Lo ạ i b ỏ  các y ế u t ố  nguy c ơ , ch ế   độ   ă n u ố ng, sinh ho ạ t  h ợ p lý, chú ý t ư  th ế  lao  độ ng  đ úng..   
-
- 4.2.  Đ i ề u tr ị  c ụ  th ể  
-
- 4.2.1. Các ph ươ ng pháp không dùng thu ố c  −   Gi ả m ho ặ c ng ừ ng v ậ n  độ ng c ổ  tay và ngón tay cái (th ườ ng 4 - 6 tu ầ n).   −   Tr ườ ng h ợ p s ư ng  đ au nhi ề u nên dùng b ă ng n ẹ p c ổ  tay và ngón cái liên t ụ c  trong 3 - 6 tu ầ n  ở  t ư  th ế  c ổ  tay  để  nguyên, ngón cái d ạ ng 45  độ  so v ớ i tr ụ c x ươ ng quay  và g ấ p 10  độ .   −   Ch ườ m l ạ nh.  −   Đ i ề u tr ị  b ằ ng s ử  d ụ ng laser màu, siêu âm, xung  đ i ệ n kích thích th ầ n kinh qua  da (TENS – transcutaneous elactrical nerve stimulation)  để  gi ả m  đ au, ch ố ng viêm  4.2.2. Dùng thu ố c   −   Thu ố c ch ố ng viêm không steroid bôi t ạ i ch ỗ : thu ố c diclofenac d ạ ng bôi: bôi   2-3 l ầ n/ngày.  −   Thu ố c gi ả m  đ au: acetaminophen (Paracetamol): 0,5g x 2-4 viên /24h.  160 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Thu ố c ch ố ng viêm không streroid  đườ ng u ố ng. Dùng m ộ t trong các lo ạ i thu ố c  sau: diclofenac 50mg x 2 viên/24h; meloxicam 7,5mg x 1-2 viên/24h; celecoxib 200 mg  x 1 – 2 viên/24h.  −   Tiêm corticoid trong bao gân De Quervain. C ầ n tránh tiêm vào m ạ ch máu. Do  v ậ y t ố t nh ấ t là nên tiêm corticoid d ướ i h ướ ng d ẫ n c ủ a siêu âm do tính chính xác,  độ  an  toàn cao. Ch ỉ  các bác s ĩ   đượ c  đ ào t ạ o chuyên khoa kh ớ p m ớ i  đượ c tiêm corticoid trong  bao gân vì có nguy c ơ   đứ t gân khi tiêm vào gân hay nhi ễ m trùng. Các ch ế  ph ẩ m:   +   Hydrocortison acetat là lo ạ i tác d ụ ng nhanh, th ờ i gian bán hu ỷ  ng ắ n. Li ề u cho  m ộ t l ầ n tiêm trong bao kh ớ p là 0,3ml. Tiêm không quá ba l ầ n cho m ỗ i  đợ t  đ i ề u tr ị .  +   Methyl prednisolon acetat là lo ạ i tác d ụ ng kéo dài, li ề u dùng 0,3 ml/1 l ầ n, m ỗ i  đợ t tiêm hai l ầ n. M ỗ i n ă m không quá ba  đợ t.  +   Betamethasone (tên  đầ y  đủ : betamethasone pripionate): Li ề u dùng 0,3ml/1 l ầ n tiêm.   4.2.3.  Đ i ề u tr ị  ngo ạ i khoa  Ch ỉ  áp d ụ ng khi t ấ t c ả  các bi ệ n pháp trên không hi ệ u qu ả . Can thi ệ p ph ẫ u thu ậ t   t ạ o ra nhi ề u không gian h ơ n cho gân ho ạ t  độ ng  để  gân không c ọ  xát vào  đườ ng h ầ m.   Sau m ổ , có th ể  tham gia ph ụ c h ồ i ch ứ c n ă ng. Sau khi c ắ t ch ỉ , t ậ p các bài t ậ p ch ủ   độ ng  để  t ă ng d ầ n biên  độ  và s ứ c m ạ nh c ủ a các c ơ .  5. TI Ế N TRI Ể N VÀ BI Ế N CH Ứ NG  H ộ i ch ứ ng De Quervain  đ a s ố  di ễ n bi ế n t ừ  t ừ  và kéo dài; tri ệ u ch ứ ng th ườ ng  không r ầ m r ộ .  Đ ôi khi b ệ nh  nhân ch ỉ   đ au và h ạ n ch ế  v ậ n  độ ng nh ẹ . Tuy nhiên b ệ nh  ả nh h ưở ng nhi ề u  đế n kh ả  n ă ng lao  độ ng, sinh ho ạ t hàng ngày c ủ a ng ườ i b ệ nh, làm  gi ả m n ă ng su ấ t lao  độ ng,  đặ c bi ệ t là khi làm các  độ ng tác c ầ n  đế n ho ạ t  độ ng tinh t ế   c ủ a bàn tay.  6. PHÒNG B Ệ NH  −   Tránh các ho ạ t  độ ng bàn tay, c ổ  tay l ặ p  đ i l ặ p l ạ i trong th ờ i gian dài; c ầ n xen  k ẽ  th ờ i gian ngh ỉ  ng ơ i h ợ p lý. C ũ ng c ầ n t ậ p luy ệ n cho gân d ẻ o dai qua nh ữ ng bài t ậ p  cho gân kh ớ p vùng c ổ  tay.  −   Không nên xoa bóp thu ố c r ượ u, d ầ u nóng vì d ễ  làm tình tr ạ ng viêm n ặ ng thêm.  Không nên n ắ n b ẻ  kh ớ p vì s ẽ  làm t ổ n th ươ ng thêm gân kh ớ p.  −   Ngoài ra, nên có ch ế   độ   ă n  đầ y  đủ  sinh t ố ,  đặ c bi ệ t  ở  ph ụ  n ữ  khi mang thai hay  sau khi sinh.  Ở  ng ườ i l ớ n tu ổ i, nên b ổ  sung thêm calci, dùng s ữ a và các s ả n ph ẩ m c ủ a  s ữ a (s ữ a chua, phomat).    
-
-  
-
-   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  161 TÀI LI Ệ U THAM KH Ả O  1.   Carlton A. William W;  “Corticosteroid Injection for Treatment of de  Quervain’s Tenosynovitis”  A Pooled Quantitative Literature Evaluation, 2003;  p1- 3    2.   Cyriac Peters - Veluthamaningal, Winters JC;  “Randomised controlled trial of  local corticosteroid injections for de Quervains”; 2009;   p1- 8  3.   M, Moghazy K;  “Ultras ono graphic diagnosis of the de Quervain’s  tenosynovitis” ;  Ann Rheum Dis 2002; p61:1034-5.  4.   Peters-Veluthamaningal C, Windt DA;  “Corticosteroid injection for de  Quervain's  tenosynovitis” ; Cochrane Database Syst Rev, 2009:CD005616.  5.   Seyed A.M, Seyed A.A;  “ Methyl pre dni sol one Acetate Injection Plus Casting  Versus Casting Alone for the Treatment ofde Quervain’s Tenosynovitis23” ;  December 2008; p270 -275.        162 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-VIÊM GÂN G Ấ P NGÓN TAY (NGÓN TAY LÒ XO)  (Trigger finger)  1.  ĐỊ NH NGH Ĩ A  Ngón tay lò xo (Trigger finger) là tình tr ạ ng viêm bao gân c ủ a các gân g ấ p các  ngón tay gây chít h ẹ p bao gân. M ộ t s ố  tr ườ ng h ợ p gân g ấ p b ị  viêm xu ấ t hi ệ n h ạ t x ơ ,  làm di  độ ng c ủ a gân g ấ p qua v ị  trí h ạ t x ơ  b ị  c ả n tr ở . M ỗ i l ầ n g ấ p hay du ỗ i ngón tay  r ấ t khó kh ă n, b ệ nh nhân ph ả i c ố  g ắ ng m ớ i b ậ t  đượ c ngón tay ra ho ặ c ph ả i dùng tay  bên lành kéo ngón tay ra nh ư  ki ể u ngón tay có lò xo. Vì v ậ y b ệ nh có tên là ngón tay  lò xo.  2. NGUYÊN NHÂN   −   M ộ t s ố  ngh ề  nghi ệ p có nhi ề u nguy c ơ  m ắ c b ệ nh: Nông dân, giáo viên, th ợ  c ắ t  tóc, bác s ĩ  ph ẫ u thu ậ t, th ợ  th ủ  công...  −   Ch ấ n th ươ ng.  −   H ậ u qu ả  c ủ a m ộ t s ố  b ệ nh: Viêm kh ớ p d ạ ng th ấ p,  đ ái tháo  đườ ng,                   viêm kh ớ p v ả y n ế n, gút.... 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Ch ẩ n  đ oán xác  đị nh   −   D ự a vào tri ệ u ch ứ ng lâm sàng t ạ i ch ỗ .  −   Đ au ngón tay t ạ i v ị  trí bao gân b ị  viêm và t ạ i h ạ t x ơ , khó c ử   độ ng ngón tay.   −   Ngón tay có th ể  b ị  k ẹ t  ở  t ư  th ế  g ấ p vào lòng bàn tay ho ặ c du ỗ i th ẳ ng.  −   Khám ngón tay có th ể  có s ư ng.  −   Có th ể  s ờ  th ấ y h ạ t x ơ  trên gân g ấ p ngón tay  ở  v ị  trí kh ớ p  đố t bàn ngón tay. H ạ t  x ơ  di  độ ng khi g ấ p du ỗ i ngón tay.  −   Ngoài ra, s ử  d ụ ng siêu âm v ớ i  đầ u dò t ầ n s ố  > 7,5-20MHz có th ể  th ấ y gân, bao  gân dày lên và có d ị ch bao quanh. Có th ể  th ấ y hình  ả nh h ạ t x ơ  bao gân.  −   Không c ầ n thi ế t ph ả i làm xét nghi ệ m máu  đặ c bi ệ t c ũ ng nh ư  không c ầ n ch ụ p  Xquang. Tuy nhiên c ầ n ph ả i làm xét nghi ệ m c ơ  b ả n tr ướ c khi cho thu ố c hay tr ướ c khi  tiêm corticoid,  đặ c bi ệ t là các xét nghi ệ m  đườ ng máu, ch ứ c n ă ng gan th ậ n.   3.2. Ch ẩ n  đ oán phân bi ệ t   Viêm kh ớ p d ạ ng th ấ p, viêm kh ớ p ph ả n  ứ ng, viêm kh ớ p v ẩ y n ế n, gút: là nh ữ ng  b ệ nh có th ể  có bi ể u hi ệ n s ư ng  đ au các kh ớ p  ở  bàn tay. Có th ể  phân bi ệ t d ự a vào các  tri ệ u ch ứ ng lâm sàng kèm theo và d ự a vào siêu âm.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  163  
-
-4.  Đ I Ề U TR Ị   
-
- 4.1. Nguyên t ắ c  đ i ề u tr ị   −   K ế t h ợ p nhi ề u bi ệ n pháp  đ i ề u tr ị : Không dùng thu ố c, dùng thu ố c, tiêm  corticoid t ạ i ch ỗ , v ậ t lý tr ị  li ệ u, ph ụ c h ồ i ch ứ c n ă ng, ngo ạ i khoa.  −   C ầ n tích c ự c d ự  phòng b ệ nh tái phát b ằ ng ch ế   độ  lao  độ ng, sinh ho ạ t nh ẹ   nhàng, h ợ p lý, k ế t h ợ p v ớ i dùng thu ố c, v ậ t lý tr ị  li ệ u và ph ụ c h ồ i ch ứ c n ă ng. 
-
- 4.2.  Đ i ề u tr ị  c ụ  th ể  (n ộ i khoa, ngo ạ i khoa) 
-
- 4.2.1. Các ph ươ ng pháp  không dùng thu ố c  −   H ạ n ch ế  v ậ n  độ ng gân b ị  t ổ n th ươ ng.   −   Ch ườ m l ạ nh n ế u có s ư ng nóng  đỏ , chi ế u tia h ồ ng ngo ạ i  
-
- 4.2.2. Thu ố c   −   Thu ố c gi ả m  đ au: Có tác d ụ ng h ỗ  tr ợ  gi ả m  đ au, ch ỉ   đị nh m ộ t trong các thu ố c sau:   +   Floctafenine 200mg x 2 viên/24h.  +   Acetaminophen 0,5g x 2-4 viên /24h   +   Paracetamol/dextropropoxiphen 400mg/30mg x 2 viên /24h  +   Paracetamol/tramadol x 3 viên/24h  −    Thu ố c ch ố ng viêm không steroid bôi t ạ i ch ỗ  ho ặ c  đườ ng toàn thân: ch ỉ   đị nh  m ộ t trong các thu ố c sau:   +   Diclofenac 50mg x 2 viên/24h  +   Piroxicam 20mg x 1 viên/24h  +   Meloxicam 7,5mg x 1-2 viên/24h  +   Celecoxib 200 mg x 1 - 2 viên/24h  +   Etoricoxib 60 mg x 1 - 2 viên/24h   −   Tiêm corticoid t ạ i ch ỗ : Ch ỉ  tiêm v ớ i   đ i ề u ki ệ n có bác s ĩ  chuyên khoa và ph ả i  có phòng tiêm vô trùng. Khi ti ế n hành tiêm corticoid t ạ i ch ỗ  ph ả i  đả m b ả o vô trùng  tuy ệ t  đố i. Các ch ế  ph ẩ m:  +   Methyl prednisolon acetat (1ml = 40mg) là lo ạ i tác d ụ ng kéo dài. Li ề u cho  m ộ t l ầ n tiêm trong bao gân t ừ  8 - 20mg/1 l ầ n (0,2 - 0,5ml/1 l ầ n) tu ỳ  thu ộ c v ị  trí, m ỗ i  đợ t  cách nhau 3-6 tháng, m ỗ i n ă m không quá ba  đợ t.  +   Betamethasone (1ml = 5mg Betamethasone dipropionate + 2mg Betamethasone  sodium phosphate) là lo ạ i tác d ụ ng kéo dài. Li ề u cho m ộ t l ầ n tiêm c ạ nh kh ớ p t ừ    0,8 - 2mg/1 l ầ n (0,2 - 0,5ml/1 l ầ n) tu ỳ  thu ộ c v ị  trí, m ỗ i  đợ t cách nhau 3-6 tháng, m ỗ i  n ă m không quá ba  đợ t.  164 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-+   Ch ố ng ch ỉ   đị nh tuy ệ t  đố i tiêm corticoid t ạ i ch ỗ : Các t ổ n th ươ ng do nhi ễ m  khu ẩ n, n ấ m ho ặ c ch ư a lo ạ i tr ừ   đượ c nhi ễ m khu ẩ n; t ổ n th ươ ng nhi ễ m trùng trên ho ặ c  g ầ n v ị  trí tiêm.  +   Ch ố ng ch ỉ   đị nh t ươ ng  đố i tiêm corticoid t ạ i ch ỗ  (bao g ồ m các ch ố ng ch ỉ   đị nh  c ủ a corticoid): Cao huy ế t áp,  đ ái tháo  đườ ng, viêm loét d ạ  dày tá tràng (ph ả i  đ i ề u tr ị  và  theo dõi tr ướ c và sau khi tiêm), b ệ nh nhân  đ ang dùng thu ố c ch ố ng  đ ông ho ặ c có r ố i  lo ạ n  đ ông máu.  +   Các tác d ụ ng ngo ạ i ý sau tiêm cortioid t ạ i ch ỗ :  Đ au sau tiêm vài gi ờ , có th ể   kéo dài m ộ t vài ngày, th ườ ng hay g ặ p sau tiêm m ũ i  đầ u tiên; teo da t ạ i ch ỗ  ho ặ c m ả ng  s ắ c t ố  da do tiêm quá nông, tình tr ạ ng này s ẽ  h ế t trong vài tháng  đế n hai n ă m; nhi ễ m  trùng.  −   Đ i ề u tr ị  nguyên nhân kèm theo n ế u có. 
-
- 4.2.3.  Đ i ề u tr ị  ngo ạ i khoa  Ph ẫ u thu ậ t gi ả i phóng chèn ép, c ắ t b ỏ  ph ầ n viêm x ơ  n ế u  đ i ề u tr ị  n ộ i khoa th ấ t b ạ i. 
-
- 5. THEO DÕI VÀ QU Ả N LÝ  Tránh các y ế u t ố  nguy c ơ : Tránh các vi ch ấ n th ươ ng. Phát hi ệ n và  đ i ề u tr ị   đ úng  các b ệ nh lý nh ư  viêm kh ớ p d ạ ng th ấ p, viêm kh ớ p v ả y n ế n, viêm c ộ t s ố ng dính kh ớ p, gút,  thoái hoá kh ớ p,  đ ái tháo  đườ ng, nhi ễ m khu ẩ n. Ch ỉ nh các d ị  t ậ t gây l ệ ch tr ụ c c ủ a chi.  Th ậ n tr ọ ng khi s ử  d ụ ng thu ố c nhóm Quinolon và phát hi ệ n s ớ m khi có tri ệ u ch ứ ng g ợ i ý.      TÀI LI Ệ U THAM KH Ả O  1.   Tr ầ n Ng ọ c Ân ; " B ệ nh th ấ p kh ớ p h ọ c"  ;  NXBYH, 1999 ; trang 327-334  2.   Canoso Juan J;  “Regional pain syndromes Diagnosis and Management  American College of Rheumatology” ; 2005    3.   Kin Ghee Chee, Mark Edward Puhaindran, Alphonsus Khin Sze Chong;  “General practitioners’ knowledge of hand surgery in Singapore: a survey  study” ; Singapore Med J 2012; 53(8) : 522 – 525  4.   Mark steele;  “Tenosynovitis” ; Medicine 2005; p 1-14.          5.   Roye Benjamin D;  “Tenosynovitis” ; University of Maryland Medicine Centrer, 2001        H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  165  
-
-CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  VIÊM L Ồ I C Ầ U   NGOÀI X ƯƠ NG CÁNH TAY  (Lateral epicondylitis)  1.  ĐỊ NH  NGHĨ A  B ệ nh viêm l ồ i c ầ u ngoài x ươ ng cánh tay (lateral epicondylitis) còn  đượ c g ọ i b ằ ng  m ộ t s ố  tên khác nh ư  khu ỷ u tay c ủ a ng ườ i ch ơ i tennis (tennis elbow), khu ỷ u tay c ủ a  ng ườ i chèo thuy ề n. T ổ n th ươ ng c ơ  b ả n là viêm ch ỗ  bám c ủ a gân du ỗ i c ổ  tay quay,  đặ c  tr ư ng b ở i tri ệ u ch ứ ng  đ au t ạ i vùng l ồ i c ầ u ngoài cánh tay.   T ỷ  l ệ  m ắ c b ệ nh trong c ộ ng  đồ ng kho ả ng 1-3% dân s ố  v ớ i tu ổ i th ườ ng m ắ c t ừ  40- 50. H ầ u h ế t các tr ườ ng h ợ p  đề u h ồ i ph ụ c th ậ m chí m ộ t s ố  tr ườ ng h ợ p không c ầ n  đ i ề u tr ị ,  ch ỉ  c ầ n ngh ỉ  ng ơ i là kh ỏ i; m ộ t s ố  tái phát sau 6 tháng. B ệ nh có th ể  kéo dài t ừ  vài tu ầ n,  vài tháng ho ặ c hàng n ă m, trung bình t ừ  6 tháng  đế n 2 n ă m.  2. NGUYÊN NHÂN  VÀ  C Ơ  CH Ế  B Ệ NH SINH  Nguyên nhân gây b ệ nh th ườ ng do v ậ n  độ ng quá m ứ c c ủ a các c ơ  du ỗ i c ổ  tay và  ngón tay, ch ủ  y ế u là c ơ  du ỗ i c ổ  tay quay ng ắ n ho ặ c do tình tr ạ ng c ă ng giãn gây ra do  các  độ ng tác  đố i kháng  ở  t ư  th ế  ng ử a c ủ a c ổ  tay. Các  độ ng tác l ặ p  đ i l ặ p l ạ i hàng ngày  trong m ộ t th ờ i gian dài nh ư  ch ơ i  đ àn,  đ an lát, thái th ị t, xoay  đấ m c ử a, v ặ n tua vit, ch ơ i  tennis, c ầ u lông... là nguyên nhân gây b ệ nh. Ng ượ c l ạ i, m ộ t ng ườ i không quen công  vi ệ c  độ t nhiên th ự c hi ệ n m ộ t  độ ng tác m ạ nh c ũ ng có th ể  là nguyên nhân gây ra các ch ấ n  th ươ ng cho gân c ơ  (ch ẳ ng h ạ n m ộ t ng ườ i không bao gi ờ  ho ặ c r ấ t ít khi s ử  d ụ ng búa, khi  có vi ệ c c ầ n s ử  d ụ ng búa s ẽ  d ễ  b ị  ch ấ n th ươ ng). Các nghiên c ứ u trên  đạ i th ể  và vi th ể   th ấ y có các v ế t rách gi ữ a gân c ơ  du ỗ i chung và màng x ươ ng  ở  khu v ự c l ồ i c ầ u ngoài.  Các vi ch ấ n th ươ ng này có th ể  là h ậ u qu ả  c ủ a m ộ t quá trình v ậ n  độ ng quá m ứ c c ủ a các  c ơ  này. T ạ i v ị  trí bám c ủ a gân ch ứ a t ổ  ch ứ c h ạ t xâm l ấ n vào m ạ c gân, t ă ng sinh m ạ ch và  phù n ề  và khi c ắ t b ỏ  t ổ  ch ứ c này thì h ế t tri ệ u ch ứ ng.  
-
- 3. CH Ẩ N  ĐOÁ N 
-
- 3.1. Tri ệ u ch ứ ng lâm sàng  −   Đ au  ở  vùng l ồ i c ầ u ngoài x ươ ng cánh tay, có th ể  lan xu ố ng c ẳ ng tay và m ặ t mu  c ủ a c ổ  tay.  Đ au xu ấ t hi ệ n t ự  nhiên ho ặ c khi làm m ộ t s ố   độ ng tác nh ư  du ỗ i c ổ  tay, l ắ c,  nâng m ộ t v ậ t, m ở  c ử a... Gi ả m kh ả  n ă ng du ỗ i c ổ  bàn tay và kh ả  n ă ng c ầ m n ắ m.  Đ au có  th ể  kéo dài vài tu ầ n cho  đế n vài tháng.  −   Ấ n t ạ i l ồ i c ầ u ho ặ c c ạ nh l ồ i c ầ u ngoài x ươ ng cánh tay có  đ i ể m  đ au chói.  Đ ôi  khi có th ể  th ấ y s ư ng nh ẹ  t ạ i ch ỗ .  −   Đ au xu ấ t hi ệ n ho ặ c t ă ng lên khi th ự c hi ệ n các  độ ng tác  đố i kháng  ở  t ư  th ể  du ỗ i  c ổ  tay và ng ử a bàn tay ho ặ c nâng v ậ t n ặ ng.  166 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Các  độ ng tác v ậ n  độ ng kh ớ p khu ỷ u trong gi ớ i h ạ n bình th ườ ng.  3.2. C ậ n lâm sàng   Các xét nghi ệ m v ề  viêm và Xquang kh ớ p khu ỷ u tay bình th ườ ng.  Siêu âm gân c ơ  b ằ ng  đầ u dò t ầ n s ố  cao (7,5-20MHz) hình  ả nh t ổ n th ươ ng có th ể   th ấ y kích th ướ c gân to h ơ n, gi ả m  đậ m  độ  siêu âm. Ngoài ra còn phát hi ệ n  đứ t gân t ừ ng  ph ầ n ho ặ c hoàn toàn, l ắ ng  đọ ng calci trong gân, v ỏ  x ươ ng t ạ i v ị  trí bám c ủ a gân không  đề u và có hình  ả nh tân sinh m ạ ch máu trên siêu âm Doppler n ă ng l ượ ng.  3.3. Ch ẩ n  đ oán xác  đị nh  Ch ủ  y ế u d ự a vào lâm sàng: B ệ nh nhân  đ au vùng khu ỷ u và có  đ i ể m  đ au chói khi  ấ n t ạ i v ị  trí bám t ậ n c ủ a gân (l ồ i c ầ u ngoài x ươ ng cánh tay). 
-
- 3.4. Ch ẩ n  đ oán phân bi ệ t  −   Thoái hóa kh ớ p khu ỷ u  −   Viêm túi thanh d ị ch  ở  khu ỷ u tay  −   B ệ nh lý r ễ   ở  c ộ t s ố ng c ổ  (C6-C7)  −   H ộ i ch ứ ng  đườ ng h ầ m c ổ  tay 
-
- 4.  Đ I Ề U  TRỊ  
-
- 4.1. Nguyên t ắ c  đ i ề u tr ị   −   Tránh nh ữ ng  độ ng tác gây có th ể  gây n ặ ng b ệ nh (xem  ở  ph ầ n nguyên nhân gây b ệ nh).  −   Đ i ề u tr ị  b ả o t ồ n là chính.  −   Có th ể  cân nh ắ c ph ẫ u thu ậ t khi  đ i ề u tr ị  b ả o t ồ n th ấ t b ạ i. 
-
- 4.2.  Đ i ề u tr ị  c ụ  th ể   −   Giáo d ụ c b ệ nh nhân:  nh ằ m giúp cho ng ườ i b ệ nh hi ể u rõ v ề  b ệ nh, h ạ n ch ế  và  tránh các  độ ng tác có th ể  gây b ệ nh ho ặ c làm n ặ ng b ệ nh. Khuyên b ệ nh nhân gi ả m các  ho ạ t  độ ng du ỗ i m ạ nh và ng ử a c ổ  tay.       −   Đ i ề u tr ị  v ậ t lý : Xoa bóp,  đ i ệ n phân, sóng ng ắ n, laser l ạ nh, b ă ng chun h ỗ  tr ợ   ở   c ẳ ng tay trong lao  độ ng, b ă ng c ẳ ng tay d ướ i khu ỷ u tay 2,5 -5cm  để  làm gi ả m s ự  c ă ng c ơ   du ỗ i  ở  n ơ i bám vào l ồ i c ầ u.   −   Đ i ề u tr ị  b ằ ng thu ố c:   +   Thu ố c ch ố ng viêm không steroid (NSAIDs): Dùng d ạ ng gel bôi t ạ i ch ỗ   (diclofenac, profenid) ho ặ c  đườ ng u ố ng (diclofenac, piroxicam, meloxicam, celecoxib,  etoricoxib…). C ầ n chú ý  đế n c ơ   đị a ng ườ i b ệ nh và các b ệ nh m ạ n tính s ẵ n có  để  l ự a  ch ọ n thu ố c cho phù h ợ p.   +   Có th ể  ph ố i h ợ p thêm v ớ i thu ố c gi ả m  đ au thông th ườ ng n ế u có  đ au nhi ề u.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  167  
-
-+   Tiêm corticosteroid t ạ i ch ỗ :   Khi có  đ au n ặ ng ho ặ c  đ au dai d ẳ ng, không  đ áp  ứ ng v ớ i các thu ố c nêu trên. Có th ể  dùng Methyl pre dni sol one acetat (Depo-medrol) ho ặ c  bethamethasone (Diprospan) 1/2ml tiêm t ạ i ch ỗ . Ch ỉ  nên tiêm m ộ t l ầ n và n ế u ph ả i tiêm  nh ắ c l ạ i thì cách ít nh ấ t 3 tháng. Ph ươ ng pháp này có hi ệ u qu ả  t ố t tuy nhiên không b ề n  v ữ ng. Tiêm nhi ề u l ầ n có th ể  gây t ổ n th ươ ng ch ỗ  bám c ủ a gân và có th ể  gây các bi ế n  ch ứ ng nh ư  teo da t ạ i ch ỗ  tiêm, nhi ễ m trùng, b ạ ch bi ế n… Luôn khuy ế n khích b ệ nh nhân  h ạ n ch ế  v ậ n  độ ng  để  b ả o t ồ n k ế t qu ả .   −   Đ i ề u tr ị  ph ẫ u thu ậ t : Ch ỉ   đị nh khi các bi ệ n pháp  đ i ề u tr ị  n ộ i khoa th ấ t b ạ i. M ộ t  s ố  k ỹ  thu ậ t  đượ c áp d ụ ng nh ư :  +   C ắ t b ỏ  t ổ  ch ứ c m ủ n nát  ở  g ố c c ủ a gân du ỗ i, gi ả i phóng gân c ơ  du ỗ i t ừ  m ỏ m l ồ i c ầ u.  +   C ắ t gân c ơ  du ỗ i, kéo dài và t ạ o hình ch ữ  Z  để  ng ă n ho ạ t  độ ng c ủ a các c ơ  du ỗ i.  −   M ộ t s ố  ph ươ ng pháp  đ i ề u tr ị  m ớ i : tiêm huy ế t t ươ ng giàu ti ể u c ầ u t ự  thân, tiêm  hyaluronic acid, tiêm botulium to-xin A vào c ơ  du ỗ i ngón 3,4 làm li ệ t c ơ  du ỗ i nh ằ m h ạ n  ch ế  quá t ả i cho gân du ỗ i; b ă ng glyceryl trinitrate... Tuy nhiên các ph ươ ng pháp này v ẫ n  còn  đ ang ti ế p t ụ c  đượ c nghiên c ứ u.  5. TI Ế N TRI Ể N VÀ BI Ế N CH Ứ NG  B ệ nh lành tính, có m ộ t s ố  tr ườ ng h ợ p t ự  h ồ i ph ụ c không c ầ n  đ i ề u tr ị . Tuy nhiên  đ a  s ố  các tr ườ ng h ợ p ti ế n tri ể n kéo dài nhi ề u tu ầ n có th ể  nhi ề u tháng ho ặ c nhi ề u n ă m. Tình  tr ạ ng viêm m ạ n tính ho ặ c có th ể  kh ỏ i r ồ i l ạ i tái phát, lâu dài d ẫ n  đế n thoái hóa, x ơ  hóa  gân du ỗ i  ả nh h ưở ng nhi ề u  đế n lao  độ ng và sinh ho ạ t.  6. PHÒNG B Ệ NH  Tránh các v ậ n  độ ng quá t ả i, v ậ n  độ ng  độ t ng ộ t c ủ a gân c ơ  du ỗ i trong các ho ạ t  độ ng nh ư  ch ơ i qu ầ n v ợ t, c ầ u lông, bóng bàn, ch ơ i  đ àn, s ử  d ụ ng tu ố c nô vit, kìm búa,  thái th ị t, xoay c ủ a c ổ  tay, mang xách n ặ ng...    TÀI LI Ệ U THAM KH Ả O  1.   Adrian E. Flatt, MD, FRCS “ Tennis Elbow” . Proc (Bayl Univ Med Cent). 2008  October; 21(4): 400–402. Clinical Review  2.   Harison,s principles of internalmedicin 18 th  - 2012. Volum 1; part 15.  “ Disorders  of joint and adjacent Tisues” ; chapter 337 Periaticular Disorders of  the Extremities  3.   Isenberg, David A.; Maddison, Peter J.; Woo, Patricia; Glass, David;  Breedveld, Ferdinand C.” Oxford Textbook of Rheumatology, 3rd Edition” .  Copyright Â©2004 Oxford University Press - Soft-tissue rheumatism .p1 075  4.   John Orchard; Alex kountouris. “ The management of tennis elbow” . Clinical  review. BMJ 2011 342: d2687doi;101136/bmj.d2687.  5.   Obradov M, Anderson PG .”Ultra sonographic findings for chronic lateral  epicondylitis” . JBR-BTR. 2012 Mar-Apr;95(2):66-70.   168 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-B Ệ NH LOÃNG X ƯƠ NG  ( Osteoporosis )                            
-
-  
-
- 1.  ĐỊ NH  NGHĨ A    Loãng x ươ ng (Osteoporosis) là tình tr ạ ng r ố i lo ạ n chuy ể n hoá c ủ a x ươ ng d ẫ n  đế n t ổ n th ươ ng  độ  ch ắ c c ủ a x ươ ng  đư a  đế n t ă ng nguy c ơ  g ẫ y x ươ ng.  Độ  ch ắ c c ủ a  x ươ ng bao g ồ m s ự  toàn v ẹ n c ả  v ề  kh ố i l ượ ng và ch ấ t l ượ ng c ủ a x ươ ng.   −   Kh ố i l ượ ng x ươ ng  đượ c bi ể u hi ệ n b ằ ng:  +   M ậ t  độ  khoáng ch ấ t c ủ a x ươ ng (Bone Mineral Density – BMD).  +   Kh ố i l ượ ng x ươ ng (Bone Mass Content – BMC).  −   Ch ấ t l ượ ng x ươ ng ph ụ  thu ộ c vào:  +   Th ể  tích x ươ ng.  +   Vi c ấ u trúc c ủ a x ươ ng (Thành ph ầ n ch ấ t n ề n và ch ấ t khoáng c ủ a  x ươ ng).  +   Chu chuy ể n x ươ ng (Tình tr ạ ng t ổ n th ươ ng vi c ấ u trúc x ươ ng, tình hình s ử a  ch ữ a c ấ u trúc c ủ a x ươ ng). 
-
- 2. PHÂN LO Ạ I LOÃNG X ƯƠ NG 
-
- 2.1. Loãng x ươ ng ng ườ i già (Loãng x ươ ng tiên phát)   −   Đặ c  đ i ể m:    +   T ă ng quá trình hu ỷ  x ươ ng.   +   Gi ả m quá trình t ạ o x ươ ng.   −   Nguyên nhân:   +   Các t ế  bào t ạ o x ươ ng (Osteoblast) b ị  lão hoá.  +   S ự  h ấ p thu calci  ở  ru ộ t b ị  h ạ n ch ế .  +   S ự  suy gi ả m t ấ t y ế u các hormon sinh d ụ c (n ữ  và nam).  −   Loãng x ươ ng nguyên phát th ườ ng xu ấ t hi ệ n tr ễ , di ễ n bi ế n ch ậ m, t ă ng t ừ  t ừ  và ít  có nh ữ ng bi ế n ch ứ ng n ặ ng n ề  nh ư  g ẫ y x ươ ng hay lún x ẹ p các  đố t s ố ng.  2.2. Loãng x ươ ng sau mãn kinh   Loãng x ươ ng sau mãn kinh làm n ặ ng h ơ n tình tr ạ ng loãng x ươ ng do tu ổ i  ở  ph ụ  n ữ   do gi ả m  độ t ng ộ t oestrogen khi mãn kinh.  −   Đặ c  đ i ể m:   +   T ă ng quá trình hu ỷ  x ươ ng.   +   Quá trình t ạ o x ươ ng bình th ườ ng.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  169 2.3. Loãng x ươ ng th ứ  phát  B ệ nh loãng x ươ ng s ẽ  tr ở  nên n ặ ng n ề  h ơ n, s ớ m h ơ n, nhi ề u bi ế n ch ứ ng h ơ n… n ế u  ng ườ i b ệ nh có thêm m ộ t ho ặ c nhi ề u y ế u t ố  nguy c ơ  d ướ i  đ ây:  Các y ế u t ố  nguy c ơ  c ủ a b ệ nh loãng x ươ ng:  −   Kém phát tri ể n th ể  ch ấ t t ừ  khi còn nh ỏ ,  đặ c bi ệ t là còi x ươ ng, suy dinh d ưỡ ng,  ch ế   độ   ă n thi ế u protein, thi ế u calci ho ặ c t ỷ  l ệ  calci/phospho trong ch ế   độ   ă n không h ợ p  lý, thi ế u vitamin D ho ặ c c ơ  th ể  không h ấ p thu  đượ c vitamin D... Vì v ậ y kh ố i l ượ ng  khoáng ch ấ t  đỉ nh c ủ a x ươ ng  ở  tu ổ i tr ưở ng thành th ấ p,  đ ây  đượ c coi là y ế u t ố  nguy c ơ   quan tr ọ ng nh ấ t c ủ a b ệ nh loãng x ươ ng.   −   Ti ề n s ử  gia  đ ình có cha, m ẹ  b ị  loãng x ươ ng ho ặ c gãy x ươ ng.   −   Ít ho ạ t  độ ng th ể  l ự c, ít ho ạ t  độ ng ngoài tr ờ i, b ấ t  độ ng quá lâu ngày do b ệ nh t ậ t  ho ặ c do ngh ề  nghi ệ p.    −   Có thói quen s ử  d ụ ng nhi ề u r ượ u, bia, cà phê, thu ố c lá… làm t ă ng th ả i calci  qua  đườ ng th ậ n và gi ả m h ấ p thu calci  ở   đườ ng tiêu hóa.   −   B ị  m ắ c m ộ t s ố  b ệ nh: Thi ể u n ă ng các tuy ế n sinh d ụ c nam và n ữ   (suy bu ồ ng  tr ứ ng s ớ m, mãn kinh s ớ m, c ắ t bu ồ ng tr ứ ng, thi ể u n ă ng tinh hoàn…), b ệ nh n ộ i ti ế t:  c ườ ng tuy ế n giáp, c ườ ng tuy ế n c ậ n giáp, c ườ ng tuy ế n v ỏ  th ượ ng th ậ n b ệ nh m ạ n tính  đườ ng tiêu hoá làm h ạ n ch ế  h ấ p thu calci, vitamin D, protein… làm  ả nh h ưở ng chuy ể n  hoá calci và s ự  t ạ o x ươ ng, b ệ nh suy th ậ n m ạ n ho ặ c ph ả i ch ạ y th ậ n nhân t ạ o lâu ngày  gây m ấ t calci qua  đườ ng ti ế t ni ệ u, các b ệ nh x ươ ng kh ớ p m ạ n tính  đặ c bi ệ t là viêm kh ớ p  d ạ ng th ấ p và thoái hoá kh ớ p.  −   S ử  d ụ ng dài h ạ n m ộ t s ố  thu ố c: ch ố ng  độ ng kinh (Dihydan), thu ố c ch ữ a ti ể u  đườ ng (Insulin), thu ố c ch ố ng  đ ông (Heparin) và  đặ c bi ệ t là nhóm thu ố c kháng viêm  Corticosteroid (Corticosteroid m ộ t m ặ t  ứ c ch ế  tr ự c ti ế p quá trình t ạ o x ươ ng, m ặ t khác  làm gi ả m h ấ p thu calci  ở  ru ộ t, t ă ng bài xu ấ t calci  ở  th ậ n và làm t ă ng quá trình h ủ y  x ươ ng). 
-
- 3. CH Ẩ N  ĐOÁ N 
-
- 3.1. Tri ệ u ch ứ ng lâm sàng  Loãng x ươ ng là b ệ nh di ễ n bi ế n âm th ầ m không có tri ệ u ch ứ ng lâm sàng  đặ c tr ư ng,  ch ỉ  bi ể u hi ệ n khi  đ ã có bi ế n ch ứ ng.  −   Đ au x ươ ng,  đ au l ư ng c ấ p và m ạ n tính.   −   Bi ế n d ạ ng c ộ t s ố ng: Gù, v ẹ o c ộ t s ố ng, gi ả m chi ề u cao do thân các  đố t s ố ng b ị  gãy.   −   Đ au ng ự c, khó th ở , ch ậ m tiêu… do  ả nh h ưở ng  đế n l ồ ng ng ự c và thân các  đố t s ố ng  −   G ẫ y x ươ ng: Các v ị  trí th ườ ng g ặ p là gãy  đầ u d ướ i x ươ ng quay, gãy c ổ  x ươ ng  đ ùi, gãy các  đố t s ố ng (l ư ng và th ắ t l ư ng); xu ấ t hi ệ n sau ch ấ n th ươ ng r ấ t nh ẹ , th ậ m chí  không rõ ch ấ n th ươ ng.   170 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-3.2. Tri ệ u ch ứ ng c ậ n lâm sàng  −   Xquang quy  ướ c: hình  ả nh  đố t s ố ng t ă ng th ấ u quang, bi ế n d ạ ng thân  đố t s ố ng 
-
- (gãy làm x ẹ p và lún các  đố t s ố ng), v ớ i các x ươ ng dài th ườ ng gi ả m  độ  dày v ỏ  x ươ ng 
-
- (khi ế n  ố ng t ủ y r ộ ng ra).  −   Đ o kh ố i l ượ ng x ươ ng (BMD) b ằ ng ph ươ ng pháp  đ o h ấ p ph ụ  tia X n ă ng l ượ ng  kép (Dual Energy Xray Absorptiometry - DXA)  ở  các v ị  trí trung tâm nh ư  x ươ ng vùng  kh ớ p háng ho ặ c c ộ t s ố ng th ắ t l ư ng,  để  ch ẩ n  đ oán xác  đị nh loãng x ươ ng,  đ ánh giá m ứ c  độ  loãng x ươ ng, d ự  báo nguy c ơ  gãy x ươ ng và theo dõi  đ i ề u tr ị .  −   Đ o kh ố i l ượ ng x ươ ng  ở  ngo ạ i vi (gót chân, ngón tay…) b ằ ng các ph ươ ng pháp  (DXA, siêu âm…)  đượ c dùng  để  t ầ m soát loãng x ươ ng trong c ộ ng  đồ ng.  −   M ộ t s ố  ph ươ ng pháp khác: CT Scan ho ặ c MRI có th ể   đượ c s ử  d ụ ng  để   đ ánh  giá kh ố i l ượ ng x ươ ng,  đặ c bi ệ t  ở  c ộ t s ố ng ho ặ c c ổ  x ươ ng  đ ùi.  −   Trong m ộ t s ố  tr ườ ng h ợ p c ầ n thi ế t, có th ể   đị nh l ượ ng các marker h ủ y x ươ ng và   t ạ o x ươ ng: Amino terminal telopeptide (NTX), Carboxyterminal telopeptide (CTX),  Procollagen type 1 N terminal propeptide (PINP), Procollagen type 1 C terminal  propeptide (PICP)…  để   đ ánh giá  đ áp  ứ ng c ủ a  đ i ề u tr ị .  3.3. Ch ẩ n  đ oán xác  đị nh  −   Tiêu chu ẩ n ch ẩ n  đ oán loãng x ươ ng c ủ a T ổ  ch ứ c Y t ế  Th ế  gi ớ i (WHO) n ă m  1994,  đ o m ậ t  độ  x ươ ng t ạ i c ộ t s ố ng th ắ t l ư ng và c ổ  x ươ ng  đ ùi theo ph ươ ng pháp DXA:  +   X ươ ng bình th ườ ng: T score t ừ  – 1SD  tr ở  lên.    +   Thi ế u x ươ ng (Osteopenia): T score d ướ i  – 1SD   đế n – 2,5SD.  +   Loãng x ươ ng (Osteoporosis): T score d ướ i  – 2,5SD.  +   Loãng x ươ ng n ặ ng: T score d ướ i – 2,5 SD kèm ti ề n s ử / hi ệ n t ạ i có g ẫ y x ươ ng.    −   Tr ườ ng h ợ p không có  đ i ề u ki ệ n  đ o m ậ t  độ  x ươ ng:   Có th ể  ch ẩ n  đ oán xác  đị nh loãng x ươ ng khi  đ ã có bi ế n ch ứ ng g ẫ y x ươ ng d ự a vào  tri ệ u ch ứ ng lâm sàng và Xquang:  Đ au x ươ ng,  đ au l ư ng, g ẫ y x ươ ng sau ch ấ n th ươ ng nh ẹ ,  tu ổ i cao…  3.4. Các y ế u t ố  tiên l ượ ng quan tr ọ ng c ầ n l ư u ý   −   Gi ớ i: n ữ   −   Tu ổ i cao.  −   Kh ố i l ượ ng x ươ ng th ấ p.  −   Ti ề n s ử  gãy x ươ ng (c ủ a cá nhân và gia  đ ình).  −   Nguy c ơ  té ngã (b ệ nh ph ố i h ợ p: gi ả m th ị  l ự c,  đ au kh ớ p, parkinson…).  −   Hút thu ố c, s ử  d ụ ng thu ố c (Corticosteroid, thu ố c ch ố ng  đ ông…).  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  171 3.5. Các mô hình tiên l ượ ng d ự  báo nguy c ơ  gãy x ươ ng (d ự a trên BMD và các y ế u  t ố  nguy c ơ )  −   Mô hình FRAX c ủ a T ổ  ch ứ c Y t ế  Th ế  gi ớ i  http://www.shef.ac.uk/FRAX/   S ử  d ụ ng 12 y ế u t ố  nguy c ơ : tu ổ i, gi ớ i, cân n ặ ng, chi ề u cao, ti ề n s ử  gãy x ươ ng, ch ỉ   s ố  T, ti ề n s ử  gãy x ươ ng c ủ a gia  đ ình, hút thu ố c, u ố ng r ượ u, viêm kh ớ p d ạ ng th ấ p, loãng  x ươ ng th ứ  phát, s ử  d ụ ng corticoid. Ng ườ i s ử  d ụ ng ch ỉ  vi ệ c nh ậ p s ố  li ệ u c ủ a b ệ nh nhân,  website s ẽ  cho k ế t qu ả  tiên l ượ ng xác su ấ t gãy x ươ ng trong vòng 10 n ă m.   −   Mô hình NGUYEN c ủ a vi ệ n Garvan, Úc http://www.fracture risk calculator.com:  S ử  d ụ ng 5 y ế u t ố  nguy c ơ : tu ổ i, cân n ặ ng, ti ề n s ử  gãy x ươ ng, ch ỉ  s ố  T và ti ề n s ử  té  ngã. C ũ ng nh ư  mô hình c ủ a WHO, mô hình này cho k ế t qu ả  nguy c ơ  gãy x ươ ng trong  vòng 5 n ă m và 10 n ă m.    3.6. Ch ẩ n  đ oán phân bi ệ t  −   B ấ t toàn t ạ o x ươ ng hay x ươ ng th ủ y tinh (Osteogenesis Imperfecta – OI).  −   Các loãng x ươ ng th ứ  phát nh ư  ung th ư  di c ă n x ươ ng, các b ệ nh ác tính c ủ a c ơ   quan t ạ o máu ( đ a u t ủ y x ươ ng, b ệ nh b ạ ch c ầ u leucemie…). 
-
- 4.  Đ I Ề U  TRỊ  
-
- 4.1. Các ph ươ ng pháp không dùng thu ố c (bao g ồ m d ự  phòng và  đ i ề u tr ị )  −   Ch ế   độ   ă n u ố ng: B ổ  sung ngu ồ n th ứ c  ă n giàu calci (theo nhu c ầ u c ủ a c ơ  th ể  : t ừ  
-
- 1.000-1.500mg hàng ngày, t ừ  các ngu ồ n: th ứ c  ă n, s ữ a và d ượ c ph ẩ m), tránh các y ế u t ố   nguy c ơ : thu ố c lá, café, r ượ u… tránh th ừ a cân ho ặ c thi ế u cân.  −   Ch ế   độ  sinh ho ạ t: T ă ng c ườ ng v ậ n  độ ng, t ă ng d ẻ o dai c ơ  b ắ p, tránh té ngã…  −   S ử  d ụ ng các d ụ ng c ụ , n ẹ p ch ỉ nh hình (cho c ộ t s ố ng, cho kh ớ p háng) gi ả m s ự  t ỳ   đ è lên c ộ t s ố ng,  đầ u x ươ ng, x ươ ng vùng hông.  4.2. Các thu ố c  đ i ề u tr ị  loãng x ươ ng  −   Các thu ố c b ổ  sung n ế u ch ế   độ   ă n không  đủ  (dùng hàng ngày trong su ố t quá  trình  đ i ề u tr ị ).   +   Calci: c ầ n b ổ  sung calci 500 – 1.500mg hàng ngày.  +   Vitamin D 800 - 1.000 UI hàng ngày (ho ặ c ch ấ t chuy ể n hoá c ủ a vitamin D là  Calcitriol 0,25 – 0,5 mcg, th ườ ng ch ỉ   đị nh cho các b ệ nh nhân l ớ n tu ổ i ho ặ c suy th ậ n vì  không chuy ể n hóa  đượ c vitamin D).  −   Các thu ố c ch ố ng h ủ y x ươ ng: Làm gi ả m ho ạ t tính t ế  bào h ủ y x ươ ng    +   Nhóm Bisphosphonat: Hi ệ n là nhóm thu ố c  đượ c l ự a ch ọ n  đầ u tiên trong  đ i ề u  tr ị  các b ệ nh lý loãng x ươ ng (ng ườ i già, ph ụ  n ữ  sau mãn kinh, nam gi ớ i, do  corticosteroid). Ch ố ng ch ỉ   đị nh: ph ụ  n ữ  có thai và cho con bú, d ướ i 18 tu ổ i (c ầ n xem xét  t ừ ng tr ườ ng h ợ p c ụ  th ể ), suy th ậ n v ớ i m ứ c l ọ c c ầ u th ậ n (GFR)<35 ml/phút.   Alendronat 70mg ho ặ c Alendronat 70mg + Cholecalciferol 2800UI u ố ng sáng  s ớ m, khi b ụ ng  đ ói, m ộ t tu ầ n u ố ng m ộ t l ầ n, u ố ng kèm nhi ề u n ướ c. Sau u ố ng nên v ậ n  172 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-độ ng, không n ằ m sau u ố ng thu ố c ít nh ấ t 30 phút. Tác d ụ ng ph ụ  ch ủ  y ế u c ủ a  bisphosphonate d ạ ng u ố ng: là kích  ứ ng  đườ ng tiêu hóa nh ư : viêm th ự c qu ả n, loét d ạ  dày,  nu ố t khó...  Zoledronic acid 5mg truy ề n t ĩ nh m ạ ch m ộ t n ă m ch ỉ  dùng m ộ t li ề u duy nh ấ t.  Thu ố c có kh ả  d ụ ng sinh h ọ c v ượ t tr ộ i h ơ n  đườ ng u ố ng, không gây kích  ứ ng  đườ ng tiêu  hóa và c ả i thi ệ n  đượ c s ự  tuân th ủ   đ i ề u tr ị  c ủ a ng ườ i b ệ nh.  Chú ý b ổ  sung  đầ y  đủ  n ướ c,  calci và vitamin D tr ướ c khi truy ề n. Có th ể  dùng acetaminophen (paracetamol)  để  làm  gi ả m các ph ả n  ứ ng ph ụ  sau truy ề n thu ố c (nh ư   đ au kh ớ p,  đ au  đầ u,  đ au c ơ , s ố t).   +   Calcitonin (chi ế t su ấ t t ừ  cá h ồ i) 100UI tiêm d ướ i da ho ặ c 200UI x ị t qua niêm  m ạ c m ũ i hàng ngày. Ch ỉ   đị nh ng ắ n ngày (2 – 4 tu ầ n) trong tr ườ ng h ợ p m ớ i g ẫ y x ươ ng,  đặ c bi ệ t khi có kèm tri ệ u ch ứ ng  đ au. Không dùng dài ngày trong  đ i ề u tr ị  loãng x ươ ng,  khi b ệ nh nhân gi ả m  đ au,  đ i ề u tr ị  ti ế p b ằ ng nhóm Bisphosphonat (u ố ng ho ặ c truy ề n  t ĩ nh m ạ ch).  +   Li ệ u pháp s ử  d ụ ng các ch ấ t gi ố ng hormon: Ch ỉ   đị nh  đố i v ớ i ph ụ  n ữ  sau mãn  kinh có nguy c ơ  cao ho ặ c có loãng x ươ ng sau mãn kinh:   Raloxifen, ch ấ t  đ i ề u hoà ch ọ n l ọ c th ụ  th ể  Estrogen (SERMs): 60mg u ố ng hàng  ngày, trong th ờ i gian  ≤  2 n ă m.  −   Thu ố c có tác d ụ ng kép: Strontium ranelat    +   Thu ố c v ừ a có tác d ụ ng t ă ng t ạ o x ươ ng v ừ a có tác d ụ ng  ứ c ch ế  h ủ y x ươ ng,  đ ang  đượ c coi là thu ố c có tác  độ ng kép phù h ợ p ho ạ t  độ ng sinh lý c ủ a x ươ ng.  +   Li ề u dùng 2g   u ố ng ngày m ộ t l ầ n vào bu ổ i t ố i (sau b ữ a  ă n 2 gi ờ , tr ướ c khi  đ i  ng ủ  t ố i).  +   Thu ố c  đượ c ch ỉ   đị nh khi b ệ nh nhân có ch ố ng ch ỉ   đị nh ho ặ c không dung n ạ p  nhóm bisphosphonates. Thu ố c  ứ c ch ế  osteocalcin: Menatetrenon (vitamin K2).  −   Các nhóm thu ố c khác có th ể  ph ố i h ợ p trong nh ữ ng tr ườ ng h ợ p c ầ n thi ế t :  +   Thu ố c làm t ă ng quá trình  đồ ng hoá: Deca Durabolin và Durabolin.  4.3.  Đ i ề u tr ị  tri ệ u ch ứ ng  −   Đ au c ộ t s ố ng,  đ au d ọ c các x ươ ng…(khi m ớ i g ẫ y x ươ ng, lún x ẹ p  đố t s ố ng): Ch ỉ   đị nh calcitonine và các thu ố c gi ả m  đ au theo b ậ c thang c ủ a T ổ  ch ứ c Y t ế  Th ế  gi ớ i. Có  th ể  k ế t h ợ p thu ố c kháng viêm gi ả m  đ au không steroids, thu ố c gi ả m  đ au b ậ c 2 (ph ố i h ợ p  nhóm opiat nh ẹ  và v ừ a), thu ố c giãn c ơ ...    −   Chèn ép r ễ  th ầ n kinh liên s ườ n ( đ au ng ự c khó th ở , ch ậ m tiêu,  đ au lan theo r ễ   th ầ n kinh, d ị  c ả m, tê…): N ẹ p th ắ t l ư ng,  đ i ề u ch ỉ nh t ư  th ế  ng ồ i ho ặ c  đứ ng, thu ố c gi ả m  đ au, thu ố c gi ả m  đ au th ầ n kinh, vitamin nhóm B … n ế u c ầ n.  4.4.  Đ i ề u tr ị  ngo ạ i khoa các bi ế n ch ứ ng g ẫ y c ổ  x ươ ng  đ ùi, g ẫ y thân  đố t s ố ng   −   Tr ườ ng h ợ p g ẫ y c ổ  x ươ ng  đ ùi có th ể  b ắ t vis x ố p, thay ch ỏ m x ươ ng  đ ùi ho ặ c  thay toàn b ộ  kh ớ p háng.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  173  
-
-−   Gãy  đố t s ố ng, bi ế n d ạ ng c ộ t s ố ng: Ph ụ c h ồ i chi ề u cao  đố t s ố ng b ằ ng các ph ươ ng  pháp t ạ o hình  đố t s ố ng (b ơ m xi m ă ng vào thân  đố t s ố ng, thay  đố t s ố ng nhân t ạ o…).  −   Ph ụ  n ữ  sau mãn kinh, nam gi ớ i > 60 tu ổ i b ị  gãy  đố t s ố ng, gãy c ổ  x ươ ng  đ ùi  ho ặ c gãy x ươ ng c ổ  tay do ch ấ n th ươ ng nh ẹ . Có th ể   đượ c  đ i ề u tr ị  loãng x ươ ng mà không  c ầ n  đ o kh ố i l ượ ng x ươ ng. Vi ệ c  đ o kh ố i l ượ ng x ươ ng s ẽ   đượ c th ự c hi ệ n sau  đ ó, khi  thu ậ n ti ệ n,  để  theo dõi và  đ ánh giá k ế t qu ả   đ i ề u tr ị .  5. THEO  DÕ I,  QUẢ N  LÝ   −   B ệ nh nhân ph ả i  đượ c  đ i ề u tr ị  lâu dài và theo dõi sát  để  b ả o  đả m s ự  tuân th ủ   đ i ề u tr ị . N ế u không tuân th ủ   đ i ề u tr ị , s ẽ  không có hi ệ u qu ả   đ i ề u tr ị .    −   Có th ể  s ử  d ụ ng m ộ t s ố  markers chu chuy ể n x ươ ng  để  h ỗ  tr ợ  ch ẩ n  đ oán, tiên  l ượ ng gãy x ươ ng, tiên l ượ ng tình tr ạ ng m ấ t x ươ ng và theo dõi  đ i ề u tr ị .    −   Đ o kh ố i l ượ ng x ươ ng (ph ươ ng pháp DXA) m ỗ i 2 n ă m  để  theo dõi và  đ ánh giá  k ế t qu ả   đ i ề u tr ị .  −   Th ờ i gian  đ i ề u tr ị  ph ả i kéo dài t ừ  3 – 5 n ă m (tùy m ứ c  độ  loãng x ươ ng), sau  đ ó  đ ánh giá l ạ i tình tr ạ ng b ệ nh và quy ế t  đị nh các tr ị  li ệ u ti ế p theo.  6. PHÒNG B Ệ NH  Loãng x ươ ng là b ệ nh có th ể  phòng ng ừ a :  −   Cung c ấ p  đầ y  đủ  calci, vitamin D và các d ưỡ ng ch ấ t c ầ n thi ế t chung cho c ơ  th ể   trong su ố t cu ộ c  đờ i, theo nhu c ầ u c ủ a t ừ ng l ứ a tu ổ i và tình tr ạ ng c ơ  th ể .   −   Duy trì ch ế   độ  v ậ n  độ ng th ườ ng xuyên giúp d ự  tr ữ  calci cho x ươ ng, t ă ng s ự   khéo léo, s ứ c m ạ nh c ơ , s ự  cân b ằ ng  để  gi ả m kh ả  n ă ng té ngã và g ẫ y x ươ ng.    −   H ạ n ch ế  m ộ t s ố  thói quen: hút thu ố c lá, u ố ng nhi ề u r ượ u, nhi ề u cà phê, ít v ậ n  độ ng…      −   Khi b ệ nh nhân có nguy c ơ  loãng x ươ ng (BMD t ừ  -1,5  đế n - 2,4 SD), nh ư ng l ạ i  có nhi ề u y ế u t ố  nguy c ơ : ph ả i dùng corticosteroid  để   đ i ề u tr ị  b ệ nh n ề n, ti ề n s ử  gia  đ ình  có g ẫ y x ươ ng do loãng x ươ ng, nguy c ơ  té ngã cao..., bisphosphonates có th ể   đượ c ch ỉ   đị nh  để  phòng ng ừ a loãng x ươ ng.    TÀI LI Ệ U THAM KH Ả O  1.   Bolland MJ et al .” Effective osteoporosis treatment on mortality in eight  randomized placebo – controlled trials” .  J Clin Endocrinol Metab.  2010;95:1174-1181. 2.   IOF guidelines 2010  http://www.osteofound.org/osteoporosis/treatment.html    and APLAR guidelines 2010  3.   European guidance for the diagnosis and management of osteoporosis in  postmenopausal women. International Osteoporosis Foundation and National  Osteoporosis Foundation 2012  4.   National Osteoporosis Foundation (2013).  “Clinician’s guide to prevention and  treatment of osteoporosis”.   5.   National Institutes of Health (2011), “ Dietary supplement fact sheet: Calcium”,   http://ods.od.nih.gov/factsheets/Calcium-Health Professional/, (10/9/2013).  174 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  HO Ạ I T Ử  VÔ M Ạ CH   CH Ỏ M X ƯƠ NG  Đ ÙI  (Avascular necrosis)  1.  ĐẠ I C ƯƠ NG  Ho ạ i t ử  vô m ạ ch (Avascular Necrosis- AVN) ch ỏ m x ươ ng  đ ùi hay còn g ọ i là ho ạ i  t ử  vô khu ẩ n ch ỏ m x ươ ng  đ ùi là b ệ nh có t ổ n th ươ ng ho ạ i t ử  t ế  bào x ươ ng và t ủ y x ươ ng  do b ị  thi ế u máu nuôi ph ầ n trên ch ỏ m x ươ ng  đ ùi. Vùng ho ạ i t ử  lúc  đầ u t ạ o ra các vùng  th ư a x ươ ng, các  ổ  khuy ế t x ươ ng, v ề  sau d ẫ n  đế n gãy x ươ ng d ướ i s ụ n, cu ố i cùng gây x ẹ p  ch ỏ m x ươ ng  đ ùi, thoái hóa th ứ  phát và m ấ t ch ứ c n ă ng c ủ a kh ớ p háng, d ẫ n  đế n tàn ph ế .  Ho ạ i t ử  ch ỏ m x ươ ng  đ ùi t ự  phát th ườ ng g ặ p nh ấ t  ở   độ  tu ổ i trung niên; nam  th ườ ng g ặ p h ơ n n ữ . Ho ạ i t ử  x ươ ng th ứ  phát sau ch ấ n th ươ ng ho ặ c các nguyên nhân  khác ph ụ  thu ộ c vào tu ổ i m ắ c các b ệ nh lý n ề n. 
-
- 2. NGUYÊN NHÂN  
-
- 2.1. T ự  phát  Th ườ ng g ặ p nh ấ t, có th ể  chi ế m t ớ i 50% các tr ườ ng h ợ p. 
-
- 2.2. Th ứ  phát  −   Do ch ấ n th ươ ng: Do tr ậ t kh ớ p ho ặ c gãy c ổ  x ươ ng. Thông th ườ ng ho ạ i t ử  xu ấ t  hi ệ n sau ch ấ n th ươ ng kho ả ng 2 n ă m và không  ả nh h ưở ng nhi ề u b ở i tu ổ i và gi ớ i.  −   Không do ch ấ n th ươ ng: L ạ m d ụ ng r ượ u, thu ố c lá, dùng corticoid li ề u cao, b ệ nh  khí ép (th ợ  l ặ n, công nhân h ầ m m ỏ ), b ệ nh h ồ ng c ầ u hình li ề m, b ệ nh t ự  mi ễ n (lupus ban  đỏ   h ệ  th ố ng, viêm kh ớ p d ạ ng th ấ p), ghép t ạ ng, viêm ru ộ t, b ệ nh lý t ă ng  đ ông và b ệ nh t ắ c m ạ ch  t ự  phát,  đ ái tháo  đườ ng, r ố i lo ạ n chuy ể n hóa m ỡ , thai nghén. Trong  đ ó, r ượ u và  corticosteroid chi ế m 2/3 nguyên nhân gây ho ạ i t ử  ch ỏ m x ươ ng  đ ùi không do ch ấ n th ươ ng.   3. SINH B Ệ NH H Ọ C  M ạ ch máu nuôi d ưỡ ng x ươ ng  ở  ch ỏ m x ươ ng  đ ùi b ị  t ắ c ngh ẽ n do huy ế t kh ố i, gi ọ t  m ỡ  ho ặ c các bóng h ơ i. C ấ u trúc thành m ạ ch b ị  phá h ủ y do các t ổ n th ươ ng viêm m ạ ch,  tia x ạ  ho ặ c các y ế u t ố  gây co m ạ ch. Các t ổ n th ươ ng này s ẽ  d ẫ n  đế n gi ả m ho ặ c m ấ t vi ệ c  cung c ấ p máu cho t ổ  ch ứ c x ươ ng và gây ra các vùng ho ạ i t ử . Vùng ho ạ i t ử  sát v ớ i vùng  m ạ ch nguyên v ẹ n và các t ế  bào còn s ố ng tr ả i qua quá trình tiêu h ủ y x ươ ng ch ế t và hình  thành x ươ ng m ớ i nh ư ng tiêu h ủ y x ươ ng th ườ ng di ễ n ra nhanh h ơ n làm y ế u c ấ u trúc  x ươ ng, gây gãy các bè x ươ ng d ướ i s ụ n và s ậ p ch ỏ m x ươ ng  đ ùi. Sauk hi s ậ p ch ỏ m, s ụ n  kh ớ p ph ả i ch ị u l ự c t ỳ  c ơ  h ọ c b ấ t th ườ ng và d ẫ n t ớ i thoái hóa ti ế n tri ể n. M ặ t ch ỏ m x ươ ng  đ ùi không  đề u truy ề n các l ự c t ỳ  b ấ t th ườ ng lên s ụ n  ổ  c ố i và c ũ ng d ẫ n  đế n thoái hóa.  4. CH Ẩ N  Đ OÁN   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  175 4.1. Ch ẩ n  đ oán xác  đị nh  −   Lâm sàng:  +   Chú ý h ỏ i ti ề n s ử  dùng thu ố c, u ố ng r ượ u, ch ấ n th ươ ng, b ệ nh lý ph ố i h ợ p  để   đ ánh giá các y ế u t ố  nguy c ơ .  +   T ổ n th ươ ng có th ể   ở  m ộ t ho ặ c hai bên kh ớ p háng, kho ả ng 70% tr ườ ng h ợ p t ổ n  th ươ ng x ả y ra  ở  m ộ t bên.  Ở  giai  đ o ạ n s ớ m, b ệ nh nhân có th ể  không có tri ệ u ch ứ ng. Bi ể u  hi ệ n lâm sàng chính là  đ au kh ớ p háng bên t ổ n th ươ ng, th ườ ng xu ấ t hi ệ n t ừ  t ừ , t ă ng d ầ n.  Đ au t ă ng lên khi  đ i l ạ i ho ặ c  đứ ng lâu, gi ả m khi ngh ỉ  ng ơ i. B ệ nh nhân th ườ ng không có  các bi ể u hi ệ n toàn thân, tr ừ  các tri ệ u ch ứ ng c ủ a b ệ nh n ề n n ế u có.  +   Khám lâm sàng  ở  giai  đ o ạ n s ớ m th ườ ng th ấ y v ậ n  độ ng c ủ a kh ớ p háng không  b ị  h ạ n ch ế , mu ộ n h ơ n có th ể  th ấ y h ạ n ch ế  các  độ ng tác nh ư  xoay, d ạ ng, khép, trong khi  g ấ p du ỗ i th ườ ng bình th ườ ng.  Ở  giai  đ o ạ n mu ộ n th ườ ng có h ạ n ch ế  v ậ n  độ ng t ấ t c ả  các  độ ng tác. Khám t ạ i ch ỗ  không th ấ y các d ấ u hi ệ u b ấ t th ườ ng.   −   C ậ n lâm sàng:  Các xét nghi ệ m huy ế t h ọ c, sinh hóa, bilan viêm th ườ ng bình th ườ ng.   +   X quang:  Th ườ ng ch ỉ  phát hi ệ n  đượ c khi b ệ nh  ở  giai  đ o ạ n mu ộ n. Có th ể  th ấ y  d ấ u hi ệ u tr ă ng l ưỡ i li ề m do gãy x ươ ng d ướ i s ụ n ( đườ ng sáng d ướ i s ụ n). Mu ộ n h ơ n thì  th ấ y hình  ả nh v ỡ  x ươ ng d ướ i s ụ n, bi ế n d ạ ng ch ỏ m ho ặ c x ẹ p ch ỏ m hoàn toàn, h ẹ p khe  kh ớ p háng và t ổ n th ươ ng  ổ  c ố i do thoái hóa th ứ  phát.  +   CT-scan:   Không th ể  phát hi ệ n s ớ m nh ữ ng b ấ t th ườ ng  ở  t ủ y và m ạ ch máu c ủ a  ch ỏ m trong ho ạ i t ử  vô khu ẩ n. D ấ u hi ệ u s ớ m nh ấ t có th ể  phát hi ệ n  đượ c là th ư a x ươ ng.  Các d ấ u hi ệ u khác g ồ m các n ố t t ă ng t ỷ  tr ọ ng không  đề u ho ặ c nh ữ ng d ả i t ă ng t ỷ  tr ọ ng  v ớ i b ề  dày khác nhau;  đườ ng sáng d ướ i s ụ n; v ỡ  x ươ ng d ướ i s ụ n và bi ế n d ạ ng ch ỏ m.  +   C ộ ng h ưở ng t ừ  (MRI):   MRI là ph ươ ng ti ệ n ch ẩ n  đ oán hình  ả nh có kh ả  n ă ng  phát hi ệ n s ớ m nh ấ t và nh ạ y nh ấ t ho ạ i t ử  vô khu ẩ n ch ỏ m x ươ ng  đ ùi. Ngoài ra, MRI còn  xác  đị nh  đượ c kích th ướ c  ổ  t ổ n th ươ ng và phân  độ  t ổ n th ươ ng ho ạ i t ử , giúp  đị nh h ướ ng  ph ươ ng pháp  đ i ề u tr ị  can thi ệ p nh ư  khoan gi ả m áp và  đ ánh giá  đ áp  ứ ng c ủ a ch ỏ m sau  đ i ề u tr ị . T ổ n th ươ ng MRI g ồ m hình  ả nh vùng gi ả m tín hi ệ u  ở  ch ỏ m x ươ ng, th ườ ng g ặ p  vùng tr ướ c trên, có th ể  th ấ y  ở  vùng rìa x ươ ng; hình  ả nh t ă ng tín hi ệ u phía trong có  gianh gi ớ i rõ v ớ i vùng gi ả m tín hi ệ u phía ngoài (d ấ u hi ệ u  đườ ng vi ề n kép), v.v…  4.2. Ch ẩ n  đ oán giai  đ o ạ n   Theo Ficat và Arlet (1997) có b ố n giai  đ o ạ n (n ă m 1985  đượ c m ở  r ộ ng thêm giai  đ o ạ n 0), d ự a vào bi ể u hi ệ n trên Xquang c ủ a ch ỏ m x ươ ng  đ ùi.  −   Phân lo ạ i ARCO (1993) chia ra b ẩ y giai  đ o ạ n:  +   Giai  đ o ạ n 0: Có y ế u t ố  nguy c ơ , không phát hi ệ n  đượ c trên ch ẩ n  đ oán hình  ả nh, k ể  c ả  MRI.   176 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-+   Giai  đ o ạ n 1: Phát hi ệ n  đượ c b ằ ng MRI, x ạ  hình x ươ ng, không phát hi ệ n  đượ c  b ằ ng Xquang th ườ ng. B ệ nh nhân b ắ t  đầ u than  đ au âm  ỉ  không liên t ụ c  ở  vùng háng b ị   t ổ n th ươ ng, c ũ ng có th ể   đ au kh ớ p g ố i.  +   Giai  đ o ạ n 2-6: B ắ t  đầ u có bi ể u hi ệ n trên Xquang th ườ ng  ở  các m ứ c  độ  t ừ  nh ẹ   đế n n ặ ng. M ứ c  độ  thay  đổ i t ừ  khu trú  ở  ch ỏ m x ươ ng  đ ùi (x ơ  hóa, tiêu x ươ ng xen k ẽ ,  đặ c x ươ ng, x ẹ p ch ỏ m)  đế n các thay  đổ i  ở  khe kh ớ p và  ổ  c ố i.  4.3. Ch ẩ n  đ oán phân bi ệ t  −   Ở  giai  đ o ạ n s ớ m: C ầ n phân bi ệ t v ớ i t ấ t c ả  các b ệ nh kh ớ p háng tác  độ ng lên  x ươ ng, s ụ n kh ớ p, màng ho ạ t d ị ch nh ư  viêm màng ho ạ t d ị ch, u màng ho ạ t d ị ch, viêm s ụ n  kh ớ p, các viêm kh ớ p do nguyên nhân khác.  −   Ở  giai  đ o ạ n mu ộ n có h ẹ p khe kh ớ p, thoái hóa th ứ  phát c ầ n phân bi ệ t v ớ i các  b ệ nh lý gây phá h ủ y kh ớ p háng nh ư  lao kh ớ p, viêm kh ớ p nhi ễ m trùng, viêm c ộ t s ố ng  dính kh ớ p, viêm kh ớ p d ạ ng th ấ p, thoái hóa kh ớ p do nh ữ ng nguyên nhân khác. 
-
- 5.  Đ I Ề U TR Ị  
-
- 5.1. Nguyên t ắ c  đ i ề u tr ị   −   Quá trình  đ i ề u tr ị  ph ụ  thu ộ c vào giai  đ o ạ n ti ế n tri ể n c ủ a b ệ nh t ạ i th ờ i  đ i ể m  ch ẩ n  đ oán và nh ữ ng y ế u t ố  khác nh ư  tu ổ i, v ị  trí và kích th ướ c vùng t ổ n th ươ ng, nguyên  nhân và các y ế u t ố  nguy c ơ   đ i kèm.   −   Ph ươ ng pháp  đ i ề u tr ị  theo ba giai  đ o ạ n chính sau:   +   Giai  đ o ạ n s ớ m (tr ướ c khi có gãy x ươ ng d ướ i s ụ n): M ụ c tiêu là d ự  phòng h ạ n  ch ế  t ố i  đ a b ệ nh ti ế n tri ể n n ặ ng lên. Các ph ươ ng pháp can thi ệ p chính g ồ m làm gi ả m áp  l ự c lên ch ỏ m x ươ ng  đ ùi, khoan gi ả m áp, ph ẫ u thu ậ t l ấ y x ươ ng ho ạ i t ử  và ghép x ươ ng,  xoay ch ỏ m x ươ ng.  +   Giai  đ o ạ n mu ộ n h ơ n ( đ ã có gãy x ươ ng d ướ i s ụ n):  Đ i ề u tr ị  tri ệ u ch ứ ng, ph ụ c  h ồ i ch ứ c n ă ng, h ướ ng d ẫ n ch ế   độ  v ậ n  độ ng sinh ho ạ t thích h ợ p, xem xét ph ẫ u thu ậ t  ghép x ươ ng.  +   Giai  đ o ạ n mu ộ n (x ẹ p ch ỏ m x ươ ng  đ ùi, thoái hóa th ứ  phát):  Đ i ề u tr ị  tri ệ u  ch ứ ng, xem xét ph ẫ u thu ậ t thay kh ớ p háng bán ph ầ n ho ặ c toàn ph ầ n.  5.2.  Đ i ề u tr ị  c ụ  th ể   −   Đ i ề u tr ị  n ộ i khoa:  +   Các bi ệ n pháp không dùng thu ố c:  Lo ạ i b ỏ  các y ế u t ố  nguy c ơ : B ỏ  thu ố c lá, tránh r ượ u bia, tránh ho ặ c h ạ n ch ế  t ố i  đ a  vi ệ c s ử  d ụ ng corticosteroid n ế u có th ể .  Gi ả m ch ị u l ự c chân  đ au: Ng ườ i b ệ nh nên gi ả m ho ạ t  độ ng ho ặ c dùng n ạ ng ho ặ c  d ụ ng c ụ  h ỗ  tr ợ   đ i l ạ i  để  giúp ch ỏ m x ươ ng  đ ùi h ạ n ch ế  ch ị u l ự c, giúp làm ch ậ m quá trình  ti ế n tri ể n c ủ a b ệ nh.   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  177  
-
-T ậ p v ậ n  độ ng kh ớ p, giúp c ả i thi ệ n ch ứ c n ă ng v ậ n  độ ng kh ớ p, tránh bi ế n ch ứ ng co  rút kh ớ p.  Kích thích  đ i ệ n có th ể  giúp c ơ  th ể  t ạ o x ươ ng m ớ i  để  thay th ế  x ươ ng ch ế t.  +   Đ i ề u tr ị  b ằ ng thu ố c:   Các thu ố c kháng viêm không steriod (NSAID) nh ư  diclofenac, piroxicam,  meloxicam, celecoxib, etoricoxib (li ề u l ượ ng xem  ở  ph ầ n Ph ụ  l ụ c) có th ể  giúp gi ả m  đ au,  gi ả m quá trình viêm kèm theo. L ư u ý tác d ụ ng ph ụ  c ủ a NSAID và tác  độ ng c ủ a thu ố c  đố i v ớ i vi ệ c  đ i ề u tr ị  b ệ nh lý n ề n.  Thu ố c gi ả m  đ au thông th ườ ng: Paracetamol (500mg x 3-4 l ầ n/ngày), ho ặ c  paracetamol + codein/tramadol (2-4 viên/ngày).   Xem xét s ử  d ụ ng Calcitonin ho ặ c Bisphosphonate (alendronate 70mg u ố ng/tu ầ n,  risedronate 35mg/tu ầ n, v.v…).  B ổ  sung calci (500–1000mg/ngày) và vitamin D 400–800IU/ngày.  Đ i ề u tr ị  nh ữ ng b ệ nh lý ph ố i h ợ p,  đặ c bi ệ t là tình tr ạ ng r ố i lo ạ n lipid máu.  −   Các ph ươ ng pháp  đ i ề u tr ị  ngo ạ i khoa:   +   Ph ẫ u thu ậ t khoan gi ả i áp ch ỏ m x ươ ng  đ ùi khi t ổ n th ươ ng  ở   độ  1 và  độ  2 (phân  lo ạ i ARCO). Ph ẫ u thu ậ t khoan gi ả m áp k ế t h ợ p v ớ i ghép x ươ ng b ằ ng m ả nh x ươ ng t ự  do  ho ặ c m ả nh x ươ ng có cu ố ng m ạ ch  đượ c ch ỉ   đị nh v ớ i t ổ n th ươ ng ho ạ i t ử  ch ỏ m x ươ ng  đ ùi  độ  3.  +   Ch ỉ   đị nh thay kh ớ p háng bán ph ầ n ho ặ c toàn ph ầ n khi t ổ n th ươ ng ho ạ i t ử  t ừ   độ  4 tr ở  lên, khi b ệ nh nhân  đ au nhi ề u, kh ớ p háng không còn ch ứ c n ă ng.   +   Ph ươ ng pháp khác: Tiêm t ế  bào g ố c t ự  thân (l ấ y t ừ  t ủ y x ươ ng) có th ể   đượ c ch ỉ   đị nh v ớ i nh ữ ng t ổ n th ươ ng ho ạ i t ử   ở   độ  I và II, khi ch ư a có v ỡ  x ươ ng d ướ i s ụ n, thông  qua  đườ ng khoan gi ả m áp. Tuy nhiên, ph ươ ng pháp này  đ ang  đượ c nghiên c ứ u,  đ ánh  giá k ế t qu ả .   6. THEO DÕI, QU Ả N LÝ  −   Ho ạ i t ử  vô m ạ ch ch ỏ m x ươ ng  đ ùi kh ở i phát lúc  đầ u âm th ầ m. Khi b ệ nh nhân  xu ấ t hi ệ n tri ệ u ch ứ ng thì t ổ n th ươ ng ho ạ i t ử  th ườ ng ti ế n tri ể n m ứ c  độ  nhanh  đế n th ờ i  đ i ể m can thi ệ p ph ẫ u thu ậ t là c ầ n thi ế t. Vi ệ c phát hi ệ n s ớ m và  đ i ề u tr ị  k ị p th ờ i,  đặ c bi ệ t  ở   giai  đ o ạ n c ấ u trúc gi ả i ph ẫ u c ủ a ch ỏ m x ươ ng  đ ùi còn nguyên v ẹ n là lý t ưở ng nh ấ t.  −   Để  d ự  phòng ho ạ i t ử  vô m ạ ch ch ỏ m x ươ ng  đ ùi  đ òi h ỏ i ph ả i lo ạ i b ỏ  các y ế u t ố   nguy c ơ , trong  đ ó bên c ạ nh các y ế u t ố  b ệ nh ngh ề  nghi ệ p thì c ầ n b ỏ  r ượ u, thu ố c lá và  vi ệ c l ạ m d ụ ng corticoid.        178 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-B Ệ NH U T Ế  BÀO KH Ổ NG L Ồ   (Giant cell tumor)   1.  ĐẠ I C ƯƠ NG  −   U t ế  bào kh ổ ng l ồ  (giant cell tumor, GCT) c ủ a x ươ ng, còn g ọ i là u  đạ i bào, là  m ộ t d ạ ng u x ươ ng lành tính, th ườ ng g ặ p  ở   đầ u x ươ ng dài  ở  ng ườ i l ớ n tr ẻ  tu ổ i khi x ươ ng  đ ã tr ưở ng thành và s ụ n ti ế p h ợ p  ở  vùng  đầ u x ươ ng  đ ã c ố t hóa.  −   U x ươ ng t ế  bào kh ổ ng l ồ  chi ế m 5 - 10% các kh ố i u x ươ ng nguyên phát và  chi ế m kho ả ng 20% các u x ươ ng lành tính.  Đ ây là lo ạ i u x ươ ng th ườ ng g ặ p nh ấ t  ở  ng ườ i  trong  độ  tu ổ i 30 - 40, t ỷ  l ệ  n ữ  m ắ c b ệ nh g ấ p kho ả ng 1,3 - 1,5 l ầ n so v ớ i nam gi ớ i.  −   Các v ị  trí th ườ ng g ặ p nh ấ t theo th ứ  t ự  là  đầ u d ướ i x ươ ng  đ ùi,  đầ u trên x ươ ng  chày,  đầ u d ướ i x ươ ng quay và x ươ ng cùng. Kho ả ng 50% u t ế  bào kh ổ ng l ồ  xu ấ t hi ệ n  ở   x ươ ng vùng quanh kh ớ p g ố i. M ộ t s ố  v ị  trí c ũ ng th ườ ng g ặ p khác g ồ m  đầ u x ươ ng mác,  đầ u trên x ươ ng  đ ùi,  đầ u trên x ươ ng cánh tay. Hi ế m g ặ p h ơ n là  ở  c ộ t s ố ng và nh ữ ng v ị   trí khác.  Đ a ph ầ n ch ỉ  g ặ p  ở  m ộ t ví trí, r ấ t hi ế m g ặ p u t ế  bào kh ổ ng l ồ   đ a  ổ .  2. NGUYÊN NHÂN  Nguyên nhân ch ư a rõ,  đ ây không ph ả i là m ộ t d ạ ng tân s ả n mà là m ộ t tình tr ạ ng có  tính ch ấ t ph ả n  ứ ng. Kh ố i u  đượ c hình thành có th ể  b ắ t  đầ u t ừ  nh ữ ng khi ế m khuy ế t v ề   m ạ ch máu và xu ấ t huy ế t t ạ i ch ỗ  trong x ươ ng cùng v ớ i s ự  tác  độ ng c ủ a m ộ t s ố  y ế u t ố   khác  đ ã bi ế n  đổ i các t ế  bào b ạ ch c ầ u  đơ n nhân thành các t ế  bào kh ổ ng l ồ  và h ủ y c ố t bào. 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Ch ẩ n  đ oán xác  đị nh  −   Lâm sàng:  +   Ở  giai  đ o ạ n s ớ m ho ặ c kh ố i u nh ỏ , b ệ nh nhân có th ể  không có tri ệ u ch ứ ng.  +   Các tri ệ u ch ứ ng th ườ ng không  đặ c hi ệ u và th ườ ng xu ấ t hi ệ n khi t ổ n th ươ ng  b ắ t  đầ u phá h ủ y v ỏ  x ươ ng và kích thích màng x ươ ng ho ặ c khi x ươ ng y ế u gây gãy  x ươ ng b ệ nh lý. H ầ u h ế t b ệ nh nhân có bi ể u hi ệ n  đ au, xu ấ t hi ệ n t ừ  t ừ , t ă ng d ầ n,  đ ôi khi có  th ể  phát hi ệ n th ấ y kh ố i u x ươ ng ho ặ c u ph ầ n m ề m t ạ i v ị  trí t ổ n th ươ ng.   +   Khi u t ế  bào kh ổ ng l ồ  n ằ m  ở  v ị  trí c ậ n kh ớ p, b ệ nh nhân có th ể  có  đ au và h ạ n  ch ế  v ậ n  độ ng kh ớ p, có th ể  có tràn d ị ch kh ớ p.   +   U t ế  bào kh ổ ng l ồ   ở  c ộ t s ố ng có th ể  có bi ể u hi ệ n  đ au th ắ t l ư ng ho ặ c  đ au c ộ t  s ố ng c ổ  ti ế n tri ể n t ừ  t ừ , t ă ng d ầ n, có th ể  kèm tri ệ u ch ứ ng kích thích r ễ .  +   M ộ t s ố  kh ố i u t ế  bào kh ổ ng l ồ  có bi ể u hi ệ n  đầ u tiên là gãy x ươ ng b ệ nh lý.  −   Xét nghi ệ m:  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  179  
-
-Các xét nghi ệ m sinh hóa, huy ế t h ọ c th ườ ng bình th ườ ng. Nên làm xét nghi ệ m  calci, phospho máu  để  lo ạ i tr ừ  b ệ nh lý c ườ ng c ậ n giáp tr ạ ng.  −   Ch ẩ n  đ oán hình  ả nh:  +   X quang th ườ ng quy:  T ổ n th ươ ng u t ế  bào kh ổ ng l ồ  th ườ ng có các  đặ c  đ i ể m sau:  Hình  ả nh tiêu x ươ ng khu trú, l ệ ch tâm theo tr ụ c c ủ a x ươ ng, th ườ ng có ranh gi ớ i rõ  n ằ m  ở  vùng  đầ u x ươ ng và có th ể  lan t ớ i vùng hành x ươ ng. T ổ n th ươ ng có th ể  phá h ủ y  vùng v ỏ  x ươ ng k ế  c ậ n song th ườ ng không phá h ủ y b ề  m ặ t kh ớ p.   Vùng trung tâm kh ố i u là n ơ i t ă ng th ấ u quang nh ấ t và  đậ m  độ  c ả n quang t ă ng d ầ n  ra phía ngo ạ i vi.  Th ườ ng không có bi ể u hi ệ n calci hóa trong lòng kh ố i u và không có ph ả n  ứ ng  màng x ươ ng.  +   CT-scan ho ặ c MRI :  Cho phép  đ ánh giá chi ti ế t t ổ n th ươ ng v ỏ  x ươ ng và ph ầ n  m ề m k ế  c ậ n.   +   X ạ  hình x ươ ng:  Ít có vai trò trong ch ẩ n  đ oán và  đ ánh giá u t ế  bào kh ổ ng l ồ .  Độ  t ậ p trung phóng x ạ  th ườ ng t ă ng, song có th ể  bình th ườ ng.  −   Sinh thi ế t x ươ ng và mô b ệ nh h ọ c:  +   T ổ n th ươ ng th ườ ng dày  đặ c t ế  bào, v ớ i nhi ề u t ế  bào kh ổ ng l ồ  nhi ề u nhân xen  k ẽ  v ớ i các t ế  bào  đệ m  đơ n nhân. Các t ế  bào  đệ m là các t ế  bào  đơ n nhân  đồ ng nh ấ t hình  tròn ho ặ c ô van, nhân l ớ n. Nhân c ủ a các t ế  bào  đệ m gi ố ng nhân trong các t ế  bào kh ổ ng  l ồ ,  đ ây là  đặ c  đ i ể m  để  phân bi ệ t u t ế  bào kh ổ ng l ồ  v ớ i các t ổ n th ươ ng khác có ch ứ a t ế   bào kh ổ ng l ồ .   +   Các t ế  bào kh ổ ng l ồ  th ườ ng có s ố  l ượ ng nhân r ấ t l ớ n, có th ể  t ớ i hàng tr ă m  nhân. Gi ữ a các t ế  bào có r ấ t ít ch ấ t gian bào, ngo ạ i tr ừ  m ộ t ít s ợ i collagen.  3.2. Ch ẩ n  đ oán giai  đ o ạ n   −   Giai  đ o ạ n 1 (<5%): Kh ố i u nh ỏ , không ho ặ c ít ti ế n tri ể n, gianh gi ớ i rõ, v ỏ   x ươ ng còn nguyên v ẹ n, th ườ ng không có tri ệ u ch ứ ng, mô h ọ c lành tính.  −   Giai  đ o ạ n 2 (70-85%): Có tri ệ u ch ứ ng, có th ể  có gãy x ươ ng b ệ nh lý. T ổ n  th ươ ng x ươ ng trên Xquang lan r ộ ng, v ỏ  x ươ ng m ỏ ng và giãn r ộ ng, song ch ư a b ị  th ủ ng.  Trên x ạ  hình có t ă ng ho ạ t tính. Mô h ọ c lành tính.  −   Giai  đ o ạ n 3 (10-15%): Có tri ệ u ch ứ ng, kh ố i u phát tri ể n nhanh. T ổ n th ươ ng  phá h ủ y v ỏ  x ươ ng, kh ố i u lan vào mô m ề m xung quanh trên Xquang ho ặ c CT-scan. X ạ   hình x ươ ng th ấ y t ă ng ho ạ t tính phóng x ạ  v ượ t quá gi ớ i h ạ n t ổ n th ươ ng x ươ ng. T ă ng  sinh m ạ ch máu trên ch ụ p m ạ ch. Mô h ọ c lành tính.  3.3. Ch ẩ n  đ oán phân bi ệ t   −   U nguyên bào s ụ n (chondroblastoma)   −   Sarcoma s ụ n (chondrosarcoma)    180 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Kén x ươ ng phình m ạ ch (aneurymal bone cyst)  −   U nâu (brown tumor) trong c ườ ng c ậ n giáp tr ạ ng  −   Sarcom x ươ ng (ostosarcoma)  −   U t ế  bào t ạ o collagen (desmoplastic fibroma) 
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c  đ i ề u tr ị   −   Đ i ề u tr ị  ngo ạ i khoa là ch ủ  y ế u.  Đ i ề u tr ị  n ộ i khoa th ườ ng ch ỉ  có tính ch ấ t h ỗ  tr ợ ,  gi ả m tri ệ u ch ứ ng n ế u có.  −   Nh ữ ng kh ố i u không có kh ả  n ă ng  đ i ề u tr ị  b ằ ng ph ẫ u thu ậ t do  ở  v ị  trí khó ho ặ c  do có b ệ nh lý ph ố i h ợ p n ặ ng có th ể  xem xét  đ i ề u tr ị  x ạ  tr ị .  −   Trong th ờ i gian ch ờ   đợ i ph ẫ u thu ậ t, n ế u kh ố i u l ớ n nên s ử  d ụ ng n ẹ p vùng chi  có x ươ ng b ị  t ổ n th ươ ng nh ằ m  đề  phòng gãy x ươ ng b ệ nh lý.  4.2.  Đ i ề u tr ị  c ụ  th ể   −   Đ i ề u tr ị  n ộ i khoa:  +   Thu ố c gi ả m  đ au (n ế u b ệ nh nhân có  đ au): Paracetamol, ho ặ c paracetamol k ế t  h ợ p codein ho ặ c tramadol, ho ặ c thu ố c kháng viêm không steroid.  +   Xem xét s ử  d ụ ng bisphosphonate (zoledronic acid, pamidronate) truy ề n t ĩ nh  m ạ ch. Có th ể  có tác d ụ ng gi ả m tri ệ u ch ứ ng và h ạ n ch ế  tái phát sau các th ủ  thu ậ t can  thi ệ p  ở  m ộ t s ố  b ệ nh nhân u t ế  bào kh ổ ng l ồ , tuy nhiên hi ệ u qu ả  th ự c s ự  ch ư a rõ ràng.  +   Denosumab (kháng th ể   đơ n dòng kháng RANKL), m ộ t thu ố c  đ i ề u tr ị  loãng x ươ ng  và b ệ nh lý ác tính di c ă n x ươ ng, có hi ệ u qu ả  song c ũ ng  đ ang trong quá trình th ử  nghi ệ m.  −   Các ph ươ ng pháp ph ẫ u thu ậ t:  +   N ạ o vét kh ố i u :  Đ ây là ph ươ ng pháp ph ẫ u thu ậ t ch ủ  y ế u. Có th ể  n ạ o vét  đơ n  thu ầ n ho ặ c n ạ o vét r ộ ng k ế t h ợ p v ớ i b ơ m phenol ho ặ c nit ơ  l ỏ ng t ạ i ch ỗ . Lòng kh ố i u có  th ể   đượ c l ấ p  đầ y b ằ ng xi m ă ng polymethyl methacrylate ho ặ c ghép x ươ ng sau n ạ o vét.  +   C ắ t b ỏ  r ộ ng kh ố i u : V ớ i nh ữ ng t ổ n th ươ ng có tính ch ấ t lan r ộ ng và m ứ c  độ   phá h ủ y cao, ho ặ c t ổ n th ươ ng xu ấ t hi ệ n  ở  nh ữ ng x ươ ng có th ể  lo ạ i b ỏ   đượ c nh ư  u  ở   x ươ ng mác; ho ặ c v ớ i nh ữ ng tr ườ ng h ợ p kh ố i u tái phát nhi ề u l ầ n.  +   T ạ o hình x ươ ng:  Tùy theo  độ  l ớ n c ủ a kh ố i u, v ị  trí ch ị u l ự c, m ứ c  độ  t ổ n  th ươ ng sau khi n ạ o vét ho ặ c c ắ t b ỏ  kh ố i u mà c ầ n ch ỉ   đị nh các ph ươ ng pháp t ạ o hình  khác nhau.  5. TI Ế N TRI Ể N VÀ BI Ế N CH Ứ NG  −   U x ươ ng t ế  bào kh ổ ng l ồ  là m ộ t t ổ n th ươ ng lành tính, m ặ c dù có th ể  ti ế n tri ể n  và xâm l ấ n t ạ i ch ỗ , song r ấ t hi ế m khi ác tính hóa. Trong m ộ t s ố  hi ế m tr ườ ng h ợ p  (kho ả ng 2%) có th ể  th ấ y di c ă n  ở  ph ổ i, song t ổ n th ươ ng ph ổ i th ườ ng là lành tính và  đ a  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  181 s ố   đượ c phát hi ệ n m ộ t cách tình c ờ . Nên ch ụ p Xquang ho ặ c CT ng ự c cho t ấ t c ả  các  b ệ nh nhân m ớ i  đượ c ch ẩ n  đ oán u t ế  bào kh ổ ng l ồ   để  phát hi ệ n t ổ n th ươ ng di c ă n ph ổ i  n ế u có.  −   U x ươ ng t ế  bào kh ổ ng l ồ  khi phát tri ể n r ộ ng có th ể  gây gãy x ươ ng b ệ nh lý  đặ c  bi ệ t khi kh ố i u  ở  các chi.  −   B ệ nh có th ể  tái phát t ạ i ch ỗ  sau ph ẫ u thu ậ t. Tái phát t ạ i ch ỗ  sau khi n ạ o vét  đơ n  thu ầ n có th ể  t ớ i 50% tr ườ ng h ợ p. Tái phát sau khi n ạ o vét r ộ ng có t ỷ  l ệ  kho ả ng 10%.  6. THEO DÕI VÀ QU Ả N LÝ  −   Sau ph ẫ u thu ậ t, b ệ nh nhân c ầ n  đượ c thông tin v ề  nguy c ơ  tái phát t ạ i ch ỗ .   −   B ệ nh nhân nên  đượ c theo dõi  đề u  đặ n m ỗ i 3-4 tháng trong ít nh ấ t 2 n ă m  đầ u,  sau  đ ó m ỗ i 6 tháng  đế n m ộ t n ă m t ớ i ít nh ấ t 5 n ă m. Khi có tái phát t ạị  ch ỗ , nên th ă m  khám  đ ánh giá l ạ i m ộ t cách toàn di ệ n, bao g ồ m c ả  vi ệ c ch ụ p CT-scan ng ự c, b ụ ng và  khung ch ậ u.    TÀI LI Ệ U THAM KH Ả O  1.   Clifford R. Wheeless. Giant cell tumor. “ Wheeless’ Textbook of Orthopaedics” .  Duke University Medical Center's Division of Orthopedic Surgery and  Data  Trace Internet Publishing, LLC. 2011.  2.   Karpik M. Giant Cell Tumor (tumor gigantocellularis, osteoclastoma) -  epidemiology, diagnosis, treatment. Ortop Traumatol Rehabil. 2010;12(3):  207-15.  3.   Mendenhall, W. M., Zlotecki, R. A., Scarborough, M. T., et al.  “Giant Cell  Tumor of Bone.”  American Journal of Clinical Oncology, 2006; 29(1):96-99.  4.   Thomas DM and Skubitz KM. Giant cell tumour of bone. “ Current Opinion in  Oncology”  2009;21:338–344    182 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  U X ƯƠ NG D Ạ NG X ƯƠ NG  (Osteoid osteoma)  1.  ĐẠ I C ƯƠ NG  −   U x ươ ng d ạ ng x ươ ng (Osteoid osteoma) là m ộ t t ổ n th ươ ng x ươ ng lành tính.  Đ ó  là m ộ t  ổ  nh ỏ  (nidus) bao quanh là m ộ t vùng x ơ  c ứ ng ph ả n  ứ ng có kích th ướ c r ấ t nh ỏ   kho ả ng t ừ  1,5cm - 2cm, xu ấ t hi ệ n ch ủ  y ế u t ạ i các thân x ươ ng dài c ủ a chi d ướ i (chi ế m t ỷ   l ệ   80-90%). T ạ i c ộ t s ố ng chi ế m 7-20%, ngoài ra hi ế m g ặ p  ở  kh ớ p, x ươ ng s ọ .   −   U x ươ ng d ạ ng x ươ ng chi ế m kho ả ng 10% t ấ t c ả  các kh ố i u lành tính và 5% t ấ t  c ả  các u x ươ ng nguyên phát.   −   Tu ổ i m ắ c b ệ nh: ch ủ  y ế u d ướ i 25 tu ổ i (chi ế m 90%).   −   Gi ớ i: Nam nhi ề u h ơ n n ữ  (t ỷ  l ệ   2-3:1).    2. NGUYÊN NHÂN  Hi ệ n nay v ẫ n ch ư a rõ nguyên nhân gây u x ươ ng d ạ ng x ươ ng, di truy ề n  đượ c cho  là y ế u t ố  quan tr ọ ng. M ộ t s ố  tác gi ả  cho r ằ ng nguyên nhân là do virus, do các viêm  nhi ễ m, ho ặ c liên quan  đế n mi ễ n d ị ch. 
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Ch ẩ n  đ oán xác  đị nh  −   Tri ệ u ch ứ ng lâm sàng:  +   U x ươ ng d ạ ng x ươ ng bi ể u hi ệ n  đ au là chính:  Đ au liên t ụ c, d ữ  d ộ i v ớ i nhi ề u  m ứ c  độ  khác nhau t ạ i n ơ i có kh ố i u,  đ au t ă ng v ề   đ êm (chi ế m 95% b ệ nh nhân) và gi ả m  nh ẹ  tr ướ c bu ổ i sáng ho ặ c sau khi u ố ng aspirine. C ơ n  đ au có th ể  khi ế n b ệ nh nhân th ứ c  gi ấ c (chi ế m 29% tr ườ ng h ợ p) và có th ể   ả nh h ưở ng t ớ i dáng  đ i c ủ a b ệ nh nhân, tri ệ u  ch ứ ng  đ au có th ể  kéo dài t ừ  nhi ề u tu ầ n  đế n nhi ề u n ă m.   +   T ạ i v ị  trí có u x ươ ng d ạ ng x ươ ng: Th ườ ng bình th ườ ng, tuy nhiên có th ể  g ặ p  s ư ng, t ă ng nhi ệ t  độ , t ă ng ti ế t m ồ  hôi, t ă ng c ả m giác  đ au khi ch ạ m vào.   +   Tri ệ u ch ứ ng bi ể u hi ệ n có th ể  khác nhau tùy thu ộ c vào v ị  trí u: T ạ i c ộ t s ố ng gây  cong v ẹ o c ộ t s ố ng,  đ au l ư ng ho ặ c c ổ ,  đ au lan các chi d ướ i và vai gi ố ng nh ư  tri ệ u ch ứ ng  c ủ a b ệ nh thoát v ị   đĩ a  đệ m. T ạ i bàn tay có bi ể u hi ệ n nh ư  viêm kh ớ p, b ệ nh bàn tay b ấ t  th ườ ng (macrodactyly), ngón tay dùi tr ố ng (clubbing).   −   C ậ n lâm sàng:  +   Ch ẩ n  đ oán hình  ả nh   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  183  
-
-Ch ụ p phim Xquang  Trên phim Xquang, hình  ả nh  đặ c tr ư ng c ủ a u x ươ ng d ạ ng x ươ ng là kh ố i x ơ  c ứ ng  bao quanh m ộ t  ổ  sáng (lucent nidus). Có b ố n  đặ c  đ i ể m ch ẩ n  đ oán bao g ồ m:  •   T ổ n th ươ ng hình rõ nét hình tròn ho ặ c hình oval  •   Đườ ng kính nh ỏ  h ơ n 2cm  •   Có vùng trung tâm dày  đặ c  đồ ng nh ấ t   •   Có m ộ t vùng th ấ u quang có chu vi t ừ  1-2mm  Xquang thông th ườ ng có giá tr ị  ch ẩ n  đ oán th ấ p, th ườ ng phát hi ệ n mu ộ n u x ươ ng  d ạ ng x ươ ng.  Ch ụ p c ắ t l ớ p vi tính (CT scan)   Ch ụ p c ắ t l ớ p vi tính giúp xác  đị nh chính xác v ị  trí kh ố i u trong 90% tr ườ ng h ợ p  kh ố i u ngoài kh ớ p, 66% tr ườ ng h ợ p kh ố i u  ở  các v ị  trí nh ư  c ộ t s ố ng hay c ổ  x ươ ng  đ ùi:  U x ươ ng d ạ ng x ươ ng là m ộ t kh ố i u hình khuyên có  đườ ng vòng bao quanh v ớ i tín hi ệ u  gi ả m h ơ n tín hi ệ u kh ố i u.   Ch ụ p c ắ t l ớ p vi tính có c ả n quang: U x ươ ng d ạ ng x ươ ng cho th ấ y giai  đ o ạ n  độ ng  m ạ ch có giao  độ ng nhanh t ă ng c ườ ng và sau  đ ó là s ự  thoát ra ch ậ m c ủ a thu ố c c ả n quang  t ạ i  ổ  b ệ nh, phù h ợ p v ớ i dòng ch ả y ch ậ m trong giai  đ o ạ n t ĩ nh m ạ ch.  Ch ụ p c ộ ng h ưở ng t ừ  :  Ch ỉ   đị nh cho nh ữ ng tr ườ ng h ợ p còn nghi ng ờ .   Ch ụ p  đồ ng v ị  phóng x ạ  :  Xác  đị nh chính xác  ổ  nidus t ớ i 2mm.   Ch ụ p  độ ng m ạ ch (Arteriography):  Trong tr ườ ng h ợ p x ơ  c ứ ng hóa x ươ ng t ớ i m ứ c  các ph ươ ng pháp th ă m khám, ki ể m tra khác không xác  đị nh  đượ c các nidus nh ỏ , ch ụ p  độ ng m ạ ch giúp xác  đị nh  đượ c ba pha c ủ a u x ươ ng d ạ ng x ươ ng.   +   Ch ẩ n  đ oán mô b ệ nh h ọ c:  U x ươ ng d ạ ng x ươ ng là m ộ t t ổ n th ươ ng màu  đỏ  nâu t ạ i v ỏ  x ươ ng ho ặ c t ủ y x ươ ng.  Ổ  (nidus)  đượ c bao quanh b ở i x ươ ng  đ ã b ị  x ơ  c ứ ng v ớ i t ế  bào t ạ o x ươ ng b ị  dày  đặ c, có  h ạ t (gritty), t ế  bào h ủ y x ươ ng xu ấ t hi ệ n.  3.2. Ch ẩ n  đ oán phân bi ệ t  −   Lâm sàng:  Phân bi ệ t viêm t ủ y x ươ ng (osteomyelitis), áp xe Brodie ((Brodie  abscesses), u h ạ t t ă ng b ạ ch c ầ u ái toan (eosinophilic granulomas) và các u nang lành  tính khác.  −   X quang:  Phân bi ệ t gãy x ươ ng do  đ è nén, áp xe kh ớ p, viêm x ươ ng t ủ y x ơ   c ứ ng c ủ a Garré, ho ặ c ho ạ i t ử  vô khu ẩ n, viêm x ươ ng s ụ n tách r ờ i và viêm kh ớ p, u x ươ ng  ác tính (osteosarcoma).  −   Ch ụ p CT:  Phân bi ệ t v ớ i các t ổ n th ươ ng x ơ  c ứ ng khác nh ư  u nguyên bào x ươ ng  (osteoblasma), viêm t ủ y x ươ ng (osteomyelitis), viêm kh ớ p và  đả o x ươ ng (enostosis).   −   V ề  mô b ệ nh h ọ c:  U x ươ ng d ạ ng x ươ ng c ầ n phân bi ệ t v ớ i:   184 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-+   U nguyên bào x ươ ng lành tính (osteoblastoma): T ổ n th ươ ng là m ẫ u th ố ng nh ấ t  các bè x ươ ng dày, x ế p sát nhau v ớ i s ố  l ượ ng m ạ ch máu và t ế  bào t ă ng lên.  +   U x ươ ng ác tính (osteosarcoma): Có nhi ề u t ế  bào h ơ n u x ươ ng d ạ ng x ươ ng và  nhi ề u t ế  bào không phân hóa.   +   Đả o x ươ ng (enostosis): Hình  ả nh m ộ t  đả o nh ữ ng bè x ươ ng b ị  dày hóa, x ế p san  sát v ớ i h ệ   đệ m mô liên k ế t bình th ườ ng. 
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c chung  −   Đ i ề u tr ị  n ộ i khoa:  Thu ố c gi ả m  đ au, thu ố c ch ố ng viêm không steroid (NSAIDs)  có hi ệ u qu ả  trong th ờ i gian dài.  −   Đ i ề u tr ị  ngo ạ i khoa:  Y ế u t ố  quan tr ọ ng nh ấ t cho s ự  thành công c ủ a ph ẫ u thu ậ t  là vi ệ c xác  đị nh chính xác v ị  trí kh ố i u. L ự a ch ọ n ph ươ ng pháp  đ i ề u tr ị  ph ả i  đơ n gi ả n,  chính xác, hi ệ u qu ả  và ít t ố n kém nh ấ t.   4.2.  Đ i ề u tr ị  c ụ  th ể   −   Đ i ề u tr ị  n ộ i khoa:  +   Thu ố c gi ả m  đ au: Aspirin 650 - 3250mg/ngày, paracetamol  1 - 2 gam/ngày.  +   Thu ố c ch ố ng viêm không steroid (NSAIDs): Etoricoxib: 30mg - 60mg/ngày,  celecoxib 200mg/ngày, meloxicam 7,5 - 15mg/ngày, diclofenac 50mg - 100mg/ngày.  −   Đ i ề u tr ị  b ằ ng ph ẫ u thu ậ t:  +   Ch ỉ   đị nh ph ẫ u thu ậ t: Nh ữ ng b ệ nh nhân không  đ áp  ứ ng v ớ i  đ i ề u tr ị  n ộ i khoa,  không s ử  d ụ ng  đượ c thu ố c ch ố ng viêm không steroid kéo dài và h ạ n ch ế  v ậ n  độ ng nhi ề u.   +   Đ i ề u tr ị  b ằ ng ph ẫ u thu ậ t m ở : Ph ẫ u thu ậ t c ắ t b ỏ  tri ệ t  để  kh ố i u, gi ả m thi ể u nguy  c ơ  tái phát.   +   Đ i ề u tr ị  b ằ ng ph ẫ u thu ậ t ít xâm l ấ n: Ph ươ ng pháp ph ẫ u thu ậ t ít xâm l ấ n b ằ ng  n ộ i soi có s ự  h ỗ  tr ợ  c ủ a video, kính hi ể n vi ho ặ c phá u b ằ ng sóng cao t ầ n th ự c hi ệ n theo  đườ ng qua da,   ít gây ch ấ n th ươ ng cho mô.  +   Ph ẫ u thu ậ t d ướ i da v ớ i s ự  h ỗ  tr ợ  c ủ a ch ụ p c ắ t l ớ p vi tính:  Để   đị nh v ị  chính xác  ổ  b ệ nh (nidus), dùng dây Kirschner  đư a vào qua da và khoan qua l ớ p v ỏ  x ươ ng  để  vào  trong nidus, kim sinh thi ế t  đượ c  đư a qua dây và lo ạ i b ỏ  hoàn toàn kh ố i u, t ỷ  l ệ  thành  công t ừ  83 - 100%.  +   Ph ẫ u thu ậ t c ắ t b ỏ  kh ố i u có s ự  tham gia c ủ a ch ấ t  đồ ng v ị  phóng x ạ : B ệ nh nhân  c ầ n ch ụ p x ạ  hình x ươ ng (bone scintigraphy)  để  xác  đị nh  ổ  nidus chính xác t ớ i 2mm.  Ph ươ ng pháp này cho phép theo dõi ti ế n trình c ắ t b ỏ  kh ố i u t ạ o  đ i ề u ki ệ n cho ph ẫ u thu ậ t   ít  ả nh h ưở ng  đế n x ươ ng lành.    H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  185  
-
-+   Ph ẫ u thu ậ t có s ự  h ỗ  tr ợ  c ủ a máy tính: Là t ổ ng h ợ p nh ữ ng k ỹ  thu ậ t hình  ả nh và  thi ế t b ị  theo dõi ba chi ề u nh ằ m nâng cao hi ệ u qu ả  ph ẫ u thu ậ t  đặ c bi ệ t  đố i v ớ i nh ữ ng  kh ố i u nh ỏ  n ằ m sâu trong x ươ ng.  5. TI Ế N TRI Ể N VÀ BI Ế N CH Ứ NG  U x ươ ng d ạ ng x ươ ng có th ể  t ự  thoái tri ể n  ở  m ộ t s ố  b ệ nh nhân sau m ộ t th ờ i gian  nh ấ t  đị nh.   5.1.  Đố i v ớ i  đ i ề u tr ị  n ộ i khoa  −   Đ i ề u tr ị  b ằ ng n ộ i khoa giúp b ệ nh nhân gi ả m  đ au hi ệ u qu ả  trong th ờ i gian dài,  v ớ i  đ áp  ứ ng tích c ự c trên kho ả ng 90% b ệ nh nhân. Tuy nhiên, c ũ ng có m ộ t s ố  tr ườ ng  h ợ p không  đ áp  ứ ng  đ i ề u tr ị  n ộ i khoa, không s ử  d ụ ng  đượ c NSAIDs kéo dài.   −   Trong quá trình  đ i ề u tr ị , c ầ n theo dõi các xét nghi ệ m v ề  huy ế t h ọ c và sinh hóa.  Đồ ng th ờ i nên ch ụ p Xquang m ỗ i 3-6 tháng  để   đ ánh giá hi ệ u qu ả   đ i ề u tr ị  khi trên  Xquang th ấ y s ự  hóa x ươ ng (ossification) và s ự  gia t ă ng hình thành x ươ ng xung quanh  các  ổ  (nidus).  5.2.  Đố i v ớ i  đ i ề u tr ị  ngo ạ i khoa  Làm gi ả m tri ệ u ch ứ ng  đ au trong vài gi ờ  ho ặ c vài ngày sau ph ẫ u thu ậ t. Tuy nhiên,  b ệ nh nhân c ầ n  đượ c theo dõi tái phát sau ph ẫ u thu ậ t trong vòng ít nh ấ t 1 n ă m.     TÀI LI Ệ U THAM KH Ả O  1.   Gerard  L.,  Charles  T.  (2011),  “ Osteoid  Osteoma”,  (http://emedicine.medscape.com/article/1253443-overview#aw2aab6b3).  2.   Greenspan A. (1993), “ Benign bone-forming lesions: osteoma, osteoid osteoma,  and  osteoblastoma.  Clinical,  imaging,  pathologic,  and  differential  considerations”,   Skeletal Radiol, Vol. 22, Iss.7.  3.   Hashemi J. et al (2011), “ Radiological Features of Osteoid Osteoma: Pictorial  Review”,  Iran J Radiol, Vol.8, Iss.3.  4.   Javad P., Gregory K. (2011), “ High yield Orthopaedics,  Saunders”, pp.345-346  5.   Motamedi D., Learch TJ., Ishimitsu DN., Motamedi K., Katz MD., Brien EW.,  et al., “ Thermal ablation of osteoid osteoma: overview and step-by-step guide”,  Radiographics, Vol.29, Iss.7.           186 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-LO Ạ N S Ả N X Ơ  X ƯƠ NG  (Fibrous dysplasia of bone)  1.  ĐẠ I C ƯƠ NG  Lo ạ n s ả n x ơ  x ươ ng (Fibrous dysplasia of bone) là b ệ nh lý x ươ ng m ạ n tính không  di truy ề n, trong  đ ó mô x ươ ng bình th ườ ng b ị  thay th ế  b ở i mô x ơ .  Đặ c tr ư ng lâm sàng  c ủ a b ệ nh là t ổ n th ươ ng x ươ ng ti ế n tri ể n lành tính, bi ế n d ạ ng x ươ ng,  đ au x ươ ng, gãy  x ươ ng.  Đ ây là m ộ t b ệ nh x ươ ng hi ế m g ặ p, chi ế m kho ả ng 5% u x ươ ng lành tính, xu ấ t  hi ệ n l ẻ  t ẻ . B ệ nh th ườ ng x ả y ra  ở  tu ổ i thi ế u niên, trong  độ  tu ổ i t ừ  3-15.  Đ a s ố  nh ữ ng  tr ườ ng h ợ p có tri ệ u ch ứ ng tr ướ c tu ổ i 30. T ỷ  l ệ  nam gi ớ i và n ữ  gi ớ i m ắ c b ệ nh t ươ ng  đươ ng nhau.   2. NGUYÊN NHÂN, B Ệ NH SINH   Nguyên nhân c ủ a b ệ nh ch ư a rõ. M ộ t s ố  th ể  lo ạ n s ả n x ơ  x ươ ng là k ế t qu ả  c ủ a  độ t  bi ế n ng ẫ u nhiên gen GNAS  ở  v ị  trí nhi ễ m s ắ c th ể  20 c ủ a t ạ o c ố t bào. Các t ạ o c ố t bào ít  bi ệ t hoá này còn t ă ng s ả n xu ấ t interleukin IL-6, làm t ă ng ho ạ t  độ ng c ủ a các t ế  bào hu ỷ   x ươ ng, gây nên các t ổ n th ươ ng tiêu x ươ ng du ớ i d ạ ng các h ố c x ươ ng trong mô x ơ  c ũ ng  nh ư  trong x ươ ng lành quanh  đ ó. Thu ậ t ng ữ  lo ạ n s ả n x ơ  x ươ ng  đượ c Lichtenstein  đặ t tên  vào n ă m 1938. M ộ t ho ặ c nhi ề u vùng x ươ ng không tr ưở ng thành bình th ườ ng và v ẫ n  ở   d ạ ng bè x ươ ng non, khoáng hoá kém s ắ p x ế p b ấ t th ườ ng, r ả i rác trong mô s ợ i lo ạ n s ả n.  Khi x ươ ng phát tri ể n, mô x ơ  m ề m lan r ộ ng, làm x ươ ng y ế u  đ i, bi ế n d ạ ng và d ễ  gãy.  
-
- 3. CH Ẩ N  Đ OÁN 
-
- 3.1. Ch ẩ n  đ oán xác  đị nh  Ch ủ  y ế u d ự a vào lâm sàng và các th ă m dò ch ẩ n  đ oán hình  ả nh,  đặ c bi ệ t là hình  ả nh Xquang  đặ c tr ư ng.   −   Lâm sàng:  Các bi ể u hi ệ n lâm sàng r ấ t phong phú,  đ a d ạ ng. Lo ạ n s ả n x ươ ng có th ể   ở  nhi ề u  x ươ ng hay ch ỉ   ở  m ộ t x ươ ng, do v ậ y có các bi ể u hi ệ n lâm sàng khác nhau.   +   Tri ệ u ch ứ ng t ạ i x ươ ng:  Đ au x ươ ng, bi ế n d ạ ng x ươ ng, gãy x ươ ng b ệ nh lý, khó  kh ă n khi  đ i l ạ i, còi x ươ ng. Bi ế n ch ứ ng ung th ư  x ươ ng (sarcom x ươ ng, sarcom s ợ i,  sarcom s ụ n).  +   T ổ n th ươ ng ngoài x ươ ng: Trong m ộ t s ố  ít các tr ườ ng h ợ p, lo ạ n s ả n x ơ  x ươ ng  có th ể  k ế t h ợ p v ớ i b ấ t th ườ ng n ộ i ti ế t (d ậ y thì s ớ m, c ườ ng giáp, c ườ ng c ậ n giáp, h ộ i  ch ứ ng Cushing, t ổ n th ươ ng tuy ế n yên), m ả ng s ắ c t ố  da.  −   C ậ n lâm sàng:  +   Xquang: T ổ n th ươ ng n ộ i t ủ y thân x ươ ng làm x ươ ng trong su ố t, có hình  ả nh  kính m ờ , v ớ i v ỏ  x ươ ng m ỏ ng, bi ế n d ạ ng g ấ p khúc x ươ ng; T ổ n th ươ ng trong su ố t có b ờ   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  187 x ơ  hóa dày, g ọ i là d ấ u hi ệ u v ỏ  cây; T ổ n th ươ ng d ạ ng nang: th ấ u quang v ớ i vi ề n ph ả n  ứ ng, không có bè x ươ ng,  độ  dày v ỏ  x ươ ng v ẫ n bình th ườ ng; Ki ể u t ổ n th ươ ng Paget: bè  x ươ ng  đặ c h ơ n bình th ườ ng; Bi ế n d ạ ng ki ể u g ậ y ch ă n c ừ u: t ổ n th ươ ng ti ế n tri ể n  đầ u  trên x ươ ng  đ ùi, gây cong  đ ùi vào trong nh ư  g ậ y c ủ a ng ườ i ch ă n c ừ u; Có th ể  th ấ y các  t ổ n th ươ ng trong su ố t, x ơ  hóa, d ướ i d ạ ng  đơ n  độ c hay  đ a  ổ , có hay không  đố i x ứ ng trên  x ươ ng s ọ  m ặ t.  Đặ c  đ i ể m Xquang c ủ a ác tính hóa là t ă ng nhanh kích th ướ c c ủ a t ổ n  th ươ ng hay s ự  thay  đổ i x ươ ng khoáng hóa b ằ ng t ổ n th ươ ng tiêu x ươ ng.    +   CT scanner:   Đ ánh giá ti ế n tri ể n c ủ a t ổ n th ươ ng x ươ ng,  đặ c bi ệ t  ở  nh ữ ng v ị  trí  ph ứ c t ạ p nh ư  c ộ t s ố ng, khung ch ậ u, l ồ ng ng ự c hay x ươ ng s ọ  m ặ t, c ũ ng nh ư  lan r ộ ng t ổ n  th ươ ng ra ph ầ n m ề m c ạ nh c ộ t s ố ng.  +   C ộ ng h ưở ng t ừ  h ạ t nhân:   Đ ánh giá s ự  ti ế n tri ể n c ủ a t ổ n th ươ ng, kh ả  n ă ng gãy  x ươ ng b ệ nh lý, kh ả  n ă ng ác tính hóa c ủ a t ổ n th ươ ng x ươ ng, hay  đ ánh giá tình tr ạ ng ép  t ủ y khi c ộ t s ố ng b ị  t ổ n th ươ ng. MRI tiêm gadolinium c ũ ng có th ể   đ ánh giá tình tr ạ ng tái  phát sau m ổ .   +   X ạ  hình x ươ ng b ằ ng T-99:   T ă ng h ấ p th ụ  phóng x ạ  t ạ i vùng t ổ n th ươ ng ti ế n  tri ể n, giúp xác  đị nh c ả  các t ổ n th ươ ng không có tri ệ u ch ứ ng. Tuy nhiên hình  ả nh t ổ n  th ươ ng không  đặ c hi ệ u.  +   Xét nghi ệ m mô b ệ nh h ọ c:   V ề  m ặ t  đạ i th ể , u x ươ ng là m ộ t kh ố i r ắ n ch ắ c có màu  tr ắ ng, hay s ẫ m màu. V ề  m ặ t vi th ể , x ươ ng b ệ nh lý bao g ồ m h ỗ n h ợ p mô x ơ  ch ư a tr ưở ng  thành và các m ả nh nh ỏ  x ươ ng bè ch ư a tr ưở ng thành, có d ạ ng các ch ữ  cái Trung hoa.   +   Xét nghi ệ m máu:   T ă ng n ồ ng  độ  men phosphatase ki ề m. Xét nghi ệ m n ướ c ti ể u  cho th ấ y t ă ng n ồ ng  độ  hydroxyprolin. Tuy nhiên các b ấ t th ườ ng này không  đặ c hi ệ u cho  lo ạ n s ả n x ơ  x ươ ng.  3.2. Ch ẩ n  đ oán th ể  b ệ nh  −   Th ể  m ộ t  ổ :  H ầ u h ế t b ệ nh nhân ch ỉ  có t ổ n th ươ ng m ộ t x ươ ng (70% các tr ườ ng  h ợ p). B ệ nh th ườ ng phát hi ệ n  ở  ng ườ i tr ưở ng thành, trong  độ  tu ổ i 20-30. T ổ n th ươ ng có  th ể  không có tri ệ u tr ứ ng, ho ặ c  đ au x ươ ng t ạ i ch ỗ , hay d ễ  gãy x ươ ng. Các x ươ ng hay b ị   t ổ n th ươ ng nh ấ t là x ươ ng s ườ n, x ươ ng s ọ , m ặ t,  đặ c bi ệ t là x ươ ng hàm, hành x ươ ng hay  thân x ươ ng c ủ a  đầ u trên x ươ ng  đ ùi hay x ươ ng chày. Ða s ố  (95%) b ệ nh t ự   ổ n  đị nh sau  khi tr ưở ng thành, t ổ n th ươ ng không l ớ n lên n ữ a.  −   Th ể   đ a  ổ  (30% tr ườ ng h ợ p): B ệ nh n ặ ng h ơ n v ớ i t ổ n th ươ ng nhi ề u n ơ i và lan  r ộ ng, gây nhi ề u tri ệ u ch ứ ng và bi ế n ch ứ ng. B ệ nh th ườ ng phát hi ệ n s ớ m d ướ i 10 tu ổ i.  Th ườ ng là m ộ t phía c ủ a c ơ  th ể  b ị  m ắ c b ệ nh. Tuy nhiên kho ả ng 1/4 s ố  b ệ nh nhân t ổ n  th ươ ng d ạ ng  đ a x ươ ng b ị  t ổ n th ươ ng h ơ n m ộ t n ử a khung x ươ ng,  đặ c bi ệ t  ở  chi d ướ i.  T ổ n th ươ ng x ươ ng m ặ t s ọ  g ặ p  ở  1/2 s ố  b ệ nh nhân có t ổ n th ươ ng x ươ ng nhi ề u n ơ i. Khi  t ổ n th ươ ng x ươ ng s ọ  m ặ t b ệ nh nhân có th ể  có các tri ệ u ch ứ ng chèn ép th ầ n kinh m ạ ch  máu nh ư   đ au  đầ u, ù tai, b ấ t th ườ ng th ầ n kinh s ọ  não, th ậ m chí ch ả y máu s ọ  não t ự  phát.  Lo ạ n s ả n x ươ ng thái d ươ ng có th ể  gi ả m thính l ự c và b ị t t ắ c h ố c tai ngoài.   +   Th ể   đ a  ổ  có th ể  k ế t h ợ p d ậ y thì s ớ m, lo ạ n s ả n x ơ  x ươ ng và  đ ám da màu cà phê  s ữ a, g ọ i là h ộ i ch ứ ng Albright hay u nhày trong c ơ  vân (h ộ i ch ứ ng Mazabraud).   188 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-+   V ề  m ặ t tiên l ượ ng: Th ể  m ộ t  ổ  có tiên l ượ ng t ố t. T ổ n th ươ ng  đ a  ổ  có xu h ướ ng  ti ế n tri ể n n ặ ng lên,  đ ôi khi có th ể  b ị  ác tính hóa thành sarcom x ươ ng hay sarcom s ợ i. 
-
- 3.3. Ch ẩ n  đ oán phân bi ệ t  −   C ườ ng c ậ n giáp  −   B ệ nh Paget  −   U x ơ  không c ố t hóa  −   U t ế  bào kh ổ ng l ồ   −   U nguyên bào x ươ ng   −   U x ơ  th ầ n kinh.  
-
- 4.  Đ I Ề U TR Ị  
-
- 4.1. Nguyên t ắ c chung  Ch ư a có  đ i ề u tr ị   đặ c hi ệ u ch ữ a kh ỏ i b ệ nh. Các b ệ nh nhân không có tri ệ u ch ứ ng  không c ầ n ph ả i  đ i ề u tr ị , ch ỉ  c ầ n theo dõi. H ầ u nh ư  không có  đ i ề u tr ị  gì  đố i v ớ i các t ổ n  th ươ ng da ho ặ c tình tr ạ ng d ậ y thì s ớ m. Vi ệ c  đ i ề u tr ị  th ườ ng nh ằ m gi ả i quy ế t các t ổ n  th ươ ng x ươ ng và tùy theo th ể  b ệ nh m ộ t ho ặ c nhi ề u x ươ ng. Ch ố ng ch ỉ   đị nh  đ i ề u tr ị  b ằ ng  tia x ạ  vì có th ể  chuy ể n d ạ ng thành sarcom x ươ ng. Hóa tr ị  không có k ế t qu ả .   Đ i ề u tr ị  bao g ồ m các bi ệ n pháp  đ i ề u tr ị  b ả o t ồ n và ngo ạ i khoa, tu ỳ  theo v ị  trí và  m ứ c d ộ  t ổ n th ươ ng x ươ ng. B ệ nh nhân c ầ n  đượ c ph ả i theo dõi 6 tháng m ộ t l ầ n khám lâm  sàng, làm các xét nghi ệ m và Xquang  để  phát hi ệ n các bi ế n ch ứ ng c ủ a b ệ nh nh ư  chèn ép  th ầ n kinh th ị  giác.   4.2.  Đ i ề u tr ị  c ụ  th ể   −   Đ i ề u tr ị  n ộ i khoa:  +   Gi ả m  đ au x ươ ng:   Thu ố c gi ả m  đ au thông th ườ ng. S ử  d ụ ng thu ố c theo b ậ c thang c ủ a T ổ  ch ứ c Y t ế   Th ế  gi ớ i. Ch ọ n m ộ t trong các thu ố c sau:        Paracetamol 0,5g x 2-4 viên /24h.        Paracetamol k ế t h ợ p v ớ i codein ho ặ c tramadol: 2-4 viên/24h.  Thu ố c ch ố ng viêm không steroid ch ỉ   đị nh m ộ t trong các thu ố c sau:  Diclofenac 50mg x 2 viên/ngày  Piroxicam 20mg x 1 viên/ngày     Meloxicam 7,5mg x 1-2 viên/ngày     Celecoxib 200mg x 1 – 2 viên/ngày     Etoricoxib viên 30mg, 60mg x 1 viên/ngày  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  189  
-
-Có th ể  dùng các thu ố c nhóm bisphosphonat  để  gi ả m  đ au x ươ ng m ạ n tính, t ă ng  m ậ t  độ  x ươ ng c ộ t s ố ng và x ươ ng  đ ùi, làm gi ả m nguy c ơ  gãy x ươ ng:  Alendronat viên 70mg x 1 viên/tu ầ n trong th ờ i gian 3 n ă m.  Pamidronat 60mg, pha truy ề n t ĩ nh m ạ ch 60mg/ngày, trong 3 ngày liên t ụ c  và nh ắ c l ạ i sau 6 tháng, trong t ố i thi ể u 2 n ă m. Có th ể  tái  đ i ề u tr ị  sau 1 n ă m,  tu ỳ  theo  đ áp  ứ ng lâm sàng gi ả m  đ au, xét nghi ệ m sinh h ọ c hay X quang.   Zoledronic acid 5mg, pha truy ề n t ĩ nh m ạ ch 1  đợ t/n ă m trong t ố i thi ể u 2 n ă m, sau  đ ó có th ể  tái  đ i ề u tr ị  sau 1 n ă m.  B ổ  sung calci và vitamin D khi  đ i ề u tr ị  biphosphonat  để  tránh c ườ ng c ậ n giáp th ứ  phát:            Vitamin D3 x 800 UI/ngày            Calci 500-1000 mg/ngày  B ổ  sung thêm phospho khi có thi ế u h ụ t.  Calcitonin ch ỉ  có tác d ụ ng  ở  th ể   đ a  ổ  có kèm  đ au x ươ ng và t ă ng phosphatse ki ề m:  Calcitonin  ố ng 50 UI, 100 UI, tiêm b ắ p 50-100 UI/ngày  Đ i ề u tr ị  các r ố i lo ạ n n ộ i ti ế t nh ư : h ộ i ch ứ ng c ườ ng giáp tr ạ ng, h ộ i ch ứ ng Cushing,  đ ái tháo  đườ ng, d ậ y thì s ớ m kèm theo b ằ ng các thu ố c thích h ợ p hay ph ẫ u thu ậ t tuy ế n  n ộ i ti ế t n ế u có ch ỉ   đị nh.  −   Đ i ề u tr ị  ngo ạ i khoa:  M ụ c tiêu c ủ a  đ i ề u tr ị  ngo ạ i khoa là d ự  phòng và  đ i ề u tr ị  các bi ế n d ạ ng x ươ ng  n ặ ng và gãy x ươ ng,  đặ c bi ệ t là các x ươ ng ch ị u t ả i; kh ắ c ph ụ c s ự  khác nhau v ề   độ  dài  c ủ a chi d ướ i; gi ả i phóng chèn ép th ầ n kinh,  đặ c bi ệ t  ở  vùng s ọ  m ặ t.  Đ i ề u tr ị  có tác d ụ ng  làm u ố n th ẳ ng và làm m ạ nh x ươ ng b ị  t ổ n th ươ ng.  +   Ch ỉ   đị nh  đ i ề u tr ị  ngo ạ i khoa:  Đ i ề u tr ị  b ả o t ồ n th ấ t b ạ i; Gãy x ươ ng di l ệ ch,  không li ề n;  Đ au th ườ ng xuyên; Bi ế n d ạ ng ti ế n tri ể n; Ung th ư  hóa; D ự  phòng t ổ n th ươ ng  r ộ ng có th ể  d ẫ n  đế n gãy x ươ ng.  +   Ph ẫ u thu ậ t tu ỳ  thu ộ c vào v ị  trí x ươ ng b ị  t ổ n th ươ ng, bao g ồ m n ạ o vét t ổ n  th ươ ng, m ổ  k ế t h ợ p x ươ ng, ghép x ươ ng t ự  thân hay x ươ ng  đồ ng lo ạ i, ch ỉ nh hình và c ố   đị nh b ằ ng  đ óng  đ inh, n ẹ p vít. T ỷ  l ệ  tái phát cao sau n ạ o vét và ghép x ươ ng,  đặ c bi ệ t  ở   b ệ nh nhi. C ắ t g ọ t và n ạ o vét x ươ ng không có ch ỉ   đị nh khi x ươ ng lo ạ n s ả n tái phát.   5. TI Ế N TRI Ể N VÀ BI Ế N CH Ứ NG  −   Gãy x ươ ng b ệ nh lý.  −   Ác tính hóa t ổ n th ươ ng lo ạ n s ả n x ơ  x ươ ng có th ể  x ả y ra tuy hi ế m g ặ p, t ỷ  l ệ  t ừ   0,5-3%. S ự  ác tính hóa th ườ ng x ả y ra  ở  th ể  b ệ nh nhi ề u x ươ ng, th ườ ng x ả y ra vào tu ổ i  tr ưở ng thành  ở  t ổ n th ươ ng  đ ã ti ế n tri ể n h ơ n 13 n ă m và tái ho ạ t  độ ng nhi ề u l ầ n (h ủ y  x ươ ng,  đ au, gãy x ươ ng...).  190 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Bi ế n ch ứ ng chèn ép th ầ n kinh hay m ạ ch máu c ủ a t ổ n th ươ ng x ươ ng là  đ au  đầ u,  ù tai, b ấ t th ườ ng th ầ n kinh s ọ  não, gi ả m thính l ự c, h ẹ p  ố ng tai ngoài, ch ả y máu s ọ  não t ự   phát khi t ổ n th ươ ng x ươ ng s ọ  m ặ t. Lo ạ n s ả n x ươ ng thái d ươ ng có th ể  gi ả m thính l ự c và  b ị t t ắ c h ố c tai ngoài, m ấ t  đố i x ứ ng m ặ t, l ồ i m ắ t. Gãy x ươ ng g ặ p v ớ i t ỷ  l ệ  cao,  ở  trên  85% b ệ nh nhân. Lùn x ả y ra do c ố t hóa s ớ m  đầ u x ươ ng.  6. PHÒNG B Ệ NH  B ệ nh nhân c ầ n  đ eo n ẹ p  để  d ự  phòng gãy x ươ ng. Có ch ế   độ  sinh ho ạ t v ậ n  độ ng  h ợ p lý. Tránh mang vác, lao  độ ng n ặ ng. Phòng tránh ngã. C ầ n tái khám  đị nh k ỳ  sau 6  tháng  đế n 1 n ă m, tùy theo tình tr ạ ng b ệ nh.     TÀI LI Ệ U THAM KH Ả O  1.   Chong VF.  “Fibrous dysplasia involving the base of the skull”.  AJR Am J  Roentgenol 2002, 178 (3): 717-20  2.   Fitzpatrick KA.  “Imaging findings of fibrous dysplasia with histopathologic  and intraoperative correlation”.  AJR Am J Roentgenol 2004, 182 (6): 1389-98  3.   Glorieux F : “Pamidronate treatment in children with fibrous dysplasia &  osteogenesis imperfecta- Bone”, 17,611,1995  4.   Whyte MP: Fibrous dysplasia. In  "Primer on the Metabolic Bone Diseases and  Disorders of Mineral Metabolism".  Lippincott-Raven, Philadelphia, 3rd ed,  380-381, 1996.        H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  191  
-
-UNG TH Ư  DI C Ă N X ƯƠ NG  (Bone metastases)  1.  ĐẠ I C ƯƠ NG  Ung th ư  di c ă n x ươ ng (Bone metastases) là tình tr ạ ng nh ữ ng t ế  bào ung th ư  t ừ   ổ   nguyên phát di c ă n  đế n t ổ  ch ứ c x ươ ng làm t ổ n h ạ i  đế n c ấ u trúc c ủ a x ươ ng. H ệ  th ố ng   x ươ ng là m ộ t trong nh ữ ng c ơ  quan hay b ị  ung th ư   di c ă n nh ấ t và th ườ ng gây  ả nh h ưở ng  nhi ề u nh ấ t  đế n ch ấ t l ượ ng cu ộ c s ố ng ng ườ i b ệ nh do gây  đ au  đớ n.  Nh ữ ng lo ạ i ung th ư   hay gây  di c ă n vào x ươ ng bao g ồ m  ung th ư  t ạ i các v ị  trí nh ư   ph ổ i, vú (n ữ ), ti ề n li ệ t tuy ế n, th ậ n, tuy ế n giáp,  d ạ  dày. V ị  trí x ươ ng hay b ị  di c ă n là: c ộ t  s ố ng, x ươ ng ch ậ u, x ươ ng s ườ n, x ươ ng s ọ , x ươ ng cánh tay, x ươ ng dài  ở  chi d ướ i, trong  đ ó c ộ t s ố ng, x ươ ng s ườ n, x ươ ng ch ậ u là nh ữ ng v ị  trí th ườ ng b ị   ả nh h ưở ng s ớ m nh ấ t.  Hi ệ n t ạ i có th ể   đ i ề u tr ị  ki ể m soát  đượ c các tri ệ u ch ứ ng c ủ a ung th ư  di c ă n x ươ ng  và làm ng ă n c ả n s ự  phát tri ể n c ủ a ung th ư . 
-
- 2. CH Ẩ N  Đ OÁN  
-
- 2.1. Ch ẩ n  đ oán xác  đị nh  D ự a vào lâm sàng và các th ă m dò c ậ n lâm sàng, trong  đ ó vi ệ c tìm th ấ y t ế  bào ung  th ư  nguyên phát qua ch ọ c hút ho ặ c sinh thi ế t x ươ ng là tiêu chu ẩ n vàng quan tr ọ ng nh ấ t.  Bi ể u hi ệ n lâm sàng:  −   Đ au x ươ ng: Là bi ể u hi ệ n hay g ặ p nh ấ t, th ườ ng  đ au t ă ng v ề   đ êm và khi ngh ỉ  ng ơ i.  −   G ẫ y x ươ ng b ệ nh lý:  Đ ôi khi tri ệ u ch ứ ng g ẫ y x ươ ng là d ấ u hi ệ u ban  đầ u c ủ a  ung th ư  di c ă n x ươ ng. Gãy x ươ ng b ệ nh lý th ườ ng g ặ p h ơ n  ở  nh ữ ng b ệ nh nhân ung th ư   di c ă n x ươ ng có t ổ n th ươ ng tiêu x ươ ng.  −   D ấ u hi ệ u chèn ép r ễ  th ầ n kinh ho ặ c chèn ép t ủ y s ố ng khi có di c ă n c ộ t s ố ng.  −   Các tri ệ u ch ứ ng t ă ng calci máu: Kém  ă n, m ệ t m ỏ i, nôn, táo bón, lú l ẫ n.   −   Toàn thân: Sút cân, có th ể  th ấ y h ạ ch ngo ạ i vi.   −   Tri ệ u ch ứ ng khác: Thi ế u máu (do t ổ n th ươ ng t ủ y x ươ ng), nhi ễ m trùng c ơ  h ộ i  (do gi ả m s ứ c  đề  kháng), xu ấ t huy ế t (do gi ả m ti ể u c ầ u).   −   Có th ể  có các bi ể u hi ệ n c ủ a ung th ư  nguyên phát.  C ậ n lâm sàng:  −   Xét nghi ệ m :  Các xét nghi ệ m v ề  bilan viêm (máu l ắ ng, CRP t ă ng) th ườ ng t ă ng  phosphatase ki ề m máu t ă ng, calci máu t ă ng khi có s ự  hu ỷ  x ươ ng nhi ề u, gi ả m t ế  bào  máu: gi ả m h ồ ng c ầ u, gi ả m b ạ ch c ầ u và ti ể u c ầ u. Các xét nghi ệ m v ề  marker ung th ư  có  th ể  t ă ng cao theo t ừ ng lo ạ i ung th ư  nguyên phát (CEA, CA125, PSA...)  192 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-−   Xquang x ươ ng :  Hình  ả nh t ổ n th ươ ng x ươ ng có th ể  là nh ữ ng  ổ  tiêu x ươ ng,  ho ặ c k ế t  đặ c x ươ ng, ho ặ c h ỗ n h ợ p. Khi  đ ã th ấ y t ổ n th ươ ng x ươ ng trên Xquang th ườ ng  quy thì b ệ nh nhân  đ ã  ở  giai  đ o ạ n mu ộ n.   −   X ạ  hình x ươ ng : Giúp phát hi ệ n t ổ n th ươ ng ung th ư  di c ă n s ớ m h ơ n Xquang  th ườ ng quy, có  độ  nh ậ y cao nh ư ng  độ   đặ c hi ệ u không cao.   D ấ u hi ệ u  đ i ể n hình là hình  ả nh t ă ng ho ạ t tính phóng x ạ   đ a  ổ  v ớ i hình d ạ ng, kích th ướ c và t ỉ  tr ọ ng khác nhau, phân b ố   không  đố i x ứ ng, không  đề u, r ả i rác trên toàn b ộ  h ệ  th ố ng x ươ ng,  đặ c bi ệ t trên c ộ t s ố ng.  N ế u c ầ n thi ế t, nên ch ụ p SPECT (ch ụ p 3 pha),  đặ c bi ệ t khi  ổ  t ổ n th ươ ng là  đơ n  độ c,  để   phân tích  đặ c tính  ổ  t ổ n th ươ ng qua ba pha huy ế t  độ ng, ho ặ c ch ụ p PET ho ặ c PET-CT  để   phát hi ệ n ung th ư   ở  giai  đ o ạ n s ớ m c ả  v ề  v ị  trí và ch ứ c n ă ng c ủ a kh ố i u.  −   Ch ụ p c ắ t l ớ p vi tính :  Có th ể  phát hi ệ n  đượ c t ổ n th ươ ng di c ă n có h ủ y x ươ ng mà  x ạ  hình x ươ ng không phát hi ệ n  đượ c.   −   C ộ ng h ưở ng t ừ :  Cho th ấ y   hình  ả nh x ươ ng và các t ổ  ch ứ c ph ầ n m ề m m ộ t cách  rõ nét. Có giá tr ị  nh ấ t khi di c ă n  ở  vùng c ộ t s ố ng.    −   Sinh thi ế t x ươ ng : Sinh thi ế t tr ự c ti ế p ho ặ c d ướ i h ướ ng d ẫ n c ủ a ch ụ p CT, làm  xét nghi ệ m mô b ệ nh h ọ c. C ầ n sinh thi ế t nhi ề u m ẫ u b ệ nh ph ẩ m  để  tránh b ỏ  sót. Phát  hi ệ n t ế  bào ung th ư   nguyên phát  đượ c coi là tiêu chu ẩ n vàng.  −   Các th ă m dò khác:  +   Đ o m ậ t  độ  x ươ ng: Phát hi ệ n s ớ m loãng x ươ ng.  +   Phát hi ệ n s ự  m ấ t th ă ng b ằ ng gi ữ a t ạ o c ố t bào và h ủ y c ố t bào.  +   Các th ă m dò  để  ch ẩ n  đ oán ung th ư  nguyên phát, tuy nhiên nhi ề u tr ườ ng h ợ p  không phát hi ệ n  đượ c ung th ư  nguyên phát.  
-
- 2.2. Ch ẩ n  đ oán phân bi ệ t  −   Các u x ươ ng lành tính.   −   Loãng x ươ ng thông th ườ ng và loãng x ươ ng th ứ  phát do các nguyên nhân khác.  −   Đ a u t ủ y x ươ ng (b ệ nh Kahler).  −   Sarcoma x ươ ng ho ặ c các b ệ nh lý ác tính khác c ủ a x ươ ng. 
-
- 3.  Đ I Ề U TR Ị  
-
- 3.1. Nguyên t ắ c  đ i ề u tr ị    −   Đ i ề u tr ị  tri ệ u ch ứ ng và ch ă m sóc gi ả m nh ẹ   để  c ả i thi ệ n ch ấ t l ượ ng s ố ng là  nh ữ ng bi ệ n pháp  đ i ề u tr ị  ch ủ  y ế u và quan tr ọ ng nh ấ t: Gi ả m  đ au,  đ i ề u tr ị  g ẫ y x ươ ng,  t ă ng calci máu, nâng cao s ứ c  đề  kháng...   −   Ng ặ n ch ặ n và/ho ặ c làm gi ả m quá trình hu ỷ  x ươ ng, làm ch ậ m quá trình di c ă n  x ươ ng.  −   K ế t h ợ p v ớ i  đ i ề u tr ị  ung th ư  nguyên phát n ế u có th ể .   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  193 3.2.  Đ i ề u tr ị  c ụ  th ể   −   Đ i ề u tr ị  tri ệ u ch ứ ng:  +   Gi ả m  đ au:   Đ i ề u tr ị  gi ả m  đ au theo b ậ c thang gi ả m  đ au c ủ a WHO:  B ậ c 1: Paracetamol li ề u ng ườ i l ớ n 500 – 1000mg m ỗ i 4-6 gi ờ  n ế u c ầ n và không  quá 4000mg/ngày, li ề u cho tr ẻ  em < 12 tu ổ i là 10-15mg/kg cân n ặ ng, m ỗ i 4-6 gi ờ .   B ậ c 2: Paracetamol + codein ho ặ c tramadol  li ề u dùng 1-2 viên  m ỗ i 4-6 gi ờ  và  không quá 8 viên/ngày, dùng không quá 5 ngày, gi ả m li ề u  ở  nh ữ ng b ệ nh nhân suy gan,  suy th ậ n, ng ườ i l ớ n tu ổ i.   B ậ c 3: Morphin ho ặ c các d ẫ n xu ấ t c ủ a morphin (morphin sulphat 10mg, li ề u tùy  theo t ừ ng m ứ c  độ   đ au c ủ a b ệ nh nhân, có th ể  s ử  d ụ ng d ạ ng u ố ng ho ặ c tiêm, li ề u dao  độ ng 5-30mg, m ỗ i 4 gi ờ  n ế u c ầ n).   Thu ố c ch ố ng viêm không steroid (NSAID):   Ch ọ n m ộ t trong các thu ố c sau: Diclofenac 100 – 150mg/ngày; Piroxicam  20mg/ngày; Meloxicam  7,5 – 15 mg/ngày; Celecoxib 200-400mg/ngày; Etoricoxib  60mg/ngày. Dùng  đườ ng u ố ng ho ặ c tiêm b ắ p (không nên tiêm quá 4 ngày).  K ế t h ợ p thu ố c ch ố ng tr ầ m c ả m:   Ở  nh ữ ng b ệ nh nhân có bi ể u hi ệ n lo l ắ ng hay tr ầ m c ả m nhi ề u:   Amitriptyline 25mg, li ề u 1-4 viên/ngày, sulpiride 50mg, ngày 2-4 viên.   Thu ố c gi ả m  đ au th ầ n kinh (pregabalin, gapentin):   Có th ể   đượ c ch ỉ   đị nh cho nh ữ ng b ệ nh nhân có các bi ể u hi ệ n  đ au th ầ n kinh.  +   Đ i ề u tr ị  t ă ng calci máu:  Truy ề n d ị ch pha loãng:   Dung d ị ch natriclorua 0,9% 3- 4 lít/ngày (200 – 300ml/gi ờ  và duy trì n ướ c ti ể u  100-200ml/gi ờ ) v ớ i  đ i ề u ki ệ n huy ế t áp cho phép. Truy ề n d ị ch qua t ĩ nh m ạ ch trung tâm  là t ố t nh ấ t.  L ợ i ti ể u:  Dùng nhóm furosemide 20mg (tiêm t ĩ nh m ạ ch), s ử  d ụ ng trong và sau khi  truy ề n d ị ch.   Calcitonin:     Tiêm b ắ p ho ặ c pha v ớ i natriclorua 0,9% truy ề n t ĩ nh m ạ ch có tác d ụ ng h ạ  calci  máu nhanh v ớ i li ề u 4– 6UI/kg c ứ  m ỗ i 12 gi ờ . Theo dõi n ồ ng  độ  calci máu  để  quy ế t  đị nh  vi ệ c s ử  d ụ ng thu ố c ti ế p t ụ c (không dùng kéo dài calcitonin).  Corticoid:  Truy ề n t ĩ nh m ạ ch methyl pre dni solon 1-2mg/kg .  Biphosphonat  đườ ng t ĩ nh m ạ ch:   194 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-Pamidronate  90mg pha v ớ i natriclorua 0,9% truy ề n trong 2 gi ờ , ho ặ c zoledronate  acid 4mg pha v ớ i 200ml natriclorua 0,9% ho ặ c glucose 5% truy ề n nhanh trong 30 phút.   +   Đ i ề u tr ị  thi ế u máu:   Truy ề n kh ố i h ồ ng c ầ u ho ặ c các ch ế  ph ẩ m c ủ a máu khác n ế u c ầ n.  Erythropoietin tiêm d ướ i da 2000 - 4000 UI/ngày, tu ầ n 3 l ầ n.   −   Đ i ề u tr ị  ng ặ n ch ặ n ho ặ c gi ả m hu ỷ  x ươ ng, làm ch ậ m quá trình ti ế n tri ể n di c ă n  x ươ ng và ti ế n tri ể n c ủ a b ệ nh.  +   Biphosphonate: Pamidronate 30mg, li ề u 90mg, m ỗ i tháng truy ề n m ộ t l ầ n ho ặ c  zoledronic acid    4mg,  li ề u 4mg tháng m ộ t l ầ n pha truy ề n t ĩ nh m ạ ch.  +   M ộ t s ố  thu ố c ch ố ng h ủ y x ươ ng khác: Thu ố c kháng RANKL, thu ố c kháng  cathepsin K, ...  +   Thu ố c  ứ c ch ế  t ă ng sinh m ạ ch c ủ a t ổ  ch ứ c ung th ư :  Ứ c ch ế  Endothelin – 1.  +   X ạ  tr ị  ngoài, chi ế u x ạ  vào nh ữ ng vùng di c ă n v ớ i m ụ c  đ ích gi ả m  đ au, h ạ n ch ế  s ự   phát tri ể n c ủ a kh ố i u.  +   D ượ c ch ấ t phóng x ạ  (x ạ  tr ị  trong): Có tác d ụ ng gi ả m  đ au do ung th ư   di c ă n  x ươ ng: Strontium - 89  và phosphous - 32, Samarium 153.   +   Li ệ u pháp quang  độ ng h ọ c (phytodynamic therapy).  +   H ướ ng  đ i ề u tr ị  trong t ươ ng lai: Tác  độ ng theo t ừ ng khâu c ủ a quá sinh sinh b ệ nh,  phát tri ể n và di c ă n c ủ a t ế  bào ung th ư : gen tr ị  li ệ u,  ứ c ch ế  cytokin (IL-11, TGF, IGF).   −   Đ i ề u tr ị  ngo ạ i khoa : Khi có g ẫ y x ươ ng, chèn ép t ủ y, ho ặ c c ắ t b ỏ  t ổ n th ươ ng  khi có ch ỉ   đị nh.  −   V ậ t lý tr ị  li ệ u, tâm lý li ệ u pháp,  −    ch ă m sóc gi ả m nh ẹ : H ỗ  tr ợ  gi ả m  đ au cho ng ườ i b ệ nh.   4. TI Ế N TRI Ể N, BI Ế N CH Ứ NG  −   Các bi ế n ch ứ ng th ườ ng g ặ p c ủ a ung th ư  di c ă n x ươ ng bao g ồ m  đ au x ươ ng  n ặ ng, gãy x ươ ng b ệ nh lý, chèn ép t ủ y s ố ng, thi ế u máu n ặ ng, t ă ng calci máu.  −   M ộ t khi ung th ư   đ ã di c ă n vào x ươ ng, tiên l ượ ng nhìn chung là x ấ u. Tiên l ượ ng   b ệ nh  ph ụ  thu ộ c vào m ứ c  độ  ung th ư  c ủ a c ơ  quan nguyên phát. Th ờ i gian s ố ng trung  bình có th ể  tính theo n ă m, tuy nhiên n ế u di c ă n t ừ  ung th ư  ph ổ i thì ch ỉ  tính  đượ c theo  tháng.     5. PHÒNG B Ệ NH  −   M ụ c tiêu là phát hi ệ n ung th ư  s ớ m khi ch ư a có di c ă n  để   đ i ề u tr ị  tri ệ t c ă n.  −   Th ự c hi ệ n khám s ứ c kh ỏ e  đị nh k ỳ , sàng l ọ c ung th ư  s ớ m.     H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  195 TÀI LI Ệ U THAM KH Ả O  1.   Bruce E. Hillner, James N. Ingle, Rowan T. Chlebowski et al.  “American  Society of Clinical Oncology 2003 update on the Role of Bisphosphonates and  Bone Health Issues in Women With Breast Cancer” . J. Clin Oncol .  2003;  21(21), 4042 – 4057.  2.   Cook RJ, Major P . “Methodology for treatment evaluation in patients with  cancer metastatic to bone” . J Natl Cancer Inst 2001; 93:534–538,   3.   Patel LR, et al.  “Mechanisms of cancer cell metastasis to the bone: a multistep  process ”. Lancet, 2011;377(9768):813-22.   4.   Fizazi K,Carducci M, et al.  “Denosumab versus zoledronic acid for treatment  of bone metastases in men with castration – resistant prostate cancer: a  randomized, double-blind study” . Future Oncol, 2011;7(11):1285-97.  5.   Lipton A,Smith MR,et al .”Treatment –induced bone loss and fractures in  cancer patients undergoing hormone ablation therapy: efficacy and safty of  denosumab” . Clin Med Insights Oncol,2012;6:287-303        196 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-PH Ụ  L Ụ C  H ƯỚ NG D Ẫ N S Ử  D Ụ NG M Ộ T S Ố  THU Ố C CHÍNH  TRONG  Đ I Ề U TR Ị  CÁC B Ệ NH KH Ớ P  H ƯỚ NG D Ẫ N S Ử  D Ụ NG THU Ố C CH Ố NG VIÊM KHÔNG STEROID   (NSAIDs - Nonsteroidal anti-inflammatory drugs)   1.  ĐẠ I C ƯƠ NG V Ề  THU Ố C CH Ố NG VIÊM KHÔNG STEROID   Thu ố c ch ố ng viêm không steroid - NSAIDs là m ộ t nhóm thu ố c bao g ồ m các thu ố c  có ho ạ t tính ch ố ng viêm và không ch ứ a nhân steroid. Nhóm này bao g ồ m nhi ề u d ẫ n  ch ấ t có thành ph ầ n hoá h ọ c khác nhau nh ư ng có chung c ơ  ch ế  tác d ụ ng là  ứ c ch ế  các  ch ấ t trung gian hoá h ọ c gây viêm, quan tr ọ ng nh ấ t là prostaglandine -  đ i ề u này lý gi ả i  ph ầ n l ớ n các hi ệ u qu ả  c ủ a thu ố c,  đồ ng th ờ i c ũ ng gi ả i thích tác d ụ ng ph ụ  c ủ a nhóm  thu ố c ch ố ng viêm không steroid.  Đ a s ố  các thu ố c trong nhóm c ũ ng có tác d ụ ng h ạ   nhi ệ t và gi ả m  đ au. Các thu ố c ch ố ng viêm không steroid ch ỉ  làm gi ả m các tri ệ u  ch ứ ng viêm mà không lo ạ i tr ừ   đượ c các nguyên nhân gây viêm, không làm thay  đổ i  ti ế n tri ể n c ủ a quá trình b ệ nh lý chính. Hi ệ n thu ố c  đượ c chia thành hai nhóm chính:  nhóm thu ố c  ứ c ch ế  COX không ch ọ n l ọ c ( đ a s ố  các thu ố c ch ố ng viêm không steroid  “c ổ   đ i ể n”) v ớ i nhi ề u tác d ụ ng không mong mu ố n v ề  tiêu hóa (viêm, loét, th ủ ng... d ạ   dày tá tr ạ ng, ru ộ t non...) và nhóm thu ố c  ứ c ch ế   ư u th ế  (ho ặ c ch ọ n l ọ c) COX-2  (meloxicam, celecoxib, etoricoxib...) có  ư u th ế  là tác d ụ ng không mong mu ố n v ề   tiêu hóa th ấ p, xong c ầ n th ậ n tr ọ ng trong các tr ườ ng h ợ p có b ệ nh lý tim m ạ ch (suy  tim sung huy ế t, b ệ nh lý m ạ ch vành...). Vi ệ c ch ỉ   đị nh m ộ t thu ố c nào trong nhóm c ầ n  cân nh ắ c trên m ộ t b ệ nh nhân c ụ  th ể .  2. NGUYÊN T Ắ C S Ử  D Ụ NG THU Ố C CH Ố NG VIÊM KHÔNG STEROID - NSAIDS  −   Nên b ắ t  đầ u b ằ ng lo ạ i thu ố c có ít tác d ụ ng không mong mu ố n nh ấ t. Lý do  l ự a ch ọ n thu ố c trong nhóm d ự a trên tình tr ạ ng c ụ  th ể  c ủ a m ỗ i b ệ nh nhân. C ầ n th ậ n  tr ọ ng  ở  các  đố i t ượ ng có nguy c ơ : ti ề n s ử  d ạ  dày, tim m ạ ch, d ị   ứ ng, suy gan, suy  th ậ n, ng ườ i già, ph ụ  n ữ  có thai... và ch ỉ   đị nh thu ố c d ự a trên s ự  cân nh ắ c gi ữ a l ợ i và  h ạ i khi dùng thu ố c.  −   Nên kh ở i  đầ u b ằ ng li ề u th ấ p nh ấ t, không v ượ t li ề u t ố i  đ a và duy trì li ề u t ố i  thi ể u có hi ệ u qu ả . Dùng thu ố c trong th ờ i gian ng ắ n nh ấ t có th ể .   −   Ph ả i theo dõi các tai bi ế n d ạ  dày, gan, th ậ n, máu, d ị   ứ ng...  −   Không s ử  d ụ ng  đồ ng th ờ i hai ho ặ c nhi ề u thu ố c ch ố ng viêm không steroid, vì k ế t  h ợ p các thu ố c trong nhóm không t ă ng hi ệ u qu ả  mà gây t ă ng tác d ụ ng không mong mu ố n.  −   Đườ ng tiêm b ắ p không dùng quá 3 ngày. Nên dùng  đườ ng u ố ng do thu ố c  đượ c  h ấ p thu d ễ  dàng qua  đườ ng tiêu hóa. M ỗ i thu ố c có d ạ ng bào ch ế  riêng, do  đ ó  đ a s ố  các  thu ố c u ố ng khi no song m ộ t s ố  thu ố c có th ờ i gian u ố ng theo khuy ế n cáo c ủ a nhà s ả n  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  197 xu ấ t. Ví d ụ  Voltaren SR: u ố ng sau  ă n 1 gi ờ , ch ứ  không u ố ng lúc no nh ư  các lo ạ i  diclofenac khác.  −   C ầ n k ế t h ợ p v ớ i thu ố c gi ả m  đ au (nhóm paracetamol) và c ố  g ắ ng  đ i ề u tr ị   nguyên nhân gây b ệ nh ( đ i ề u tr ị   đặ c hi ệ u,  đ i ề u tr ị  c ơ  b ả n b ệ nh, k ế t h ợ p nhóm DMARDs-  Disease-modifying antirheumatic drugs  đố i v ớ i m ộ t s ố  b ệ nh kh ớ p t ự  mi ễ n).  
-
- 3.  CH Ỉ   ĐỊ NH VÀ CH Ố NG CH Ỉ   ĐỊ NH C Ủ A THU Ố C CH Ố NG VIÊM KHÔNG STEROID  
-
- 3.1. Ch ỉ   đị nh c ủ a thu ố c ch ố ng viêm không steroid trong th ấ p kh ớ p h ọ c  −   Các b ệ nh viêm kh ớ p: Th ấ p kh ớ p c ấ p, viêm kh ớ p d ạ ng th ấ p, viêm c ộ t s ố ng dính  kh ớ p, viêm kh ớ p ph ả n  ứ ng, viêm kh ớ p v ả y n ế n, gút, viêm kh ớ p t ự  phát thi ế u  niên...  −   Các b ệ nh h ệ  th ố ng  (lupus ban  đỏ  h ệ  th ố ng, x ơ  c ứ ng bì toàn th ể ...).  −   Thoái hóa kh ớ p (h ư  kh ớ p), thoái hóa c ộ t s ố ng,  đ au c ộ t s ố ng c ổ ,  đ au vai gáy,  đ au th ắ t l ư ng c ấ p ho ặ c m ạ n tính,  đ au th ầ n kinh to ạ ...  −   B ệ nh lý ph ầ n m ề m do th ấ p: Viêm quanh kh ớ p vai, viêm l ồ i c ầ u x ươ ng cánh  tay, h ộ i ch ứ ng De Quervain, h ộ i ch ứ ng  đườ ng h ầ m c ổ  tay...   
-
- 3.2. Ch ố ng ch ỉ   đị nh c ủ a thu ố c ch ố ng viêm không steroid  −   Ch ố ng ch ỉ   đị nh tuy ệ t  đố i:   +   B ệ nh lý ch ả y máu không  đượ c ki ể m soát.  +   Ti ề n s ử  d ị   ứ ng, m ẫ n c ả m v ớ i thu ố c.   +   Loét d ạ  dày tá tràng  đ ang ti ế n tri ể n.   +   Suy t ế  bào gan m ứ c  độ  v ừ a  đế n n ặ ng.  +   Ph ụ  n ữ  có thai ba tháng  đầ u ho ặ c ba tháng cu ố i, ph ụ  n ữ   đ ang cho con bú.  −   Ch ố ng ch ỉ   đị nh t ươ ng  đố i, th ậ n tr ọ ng :  +   Nhi ễ m trùng  đ ang ti ế n tri ể n.  +   Hen ph ế  qu ả n.  +   Ti ề n s ử  viêm loét d ạ  dày tá tràng. 
-
- 3.3. Khuy ế n cáo s ử  d ụ ng thu ố c ch ố ng viêm không steroid khi có nguy c ơ  tiêu hóa,  tim m ạ ch     −   Ph ươ ng pháp d ự  phòng bi ế n ch ứ ng tiêu hóa do thu ố c ch ố ng viêm không steroid:  C ầ n  đ i ề u tr ị  d ự  phòng bi ế n ch ứ ng tiêu hóa do thu ố c ch ố ng viêm không steroid  ở   các  đố i t ượ ng có nguy c ơ .   Các y ế u t ố  nguy c ơ  bi ế n ch ứ ng tiêu hóa do thu ố c ch ố ng viêm không steroid:  +   Các y ế u t ố  nguy c ơ  cao: N ữ , trên 60 tu ổ i; ti ề n s ử  loét d ạ  dày tá tràng, ti ề n s ử   xu ấ t huy ế t tiêu hoá cao; c ầ n s ử  d ụ ng thu ố c ch ố ng viêm không steroid li ề u cao; s ử  d ụ ng  198 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-k ế t h ợ p hai lo ạ i thu ố c ch ố ng viêm không steroid (m ộ t cách sai l ầ m), k ế t h ợ p v ớ i aspirin  li ề u th ấ p.  +   Các y ế u t ố  nguy c ơ  trung bình: N ữ  gi ớ i, tu ổ i trên 55 tu ổ i; ti ề n s ử  có các tri ệ u  ch ứ ng tiêu hoá ( đ au th ượ ng v ị ,  đầ y h ơ i,  ợ  h ơ i,  ợ  chua, ch ậ m tiêu...); hút thu ố c lá, u ố ng  r ượ u; nhi ễ m HP; b ệ nh viêm kh ớ p d ạ ng th ấ p; tình tr ạ ng dinh d ưỡ ng kém; stress tinh th ầ n  ho ặ c th ể  ch ấ t m ớ i xu ấ t hi ệ n.   Ph ươ ng pháp d ự  phòng bi ế n ch ứ ng tiêu hóa do thu ố c ch ố ng viêm không steroid:  +   H ạ n ch ế  s ử  d ụ ng thu ố c: Li ề u th ấ p nh ấ t có th ể  và th ờ i gian dùng ng ắ n nh ấ t có th ể .  +   Ư u tiên l ự a ch ọ n các thu ố c  ứ c ch ế  ch ọ n l ọ c COX 2 nh ư   celecoxib, etoricoxib  ho ặ c các thu ố c có d ạ ng bào ch ế   đặ c bi ệ t nh ư  piroxicam- β - cyclodextrin...  +   S ử  d ụ ng kèm các thu ố c  ứ c ch ế  b ơ m proton: Thu ố c nhóm này có hi ệ u qu ả  d ự   phòng và  đ i ề u tr ị  các t ổ n th ươ ng d ạ  dày tá tràng do ch ố ng viêm không steroid  (Omeprazole 20mg ho ặ c các thu ố c trong nhóm nh ư  Esomeprazole 20 mg u ố ng 1 viên  vào bu ổ i t ố i tr ướ c khi  đ i ng ủ ). Các thu ố c này ít hi ệ u qu ả  d ự  phòng các tác d ụ ng không  mong mu ố n  ở   đườ ng tiêu hóa d ướ i. Do v ậ y  đố i v ớ i các b ệ nh nhân có nguy c ơ  cao nên  dùng nhóm  ứ c ch ế  ch ọ n l ọ c COX 2. M ộ t s ố  tr ườ ng h ợ p có nguy c ơ  r ấ t cao v ề  tiêu hóa  mà có ch ỉ   đị nh dùng thu ố c ch ố ng viêm không steroid, có th ể  k ế t h ợ p nhóm  ứ c ch ế  ch ọ n  l ọ c COX 2 v ớ i thu ố c  ứ c ch ế  b ơ m proton.  +   Không nên s ử  d ụ ng các thu ố c là ch ấ t kháng acid d ạ ng gel có ch ứ a alumin  trong d ự  phòng t ổ n th ươ ng d ạ  dày tá tràng do ch ố ng viêm không steroid. Các thu ố c  nhóm này có tác d ụ ng v ớ i các c ơ n  đ au b ỏ ng rát ho ặ c tình tr ạ ng khó ch ị u do acid gây ra  ở  d ạ  dày, th ự c qu ả n song không có tác d ụ ng d ự  phòng.  H ơ n n ữ a, chúng có th ể  gây c ả n  tr ở  h ấ p thu các thu ố c khác.  −   Nguyên t ắ c s ử  d ụ ng thu ố c ch ố ng viêm không steroid  ở  các  đố i t ượ ng có  nguy c ơ  tim m ạ ch   +   N ế u dùng aspirin, u ố ng aspirin tr ướ c khi u ố ng thu ố c ch ố ng viêm không  steroid ít nh ấ t 02 gi ờ  ( đặ c bi ệ t n ế u là ibuprofen; n ế u celecoxib thì không c ầ n).  +   Không s ử  d ụ ng thu ố c ch ố ng viêm không steroid trong vòng 3-6 tháng n ế u có  b ệ nh lý tim m ạ ch c ấ p ho ặ c can thi ệ p tim m ạ ch.    +   Theo dõi và ki ể m soát huy ế t áp ch ặ t ch ẽ .  +   S ử  d ụ ng li ề u thu ố c ch ố ng viêm không steroid th ấ p, lo ạ i có th ờ i gian bán th ả i  ng ắ n và tránh các lo ạ i gi ả i phóng ch ậ m.  Nguyên t ắ c l ự a ch ọ n thu ố c ch ố ng viêm không steroid ch ỉ   đị nh cho b ệ nh nhân  m ắ c b ệ nh kh ớ p:  −   Nguy c ơ  th ấ p:  d ướ i 65 tu ổ i, không có nguy c ơ  tim m ạ ch, b ệ nh lý kh ớ p không  đ òi h ỏ i s ử  d ụ ng thu ố c ch ố ng viêm không steroid (CVKS)  li ề u cao và kéo dài, không k ế t  h ợ p aspirin, corticosteroids, ho ặ c thu ố c ch ố ng  đ ông: ch ỉ   đị nh thu ố c ch ố ng viêm không  steroid kinh  đ i ể n v ớ i li ề u th ấ p nh ấ t có th ể  và th ờ i gian ng ắ n nh ấ t có th ể .  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  199  
-
-−   Nguy c ơ  v ừ a ho ặ c cao:  ch ỉ   đị nh các thu ố c theo m ứ c  độ  nguy c ơ   Nguy c ơ  v ừ a   Khuy ế n cáo ch ỉ   đị nh thu ố c theo m ứ c  độ  nguy c ơ  
-
- -   ≥ 65 tu ổ i 
-
- - C ầ n ph ả i s ử  d ụ ng thu ố c ch ố ng  -  Celecoxib m ỗ i ngày m ộ t l ầ n  viêm không steroid li ề u cao và  -  K ế t h ợ p thu ố c  ứ c ch ế  b ơ m proton, ho ặ c misoprostol,  kéo dài   ho ặ c thu ố c  ứ c ch ế  th ụ  th ể  H 2  li ề u cao  - Không có ti ề n s ử  ho ặ c bi ế n  ch ứ ng loét  đườ ng tiêu hóa  - Nguy c ơ  tim m ạ ch th ấ p, có  N ế u ph ả i dùng aspirin, c ầ n dùng li ề u th ấ p (75 - 81 mg/ngày)  th ể   đ ang dùng aspirin v ớ i m ụ c  đ ích d ự  phòng   - C ầ n ph ả i s ử  d ụ ng thu ố c ch ố ng  - N ế u ph ả i k ế t h ợ p aspirin, dùng NSAID c ổ   đ i ể n ít nh ấ t 2  viêm không steroid li ề u cao và  gi ờ  tr ướ c khi u ố ng aspirin  kéo dài    Nguy c ơ  cao    - Ng ườ i cao tu ổ i, g ầ y y ế u ho ặ c t ă ng huy ế t  - Ch ỉ   đị nh acetaminophen <3 g/ngày  áp, có b ệ nh lý gan, th ậ n kèm theo   - Tránh thu ố c NSAID n ế u có th ể   - Có ti ề n s ử  bi ế n ch ứ ng loét  đườ ng tiêu  hóa ho ặ c có nhi ề u y ế u t ố  nguy c ơ   đườ ng  Dùng li ề u thu ố c NSAID ng ắ t quãng  tiêu hóa  - Dùng thu ố c NSAID li ề u th ấ p và lo ạ i có th ờ i  - Ti ề n s ử  tim m ạ ch và dùng aspirin ho ặ c  gian bán h ủ y ng ắ n   thu ố c ch ố ng ng ư ng t ậ p ti ể u c ầ u  để  d ự   - Không dùng các lo ạ i thu ố c NSAID d ạ ng gi ả i  phòng   phóng ch ậ m  - Ch ỉ  ch ỉ   đị nh thu ố c NSAID khi th ự c s ự  c ầ n thi ế t 
-
- - Ti ề n s ử  suy tim  - Theo dõi và qu ả n lý huy ế t áp   - Theo dõi creatinin và  đ i ệ n gi ả i  đồ   - Celecoxib m ộ t l ầ n m ỗ i ngày k ế t h ợ p thu ố c  ứ c 
-
- - Nguy c ơ  tiêu hóa  > nguy c ơ  tim m ạ ch  ch ế  b ơ m proton ho ặ c misoprostol    - Naproxen k ế t h ợ p thu ố c  ứ c ch ế  b ơ m proton  ho ặ c misoprostol   
-
- - Nguy c ơ  tim m ạ ch  > nguy c ơ  tiêu hóa    - Tránh thu ố c  ứ c ch ế  b ơ m proton n ế u dùng  thu ố c ch ố ng ng ư ng t ậ p ti ể u c ầ u nh ư  clopidogrel  200 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-B ả ng li ề u m ộ t s ố  thu ố c ch ố ng viêm không steroid th ườ ng  đượ c s ử  d ụ ng  Nhóm  Tên chung  Li ề u 24h (mg)  Trình bày (mg)  Proprionic  Ibuprofen  400-1200   Viên: 400   Viên  đặ t h ậ u môn: 500   Naproxen  250-1000   Viên: 250; 500; 275; 550   Oxicam  Piroxicam  10-40   Viên: 10, 20;   ố ng: 20   Piroxicam- β -   Viên: 20  cyclodextrin  Tenoxicam  20  Viên,  ố ng 20   Diclofenac  Diclofenac  50-150   Viên: 25, 50; Viên  đặ t h ậ u môn:  100;  Ố ng: 75     Nhóm  coxib    Meloxicam  7,5-15   Viên: 7,5;  ố ng 15  Celecoxib  100-200  Viên: 100   Etoricoxib  30-120  Viên: 30, 60, 90, 120  
-
- 4. M Ộ T S Ố  VÍ D Ụ   −   Diclofenac:   Viên 50mg: 2 viên/ngày chia 2 l ầ n sau  ă n no ho ặ c viên 75mg 
-
- (d ạ ng SR: phóng thích ch ậ m) 1 viên/ngày sau  ă n 1 gi ờ . Có th ể  s ử  d ụ ng d ạ ng  ố ng tiêm  b ắ p 75 mg/ngày trong 1-3 ngày  đầ u khi b ệ nh nhân  đ au nhi ề u, sau  đ ó chuy ể n sang  đườ ng u ố ng.  −   Meloxicam: Viên 7,5mg: 2 viên/ngày, sau  ă n no ho ặ c d ạ ng  ố ng tiêm b ắ p 15  mg/ngày x 2- 3 ngày n ế u b ệ nh nhân  đ au nhi ề u, sau  đ ó chuy ể n sang  đườ ng u ố ng.   −   Piroxicam: Viên ho ặ c  ố ng 20 mg, u ố ng 1 viên/ngày, u ố ng sau  ă n no ho ặ c tiêm b ắ p  ngày 1  ố ng trong 1-3 ngày  đầ u khi b ệ nh nhân  đ au nhi ề u, sau  đ ó chuy ể n sang  đườ ng u ố ng.  −   Celecoxib: Viên 200 mg li ề u 1  đế n 2 viên/ngày, u ố ng sau  ă n no. Không nên  dùng cho b ệ nh nhân có ti ề n s ử  b ệ nh tim m ạ ch và th ậ n tr ọ ng h ơ n  ở  ng ườ i cao tu ổ i.   −   Etoricoxib: Tùy theo ch ỉ   đị nh. V ớ i gút c ấ p có th ể  u ố ng 1 viên 90 mg ho ặ c 120  mg trong vài ngày  đầ u (không quá 8 ngày). V ớ i các b ệ nh khác, dùng li ề u 30-45- 60-90  mg m ỗ i ngày (lúc no). Nên tránh ch ỉ   đị nh cho b ệ nh nhân có ti ề n s ử  b ệ nh tim m ạ ch và  th ậ n tr ọ ng h ơ n  ở  ng ườ i cao tu ổ i.  L ư u ý v ớ i m ộ t s ố  c ơ   đị a  đặ c bi ệ t.  Đố i v ớ i tr ẻ  em nên cho m ộ t trong các thu ố c sau:  −   Aspirin: li ề u không quá 100 mg/kg/ngày.  −   Indomethacin: 2,5 mg/kg ngày.   −   Diclofenac: 2mg/kg/ngày.   −   Naproxen: 10 mg/kg/ngày.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  201  
-
-H ƯỚ NG D Ẫ N S Ử  D Ụ NG THU Ố C GI Ả M  Đ AU  1. NGUYÊN T Ắ C S Ử  D Ụ NG CÁC THU Ố C GI Ả M  Đ AU   −   C ầ n k ế t h ợ p  đ i ề u tr ị  nguyên nhân gây  đ au ( đ i ề u tr ị   đặ c hi ệ u,  đ i ề u tr ị  c ơ  b ả n b ệ nh).  −   Tôn tr ọ ng s ơ   đồ  b ậ c thang c ủ a T ổ  ch ứ c Y t ế  Th ế  gi ớ i (WHO).  −   Dùng  đườ ng u ố ng là chính nh ằ m  đơ n gi ả n hoá cách th ứ c s ử  d ụ ng.  −   Tìm li ề u hi ệ u qu ả  nh ấ t, dung n ạ p cao nh ấ t (tôn tr ọ ng ch ố ng ch ỉ   đị nh, t ươ ng tác  thu ố c, t ă ng d ầ n li ề u, l ư u ý s ự  ph ụ  thu ộ c thu ố c...).   −   Có th ể  k ế t h ợ p các  đ i ề u tr ị  h ỗ  tr ợ  nh ư  tr ườ ng h ợ p  đ au có ngu ồ n g ố c th ầ n kinh  nên k ế t h ợ p thu ố c vitamin nhóm B và các thu ố c gi ả m  đ au th ầ n kinh. Có th ể  k ế t h ợ p các  thu ố c ch ố ng tr ầ m c ả m  ở  các tr ườ ng h ợ p  đ au kéo dài,  đ au do ung th ư  vv…   2. S Ơ   ĐỒ  B Ậ C THANG CH Ỉ   ĐỊ NH THU Ố C GI Ả M  Đ AU THEO KHUY Ế N CÁO  C Ủ A T Ổ  CH Ứ C Y T Ế  TH Ế  GI Ớ I    −   B ậ c 1: Thu ố c không có morphin (paracetamol,  thu ố c ch ố ng viêm không  steroid li ề u th ấ p, noramidopyrin, floctafenin...).  −   B ậ c 2: Morphin y ế u (codein, dextropropoxyphen, buprenorphin, tramadol).  −   B ậ c 3: Morphin m ạ nh.  −   B ả ng li ề u m ộ t s ố  thu ố c gi ả m  đ au b ậ c 1-2 theo khuy ế n cáo c ủ a T ổ  ch ứ c Y t ế   Th ế  gi ớ i (WHO)  Đ i ề u tr ị  gi ả m  đ au trong các b ệ nh c ơ  x ươ ng kh ớ p t ạ i Vi ệ t Nam ch ủ  y ế u s ử  d ụ ng  thu ố c gi ả m  đ au b ậ c 1 và 2. Thu ố c b ậ c 1 là các thu ố c ch ố ng viêm không steroid li ề u th ấ p  th ườ ng  đượ c khuy ế n cáo nên s ử  d ụ ng nhóm  ứ c ch ế  ch ọ n l ọ c COX2. Tuy nhiên c ầ n cân  nh ắ c trên m ộ t b ệ nh nhân c ụ  th ể .  B ậ c  Tên chung  Li ề u 24h gi ờ   Trình bày  (mg)  (mg)  B ậ c 1  Paracetamol  500-3.000   Viên nén 500   Viên nén 650   Viên s ủ i 500  Floctafenin   200-1.200  Viên nén 200   Thu ố c ch ố ng viêm không steroid   100-200   Viên nén  B ậ c 2  Paracetamol  325 mg + Tramadol  1-4 l ầ n, m ỗ i l ầ n  Viên nén  37,5mg  1-2 viên  Paracetamol 500 mg  1-3 l ầ n, m ỗ i l ầ n  Viên s ủ i  1-2 viên  + Codein 30 mg  202 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  3. M Ộ T S Ố  VÍ D Ụ  
-
- 3.1. Thu ố c gi ả m  đ au b ậ c 1   −   Thu ố c gi ả m  đ au b ậ c 1 nhóm paracetamol:    Li ề u paracetamol m ỗ i l ầ n 500-1.000mg; ngày u ố ng 1-4 l ầ n; u ố ng cách nhau 6-8  gi ờ /l ầ n. Không quá 4 gam/24 gi ờ . Thu ố c có th ể  gây h ạ i cho gan. Ch ố ng ch ỉ   đị nh  ở  b ệ nh  nhân suy t ế  bào gan,  đ ang có h ủ y t ế  bào gan (có t ă ng men gan).  −   Thu ố c gi ả m  đ au b ậ c 1 nhóm  floctafenin:  Floctafenin :  Viên nén 200mg, ngày u ố ng 1-3 l ầ n, m ỗ i l ầ n 1-2 viên. Thu ố c ít gây  t ổ n th ươ ng t ế  bào gan, do  đ ó th ườ ng  đượ c ch ỉ   đị nh trong tr ườ ng h ợ p suy t ế  bào gan.  3.2. Thu ố c gi ả m  đ au b ậ c 2 -  Paracetamol  k ế t h ợ p v ớ i codein ho ặ c tramadol  Li ề u các thu ố c nhóm này: Ngày u ố ng 1-4 l ầ n, m ỗ i l ầ n 1-2 viên. Nên t ă ng li ề u d ầ n,  t ừ  t ừ  và ch ọ n li ề u th ấ p nh ấ t có hi ệ u qu ả , gi ả m ngay li ề u khi  đỡ   đ au.   −   Paracetamol 500mg + Codein 30mg  −   Paracetamol  325mg + Tramadol 37,5mg  3.3.  Đ i ề u tr ị  h ỗ  tr ợ   −   Tr ườ ng h ợ p  đ au có ngu ồ n g ố c th ầ n kinh:   +   Thu ố c gi ả m  đ au th ầ n kinh:   Gabapentin:  Viên 300mg. Li ề u 600-900mg/ngày, chia 2-3 l ầ n.   Pregabalin: Viên 75mg. Li ề u: 150-300 mg/ngày chia 2 l ầ n.  Ch ỉ   đị nh :   Đ au th ầ n kinh t ọ a, h ộ i ch ứ ng chèn ép  đ ám r ố i th ầ n kinh cánh tay, b ệ nh  Fibromyalgia (còn g ọ i là b ệ nh  đ au s ợ i c ơ ;  đ au x ơ  c ơ ,  đ au c ơ  x ơ  hóa...)  Cách dùng : Nên u ố ng vào bu ổ i tr ư a và t ố i, c ầ n t ă ng li ề u d ầ n. V ớ i kh ở i  đầ u b ằ ng  li ề u cao ngay t ừ   đầ u có th ể  gây chóng m ặ t, bu ồ n nôn.   +   Vitamin nhóm B (B 1 , B 6 , B 12 )  đườ ng tiêm ho ặ c u ố ng:   K ế t h ợ p vitamin B 1 , B 6 , B 12    Vitamin B12  đơ n  độ c   Ch ỉ   đị nh :   Đ au kh ớ p,  đ au c ộ t s ố ng nói chung,  đặ c bi ệ t  đ au có ngu ồ n g ố c th ầ n kinh  nh ư   đ au th ầ n kinh t ọ a, h ộ i ch ứ ng chèn ép  đ ám r ố i th ầ n kinh cánh tay (th ườ ng do thoái  hóa c ộ t s ố ng c ổ  ho ặ c thoát v ị  c ộ t s ố ng c ổ .   Cách dùng : Nên dùng li ề u cao,  đườ ng tiêm ho ặ c u ố ng.  −   Tr ườ ng h ợ p  đ au m ạ n tính:  Thu ố c ch ố ng tr ầ m c ả m ba vòng (tricyclic antidepressant), ch ố ng lo âu:  +   Amitriptylin: Viên 25mg   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  203  
-
-Ch ỉ   đị nh :  Đ au m ạ n tính,  đ au có ngu ồ n g ố c th ầ n kinh, có r ố i lo ạ n gi ấ c ng ủ , có y ế u  t ố  tâm lý, ho ặ c  đ au do ung th ư .   Cách dùng : Nên kh ở i  đầ u b ằ ng li ề u th ấ p: 1/2 viên/ngày. Li ề u: 25-75mg. Có th ể   gây chóng m ặ t.   +   Sulpirid: Viên 50mg   Ch ỉ   đị nh :  Đ au có r ố i lo ạ n gi ấ c ng ủ , có y ế u t ố  tâm lý.   Cách dùng:  Nên kh ở i  đầ u b ằ ng li ề u th ấ p: 50mg/ngày. Sau  đ ó t ă ng lên li ề u   50-150mg/ngày. Không quá 4 tu ầ n.  204 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  H ƯỚ NG D Ẫ N S Ử  D Ụ NG THU Ố C NHÓM GLUCOCORTICOID  1. NGUYÊN T Ắ C S Ử  D Ụ NG THU Ố C THU Ộ C NHÓM GLUCOCORTICOID  −   Ch ỉ  ch ỉ   đị nh thu ố c khi có ch ẩ n  đ oán chính xác và th ự c s ự  c ầ n thi ế t.  −   S ử  d ụ ng trong th ờ i gian ng ắ n nh ấ t có th ể ; gi ả m li ề u và ng ừ ng ngay khi tri ệ u  ch ứ ng ho ặ c b ệ nh  đượ c ki ể m soát.  −   Theo dõi th ườ ng xuyên và k ế t h ợ p phòng ng ừ a bi ế n ch ứ ng do thu ố c (t ổ n  th ươ ng d ạ  dày tá tràng, r ố i lo ạ n  đ i ệ n gi ả i, t ă ng  đườ ng máu, t ă ng huy ế t áp, nhi ễ m khu ẩ n,  loãng x ươ ng...).  2. B Ả NG TÓM T Ắ T  ĐẶ C  Đ I Ể M VÀ LI Ề U QUY CHU Ẩ N M Ộ T S Ố  GLUCOCORTICOID  Thu ố c  Hi ệ u l ự c  Tính gi ữ   Ái l ự c v ớ i  receptor  Li ề u quy  +  kháng viêm Na glucocorticoid  chu ẩ n  (mg)  Th ờ i gian tác d ụ ng ng ắ n (T bán hu ỷ  sinh h ọ c: 8 - 12 gi ờ )  Cortisol  1  1  100  20  Cortison  0,8  0,8  1  25  Fluorocortison  10  125  -  Th ờ i gian tác d ụ ng trung bình (T bán hu ỷ  sinh h ọ c: 12 - 36 gi ờ )   Prednison  4  0,8  5  5  Prednisolon  4  0,8  220  5  Methyl prednisolon  5  0,5  1.190  4  Triamcinolon  5  0  190  4  Th ờ i gian tác d ụ ng dài (T bán hu ỷ  sinh h ọ c: 36 - 72 gi ờ )   Betamethason  25  0  740  0,75  Dexamethason  25  0  540  0,75  3. CÁC  ĐƯỜ NG DÙNG  −   Đườ ng u ố ng : Th ườ ng s ử  d ụ ng các d ạ ng thu ố c viên. Li ề u 1 viên prednison  5mg t ươ ng  đươ ng v ớ i 1 viên c ủ a các lo ạ i thu ố c sau: cortison (25mg),  methyl pre dni solon (4mg), triamcinolon (4mg), betamethason (0,75mg).  −   Đườ ng t ạ i ch ỗ  (tiêm trong hay c ạ nh kh ớ p, tiêm ngoài màng c ứ ng, tiêm vào  trong  ố ng s ố ng): Ph ả i  đượ c bác s ỹ  chuyên khoa ch ỉ   đị nh và tuân th ủ  quy  đị nh vô trùng  ch ặ t ch ẽ .   −   Đườ ng tiêm b ắ p hay tiêm t ĩ nh m ạ ch:   Đườ ng tiêm b ắ p hi ệ n nay h ầ u nh ư   không  đượ c s ử  d ụ ng trong  đ i ề u tr ị  các b ệ nh kh ớ p vì các tác d ụ ng t ạ i ch ỗ  khá nghiêm  tr ọ ng (teo c ơ , nguy c ơ  nhi ễ m khu ẩ n).   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  205  
-
-−   Li ề u dùng (tính theo prednisolon):   +   Li ề u th ấ p: 5-10mg/24 gi ờ , trung bình: 20-30mg/24 gi ờ , li ề u cao: 60-120mg/24  gi ờ   (1-2mg/kg/24 gi ờ ).   +   Đố i v ớ i các b ệ nh th ấ p kh ớ p, th ườ ng cho li ề u 0,5mg/kg/24 gi ờ , sau  đ ó gi ả m  li ề u 10% m ỗ i tu ầ n. T ừ  li ề u 15mg tr ở   đ i, gi ả m 1mg/tu ầ n. Có th ể  cho cách ngày. Dùng  kéo dài: không quá 5-10mg/24 gi ờ .  −   Phác  đồ   đ i ề u tr ị   đặ c bi ệ t:  +   Truy ề n glucocorticoid t ĩ nh m ạ ch li ề u cao (còn có các tên  đồ ng ngh ĩ a là bolus  therapy;  flash therapy ho ặ c  pulse therapy):   Ch ỉ   đị nh trong tr ườ ng h ợ p  đặ c bi ệ t ( đợ t ti ế n tri ể n c ủ a lupus ban  đỏ , viêm kh ớ p  d ạ ng th ấ p, viêm m ạ ch…). Hi ệ n nay ít dùng  đườ ng này. Ph ả i theo dõi b ệ nh nhân  nghiêm ng ặ t.   Cách dùng: Truy ề n t ĩ nh m ạ ch 750mg  đế n 1000mg (1 gam) methyl pre dni solon  sodium succinat   pha trong 250-500ml dung d ị ch natriclorua 0,9%, truy ề n t ĩ nh m ạ ch  trong 2 -3 gi ờ , dùng m ộ t li ề u duy nh ấ t trong ngày, nh ắ c l ạ i 3 ngày  liên ti ế p. Sau li ề u  này, chuy ể n  đườ ng u ố ng v ớ i li ề u t ươ ng  đươ ng v ớ i prednisolon 1,5-2mg/kg/24 h.   +   Mini bolus therapy (mini pulse therapy)  Ch ỉ   đị nh: T ươ ng t ự  nh ư  ph ươ ng pháp bolus therapy  (pulse therapy)  Thu ố c: Methyl pre dni solon sodium succinat v ớ i li ề u 2mg/kg/24gi ờ ; ho ặ c  dexamethason v ớ i li ề u 0,4mg/kg/24h.  Cách dùng: Pha trong 250ml dung d ị ch natriclorua 0,9% truy ề n t ĩ nh m ạ ch 30  gi ọ t/phút,  trong 3 - 5 ngày li ề n. Sau li ề u này, chuy ể n  đườ ng u ố ng v ớ i li ề u t ươ ng  đươ ng  v ớ i prenisolon 1-2 mg/kg/24 h sau  đ ó gi ả m d ầ n tùy theo  đ áp  ứ ng c ủ a b ệ nh nhân.  4. CH Ế   ĐỘ   Đ I Ề U TR Ị  B Ổ  SUNG KHI S Ử  D Ụ NG GLUCOCORTICOID  C ầ n l ư u ý ch ế   độ   đ i ề u tr ị  b ổ  sung,  đặ c bi ệ t khi s ử  d ụ ng v ớ i li ề u prednisolon trên  10mg m ỗ i ngày, càng ph ả i  đượ c th ự c hi ệ n nghiêm ng ặ t khi li ề u càng cao ho ặ c kéo dài  trên 1 tháng.  −   Kali: 1-2 gam kali chlorua m ỗ i ngày.  −   Vitamin D: 800 UI k ế t h ợ p 1000 mg calci m ỗ i ngày.  −   Thu ố c b ả o v ệ  niêm m ạ c d ạ  dày: Nhóm  ứ c ch ế  b ơ m proton u ố ng tr ướ c khi  đ i  ng ủ  (omeprazol 20mg…)  −   Benzodiazepin trong tr ườ ng h ợ p m ấ t ng ủ .  −   Bisphosphonat (alendronat 70mg/tu ầ n; risedronat 35mg/tu ầ n; ibandronat 150mg/  tháng). Ch ỉ   đị nh khi s ử  d ụ ng glucocorticoid kéo dài trên 1 tháng (b ấ t k ể  li ề u nào).    206 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-H ƯỚ NG D Ẫ N S Ử  D Ụ NG CÁC THU Ố C (DMARDs)  (Disease-modifying antirheumatic drugs)    Các thu ố c có tên thông d ụ ng là DMARDs  đượ c k ỳ  v ọ ng là các thu ố c ch ố ng th ấ p  kh ớ p có th ể  làm thay  đổ i b ệ nh,  đ i ề u tr ị  c ơ  b ả n b ệ nh. Có hai lo ạ i DMARDs: DMARDs  c ổ   đ i ể n và DMARDs sinh h ọ c.  
-
- 1. NHÓM DMARDS C Ổ   Đ I Ể N  Nhóm DMARDs c ổ   đ i ể n bao g ồ m các thu ố c ch ố ng s ố t rét t ổ ng h ợ p 
-
- (hydroxy chl oro quin  ho ặ c  quinacrin  hydrochlorid,  methotrexat;  sulfasalazin;   leflunomid; cyclosporin A). Trong s ố  các thu ố c nhóm DMARDs kinh  đ i ể n,   methotrexat th ườ ng  đượ c s ử  d ụ ng nhi ề u nh ấ t, do  đ ó chúng tôi trình bày h ướ ng d ẫ n s ử   d ụ ng thu ố c này. Quy trình s ử  d ụ ng, theo dõi các thu ố c khác (tr ừ  thu ố c ch ố ng s ố t rét  t ổ ng h ợ p) t ươ ng t ự  nh ư  methotrexat.   Thu ố c DMARDs có th ể  s ử  d ụ ng  đơ n  độ c ho ặ c k ế t h ợ p hai ho ặ c nhi ề u thu ố c trong nhóm.   1.1. Các thu ố c ch ố ng s ố t rét t ổ ng h ợ p hydroxychloroquin ho ặ c quinacrin hydrochlorid   −   Li ề u dùng: 200-600mg/ngày,  ở  Vi ệ t Nam th ườ ng dùng 200mg/ngày.  −   Ch ố ng ch ỉ   đị nh: Ng ườ i có suy gi ả m G6PD (glucose-6 phosphate  dehydrogenase) ho ặ c có t ổ n th ươ ng gan. Cân nh ắ c l ợ i-h ạ i  ở  b ệ nh nhân có thai (m ộ t s ố   nghiên c ứ u cho th ấ y có th ể  s ử  d ụ ng hydroxychloroquin  ở  b ệ nh nhân lupus có thai mà  không gây các d ị  t ậ t  ở  tr ẻ  s ơ  sinh).  −   C ầ n ki ể m tra th ị  l ự c, th ị  tr ườ ng, soi  đ áy m ắ t m ỗ i 6 tháng và không dùng quá 5  n ă m nh ằ m tránh tác d ụ ng không mong mu ố n  đố i v ớ i m ắ t: Thu ố c gây viêm t ổ  ch ứ c l ướ i  ở  võng m ạ c không h ồ i ph ụ c, d ẫ n  đế n m ấ t th ị  l ự c không h ồ i ph ụ c.  −   C ầ n u ố ng thu ố c vào bu ổ i t ố i nh ằ m tránh ánh n ắ ng, gây x ạ m da.  1.2. Methotrexat   Các xét nghi ệ m c ầ n ti ế n hành tr ướ c khi cho thu ố c và ki ể m tra hàng tháng th ờ i  gian dùng thu ố c:   −   T ế  bào máu ngo ạ i vi, t ố c  độ  máu l ắ ng, CRP.  −   Enzym gan, ch ứ c n ă ng gan (T ỷ  l ệ  prothrombin và albumin huy ế t thanh).   −   Ch ứ c n ă ng th ậ n (ít nh ấ t c ầ n xét nghi ệ m creatinin huy ế t thanh).  −   Xquang ph ổ i th ẳ ng (và  đ o ch ứ c n ă ng hô h ấ p n ế u có  đ i ề u ki ệ n).  Các tr ườ ng h ợ p c ầ n l ư u ý:  −   Không ch ỉ   đị nh  đố i v ớ i ph ụ  n ữ   ở  tu ổ i sinh  đẻ , ho ặ c nam gi ớ i có v ợ   ở  tu ổ i sinh  đẻ  mà không có bi ệ n pháp tránh thai h ữ u hi ệ u. B ệ nh nhân ho ặ c v ợ  b ệ nh nhân có th ể   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  207 mang thai n ế u ng ừ ng methotrexat ít nh ấ t 2 tháng (các thu ố c khác thu ộ c nhóm  DMARDs c ổ   đ i ể n có th ờ i gian ng ừ ng thu ố c dài h ơ n, ví d ụ  leflunomid ph ả i ng ừ ng  thu ố c ít nh ấ t 2 n ă m).  −   N ế u b ệ nh nhân có b ệ nh ph ổ i m ạ n tính thì không  đượ c ch ỉ   đị nh methotrexat.  Nên  đ o ch ứ c n ă ng hô h ấ p tr ướ c khi ch ỉ   đị nh methotrexat  để  kh ẳ ng  đị nh là ch ứ c n ă ng  ph ổ i bình th ườ ng. C ầ n ch ụ p l ạ i ph ổ i m ỗ i khi có các tri ệ u ch ứ ng hô h ấ p. N ế u có tri ệ u  ch ứ ng hô h ấ p m ạ n tính c ầ n ng ừ ng methotrexat, chuy ể n dùng các thu ố c thu ộ c nhóm  DMARDs c ổ   đ i ể n khác.   −   T ế  bào máu ngo ạ i vi: Không cho thu ố c ho ặ c c ầ n ng ừ ng thu ố c khi s ố  l ượ ng  3  3 b ạ ch c ầ u d ướ i 4G/mm ho ặ c b ạ ch c ầ u lympho d ướ i 1,5 G/mm .  −   Ch ứ c n ă ng gan (t ỷ  l ệ  prothrombin và albumin huy ế t thanh). Không ch ỉ   đị nh khi  b ệ nh nhân suy t ế  bào gan ho ặ c enzym gan cao. C ầ n ng ừ ng thu ố c khi enzym gan cao g ấ p  đ ôi tr ị  s ố  bình th ườ ng.  −   Ch ứ c n ă ng th ậ n: Không ch ỉ   đị nh khi b ệ nh nhân suy th ậ n.   −   Do methotrexat có c ấ u trúc t ươ ng t ự  acid folic, c ơ  ch ế  chính c ủ a thu ố c là tranh  ch ấ p v ớ i v ị  trí ho ạ t  độ ng c ủ a acid folic trong quá trình t ổ ng h ợ p pyrimidin, d ẫ n  đế n  gi ả m t ổ ng h ợ p DNA nên c ầ n b ổ  sung acid folic v ớ i li ề u t ươ ng  đươ ng methotrexat nh ằ m  tránh thi ế u máu.  Li ề u methotrexat:  Trung bình 10 - 20mg m ỗ i tu ầ n (5-20mg/tu ầ n) tiêm b ắ p ho ặ c  u ố ng. Th ườ ng kh ở i  đầ u b ằ ng li ề u 10mg m ỗ i tu ầ n.   Ch ế  ph ẩ m:  Methotrexat d ạ ng 2,5mg/viên,  ố ng tiêm b ắ p 10mg ho ặ c 15mg.  Cách dùng:  Th ườ ng kh ở i  đầ u b ằ ng  đườ ng u ố ng v ớ i li ề u 10mg/tu ầ n. Nên u ố ng  m ộ t l ầ n c ả  li ề u vào m ộ t ngày c ố   đị nh trong tu ầ n. Tr ườ ng h ợ p kém hi ệ u qu ả  ho ặ c kém  dung n ạ p, có th ể  dùng  đườ ng tiêm b ắ p ho ặ c tiêm d ướ i da, m ỗ i tu ầ n tiêm m ộ t m ũ i duy   nh ấ t vào m ộ t ngày c ố   đị nh trong tu ầ n. Li ề u methotrexat có th ể  t ă ng ho ặ c gi ả m tu ỳ  hi ệ u  qu ả   đạ t  đượ c.   Dùng kéo dài n ế u có hi ệ u qu ả  và d ụ ng n ạ p t ố t. Hi ệ u qu ả  th ườ ng  đạ t  đượ c sau 1-2  tháng, do  đ ó th ườ ng duy trì li ề u  đ ã ch ọ n trong m ỗ i 1- 2 tháng m ớ i ch ỉ nh li ề u. Khi các  tri ệ u ch ứ ng  đ ã thuyên gi ả m, có th ể  gi ả m li ề u các thu ố c k ế t h ợ p: l ầ n l ượ t gi ả m li ề u  corticoid, thay b ằ ng ch ố ng viêm không steroid, thu ố c gi ả m  đ au gi ả m cu ố i cùng. Thu ố c  th ườ ng duy trì nhi ề u n ă m, th ậ m chí su ố t  đờ i. Tuy nhiên, sau m ộ t giai  đ o ạ n  ổ n  đị nh kéo  dài, th ườ ng xu ấ t hi ệ n tình tr ạ ng “kháng” methotrexat. N ế u không có hi ệ u qu ả  nên k ế t  h ợ p ho ặ c  đổ i các thu ố c khác trong nhóm.  Thu ố c k ế t h ợ p : Th ườ ng k ế t h ợ p methotrexat v ớ i thu ố c ch ố ng s ố t rét t ổ ng h ợ p  nh ằ m t ă ng hi ệ u qu ả  và gi ả m tác d ụ ng không mong mu ố n c ủ a methotrexat trên gan. C ầ n  b ổ  sung acid folic (li ề u t ươ ng  đươ ng v ớ i li ề u methotrexat) nh ằ m gi ả m thi ể u tác d ụ ng  ph ụ  v ề  máu, không nên u ố ng acid folic vào ngày u ố ng methotrexat.  208 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-Ví d ụ  c ụ  th ể :  −   Methotrexat viên 2,5mg , 4 viên m ỗ i tu ầ n, u ố ng m ộ t l ầ n duy nh ấ t vào th ứ  2  hàng tu ầ n.  −   Acid folic viên 5mg: u ố ng th ứ  4 và th ứ  6 hàng tu ầ n, m ỗ i ngày u ố ng 1 viên 5mg.  2. DMARDS SINH H Ọ C  Đ i ề u tr ị  sinh h ọ c (Biological therapy) là tr ị  li ệ u s ử  d ụ ng các tác nhân sinh h ọ c  nh ằ m kích thích ho ặ c khôi ph ụ c l ạ i kh ả  n ă ng c ủ a h ệ  th ố ng mi ễ n d ị ch ho ặ c tác  độ ng tr ự c  ti ế p trên b ệ nh t ươ ng t ự  nh ư   đ áp  ứ ng c ủ a h ệ  th ố ng mi ễ n d ị ch nh ằ m m ụ c  đ ích b ả o v ệ  c ơ   th ể  ch ố ng l ạ i nhi ễ m trùng, b ệ nh t ậ t.  −   Các thu ố c hi ệ n có t ạ i Vi ệ t Nam:   +   Nhóm kháng TNF- α : etanercept, infliximab…   +   Nhóm  ứ c ch ế  t ế  bào lympho B: rituximab.   +   Nhóm  ứ c ch ế  Interleukin 6: tocilizumab.   −   Ch ỉ   đị nh trong các tr ườ ng h ợ p b ệ nh t ự  mi ễ n (viêm kh ớ p d ạ ng th ấ p, lupus ban  đỏ  h ệ  th ố ng, viêm c ộ t s ố ng dính kh ớ p, th ấ p kh ớ p v ẩ y n ế n, ...) kháng v ớ i các  đ i ề u tr ị   thông th ườ ng.  Đố i v ớ i b ệ nh viêm kh ớ p d ạ ng th ấ p, th ườ ng v ẫ n k ế t h ợ p v ớ i methotrexat  n ế u không có ch ố ng ch ỉ   đị nh. G ầ n  đ ây nhóm thu ố c này  đượ c nhi ề u tác gi ả  khuy ế n khích  s ử  d ụ ng s ớ m nh ằ m tránh các t ổ n th ươ ng phá h ủ y kh ớ p.   −   Các thu ố c nhóm này nói chung khá an toàn n ế u  đượ c theo dõi, qu ả n lý t ố t. Tác  d ụ ng không mong mu ố n  đ áng ng ạ i nh ấ t c ủ a các thu ố c này là lao và các nhi ễ m khu ẩ n c ơ   h ộ i, nhi ễ m virus ( đặ c bi ệ t virus viêm gan B, C), ung th ư .   Quy trình sàng l ọ c b ệ nh nhân tr ướ c khi ch ỉ   đị nh thu ố c sinh h ọ c:  1. H ỏ i b ệ nh nhân v ề  tình tr ạ ng tiêm ch ủ ng   Không nên dùng v ắ c xin s ố ng và b ấ t ho ạ t  đồ ng th ờ i v ớ i các thu ố c sinh h ọ c.  2. Kh ả o sát các c ơ  quan d ễ  nhi ễ m khu ẩ n  −   - Ph ổ i: C ầ n lo ạ i tr ừ  viêm ph ổ i do vi khu ẩ n,  đặ c bi ệ t là lao ph ổ i: Khám lâm  sàng, ch ụ p phim Xquang quy  ướ c ph ổ i th ẳ ng, n ế u có nghi ng ờ , ch ỉ   đị nh CT ng ự c l ớ p  m ỏ ng, n ế u có t ổ n th ươ ng, c ầ n n ộ i soi ph ế  qu ả n, c ấ y d ị ch ph ế  qu ả n tìm vi khu ẩ n, BK.  K ế t h ợ p v ớ i k ế t qu ả  xét nghi ệ m test da Mantoux.   −   Th ậ n ti ế t ni ệ u: T ổ ng phân tích n ướ c ti ể u, c ấ y tìm vi khu ẩ n.  −   R ă ng hàm m ặ t - tai m ũ i h ọ ng.  −   Tim: Nghe tim, siêu âm tim n ế u nghi ng ờ   −   Nhi ễ m virus: HIV; HbsAg; Anti HCV.  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  209  
-
-3. Kh ả o sát phát hi ệ n ung th ư   C ầ n kh ả o sát các c ơ  quan sau, n ế u có t ổ n th ươ ng ho ặ c nghi ng ờ  t ổ n th ươ ng, tuân  theo quy trình ch ẩ n  đ oán ung th ư  các t ạ ng.  −   Trung th ấ t: Xquang quy  ướ c ph ổ i th ẳ ng, n ế u có nghi ng ờ , ch ỉ   đị nh CT ng ự c  l ớ p m ỏ ng nh ư  trên.  −   Ổ  b ụ ng: Siêu âm  ổ  b ụ ng.   −   Khám h ệ  th ố ng h ạ ch và toàn tr ạ ng.  4. Các tr ườ ng h ợ p c ầ n l ư u ý  −   Nghi ng ờ  nhi ễ m lao:  +   Tr ườ ng h ợ p Mantoux d ươ ng tính mà Xquang và CT ph ổ i bình th ườ ng, nên n ộ i  soi ph ế  qu ả n c ấ y tìm vi khu ẩ n lao, PCR- BK. N ế u không th ự c hi ệ n  đượ c th ủ  thu ậ t này,  b ệ nh nhân c ầ n  đượ c  đ i ề u tr ị  nh ư  lao s ơ  nhi ễ m tr ướ c khi ti ế n hành  đ i ề u tr ị  sinh h ọ c và  ph ả i  đượ c theo dõi ch ặ t ch ẽ  v ề  kh ả  n ă ng kh ở i phát lao trong quá trình  đ i ề u tr ị .  +   Tr ườ ng h ợ p có nhi ễ m lao: C ầ n  đ i ề u tr ị  lao tr ướ c. Sau  đ ó  đ ánh giá, xem xét l ạ i  ch ỉ   đị nh  đ i ề u tr ị  sinh h ọ c.  −   Nhi ễ m virus viêm gan:  Tr ườ ng h ợ p kháng th ể  d ươ ng tính, n ế u không có b ằ ng ch ứ ng c ủ a t ă ng sinh c ủ a  virus và các enzym gan bình th ườ ng có th ể  xem xét ch ỉ   đị nh  đ i ề u tr ị  sinh h ọ c. Tr ườ ng  h ợ p viêm gan ti ế n tri ể n, c ầ n  đ i ề u tr ị  viêm gan tr ướ c khi  đ ánh giá, xem xét l ạ i ch ỉ   đị nh  đ i ề u tr ị  sinh h ọ c.      210 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-QUY TRÌNH TRUY Ề N CYCLOPHOSPHAMID  1. CH Ỉ   ĐỊ NH C Ủ A CYCLOPHOSPHAMID TRONG  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ   X ƯƠ NG KH Ớ P  −   Viêm da c ơ , viêm  đ a c ơ  t ự  mi ễ n: Có t ổ n th ươ ng ph ổ i k ẽ , ho ặ c có viêm m ạ ch  n ặ ng, ho ặ c  đ áp  ứ ng kém v ớ i corticoid ph ố i h ợ p v ớ i methotrexat.  −   Lupus ban  đỏ  có viêm c ầ u th ậ n ti ế n tri ể n, h ộ i ch ứ ng th ậ n h ư ... không  đ áp  ứ ng  v ớ i corticoid.  −   Viêm m ạ ch h ệ  th ố ng m ứ c  độ  n ặ ng.  −   Viêm kh ớ p d ạ ng th ấ p, x ơ  c ứ ng bì toàn th ể , viêm kh ớ p v ẩ y n ế n  đ áp  ứ ng kém  v ớ i các thu ố c  đ i ề u tr ị  c ơ  b ả n thông th ườ ng...  
-
- 2. CH Ố NG CH Ỉ   ĐỊ NH C Ủ A CYCLOPHOSPHAMID    −   Quá m ẫ n v ớ i thành ph ầ n c ủ a thu ố c.  −   Suy t ủ y tr ầ m tr ọ ng.  −   Viêm bàng quang.  −   T ắ c ngh ẽ n ni ệ u  đạ o.  −   Ph ụ  n ữ  có thai ho ặ c cho con bú (c ầ n cân nh ắ c k ỹ  gi ữ a l ợ i ích và tác h ạ i). 
-
- 3. LI Ề U CYCLOPHOSPHAMID    Trong các ch ỉ   đị nh nêu trên, v ớ i b ệ nh nhân ch ứ c n ă ng gan th ậ n bình th ườ ng, li ề u  truy ề n t ĩ nh m ạ ch cyclophosphamid là 10 - 15mg/kg cân n ặ ng (m ộ t b ệ nh nhân 50kg  th ườ ng ch ỉ   đị nh li ề u 700mg  cyclophosphamid  m ỗ i l ầ n truy ề n).  Nh ằ m tránh bi ế n ch ứ ng ch ả y máu bàng quang do cyclophosphamid  gây nên, c ầ n  truy ề n thêm natri 2 - mercapto ethan sulfonat. Li ề u mesna thông th ườ ng b ằ ng 60-100%  li ề u cyclophosphamid. Ngoài ra c ầ n truy ề n d ị ch  để  tránh các tác d ụ ng không mong  mu ố n.   Thông th ườ ng, phác  đồ  bao g ồ m 6 li ề u, truy ề n t ĩ nh m ạ ch m ỗ i 4 tu ầ n/1 li ề u, sau  đ ó  c ứ  m ỗ i 3 tháng truy ề n nh ắ c l ạ i m ộ t li ề u cyclophosphamid (10- 15mg/kg cân n ặ ng) nh ư   đ ã nêu  ở  trên.  Quy trình c ụ  th ể  m ỗ i l ầ n theo h ướ ng d ẫ n d ướ i  đ ây.  −   Quy trình truy ề n cyclophosphamid  li ề u 700mg/l ầ n  +   Ngày th ứ  nh ấ t:  Truy ề n t ĩ nh m ạ ch các thu ố c theo th ứ  t ự  sau (t ố c  độ  XX  gi ọ t/phút )  Natri 2 - mercapto ethan sulfonat  400mg pha v ớ i 500ml glucose 5%    H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  211  
-
-Cyclophosphamid 200mg pha v ớ i 500ml glucose 5%    Cyclophosphamid 500mg pha v ớ i 500ml glucose 5%    Natri 2 - mercapto ethan sulfonat  400mg pha v ớ i 500ml glucose 5%    Natriclorua 0,9%  500ml x 3 chai. Pha vào m ỗ i chai 3  ố ng kali clorua 0,5g       +   Ngày th ứ  hai và th ứ  ba:  m ỗ i ngày truy ề n 2000ml các d ị ch sau:   1000ml glucose 5% và 1000ml natriclorua 0,9%. Pha 4  ố ng kali chlorua 0,5g  vào  m ỗ i chai 1000ml, truy ề n t ĩ nh m ạ ch XX gi ọ t/phút.  Chú ý:  tr ướ c h ế t c ầ n hòa tan cyclophosphamid b ằ ng 10ml n ướ c c ấ t (không dùng  n ướ c mu ố i sinh lý), r ồ i m ớ i b ơ m vào chai 500ml glucose 5%.  Theo dõi và x ử  trí:  −   C ầ n theo dõi t ế  bào máu ngo ạ i biên,  đ i ệ n gi ả i  đồ : Sau truy ề n l ầ n  đầ u 3-5 ngày  3 (n ế u xu ấ t hi ệ n b ạ ch c ầ u máu gi ả m d ướ i 3000/mm , c ầ n theo dõi hàng ngày ho ặ c m ỗ i hai  ngày); m ỗ i hai tu ầ n n ế u  đ i ề u tr ị  lâu dài.  −   Tình tr ạ ng viêm, ch ả y máu, ung th ư  bàng quang: ti ể u bu ố t r ắ t, ti ể u  đỏ . Tr ườ ng  h ợ p có  đ ái máu  đạ i th ể , c ầ n ng ừ ng truy ề n cyclophosphamid) và truy ề n n ố t li ề u Mesna  và d ị ch.  −   Nh ằ m tránh r ụ ng tóc, nên ch ườ m n ướ c  đ á l ạ nh lên  đầ u trong khi truy ề n  cyclophosphamid.    212 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-QUY TRÌNH TRUY Ề N ACID ZOLEDRONIC  Acid zoledronic  5mg/100ml, thu ộ c nhóm bisphosphonat.  C ơ  ch ế : Ch ố ng h ủ y x ươ ng.  Ch ỉ   đị nh:   Đ i ề u tr ị  loãng x ươ ng  ở  ph ụ  n ữ  sau mãn kinh ho ặ c loãng x ươ ng  ở  nam  gi ớ i, loãng x ươ ng do s ử  d ụ ng corticoid.   Ch ố ng ch ỉ   đị nh:  B ệ nh nhân có h ệ  s ố  thanh th ả i creatinine < 35ml/phút ho ặ c d ị   ứ ng v ớ i thành ph ầ n c ủ a thu ố c. Không c ầ n ch ỉ nh li ề u  ở  b ệ nh nhân suy gan ho ặ c ng ườ i  trên 65 tu ổ i.  Th ậ n tr ọ ng:  Có m ộ t t ỷ  l ệ  rung nh ĩ  sau truy ề n thu ố c, nên n ế u  đ ã có các r ố i lo ạ n  nh ị p tim, ti ề n s ử  b ệ nh lý m ạ ch vành, không nên truy ề n tr ừ  khi l ợ i ích cao h ơ n nguy c ơ .  Li ề u dùng : M ỗ i n ă m truy ề n t ĩ nh m ạ ch m ộ t l ầ n trên c ơ  s ở  k ế t h ợ p 800 UI vitamin  D m ỗ i ngày và 800 - 1200 mg calci m ỗ i ngày.  Sau khi xác  đị nh ch ẩ n  đ oán, các xét nghi ệ m c ầ n làm tr ướ c khi ch ỉ   đị nh acid  zoledronic:    −   Xét nghi ệ m calci máu và creatin máu, tính toán m ứ c l ọ c c ầ u th ậ n. N ế u calci  máu th ấ p c ầ n u ố ng b ổ  sung tr ướ c khi truy ề n, tránh tình tr ạ ng h ạ  calci máu.  −   Đ i ệ n tâm  đồ .  Quy trình truy ề n acid zoledronic:   −   B ướ c 1:  C ầ n  đả m b ả o b ệ nh nhân không có gi ả m calci máu tr ướ c khi truy ề n, có th ể   cho u ố ng b ổ  sung 800 UI vitamin D và 800 - 1200mg calci vài ngày tr ướ c và các ngày  trong và sau truy ề n acid zoledronic. Nên u ố ng 2 lít n ướ c vào ngày tr ướ c truy ề n thu ố c.   −   B ướ c 2:  Acid zoledronic 5mg  đượ c  đ óng s ẵ n 100ml dung d ị ch truy ề n,  đượ c  truy ề n  đườ ng t ĩ nh m ạ ch qua m ộ t dây truy ề n m ở  l ỗ  thông v ớ i t ố c  độ  truy ề n  ổ n  đị nh.  Th ờ i gian truy ề n không  đượ c d ướ i 15 phút.   −   B ướ c 3 : U ố ng 2 lít n ướ c trong ngày sau truy ề n thu ố c.   L ư u ý:    +   Nên k ế t h ợ p paracetamol  đườ ng u ố ng ho ặ c truy ề n t ĩ nh m ạ ch, và thu ố c ch ố ng  viêm không steroid (ibuprofen, diclofenac, meloxiam...)  tr ướ c ho ặ c vài ngày sau khi  truy ề n nh ằ m phòng và  đ i ề u tr ị  h ộ i ch ứ ng gi ả  cúm (s ố t,  đ au mình m ẩ y,  đ au x ươ ng  kh ớ p...).   +   Theo dõi nh ị p tim, m ạ ch, huy ế t áp, nhi ệ t  độ  và toàn tr ạ ng trong khi truy ề n  và  3-5 ngày  đầ u sau truy ề n. H ộ i ch ứ ng gi ả  cúm th ườ ng xu ấ t hi ệ n trong vòng 1-3 ngày  đầ u  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  213  
-
-0 sau truy ề n acid zoledronic: S ố t (có th ể  t ớ i 40 C); m ệ t,  đ au x ươ ng kh ớ p. C ầ n xem xét  vi ệ c bù d ị ch ho ặ c các ch ế  ph ẩ m dinh d ưỡ ng tùy theo tình tr ạ ng c ủ a b ệ nh nhân trong  nh ữ ng ngày  đầ u sau truy ề n. Luôn c ả nh giác nguy c ơ  nh ồ i máu c ơ  tim có th ể  tình c ờ  x ả y  ra  ở  ng ườ i nhi ề u tu ổ i ho ặ c các r ố i lo ạ n nh ị p (m ặ c dù t ầ n su ấ t th ấ p)  để  x ử  lý k ị p th ờ i.  +   C ầ n có thông báo t ớ i b ệ nh nhân và ng ườ i nhà b ệ nh nhân các tác d ụ ng không  mong mu ố n có th ể  x ả y ra và có b ả n cam k ế t có ch ữ  ký c ủ a b ệ nh nhân ho ặ c ng ườ i nhà   tr ướ c khi truy ề n acid zoledronic.        214 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-CÁC TIÊU CHU Ẩ N  Đ ÁNH GIÁ M Ứ C  ĐỘ  HO Ạ T  ĐỘ NG C Ủ A  B Ệ NH VIÊM KH Ớ P D Ạ NG TH Ấ P  Các thu ố c  đ i ề u tr ị  s ẽ   đượ c thay  đổ i v ề  s ố  l ượ ng và nhóm thu ố c theo các giai  đ o ạ n  ho ạ t  độ ng c ủ a b ệ nh (theo các h ướ ng d ẫ n nêu c ụ  th ể  t ừ ng b ệ nh). Ph ạ m vi bài này ch ỉ  nêu  hai b ệ nh là viêm kh ớ p d ạ ng th ấ p và viêm c ộ t s ố ng dính kh ớ p.  1. TIÊU CHU Ẩ N  Đ ÁNH GIÁ GIAI  Đ O Ạ N HO Ạ T  ĐỘ NG ( ĐỢ T TI Ế N TRI Ể N)  C Ủ A B Ệ NH VIÊM KH Ớ P D Ạ NG TH Ấ P THEO EULAR (EUROPEAN LEAGUE  AGAINST RHEUMATISM - LIÊN  Đ OÀN CH Ố NG TH Ấ P KH Ớ P CHÂU ÂU)  Có ít nh ấ t ba kh ớ p s ư ng và  ít nh ấ t m ộ t ba tiêu chí sau:  −   Ch ỉ  s ố  Ritchie t ừ   9  đ i ể m tr ở  lên.  −   C ứ ng kh ớ p bu ổ i sáng ít nh ấ t 45 phút.  −   T ố c  độ  máu l ắ ng gi ờ   đầ u 28mm.  Ghi chú:  Ch ỉ  s ố  Ritchie : Ch ỉ  s ố  này  đượ c  đ ánh giá nh ư  sau: Th ầ y thu ố c dùng  đầ u  ngón tay cái c ủ a mình  ấ n lên trên di ệ n kh ớ p c ủ a b ệ nh nhân v ớ i áp l ự c v ừ a ph ả i. T ổ ng  c ộ ng có 26 v ị  trí kh ớ p (các kh ớ p ngón g ầ n, kh ớ p bàn ngón, kh ớ p c ổ  tay, kh ớ p khu ỷ u,  kh ớ p vai kh ớ p g ố i hai bên), m ỗ i v ị  trí kh ớ p  đượ c tính  đ i ể m nh ư  sau:   0  đ i ể m- Không  đ au  1  đ i ể m-  Đ au ít, b ệ nh nhân nói là thao tác gây  đ au.  2  đ i ể m-  Đ au v ừ a, b ệ nh nhân kêu  đ au và nh ă n m ặ t.  3  đ i ể m -  Đ au nhi ề u,  đế n n ỗ i b ệ nh nhân rút chi l ạ i.  K ế t qu ả :  Đ au t ố i  đ a là 78  đ i ể m, hoàn toàn không  đ au là 0  đ i ể m,  đợ t ti ế n tri ể n c ủ a  b ệ nh t ừ  9  đ i ể m tr ở  lên.  2.   Đ ÁNH GIÁ M Ứ C  ĐỘ  HO Ạ T  ĐỘ NG C Ủ A B Ệ NH THEO  DAS 28 (DAS: DISEASE ACTIVITY SCORE)  Công th ứ c tính nh ư  sau:   DAS 28 = [0,56 (S ố  kh ớ p  đ au) + 0,28 (S ố  kh ớ p s ư ng) 
-
- + 0,70 ln (máu l ắ ng 1gi ờ )] 1,08 + 0,16    - DAS 28 < 2,9:    B ệ nh không ho ạ t  độ ng.  - 2,9  ≤  DAS 28 < 3,2:    Ho ạ t  độ ng b ệ nh m ứ c  độ  nh ẹ .              
-
-           - 3,2  ≤  DAS 28  ≤  5,1:  Ho ạ t  độ ng b ệ nh m ứ c  độ  trung bình.  28 kh ớ p c ầ n kh ả o  sát khi  đ ánh giá ch ỉ  
-
-          -  DAS 28 >5,1:    B ệ nh ho ạ t  độ ng m ạ nh.   s ố  DAS  H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  215  
-
-Trên th ự c t ế , ch ỉ  c ầ n vào trang :   http://www.4s-dawn.com/DAS28/DAS28.html  Ho ặ c  đ ánh ch ữ  DAS 28 trên m ạ ng s ẽ  có các m ụ c h ướ ng d ẫ n vào trang nêu trên.  Ch ỉ  c ầ n  đ i ề n thông tin c ủ a b ệ nh nhân c ụ  th ể  vào các ô c ầ n thi ế t s ẽ  xác  đị nh  đượ c ch ỉ  s ố   DAS và h ướ ng d ẫ n giá tr ị  c ủ a ch ỉ  s ố , t ứ c là m ứ c  độ  ho ạ t  độ ng c ủ a b ệ nh.   3.  Đ ÁNH GIÁ M Ứ C  ĐỘ  HO Ạ T  ĐỘ NG C Ủ A B Ệ NH THEO CÁC CH Ỉ  S Ố  KHÁC  −   Ch ỉ  s ố  SDAI (Simplified Disease Activity Index)  SDAI = S ố  kh ớ p  đ au (t ổ ng s ố  28 kh ớ p) + S ố  kh ớ p s ư ng + VAS b ệ nh nhân + VAS  bác s ĩ   đ ánh giá (0-10) + CRP (mg/dl)  SDAI < 3,3: B ệ nh không ho ạ t  độ ng  3,3 < SDAI < 11: Ho ạ t  độ ng nh ẹ   11 < SDAI < 26: Ho ạ t  độ ng trung bình  SDAI > 26: Ho ạ t  độ ng m ạ nh  −   Ch ỉ  s ố  CDAI (Clinical Disease Activity Index)  CDAI = S ố  kh ớ p  đ au + S ố  kh ớ p s ư ng + VAS b ệ nh nhân + VAS bác s ĩ .  CDAI < 2,8: B ệ nh không ho ạ t  độ ng  2,8 < CDAI < 10: B ệ nh ho ạ t  độ ng nh ẹ   10 < CDAI < 22: B ệ nh ho ạ t  độ ng trung bình  CDAI > 22: B ệ nh ho ạ t  độ ng m ạ nh  TIÊU CHU Ẩ N LUI B Ệ NH ACR 2010  (ACR- American College of Rheumatology H ộ i th ấ p kh ớ p h ọ c Hoa K ỳ )  Khi b ệ nh nhân viêm kh ớ p d ạ ng th ấ p  đ áp  ứ ng  đượ c các y ế u t ố  sau trong 6 tháng  li ề n, t ứ c là  đ ã  đạ t  đượ c giai  đ o ạ n lui b ệ nh:  −   C ứ ng kh ớ p sáng  ≤  15 phút.  −   Không m ệ t.  −   Không  đ au kh ớ p.  −   Kh ớ p không  đ au khi th ă m khám hay v ậ n  độ ng.  −   Không s ư ng vùng kh ớ p ho ặ c gân c ơ  c ạ nh kh ớ p.  −   T ố c  độ  máu l ắ ng  gi ờ   đầ u  ≤  30mm ( đố i v ớ i  n ữ )  và  ≤  20mm ( đố i v ớ i nam).  216 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
-
-CÁC TIÊU CHU Ẩ N  Đ ÁNH GIÁ M Ứ C  ĐỘ  HO Ạ T  ĐỘ NG    C Ủ A B Ệ NH VIÊM C Ộ T S Ố NG DÍNH KH Ớ P  1. CH Ỉ  S Ố  BASFI (BATH ANKYLOSING SPONGDYLITIS FUNCTIONAL INDEX)  Ch ỉ  s ố  BASFI  đ ánh giá ch ứ c n ă ng  ở  b ệ nh nhân viêm c ộ t s ố ng dính kh ớ p c ụ  th ể   nh ư  sau:   −   B ệ nh nhân t ự đá nh  giá khả  n ă ng v ậ n  độ ng  củ a  mì nh trong th ờ i gian m ộ t tu ầ n  tr ướ c th ờ i  đ i ể m kh ả o sát. M ứ c  độ  theo thang  đ i ể m 10 v ớ i quy  ướ c 0  đ i ể m là ho ạ t  độ ng  d ễ  dàng và 10  đ i ể m là không th ể là m  đượ c. Kh ả o sát qua 10 ho ạ t  độ ng sau:  +   Đ i t ấ t (v ớ ) (không có s ự  tr ợ  giúp).  +   Cúi l ư ng xu ố ng nh ặ t m ộ t cái bút trên sàn (không có s ự  tr ợ  giúp).  +   V ớ i lên m ộ t cái giá cao (không c ầ n s ự  tr ợ  giúp).   +   Đứ ng d ậ y t ừ  gh ế  bành (không c ầ n s ử  d ụ ng tay ho ặ c s ự  tr ợ  giúp).  +   Ng ồ i d ậ y khi  đ ang n ằ m.  +   Th ỏ a mái khi  đứ ng không có ch ỗ  t ự a trong 10 phút.   +   Leo c ầ u thang 12-15 b ướ c (không s ử  d ụ ng tay v ị n ho ặ c s ự  tr ợ  giúp khác).  +   Quay c ổ  l ạ i phía sau mà không ph ả i quay c ả  ng ườ i.  +   Ho ạ t  độ ng th ể  d ụ c.           +   10)  Làm vi ệ c c ả  ngày ( ở  nhà ho ặ c n ơ i công c ộ ng).   −   Tí nh  chỉ  s ố  BASFI theo  cá c b ướ c sau:  B ướ c 1:  tí nh  đ i ể m m ỗ i câu.  B ướ c 2:  tí nh thang  đ i ể m BASFI b ằ ng t ổ ng  đ i ể m 10 câu chia cho 10.  2. BASDAI (BATH ANKYLOSING SPONGDYLITIS DISEASE ACTIVITY  INDEX: CH Ỉ  S Ố   Đ ÁNH GIÁ M Ứ C  ĐỘ  HO Ạ T  ĐỘ NG C Ủ A B Ệ NH VIÊM C Ộ T  S Ố NG DÍNH KH Ớ P)  −   B ệ nh nhân t ự đá nh  giá  tri ệ u ch ứ ng  củ a  mì nh trong m ộ t tu ầ n tr ướ c th ờ i  đ i ể m  kh ả o sát. M ứ c  độ   đ ánh giá theo thang  đ i ể m 10 v ớ i quy  ướ c 0  đ i ể m là không có tri ệ u  ch ứ ng và 10  đ i ể m là tri ệ u ch ứ ng tr ầ m  trọ ng, qua 6 tri ệ u ch ứ ng sau.   +   M ứ c  độ  m ệ t  mỏ i?  +   M ứ c  độ đ au  ở  c ổ  l ư ng  và  kh ớ p  há ng?  +   M ứ c  độ  s ư ng c ủ a  cá c kh ớ p  khá c  ngoà i  vù ng c ổ , l ư ng  và há ng?   +   M ứ c  độ khó chị u  ở  nh ữ ng  vù ng  nhạ y  cả m khi  chạ m ho ặ c  tỳ và o?   +   M ứ c  độ  c ứ ng kh ớ p  và o bu ổ i  sá ng (k ể  t ừ lú c th ứ c d ậ y)?   H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  217  
-
-+   Th ờ i gian c ứ ng kh ớ p bu ổ i  sá ng k ể  t ừ  khi th ứ c d ậ y?  (Quy  ướ c 30 phút = 2  đ i ể m; 60 phút = 4  đ i ể m; 90 phút = 6  đ i ể m; 120 phút = 8  đ i ể m; và trên 120 phút= 10  đ i ể m).  −   Tí nh  chỉ  s ố  BASDAI theo  cá c b ướ c sau:  B ướ c 1:  Tí nh t ổ ng 4 câu  trả  l ờ i  đầ u tiên, d ự a  và o thang  đ i ể m  nhì n  đá nh  giá .  B ướ c 2:  Tí nh trung  bì nh  củ a câu  trả  l ờ i 5  và  6.  B ướ c 3: S ố   đ i ể m (t ổ ng 4 câu  đầ u tiên  và  trung  bì nh câu 5  và  câu 6) chia 5 s ẽ   đượ c  chỉ  s ố  BASDAI.  B ệ nh  hoạ t  độ ng khi  chỉ  s ố  BASDAI  ≥  4  3. CH Ỉ  S Ố  ASDAS (Ankylosing Spondglitis Disease Activity Score)  ASDAS = 0,121 x VAS c ộ t s ố ng + 0,058 th ờ i gian c ứ ng kh ớ p bu ổ i sáng + 0,110 x  VAS b ệ nh nhân + 0,073 s ố  kh ớ p  đ au ho ặ c s ư ng ngo ạ i vi + 0,579 ln (CRP + 1)  ASDAS < 1,3: B ệ nh không ho ạ t  độ ng  1,3 < ASDAS < 2,1: B ệ nh ho ạ t  độ ng m ứ c  độ  nh ẹ   2,1 < ASDAS < 3,5: B ệ nh ho ạ t  độ ng trung bình  ASDAS > 3,5: B ệ nh ho ạ t  độ ng m ạ nh.    TÀI LI Ệ U THAM KH Ả O  1.   Braun J  et al .  “2010 update of the ASAS/EULAR recommendations for the  management of ankylosing spondylitis” .  Annals of the Rheumatic Diseases,  70(6), 896-904  2.   Frank L. Lanza, MD, FACG1,2, Francis K.L. Chan, MD, FRCP, FACG3,  Eamonn M.M. Quigley, MD, FACG4 and the Practice Parameters Committee  of the American College of Gastroentero.  “Guidelines for the prevention of  NSAID-related ulcer complications”.  Am J Gastroenterol 2009;104:728–38.   3.   Leslie J Crofford.  “Use of NSAIDs in treating patients with arthritis    4.   Arthritis Research and  Therapy 2013” , 15(Suppl 3):S2   5.   Smolen Josef S et al.  “EULAR recommendations for the management of  rheumatoid arthritis with synthetic and biological disease-modifying  antirheumatic drugs” . Ann Rheum Dis,2010;69:964-975  6.   Solomon Daniel H. “ American College of Rheumatology Ad Hoc Group on  Use of Selective and Nonselective Nonsteroidal Anti inflammatory Drugs.  Recommendations for use of selective and nonselective nonsteroidal  anti inflammatory drugs:an American College of Rheumatology white  paper”  .Arthritis Rheum, 2008,59:1058-1073.  218 H ƯỚ NG D Ẫ N CH Ẩ N  Đ OÁN VÀ  Đ I Ề U TR Ị  CÁC B Ệ NH C Ơ  X ƯƠ NG KH Ớ P  
+  **Điều trị biến chứng hoạt hóa đại thực bào (MAS)** bao gồm methylprednisolone truyền tĩnh mạch (30 mg/kg, tối đa 1g) phối hợp cyclosporine A (3-6 mg/kg/24h). Trường hợp nặng có thể đáp ứng với dexamethasone và etoposide.
+- **Thiếu máu:** Thường gặp ở thể hoạt động (40%), chủ yếu là thiếu máu đẳng bào nhược sắc, hậu quả của quá trình viêm mạn tính. Thiếu máu có thể thứ phát sau mất máu mạn tính ở dạ dày - ruột do dùng thuốc kháng viêm. Ngoài ra, tình trạng thiếu máu này còn có thể do huyết tán tự miễn (hiếm), do suy tủy (có thể liên quan tới thuốc) hoặc do tác dụng IL-1$\beta$ đối kháng với tác dụng của Erythropoietin trên tủy xương. Do đó, thiếu máu ở trẻ viêm khớp thiếu niên tự phát thể hệ thống thường hồi phục khi được chống viêm tốt. Có thể bổ sung sắt trong trường hợp có thiếu sắt nặng.
+- **Chậm phát triển thể chất:** Trẻ thường có giảm khối cơ và tăng khối mỡ, tăng tiêu hao năng lượng lúc nghỉ. Khi lui bệnh, trẻ có thể đạt được sự phát triển bình thường nếu hành xương chưa đóng. Chậm phát triển có liên quan đến hoạt tính bệnh nặng và thời gian bệnh, cũng như thời gian điều trị prednisone.
+- **Loãng xương:** Hậu quả của bệnh và do điều trị corticoid. Tỷ trọng khoáng xương (BMD) thấp liên quan đến hoạt tính bệnh nặng, dùng corticoid, tuổi nhỏ, chỉ số khối cơ thể (BMI), khối cơ, giảm cung cấp calci và vitamin D, giảm hoạt động thể chất và chậm dậy thì. Điều trị loãng xương bao gồm bổ sung calci và vitamin D và tăng hoạt động thể chất, nhưng tối ưu vẫn là kiểm soát có hiệu quả hoạt tính bệnh để ngăn ngừa loãng xương do viêm.
+- **Thoái hóa tinh bột thứ phát (amyloidosis):** Do lắng đọng protein amyloid A của huyết thanh (SAA) trong các mô. Đây là một biến chứng hiếm gặp, phản ánh sự kéo dài và mức độ nặng của bệnh. Triệu chứng thường đi kèm với các triệu chứng của nhiều cơ quan khác như thận, ruột, gan, lách và tim. Ở thể bệnh nặng và không được điều trị đầy đủ, biến chứng này tăng lên với tỷ lệ 1,4 - 9%. Cyclophosphamide là thuốc được chọn thay thế khi có biến chứng thoái hóa tinh bột và điều trị sinh học cũng cần được xem xét kết hợp.
+
+### 3.6. Diễn tiến và tiên lượng
+- **Diễn tiến:** Diễn tiến bệnh viêm khớp thiếu niên tự phát thể hệ thống rất thay đổi. Bệnh thường biểu hiện bằng sốt cơn, phát ban kèm với đau khớp và viêm khớp trong thời gian 4-6 tháng. Sau đó là thời gian tương đối yên lặng. Theo Svantesson và cộng sự, có khoảng 40-50% trường hợp lui bệnh hoàn toàn. Có tới 50% diễn tiến đến viêm đa khớp mạn tính và 25% có phá hủy khớp, đặc biệt là khớp háng. Tiêu chuẩn lui bệnh còn nhiều tranh cãi, nhưng các hội thảo quốc tế trong thời gian gần đây thống nhất là không dùng thuốc trong 12 tháng mà không viêm khớp; không sốt, không ban dạng thấp, không viêm màng thanh dịch, không gan lách hạch, tốc độ lắng máu hoặc protein C phản ứng bình thường thì được coi là lui bệnh. Hầu hết thể hệ thống thường diễn tiến theo ba nhóm chính như sau:
+  - Có một đợt viêm duy nhất (monocyclic) rồi tự lui bệnh hoàn toàn (tự khỏi) trong khoảng thời gian 1 năm (chiếm khoảng 11% trường hợp).
+  - Có nhiều đợt tiến triển (polycyclic), đợt lui bệnh có thể tự nhiên hoặc do điều trị và có xu hướng nặng dần lên (chiếm khoảng 34% trường hợp).
+  - Bệnh diễn tiến mạn tính (persistent), không có đợt tạm lui bệnh, phá hủy khớp nhanh, tiến triển đến tàn phế có kèm những đợt biểu hiện toàn thân hoặc không (chiếm 55% trường hợp).
+- **Tiên lượng:** Có 1/3 bệnh nhân tàn phế không hồi phục, đặc biệt là thể hệ thống có tiến triển phức tạp. Các yếu tố tiên lượng xấu: tuổi chẩn đoán bệnh dưới 6 tuổi và viêm đa khớp trong 6 tháng đầu của bệnh; bệnh kéo dài trên 5 năm; tăng IgA; triệu chứng toàn thân kéo dài (sốt kéo dài, hoặc phải duy trì điều trị corticoid để kiểm soát các triệu chứng toàn thân); tăng tiểu cầu $\geq$ 600.000/mm³.
+
+## 4. ĐIỀU TRỊ
+- Trẻ viêm khớp thiếu niên tự phát thể hệ thống thường có bệnh cảnh cấp tính nặng cần phải nhập viện. Điều trị nhằm làm giảm các triệu chứng viêm tại khớp và phản ứng viêm lan tỏa ngoài khớp. Thuốc điều trị được lựa chọn tùy thuộc vào mức độ nặng của hoạt tính bệnh.
+- **Mức độ hoạt tính bệnh nhẹ / thể hệ thống đơn giản** (sốt, phát ban, đau khớp):
+  - Bắt đầu bằng một trong số thuốc chống viêm không steroid (NSAIDs) cho phép dùng ở trẻ em (Ibuprofen; Naproxen...) trong 1 tháng. Nếu triệu chứng viêm tại khớp không cải thiện, có thể kết hợp corticoid tiêm nội khớp (Triamcinolone hexacetonide).
+  - Đa số thể hệ thống đáp ứng kém với NSAIDs, nên cần thay thế bằng Prednisone liều trung bình (0,5-1 mg/kg/24h), uống.
+  - Nếu đạt được sự lui bệnh sớm: đáp ứng với NSAIDs và/hoặc corticoid đơn thuần sau vài tuần, liều corticoid được giảm nhanh và duy trì với thuốc NSAIDs từ 6 tháng đến 1 năm kể từ lúc đạt được sự lui bệnh.
+- **Mức độ hoạt tính bệnh nặng / thể hệ thống phức tạp** (sốt, triệu chứng toàn thân, viêm màng thanh dịch):
+  - Bắt đầu điều trị với Prednisone liều cao (1 - 2 mg/kg/24h) uống. Nếu không đáp ứng thay bằng: Methylprednisolone 20-30 mg/kg/24h, truyền tĩnh mạch 3 – 5 ngày liên tục; sau đó thuốc được truyền từng đợt mỗi tuần (giúp kiểm soát mức độ hoạt động bệnh nặng và giúp giảm liều corticoid uống nhanh hơn).
+  - Nếu bệnh tiến triển nặng liên tục: thuốc chống thấp khớp làm thay đổi tiến triển bệnh (DMARDs) được kết hợp sớm với glucocorticoid: Methotrexat uống liều 10-15 mg/m², một lần trong tuần. Cyclosporin A có thể thay thế hoặc kết hợp với Methotrexat, liều: 2,5 – 5 mg/kg/24h chia 2 lần, uống. Trường hợp có biến chứng hoạt hoá đại thực bào, Cyclosporin được tiêm tĩnh mạch. Sự kết hợp này làm giảm mức độ hoạt động bệnh và giúp giảm liều corticoid.
+  - Nếu thể hệ thống tồn tại không đáp ứng với phác đồ điều trị thông thường sau 3 tháng, nên xem xét chỉ định liệu pháp sinh học nhằm tác động lên các cytokines chính (TNF, IL-1, IL-6). Thể hệ thống được xếp vào nhóm bệnh phụ thuộc IL-6. Một số thuốc sinh học có thể được chọn sử dụng cho thể hệ thống có hoạt tính bệnh nặng hoặc kháng trị:
+    - **Kháng IL-1:** Anakinra liều 1-2 mg/kg/24h, có hiệu quả ở thể hệ thống kháng trị giúp cải thiện các triệu chứng toàn thân và đạt được sự lui bệnh ở 50% trường hợp.
+    - **Kháng TNF:** có chỉ định ở thể hệ thống kháng trị, nhưng ít hiệu quả hơn so với thể đa khớp và ít khớp lan rộng: Etanercept 25-50 mg tiêm dưới da 2 lần trong tuần; hoặc Infliximab truyền tĩnh mạch 2-3 mg/kg mỗi 4-8 tuần; hoặc Adalimumab 40 mg tiêm dưới da mỗi 2 tuần.
+    - **Kháng thụ thể IL-6:** Tocilizumab, liều 8 mg/kg truyền tĩnh mạch mỗi 2-4 tuần, dùng đơn trị hoặc kết hợp với Methotrexat. Thuốc có hiệu quả tốt cải thiện nhanh các triệu chứng lâm sàng và cận lâm sàng của thể hệ thống kháng trị, đáp ứng kém với Corticoid đã kết hợp với trên 2 thuốc chống thấp khớp tác dụng chậm, hoặc thuốc chống yếu tố hoại tử u (Etanercept).
+
+| Mức độ hoạt tính bệnh nhẹ<br>(Sốt, phát ban và viêm khớp) | Mức độ hoạt tính bệnh nặng<br>(Sốt, triệu chứng toàn thân và viêm màng thanh dịch) |
+| :--- | :--- |
+| - Bắt đầu bằng một NSAIDs trong 1 tháng. Nếu triệu chứng viêm khớp không đáp ứng, kết hợp corticoids tiêm nội khớp.<br>- Đa số cần Prednisone liều trung bình (0.5 mg/kg/24h), uống. | - Bắt đầu điều trị bằng Prednisone liều cao (1-2 mg/kg/24h).<br>- Nếu không đáp ứng: Methylprednisolone 30 mg/kg/24h, truyền TM 3 ngày liên tục; sau đó truyền TM mỗi tuần. |
+| **Lui bệnh sớm**<br>Đáp ứng với NSAIDs và/hoặc corticoid đơn thuần sau vài tuần.<br>→ Duy trì với NSAIDs | **Bệnh tiến triển nặng liên tục**<br>MTX / CSA / AZT > 3 tháng, đáp ứng kém:<br>→ Anakinra → Etanercept → Tocilizumab (nếu > 4 tháng không đáp ứng) |
+| | **I. Lui bệnh muộn**<br>Hết triệu chứng toàn thân, nhưng còn viêm khớp hoạt động:<br>→ NSAIDs / Corticoids tiêm nội khớp<br>→ Điều trị tiếp như thể đa khớp |
+
+*(MTX: Methotrexat; CSA: Cyclosporin A; AZT: Azathioprine)*
+
+- **Các trị liệu khác:**
+  - **Thalidomide:** Một số nghiên cứu cho thấy Thalidomide có hiệu quả trong điều trị viêm khớp thiếu niên tự phát thể hệ thống kháng trị, hoặc không đáp ứng với Etanercept. Liều 3 – 5 mg/kg/24h.
+  - **Liệu pháp miễn dịch:** Truyền tĩnh mạch Immunoglobulin, liều 1-2 g/kg/24h mỗi 2-4 tuần trong thời gian tối thiểu 6 tháng. Liệu pháp này có thể làm giảm mức độ hoạt động bệnh trong một số trường hợp, nhưng tỷ lệ đạt được sự lui bệnh hoàn toàn không cao (5-10%).
+  - **Ghép tế bào mầm tự thân:** Được xem xét đối với viêm khớp thiếu niên tự phát thể hệ thống kháng trị, không đáp ứng với điều trị sinh học.
+
+## 5. THEO DÕI VÀ QUẢN LÝ
+Biểu hiện cấp tính của viêm khớp thiếu niên tự phát thể hệ thống có thể kéo dài nhiều tuần đến nhiều tháng. Bệnh nhi cần được theo dõi tái khám định kỳ mỗi tháng để đánh giá sự cải thiện chức năng vận động khớp và mức độ hoạt động bệnh thông qua các triệu chứng lâm sàng, cận lâm sàng được kiểm tra định kỳ (tế bào máu ngoại vi, các xét nghiệm đánh giá tình trạng viêm, điện di protein huyết tương, chức năng gan thận, chức năng đông máu, tổng phân tích nước tiểu, X-quang xương khớp...). Theo dõi sự xuất hiện của các triệu chứng khác trong quá trình tiến triển của bệnh để phát hiện kịp thời các biến chứng nặng của thể hệ thống. Theo dõi tác dụng không mong muốn của thuốc để kịp thời ngừng thuốc, giảm liều, hoặc thay thế thuốc khác.
+
+TÀI LIỆU THAM KHẢO
+1. Adams A. and Lehman T. J. (2005), "Update on the pathogenesis and treatment of systemic onset juvenile rheumatoid arthritis", *Curr Opin Rheumatol*, 17(5), pp. 612-6.
+2. Fabrio De Benedetti and Rayfel Schneider (2011), “Systemic Juvenile Idiopathic Arthritis”, *Textbook of Pediatric Rheumatology*, 6th edition, Elsevier Saunders, Philadelphia, pp. 236-47.
+3. Hashkes. P.J (2011), “Strengths and challenges of a new guide for treating JIA”, *Nat. Rev. Rheumatol.*, 7, 377 - 378.
+4. Laxer Ronald M. (2007), “Challenges in the Diagnosis and Management of Systemic Juvenile Idiopathic Arthritis”, Paper presented at the *American College of Rheumatology (ACR) 71st Annual Meeting*, Boston, Massachusetts.
+5. Mirkinson Laura J. and Katona Ildy M. (2007), "Systemic onset juvenile idiopathic arthritis: update on pathogenesis and treatment", *Expert Review of Clinical Immunology*, 3, pp. 313-21.
+
+# VIÊM KHỚP THIẾU NIÊN TỰ PHÁT THỂ VIÊM KHỚP VẢY NẾN
+
+## 1. ĐẠI CƯƠNG
+Viêm khớp vảy nến là một bệnh được xếp vào nhóm bệnh lý cột sống huyết thanh âm tính. Đó là bệnh lý kết hợp thương tổn vảy nến ở da và/hoặc móng và tình trạng viêm khớp ngoại biên, có kèm theo tổn thương tại cột sống. Ở người lớn, có từ 5 đến 42% bệnh nhân vảy nến có biểu hiện tổn thương viêm khớp. Viêm khớp vảy nến ở trẻ em (Juvenile psoriatic arthritis) chiếm 8-20% các trường hợp viêm khớp ở lứa tuổi này. Tuổi thường gặp 9 – 12 tuổi. Tuổi khởi phát là 4-5 tuổi đối với trẻ gái và 10 tuổi với trẻ trai. Bé gái gặp nhiều hơn bé trai với tỉ lệ 3:2. Biểu hiện ở khớp có thể xuất hiện trước khi có các biểu hiện ở da (19%), hoặc đồng thời (16%) hoặc các biểu hiện ở da lại xuất hiện trước khi có viêm khớp. Trường hợp bệnh nhân xuất hiện các triệu chứng khớp trước triệu chứng da thì việc khai thác tiền sử gia đình rất cần thiết cho chẩn đoán.
+
+## 2. NGUYÊN NHÂN
+Cơ chế bệnh sinh của bệnh cho đến nay vẫn chưa được biết tường tận, tuy nhiên 23,4% đến 71% trẻ bị vảy nến có tiền sử trong gia đình có người mắc bệnh. Bệnh có mối liên quan chặt chẽ với kháng nguyên bạch cầu HLA-Cw6.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Triệu chứng lâm sàng
+
+**Biểu hiện ở khớp:**
+- **Viêm một hoặc vài khớp:** Thường viêm những khớp nhỏ ở bàn tay như khớp ngón xa, khớp ngón gần, có thể viêm khớp gối. Các khớp viêm không đối xứng. Thể này thường gặp ở trẻ gái, chiếm tỉ lệ 55 - 70%.
+- **Ngón tay, ngón chân sưng nề, đỏ như hình “khúc dồi”:** Có thể ở một hoặc nhiều ngón do tình trạng viêm lan tỏa phần mềm ngón tay.
+- **Viêm nhiều khớp đối xứng ít gặp:** Thể này có biểu hiện viêm khớp giống viêm khớp dạng thấp nên dễ chẩn đoán nhầm nếu không chú ý đến những tổn thương kèm theo ở ngoài da. Yếu tố dạng thấp (RF) âm tính.
+- **Viêm khớp phá hủy khớp nhiều gây tàn phế:** Thể này hiếm gặp (3 - 5%) để lại di chứng nặng nề.
+- **Thể cột sống:** Biểu hiện đau, hạn chế vận động cột sống thắt lưng, viêm các điểm bám tận, viêm khớp cùng chậu. Thể này thường gặp ở trẻ trai. Tỷ lệ mắc bệnh 5 - 33%. Có liên quan nhiều đến kháng nguyên bạch cầu HLA-B27.
+
+**Biểu hiện ở ngoài da:**
+- **Tổn thương da** là những mảng viêm đỏ, phủ nhiều lớp vẩy dễ bong, màu trắng đục như nến. Thương tổn có kích thước đa dạng, có thể nhỏ vài mm hoặc lan rộng thành mảng. Vị trí tổn thương có thể ở mặt trước của chân, tay, những vùng tì đè, da đầu, những khe kẽ như nách, kẽ mông, nếp lằn dưới vú, thậm chí trong rốn.
+- **Tổn thương ở móng:** Do tình trạng loạn dưỡng móng, biểu hiện mất màu móng, dày móng, lỗ rỗ như kim châm, có thể bong móng.
+- **Tổn thương viêm mắt:** Biểu hiện viêm màng mạch nho, chiếm tỉ lệ 14 - 17% trẻ viêm khớp vẩy nến.
+
+### 3.2. Cận lâm sàng
+- **Các xét nghiệm đánh giá tình trạng viêm:** Tốc độ lắng máu, CRP có thể tăng cao trong giai đoạn tiến triển của bệnh. Tế bào máu ngoại vi thường không thay đổi, khi bị bệnh nhiều năm số lượng hồng cầu có thể giảm.
+- **Acid uric máu** có thể tăng cao.
+- **Yếu tố dạng thấp (RF)** âm tính.
+- **Các kháng nguyên bạch cầu:** HLA-B27 là một yếu tố tiên lượng. HLA-B27 dương tính thường liên quan với viêm khớp vẩy nến thể nhẹ và có biểu hiện viêm khớp cùng chậu. Kháng nguyên HLA Cw6 (+).
+- Trong một số trường hợp viêm khớp vẩy nến thiếu niên có xét nghiệm về **ANA dương tính**, mặc dù đây là xét nghiệm chỉ điểm cho các bệnh tự miễn khác.
+- **X-quang:**
+  - Hình ảnh bào mòn, khuyết xương ở các khớp ngón gần, ngón xa bàn tay, bàn chân.
+  - Với thể phá hủy khớp nhiều có thể thấy hình ảnh tiêu xương nhiều ở các xương ngón tay, ngón chân, hình ảnh X-quang xương bị tổn thương giống như hình ảnh “bút chì cắm vào lọ mực” – “pencil-in-cup deformity”.
+  - Hình ảnh viêm dính khớp cùng chậu, xơ hóa các dây chằng cột sống giống như viêm cột sống dính khớp.
+- **Nghiệm pháp cạo Brocq** vùng da bị tổn thương thấy hiện tượng lớp vẩy da xếp thành nhiều lớp, sau khi cạo hết lớp vẩy lộ ra những điểm chảy máu. Làm xét nghiệm giải phẫu bệnh: thấy tình trạng tăng sinh tế bào thượng bì.
+
+### 3.3. Chẩn đoán xác định
+Chủ yếu dựa vào lâm sàng tổn thương da phối hợp với tổn thương khớp. Có một vài tiêu chuẩn chẩn đoán và phân loại bệnh viêm khớp vẩy nến thiếu niên (CASPAR, Vasey và Espinoza…). Phần dưới đây trình bày tiêu chuẩn CASPAR (Classification Criteria for Psoriatic Arthritis) được xây dựng bởi một nhóm nghiên cứu quốc tế lớn, có độ đặc hiệu cao hơn so với tiêu chuẩn Vasey và Espinoza (98,7% so với 96%) nhưng có độ nhạy thấp hơn (91,4% so với 97,2%).
+
+Theo tiêu chuẩn này, chẩn đoán xác định bệnh khi bệnh nhân có biểu hiện viêm khớp hoặc cột sống hoặc viêm điểm bám tận kèm theo có ít nhất 3 điểm, các tiêu chí của tiêu chuẩn này như sau:
+
+| Tiêu chuẩn CASPAR (Classification Criteria for Psoriatic Arthritis) | Điểm |
+| :--- | :---: |
+| Hiện tại bệnh nhân có tổn thương vẩy nến | 2 điểm |
+| Bệnh nhân có tiền sử bị vẩy nến (hiện tại không có vẩy nến) | 1 điểm |
+| Trong tiền sử gia đình của bệnh nhân, có người bị vẩy nến (điều kiện là trong tiền sử và hiện tại bệnh nhân không có vẩy nến) | 1 điểm |
+| Viêm ngón (ngón tay, ngón chân hình khúc dồi) | 1 điểm |
+| Hình thành xương mới ở vị trí gần một khớp | 1 điểm |
+| Loạn dưỡng móng | 1 điểm |
+| **Chẩn đoán xác định** | **≥ 3 điểm** |
+
+### 3.4. Chẩn đoán phân biệt
+Trong những trường hợp tổn thương khớp xuất hiện trước khi có các tổn thương da, cần chẩn đoán phân biệt với các bệnh khớp khác.
+- **Viêm khớp thiếu niên tự phát thể một hoặc vài khớp:** Cũng thường viêm các khớp nhỏ và nhỡ không đối xứng nhưng không có viêm các khớp ngón xa. Thường tiến triển thành viêm nhiều khớp (> 5 khớp) sau một năm. Thường có kháng thể kháng nhân (ANA) dương tính.
+- **Viêm khớp thiếu niên tự phát thể nhiều khớp (> 5 khớp):** Viêm nhiều khớp có tính chất đối xứng, không có viêm các khớp ngón xa. Thường có yếu tố dạng thấp (RF) dương tính.
+- **Viêm khớp thiếu niên tự phát thể viêm khớp và các điểm bám tận:** Viêm khớp vẩy nến thể cột sống có biểu hiện lâm sàng về xương khớp giống với viêm khớp thiếu niên tự phát thể viêm khớp và các điểm bám tận. Dễ bị chẩn đoán nhầm khi các biểu hiện ngoài da chưa xuất hiện. Tỷ lệ HLA-B27 dương tính trong bệnh viêm khớp thiếu niên tự phát thể viêm khớp và các điểm bám tận cao hơn trong viêm khớp vẩy nến.
+
+## 4. ĐIỀU TRỊ
+- **Mục tiêu điều trị** là kiểm soát tốt triệu chứng viêm khớp, giúp cho trẻ bị bệnh có thể sử dụng tối đa các khớp tổn thương và phòng ngừa được các biến dạng khớp về sau. Hạn chế tổn thương da nhằm tránh các vấn đề về tâm lý của trẻ cũng là mục tiêu quan trọng.
+- **Kế hoạch điều trị** bao gồm: dùng thuốc, vật lý trị liệu, phục hồi chức năng, chăm sóc mắt và điều trị steroids bôi hay các liệu pháp điều trị da khác.
+- **Thuốc chống viêm giảm đau không steroid (NSAIDs)** là lựa chọn đầu tay để kiểm soát viêm và đau khớp. Các thuốc chống thấp khớp tác dụng chậm cần được điều trị sớm.
+
+### 4.1. Thuốc chống viêm giảm đau không steroid (NSAIDs)
+Có thể chỉ định một trong các thuốc dưới đây:
+- **Aspirin:** Liều dùng: 75 – 90 mg/kg cân nặng/24h.
+- **Ibuprofen:** Có thể dùng cho trẻ từ 6 tháng tuổi. Liều dùng: 35 mg/kg/24h (dạng viên), 45 mg/kg/24h (dạng siro) chia 3 lần.
+- **Naproxen:** Dùng cho trẻ từ 2 tuổi, có cả dạng viên và dạng siro. Liều dùng: 15 mg/kg/24h chia 2 lần.
+- **Meloxicam:** Có thể dùng cho trẻ từ 2 tuổi, liều 0,25 mg/kg/24h. Liều tối đa 7,5 mg/24h.
+- **Celecoxib:** Có thể dùng cho trẻ từ 2 tuổi, liều 6 - 12 mg/kg/24h chia hai lần. Tuy nhiên chỉ nên sử dụng trong thời gian ngắn, việc sử dụng kéo dài thuốc này để điều trị cho trẻ cần thận trọng.
+- **Corticoid:** Ít được sử dụng để điều trị triệu chứng viêm khớp vẩy nến vì có nguy cơ làm nặng những tổn thương ở da. Có thể chỉ định tiêm corticoid tại những khớp sưng đau nhiều. Tuy nhiên việc chỉ định tiêm corticoid nội khớp phải rất thận trọng và phải ở những cơ sở y tế chuyên sâu về cơ xương khớp.
+
+### 4.2. Thuốc chống thấp khớp tác dụng chậm (DMARDs)
+- **Methotrexate (MTX):** Có tác dụng ức chế tổng hợp DNA, ức chế miễn dịch và chống viêm. Cho đến nay vẫn là thuốc chống thấp khớp tác dụng chậm ưu tiên được sử dụng để điều trị viêm khớp vẩy nến.
+  - **Liều dùng:** Viên 2,5 mg, ống 10 mg: 0,2 – 0,4 mg/kg cân nặng/tuần. Uống một lần duy nhất vào một ngày cố định trong tuần. Có thể tiêm dưới da, tiêm bắp hoặc tiêm tĩnh mạch nếu không dung nạp được bằng đường uống. Hiệu quả điều trị thường đạt được sau 6 đến 8 tuần.
+  - Thuốc chống nôn như Primperan uống hoặc tiêm bắp nếu bệnh nhân có buồn nôn.
+  - Không nên điều trị phối hợp các thuốc salicylate và trimethoprim–sulphamethoxazole với methotrexate.
+  - Bổ sung acid folic liều bằng liều methotrexate nhằm giảm các tác dụng ngoại ý mà không làm giảm tác dụng điều trị.
+  - Trong quá trình điều trị bằng Methotrexate cần phải thường xuyên kiểm tra các chỉ số sau: công thức máu, tổng phân tích nước tiểu, ure, creatinin, bilirubin toàn phần, AST, ALT, phosphatase kiềm, albumin máu mỗi 2 tuần trong 3 tháng đầu điều trị sau đó kiểm tra định kỳ hàng tháng. Chụp X-quang phổi hàng năm. Năm năm một lần tiến hành sinh thiết gan để phát hiện tình trạng xơ gan.
+- **Cyclosporin A (CYA):** Thuốc có tác dụng ức chế lympho T-CD4 và ức chế interleukin 2 (IL-2). Được chỉ định cho vẩy nến thể nặng, khi sử dụng các phác đồ khác thất bại.
+  - **Liều dùng:** Dạng viên 25 mg, 100 mg; dạng ống 10 mg: 2 – 5 mg/kg cân nặng/24h. Nên khởi đầu bằng liều thấp nhất, tăng dần liều cho đến khi đạt hiệu quả điều trị. CYA được khuyến cáo không nên sử dụng kéo dài. Một đợt điều trị chỉ 3 - 4 tháng sau đó giảm dần liều rồi ngừng.
+  - **Tác dụng không mong muốn:** Gây tăng huyết áp, độc với thận, liều cao gây hạ calci và magnesi máu. Chống chỉ định với những trường hợp suy thận. Theo dõi chức năng gan, thận và tế bào máu ngoại vi mỗi 2 - 4 tuần điều trị. Tránh sử dụng những thuốc ức chế miễn dịch điều trị viêm gan virus và tiêm vaccin phòng virus viêm gan trong thời gian điều trị CYA và sau khi ngừng thuốc 3 - 12 tháng tùy thuộc vào liều CYA.
+- **Các tác nhân sinh học:** Etanercept (thuốc kháng TNF) là thuốc đang được nghiên cứu để sử dụng điều trị viêm khớp vẩy nến cho trẻ em. Năm 2004, thuốc được sử dụng lần đầu tiên để điều trị vẩy nến ở người lớn. Hiện nay thuốc đang được châu Âu và Mỹ xem xét chỉ định điều trị cho vẩy nến thể vừa và nặng ở trẻ em. Có nghiên cứu đã sử dụng điều trị vẩy nến cho trẻ em với thời gian 48 tuần. Có thể phối hợp với MTX liều thấp.
+  - **Liều dùng:** Etanercept ống 0,8 mg/kg cân nặng/tuần (liều tối đa 50 mg), tiêm dưới da.
+  - **Tác dụng không mong muốn:** Nhiễm trùng cơ hội. Trước khi điều trị nên kiểm tra loại trừ lao, các nhiễm trùng tiềm tàng, xét nghiệm virus viêm gan.
+- **Điều trị các tổn thương da** theo chỉ định của chuyên khoa da liễu. Có thể phối hợp các thuốc bôi ngoài da và phương pháp PUVA (uống Psoralen gây cảm ứng ánh sáng sau đó chiếu tia cực tím UVA). Các thuốc chống thấp khớp tác dụng chậm ngoài tác dụng với những tổn thương khớp cũng có tác dụng với những tổn thương của da, đặc biệt là MTX và các tác nhân sinh học.
+- **Vật lý trị liệu:** Cần được phối hợp điều trị sớm nhằm tránh tình trạng dính khớp, giúp trẻ hòa nhập với sinh hoạt hàng ngày càng sớm càng tốt.
+- **Phẫu thuật chỉnh hình hoặc thay khớp nhân tạo** trong trường hợp khớp bị phá hủy nặng.
+
+## 5. TIÊN LƯỢNG
+Hầu hết trẻ em mắc bệnh vẩy nến thường là thể nhẹ, chỉ cần điều trị tại chỗ là đủ. Tuy nhiên cũng nhiều trường hợp bệnh tiến triển nặng, phối hợp với tổn thương khớp, có thể kéo dài đến khi trưởng thành và bắt buộc phải điều trị những thuốc chống thấp khớp tác dụng chậm.
+
+## 6. PHÒNG BỆNH
+Với những trẻ mắc bệnh vẩy nến nói chung nên có chương trình hướng nghiệp cho trẻ khi trưởng thành. Nên khuyên trẻ chọn những nghề lao động nhẹ nhàng (công việc văn phòng) tiên lượng bệnh sẽ tốt hơn.
+
+## TÀI LIỆU THAM KHẢO
+1. Helliwell PS, Taylor WJ. "Classification and diagnostic criteria for psoriatic arthritis". *Ann Rheum Dis* 2005;64 Suppl 2:ii3–8.
+2. Claes et al. "Therapy of moderate and severe psoriasis". *GMS Health Technology Assessment* 2006, Vol 2, ISSN 1861–8863.
+3. Stoll ML, Zurakowski D, Nigrovic LE, Nichols DP, Sundel RP, Nigrovic PA. "Patients with juvenile psoriatic arthritis comprise two distinct populations". *Arthritis Rheum* 2006;54: 3564–72.
+4. Timothy B., Nevedita M.P., Kennetth G.S., Sue T.R., Randy Q.C., Esi M. deWitt, Norman T. I., Yukiko K. et al. (2011). "American College of Rheumatology Recommendations for the Treatment of Juvenile Idiopathic Arthritis: Initiation and Safety Monitoring of Therapeutic Agents for the Treatment of Arthritis and Systemic Features". *Arthritis Care & Research* Vol. 63, No. 4, April 2011, pp 465–482.
+
+# VIÊM MÀNG HOẠT DỊCH KHỚP HÁNG THOÁNG QUA
+*(Transient synovitis of the hip)*
+
+## 1. ĐỊNH NGHĨA
+**Viêm màng hoạt dịch khớp háng thoáng qua** còn được gọi là viêm màng hoạt dịch do nhiễm độc (*toxic synovitis*) là tình trạng viêm khu trú ở màng hoạt dịch khớp háng một bên với tính chất khởi phát đột ngột, khỏi nhanh chóng trong vòng 7 - 10 ngày mà không để lại di chứng. Bệnh thường gặp ở trẻ em từ 3 - 10 tuổi, song có thể gặp ở trẻ 3 tháng tuổi hoặc ở người trưởng thành. Trẻ trai gặp nhiều hơn trẻ gái 2 - 4 lần. Trong các bệnh lý đau cấp tính của khớp háng thì viêm màng hoạt dịch thoáng qua là loại hay gặp nhất ở trẻ nhỏ. Có thể gặp ở người lớn.
+
+## 2. NGUYÊN NHÂN VÀ CƠ CHẾ BỆNH SINH
+Nguyên nhân chính xác còn chưa rõ. Có thể liên quan đến nhiễm virus đường hô hấp dưới hoặc chấn thương xảy ra ngay trước khi có triệu chứng viêm màng hoạt dịch.
+Sinh thiết màng hoạt dịch thấy tăng sinh màng hoạt dịch và tình trạng viêm không đặc hiệu. Có hình ảnh tràn dịch khi siêu âm khớp háng và xét nghiệm dịch khớp có tăng nồng độ proteoglycan.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Lâm sàng
+- Bệnh khởi phát đột ngột, cấp tính với triệu chứng đau tại khớp háng hoặc đôi khi đau ở đùi hoặc tại khớp gối ở bên bị bệnh.
+- Ở trẻ nhỏ, do trẻ không có khả năng mô tả, nên có thể biểu hiện bởi hiện tượng đi khập khiễng hoặc bò lết bất thường; trẻ khóc bất thường không giải thích nguyên nhân khi được thay tã.
+- Sờ nắn vào khớp háng tổn thương khiến trẻ kêu đau hoặc khóc. Hạn chế vận động khớp háng, đặc biệt là động tác dạng và xoay trong ở bên tổn thương. Khớp háng bên đối diện, các khớp khác và cột sống không thấy dấu hiệu gì bất thường.
+- Sốt: nhiệt độ tăng có thể vừa phải hoặc cao. Trẻ có tình trạng kích thích, khó chịu.
+
+### 3.2. Cận lâm sàng
+- Các thông số về viêm như tốc độ lắng máu, CRP, bạch cầu có thể tăng nhẹ.
+- Chụp X-quang khớp háng thường không thấy gì đặc biệt, đôi khi thấy khe khớp như rộng ra; chỏm xương đùi có vẻ như phẳng ra; mất nhẹ chất khoáng ở đầu xương. Cần chụp khớp háng hai bên để dễ quan sát và so sánh.
+
+- **Siêu âm**: Có thể thấy dịch trong ổ khớp (không thường xuyên). Trong trường hợp phải phân biệt với viêm khớp nhiễm khuẩn, cần chọc hút dịch dưới hướng dẫn của siêu âm, nuôi cấy vi khuẩn và làm kháng sinh đồ.
+- **Chụp MRI**: Đôi khi được chỉ định trong trường hợp khó, khi cần phải phân biệt với viêm khớp nhiễm trùng (CT không có giá trị trong trường hợp này).
+
+### 3.3. Chẩn đoán xác định
+Chẩn đoán xác định dựa vào các thông tin sau:
+- Các triệu chứng viêm khớp háng một bên với biểu hiện:
+  - Đau, hạn chế vận động khớp háng một bên.
+  - Tràn dịch khớp (thường phát hiện trên siêu âm), có thể có tăng sinh màng hoạt dịch khớp thấy trên siêu âm hoặc cộng hưởng từ.
+  - Tăng các thông số viêm trên xét nghiệm.
+- Đáp ứng tốt với thuốc chống viêm không steroid và kéo dài không quá 2 tuần.
+
+**Điều cần chú ý** là chỉ chẩn đoán xác định viêm màng hoạt dịch khớp háng thoáng qua khi đã loại trừ tất cả các bệnh có thể gây đau tại khớp háng một bên, đặc biệt là viêm khớp háng nhiễm khuẩn. Trường hợp đau, viêm kéo dài trên 2 tuần cần tìm nguyên nhân khác.
+
+### 3.4. Chẩn đoán phân biệt
+- **Viêm khớp háng nhiễm khuẩn**: Đây là chẩn đoán phân biệt quan trọng nhất vì nếu bỏ qua một viêm khớp háng nhiễm khuẩn sẽ gây phá hủy khớp không hồi phục. Các triệu chứng gợi ý: sốt thường cao, các thông số viêm tăng mạnh, tình trạng nhiễm trùng rõ. Chẩn đoán xác định: chọc hút có dịch khớp là dịch mủ, xét nghiệm có tế bào mủ; có thể phân lập được vi khuẩn và làm kháng sinh đồ.
+- **Các nguyên nhân gây đau khớp háng khác**: Như viêm xương, viêm xương tủy; chấn thương như chấn thương phần mềm ở chi dưới, sang chấn gân, dây chằng, gãy xương; bệnh Legg-Calves-Perthes; bệnh lý thần kinh ngoại biên; loạn sản khớp háng, bệnh lý khối u; áp xe cơ thắt lưng chậu, viêm tinh hoàn...
+- **Viêm khớp mạn tính thiếu niên giai đoạn đầu**: Triệu chứng viêm kéo dài trên 3 tháng.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc điều trị
+Chủ yếu là nghỉ ngơi, tránh cho khớp khỏi bị đè ép và chịu tải trọng.
+
+### 4.2. Điều trị cụ thể
+- **Thuốc chống viêm giảm đau không steroid**: Ở trẻ em thường dùng Ibuprofen, vì thuốc ít tác dụng phụ so với các thuốc chống viêm không steroid khác. Liều lượng mỗi lần uống 5-10 mg/kg cân nặng, uống 3-4 lần trong một ngày. Trường hợp ở trẻ lớn trên 16 tuổi hoặc người trưởng thành có thể dùng một trong các thuốc chống viêm không steroid khác như diclofenac, piroxicam, meloxicam, celecoxib… Cần chú ý các tác dụng không mong muốn trên đường tiêu hóa.
+- **Kéo dãn khớp háng** để làm giảm bớt áp lực trong ổ khớp và giảm đau.
+
+## 5. TIẾN TRIỂN VÀ BIẾN CHỨNG
+Bệnh lành tính và thường khỏi trong vòng 7 – 10 ngày không để lại di chứng. Đôi khi kéo dài vài tuần. Có 4-17% bệnh nhân tái phát trong vòng 6 tháng đầu.
+
+## 6. PHÒNG BỆNH
+Phòng và điều trị các viêm đường hô hấp, tránh các chấn thương.
+
+## TÀI LIỆU THAM KHẢO
+1. Fischer SU, Beattie TF (Nov 1999). "The limping child: epidemiology, assessment and outcome". *J Bone Joint Surg Br.* 81 (6): 1029–34.
+2. Scott Moses, MD. "Transient hip tenosynovitis". *Family practice notebook*. Revision of August 9, 2007. Retrieved December 22, 2007.
+3. Gough-Palmer A, McHugh K (Jun 2007). "Investigating hip pain in a well child". *BMJ* 334 (7605): 1216–7.
+4. Bienvenu-Perrard M, de Suremain N, Wicart P, et al. (Mar 2007). "Benefit of hip ultrasound in management of the limping child [Benefit of hip ultrasound in management of the limping child]" (in French). *J Radiol* 88 (3 Pt 1): 377–83.
+5. Kwack KS, Cho JH, Lee JH, Cho JH, Oh KK, Kim SY (Aug 2007). "Septic arthritis versus transient synovitis of the hip: gadolinium-enhanced MRI finding of decreased perfusion at the femoral epiphysis". *AJR Am J Roentgenol* 189 (2): 437–45.
+
+# BỆNH GÚT (Gout)
+
+## 1. ĐỊNH NGHĨA
+Bệnh gút là bệnh viêm khớp do vi tinh thể, đặc trưng bởi những đợt viêm khớp cấp tái phát, có lắng đọng tinh thể muối urat natri trong các mô, gây ra do tăng acid uric trong máu. Đây là bệnh do rối loạn chuyển hóa nhân purin, thuộc nhóm bệnh rối loạn chuyển hóa.
+
+## 2. NGUYÊN NHÂN
+Chia làm hai loại: gút nguyên phát (đa số các trường hợp) và gút thứ phát.
+
+### 2.1. Nguyên phát
+Chưa rõ nguyên nhân, chế độ ăn thực phẩm có chứa nhiều purin như: gan, thận, tôm, cua, lòng đỏ trứng, nấm… được xem là làm nặng thêm bệnh. Gặp 95% ở nam giới, độ tuổi thường gặp là 30-60 tuổi.
+
+### 2.2. Thứ phát
+Một số hiếm do các rối loạn về gen (nguyên nhân di truyền). Ngoài ra có thể do tăng sản xuất acid uric hoặc giảm đào thải acid uric hoặc cả hai, cụ thể:
+- Suy thận nói riêng và các bệnh lý làm giảm độ thanh lọc acid uric của cầu thận nói chung.
+- Các bệnh về máu: bệnh bạch cầu cấp.
+- Dùng thuốc lợi tiểu như Furosemid, Thiazid, Acetazolamid…
+- Sử dụng các thuốc ức chế tế bào để điều trị các bệnh ác tính; thuốc chống lao (ethambutol, pyrazinamid)…
+
+Các yếu tố nguy cơ của bệnh là tăng huyết áp, béo phì và hội chứng chuyển hóa, tăng insulin máu và sự đề kháng insulin, uống nhiều rượu.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Lâm sàng
+Cơn gút cấp tính đầu tiên thường xuất hiện ở lứa tuổi 35 - 55, ít khi trước 25 hoặc sau 65 tuổi. Ở nữ ít xảy ra trước tuổi mãn kinh, ở nam mắc ở tuổi càng trẻ thì bệnh càng nặng.
+
+**Điều kiện thuận lợi**: Nhiều khi không rõ nhưng có thể xảy ra sau bữa ăn có nhiều thịt (nhất là loại thịt có nhiều purin), rượu, sau xúc cảm mạnh, sau chấn thương kể cả vi chấn thương (đi giày chật), sau nhiễm khuẩn, dùng các thuốc lợi tiểu như thiazid...
+
+- **Cơn gút cấp**:
+  - Xuất hiện đột ngột ban đêm, bệnh nhân thức dậy vì đau ở khớp, thường là khớp bàn - ngón chân cái (60 - 70%): khớp sưng to, đỏ, phù nề, căng bóng, nóng, đau dữ dội và ngày càng tăng, va chạm nhẹ cũng rất đau, thay đổi thứ tự: bàn chân, cổ chân, gối, bàn tay, cổ tay, khuỷu, hiếm thấy ở khớp háng, vai, cột sống. Lúc đầu chỉ viêm một khớp sau đó có thể viêm nhiều khớp.
+  - Ngoài khớp ra, túi thanh dịch, gân, bao khớp cũng có thể bị thương tổn.
+  - Các dấu hiệu viêm có thể kéo dài nhiều ngày, thường từ 5-7 ngày rồi các dấu hiệu viêm giảm dần: đỡ đau, đỡ nề, bớt đỏ. Hết cơn, khớp trở lại hoàn toàn bình thường.
+  - Trong cơn gút cấp có thể có sốt vừa hoặc nhẹ, tăng tốc độ lắng hồng cầu, dịch khớp (chỉ làm được ở khớp gối) thấy bạch cầu 5000/mm³, đa số là loại đa nhân, dưới kính hiển vi thấy nhiều tinh thể urat.
+  - Cơn gút cấp dễ tái phát, khoảng cách có thể gần nhưng cũng có thể rất xa, có khi > 10 năm.
+  - Bên cạnh thể điển hình, cũng có thể tối cấp với khớp viêm sưng tấy dữ dội, bệnh nhân đau nhiều nhưng cũng có thể gặp thể nhẹ, kín đáo, đau ít dễ bị bỏ qua.
+
+- **Lắng đọng urat**:
+  Lắng đọng urat làm cho hình thành các tôphi dưới da và gây nên bệnh khớp mạn tính do urat.
+  - **Tôphi**: Thường biểu hiện chậm, hàng chục năm sau cơn gút đầu tiên nhưng cũng có khi sớm hơn. Khi đã xuất hiện thì dễ tăng số lượng và khối lượng và có thể loét. Tôphi thường thấy trên sụn vành tai rồi đến khuỷu tay, ngón chân cái, gót chân, mu bàn chân, gân Achille.
+  - **Bệnh khớp do urat**: Xuất hiện chậm. Khớp bị cứng, đau khi vận động và làm hạn chế vận động, khớp có thể sưng to vừa phải, không đối xứng, cũng có thể có tôphi kèm theo. Trên X-quang thấy hẹp khớp, hình ảnh khuyết xương hình hốc ở đầu xương.
+
+- **Biểu hiện về thận**:
+  Urat lắng đọng rải rác ở tổ chức kẽ thận, bể thận, niệu quản.
+  - **Sỏi thận**: 10 - 20% các trường hợp gút, điều kiện thuận lợi là pH nước tiểu quá toan, nồng độ acid uric cao. Sỏi urat thường nhỏ và không cản quang.
+  - **Tổn thương thận**: Lúc đầu chỉ có protein niệu, có thể có kèm theo hồng cầu, bạch cầu vi thể, dần dần diễn tiến đến suy thận. Suy thận thường gặp ở thể có tôphi, tiến triển chậm và là nguyên nhân gây tử vong.
+
+### 3.2. Cận lâm sàng
+- Acid uric máu tăng > 420 µmol/l, tuy nhiên khoảng 40% bệnh nhân có cơn gút cấp nhưng acid uric máu bình thường.
+- Định lượng acid uric niệu 24 giờ: để xác định tăng bài tiết (> 600mg/24h) hay giảm thải tương đối (< 600mg/24h). Nếu acid uric niệu tăng dễ gây sỏi thận và không được chỉ định nhóm thuốc tăng đào thải acid uric.
+- Xét nghiệm dịch khớp: quan trọng nhất là tìm thấy tinh thể urat trong dịch khớp. Dịch khớp viêm giàu tế bào (> 2000 tb/mm³), chủ yếu là bạch cầu đa nhân trung tính.
+- Các xét nghiệm khác: tốc độ lắng máu tăng, CRP bình thường hoặc tăng...
+- X-quang khớp: giai đoạn đầu bình thường, nếu muộn có thể thấy các khuyết xương hình hốc ở đầu xương, hẹp khe khớp, gai xương...
+
+### 3.3. Chẩn đoán xác định (có thể áp dụng một trong các tiêu chuẩn sau)
+
+#### Tiêu chuẩn Bennet và Wood (1968)
+*Độ nhạy 70%, độ đặc hiệu 82,7%.*
+Tiêu chuẩn Bennet và Wood (1968) được áp dụng rộng rãi nhất ở Việt Nam do dễ nhớ và phù hợp với điều kiện thiếu xét nghiệm.
+
+a. Hoặc tìm thấy tinh thể natri urat trong dịch khớp hay trong các hạt tôphi.
+b. Hoặc tối thiểu có hai trong các yếu tố sau đây:
+- Tiền sử hoặc hiện tại có tối thiểu hai đợt sưng đau của một khớp với tính chất khởi phát đột ngột, đau dữ dội, và khỏi hoàn toàn trong vòng 2 tuần.
+- Tiền sử hoặc hiện tại có sưng đau khớp bàn ngón chân cái với các tính chất như trên.
+- Có hạt tôphi.
+- Đáp ứng tốt với colchicin (giảm viêm, giảm đau trong 48 giờ) trong tiền sử hoặc hiện tại.
+
+Chẩn đoán xác định khi có tiêu chuẩn a hoặc 2 yếu tố của tiêu chuẩn b.
+
+#### Theo tiêu chuẩn của ILAR và Omeract năm 2000
+*Độ nhạy 70%, đặc hiệu 78,8%.*
+- Có tinh thể urat đặc trưng trong dịch khớp, và/hoặc:
+- Hạt tôphi được chứng minh có chứa tinh thể urat bằng phương pháp hóa học hoặc kính hiển vi phân cực, và/hoặc:
+- Có 6 trong số 12 biểu hiện lâm sàng, xét nghiệm và X-quang sau:
+  1. Viêm tiến triển tối đa trong vòng một ngày.
+  2. Có hơn một cơn viêm khớp cấp.
+  3. Viêm khớp ở một khớp.
+  4. Đỏ vùng khớp.
+  5. Sưng, đau khớp bàn ngón chân I.
+  6. Viêm khớp bàn ngón chân I ở một bên.
+  7. Viêm khớp cổ chân một bên.
+  8. Tôphi nhìn thấy được.
+  9. Tăng acid uric máu (nam ≥ 420 µmol/l, nữ ≥ 360 µmol/l).
+  10. Sưng đau khớp không đối xứng.
+  11. Nang dưới vỏ xương, không có hình khuyết xương trên X-quang.
+  12. Cấy vi khuẩn âm tính.
+
+### 3.4. Phân loại
+- Bệnh gút cấp tính.
+- Bệnh gút mạn tính.
+- Thời gian ổn định giữa các cơn gút cấp.
+
+### 3.5. Chẩn đoán phân biệt
+- Viêm khớp do lắng đọng các tinh thể khác (pyrophosphat calci dihydrat) hay bệnh giả gút.
+- Viêm khớp nhiễm khuẩn.
+- Viêm khớp dạng thấp.
+- Viêm khớp phản ứng.
+- Bệnh lý khác: viêm mô tế bào, bệnh mạch máu ngoại biên…
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc chung
+- Điều trị viêm khớp trong cơn gút cấp.
+- Dự phòng tái phát cơn gút, dự phòng lắng đọng urat trong các tổ chức và dự phòng biến chứng thông qua điều trị hội chứng tăng acid uric máu với mục tiêu kiểm soát acid uric máu dưới 360 µmol/l (60 mg/l) với gút chưa có hạt tôphi và dưới 320 µmol/l (50 mg/l) khi gút có hạt tôphi.
+
+### 4.2. Điều trị cụ thể
+
+#### 4.2.1. Chế độ ăn uống - sinh hoạt
+- Tránh các chất có nhiều purin như tạng động vật, thịt, cá, tôm, cua… Có thể ăn trứng, hoa quả. Ăn thịt không quá 150g/24 giờ.
+- Không uống rượu, cần giảm cân, tập luyện thể dục thường xuyên…
+- Uống nhiều nước, khoảng 2-4 lít/24 giờ, đặc biệt là các loại nước khoáng có kiềm hoặc nước kiềm 14‰. Điều này sẽ làm tăng lượng nước tiểu trong 24 giờ, giúp hạn chế tối đa sự lắng đọng urat trong đường tiết niệu.
+- Tránh các thuốc làm tăng acid uric máu, tránh các yếu tố làm khởi phát cơn gút cấp như stress, chấn thương...
+
+### 4.2.2. Điều trị nội khoa
+
+- **Thuốc chống viêm**:
+  - **Colchicin**: Với mục đích chống viêm, giảm đau trong cơn gút cấp hoặc đợt cấp của gút mạn tính: theo quan điểm mới colchicin không nên sử dụng liều cao vì có tác dụng không mong muốn. Nên sử dụng liều 1mg/ngày, nhưng cần dùng càng sớm càng tốt (trong vòng 12 giờ đầu khởi phát cơn gút). Phối hợp với một thuốc nhóm chống viêm không steroid (nếu không có chống chỉ định của thuốc này) để đạt hiệu quả cắt cơn gút.
+    Trường hợp bệnh nhân có chống chỉ định với chống viêm không steroid, colchicin dùng với liều 1mg x 3 lần trong ngày đầu tiên (có thể cho 0,5mg cách nhau 2 giờ một lần, nhưng tối đa không quá 4mg), 1mg x 2 lần trong ngày thứ 2, 1mg từ ngày thứ 3 trở đi. Thông thường sau 24-48 giờ sử dụng, triệu chứng tại khớp sẽ giảm nhanh.
+    *Test colchicin*: hai ngày đầu: 1mg x 3 lần; triệu chứng tại khớp sẽ giảm nhanh sau 48 giờ. Tuy nhiên, sau 48 giờ thường có tiêu chảy, cần kết hợp một số thuốc như loperamid 2 mg ngày 02 viên, chia 2 lần nhằm kiểm soát triệu chứng này.
+    *Dự phòng tái phát*: 0,5-1,2 mg uống 1-2 lần/ngày, trung bình 1mg/ngày kéo dài ít nhất 6 tháng. Cần chú ý giảm liều ở bệnh nhân có bệnh thận mạn tính, lớn tuổi (trên 70 tuổi)... Trong trường hợp không sử dụng được bằng colchicin có thể dự phòng bằng các thuốc kháng viêm không steroid bằng liều thấp.
+  - **Thuốc kháng viêm không steroid**:
+    Có thể dùng một trong các thuốc sau: Indometacin, Naproxen, Ibuprofen, Ketoprofen, Piroxicam, Diclofenac, các nhóm thuốc ức chế chọn lọc COX-2 (meloxicam, celecoxib, etoricoxib...). Lưu ý các chống chỉ định của thuốc này (viêm loét dạ dày tá tràng, suy thận...). Có thể dùng đơn độc hoặc kết hợp với colchicin.
+  - **Corticoid**:
+    Corticoid đường toàn thân được chỉ định khi các thuốc trên không hiệu quả hoặc có chống chỉ định, cần rất hạn chế và dùng ngắn ngày. Đường tại chỗ (tiêm corticoid trực tiếp vào khớp viêm) phải được thực hiện bởi thầy thuốc chuyên khoa cơ xương khớp sau khi loại trừ viêm khớp nhiễm khuẩn.
+
+- **Thuốc giảm acid uric máu**:
+  - **Nhóm thuốc ức chế tổng hợp acid uric**:
+    - **Allopurinol**: Liều lượng hằng ngày dựa vào nồng độ acid uric máu. Liều khởi đầu: Allopurinol 100mg/ngày trong vòng 1 tuần, sau đó tăng 200-300mg/ngày. Nồng độ acid uric máu thường trở về bình thường với liều 200-300mg/ngày. Không nên chỉ định trong cơn gút cấp mà nên chỉ định khi tình trạng viêm khớp đã thuyên giảm, sau 1-2 tuần sử dụng colchicin. Cần lưu ý tác dụng phụ của allopurinol như sốt, nôn, buồn nôn, đau đầu, ban đỏ ở da, dị ứng... cần theo dõi sát trong những ngày đầu dùng thuốc, thậm chí sau 1-2 tuần dùng thuốc này.
+  - **Nhóm thuốc tăng thải acid uric**:
+    - Probenecid (250mg - 3g/ngày), Sulfinpyrazol (100-800mg/ngày), Benziodaron, Benzbromaron... Chỉ định nhóm này cần xét nghiệm acid uric niệu. Chống chỉ định khi acid uric niệu trên 600 mg/24 giờ, suy thận, sỏi thận, người cao tuổi, gút mạn có hạt tophi. Đôi khi có thể dùng phối hợp allopurinol với một loại thuốc tăng đào thải acid uric. Cả hai nhóm thuốc này đều nên chỉ định trong cơn gút cấp.
+
+### 4.2.3. Điều trị ngoại khoa
+Phẫu thuật cắt bỏ hạt tophi được chỉ định trong trường hợp gút kèm biến chứng loét, bội nhiễm hạt tophi hoặc hạt tophi kích thước lớn, ảnh hưởng đến vận động hoặc vì lý do thẩm mỹ. Khi phẫu thuật lưu ý cho dùng colchicin nhằm tránh khởi phát cơn gút cấp. Cần kết hợp thuốc hạ acid uric máu.
+
+## 5. TIẾN TRIỂN - BIẾN CHỨNG
+- Thông thường có 1 - 2 cơn mỗi năm, khoảng cách các cơn ngắn lại, 10 - 20 năm sau cơn đầu tiên, xuất hiện các tophi và bệnh khớp urat làm hạn chế vận động. Bệnh nhân chết do suy thận hay do tai biến mạch máu.
+- Có một số thể nhẹ hơn, cơn gút ít xảy ra, không có tophi. Cũng có một số thể nặng hơn, xảy ra ở người trẻ < 30 tuổi, cơn gút dày liên tiếp, tophi và bệnh khớp do urat xuất hiện sớm.
+
+## 6. PHÒNG BỆNH
+- Chế độ sinh hoạt hợp lý, giảm ăn các chất giàu purin, chất béo...
+- Điều trị tốt các bệnh lý gây bệnh gút thứ phát như suy thận, do thuốc, các bệnh lý chuyển hóa...
+
+### TÀI LIỆU THAM KHẢO
+1. Hoàng Văn Dũng (2009), "Chẩn đoán và điều trị bệnh gút"; Chẩn đoán và điều trị những bệnh cơ xương khớp, Nhà xuất bản Y học, tr. 110-123.
+2. Hồ Văn Lộc (2009), "Bệnh gút", Giáo trình chuyên ngành cơ xương khớp, Đại học Y Dược Huế, tr. 26-31.
+3. Hector Molina và CS (2010), "Crystal-Induced Synovitis, Arthritis and Rheumatologic Diseases", The Washington manual of medical therapeutics, pp. 860-864.
+4. John H. Klippel và CS (2008), "Gout", Primer on the rheumatic diseases, edition 13, pp. 241-262.
+
+# VIÊM KHỚP NHIỄM KHUẨN (Septic arthritis)
+
+## 1. ĐẠI CƯƠNG
+Viêm khớp nhiễm khuẩn hay viêm khớp sinh mủ (pyogenic/suppurative arthritis) là viêm khớp do vi khuẩn sinh mủ không đặc hiệu (không phải do lao, phong, nấm, ký sinh trùng hay virus) gây nên.
+
+## 2. NGUYÊN NHÂN
+Phân làm hai nhóm nguyên nhân chính theo tác nhân gây bệnh:
+- **Viêm khớp nhiễm khuẩn do lậu cầu** (gonococcal bacterial/suppurative arthritis): lậu cầu khuẩn (*N. gonorrhoeae*), chiếm tới 70-75% nhiễm khuẩn khớp ở người lớn dưới 40 tuổi.
+- **Viêm khớp nhiễm khuẩn không do lậu cầu** (nongonococcal bacterial/suppurative arthritis): nguyên nhân hay gặp nhất là do vi khuẩn gram dương đặc biệt là **tụ cầu vàng** (50-70% trường hợp), **liên cầu** (20%), **phế cầu**... Vi khuẩn gram âm ít gặp hơn (15-20%): *E. coli*, thương hàn, trực khuẩn mủ xanh, *Haemophilus influenzae*; vi khuẩn kỵ khí chiếm khoảng 5% trường hợp. Có khoảng 5-10% trường hợp nhiễm đồng thời nhiều loại vi khuẩn, đây là loại nhiễm khuẩn khớp thường gặp sau chấn thương.
+
+## 3. TRIỆU CHỨNG - CHẨN ĐOÁN
+
+### 3.1. Lâm sàng
+Thường xảy ra cấp tính, gồm hai bệnh cảnh viêm khớp nhiễm khuẩn không phải do lậu cầu và do lậu cầu.
+- **Viêm khớp nhiễm khuẩn không do lậu cầu**: thường xảy ra ở một khớp đơn độc (90% trường hợp), hay gặp nhất là khớp gối.
+  - *Triệu chứng tại khớp*: sưng nóng đỏ đau, có thể tràn dịch khớp, co cơ, hạn chế vận động.
+  - *Hội chứng nhiễm trùng*: sốt, kèm rét run, môi khô, lưỡi bẩn, hơi thở hôi.
+- **Nhiễm khuẩn khớp do lậu cầu**: có hai bệnh cảnh lâm sàng trong nhiễm trùng do lậu cầu:
+  - *Hội chứng nhiễm khuẩn lậu cầu phát tán*: sốt, rét run, ban đỏ và mụn mủ ngoài da cùng các triệu chứng viêm khớp, triệu chứng tại bộ phận sinh dục như đái buốt, đái rắt, đái máu - mủ... Viêm nhiều khớp nhỏ có tính chất di chuyển kèm viêm bao hoạt dịch - gân.
+  - *Viêm khớp thực sự do lậu cầu*: thường tổn thương một khớp đơn độc như háng, gối, cổ tay, cổ chân với triệu chứng sưng nóng đỏ đau, có thể tràn dịch khớp. Có thể kèm theo viêm nhiễm ở đường tiết niệu, sinh dục như đái buốt, đái rắt, đái máu - mủ...
+
+### 3.2. Cận lâm sàng
+- **Xét nghiệm tế bào máu ngoại vi**: thường có số lượng bạch cầu tăng cao, tỷ lệ bạch cầu trung tính tăng; tốc độ máu lắng, CRP (protein C phản ứng) thường tăng.
+- **Procalcitonin**: thường tăng khi có nhiễm trùng nặng, đặc biệt là nhiễm trùng huyết.
+- **Xét nghiệm dịch khớp**: lấy bệnh phẩm đếm tế bào, soi tươi, nhuộm gram, nuôi cấy dịch khớp tìm vi khuẩn gây bệnh.
+- **Cấy máu**: tìm vi khuẩn gây bệnh.
+- **Chẩn đoán hình ảnh**: chụp X-quang quy ước, siêu âm khớp, chụp cắt lớp vi tính, chụp cộng hưởng từ, chụp xạ hình xương tùy trường hợp.
+
+### 3.3. Chẩn đoán xác định
+Khi có ít nhất một trong hai tiêu chuẩn:
+- Xét nghiệm dịch khớp có mủ (bạch cầu đa nhân trung tính thoái hóa hoặc tế bào dịch khớp cao trên 100.000/ml với trên 80% là bạch cầu đa nhân trung tính) hoặc tìm thấy vi khuẩn qua soi tươi, nhuộm gram.
+- Cấy máu hoặc dịch khớp dương tính với vi khuẩn.
+
+Kết hợp với ít nhất một trong hai tiêu chuẩn:
+- Lâm sàng viêm khớp điển hình.
+- Dấu hiệu X-quang viêm khớp điển hình: hình ảnh soi gương.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc
+- Chẩn đoán và chỉ định kháng sinh sớm; thực hiện ngay cấy máu, cấy dịch khớp, soi tươi dịch nhuộm gram tìm vi khuẩn trước khi cho kháng sinh.
+- Lựa chọn kháng sinh ban đầu dựa vào kinh nghiệm, tình hình kháng kháng sinh tại cộng đồng, bệnh viện; kết quả nhuộm gram (âm hay dương), lứa tuổi, đường lây nhiễm để dự đoán vi khuẩn gây bệnh.
+- Cần dùng ít nhất một thuốc kháng sinh đường tĩnh mạch. Thời gian điều trị kháng sinh thường từ 4-6 tuần.
+- Dẫn lưu mủ khớp, bất động khớp, can thiệp ngoại khoa khi cần thiết.
+
+### 4.2. Điều trị cụ thể
+
+**Điều trị kháng sinh:**
+
+*Trường hợp viêm khớp nhiễm khuẩn không do lậu cầu:*
+- **Khi chưa có kết quả cấy máu, dịch**: dùng ngay kháng sinh oxacillin hoặc nafcillin 2g đường tĩnh mạch (TM) mỗi 6 giờ một lần (8g/ngày), hoặc clindamycin 2,4g TM/ngày chia 4 lần.
+- **Trường hợp soi tươi nhuộm gram dịch khớp phát hiện cầu khuẩn gram dương**: oxacillin hoặc nafcillin 2g mỗi 6 giờ một lần (8g/ngày), hoặc clindamycin 2,4g TM/ngày chia 4 lần. Nếu tại cộng đồng hay bệnh viện nghi ngờ nhiễm tụ cầu vàng kháng kháng sinh: vancomycin 2g/ngày chia hai lần pha truyền tĩnh mạch, hoặc daptomycin 4-6 mg/kg cân nặng đường TM một lần/ngày, hoặc teicoplanin 6 mg/kg 1 lần/ngày trong những ngày đầu, sau đó giảm còn 3 mg/kg TM hoặc tiêm bắp.
+- **Trường hợp nghi nhiễm trực khuẩn mủ xanh**: cần phối hợp ceftazidim 2g/lần x 2-3 lần/ngày với kháng sinh nhóm aminoglycosid (như gentamycin 3 mg/kg/ngày - dùng một lần tiêm bắp vào buổi sáng hoặc amikacin 15mg/kg/ngày tiêm bắp hoặc pha truyền TM 1 lần/ngày).
+- **Trường hợp cấy máu, dịch khớp dương tính thì điều trị theo kháng sinh đồ** (hoặc tiếp tục duy trì kháng sinh theo như điều trị ban đầu nếu thấy đáp ứng tốt):
+  - *Nhiễm khuẩn do tụ cầu vàng nhạy cảm với kháng sinh* thì dùng oxacillin, hoặc nafcillin, hoặc clindamycin (liều như trên); *tụ cầu vàng kháng methicillin* thì dùng vancomycin, hoặc daptomycin, hoặc teicoplanin (liều như trên) trong 4 tuần.
+  - *Nhiễm khuẩn do phế cầu hoặc liên cầu do vi khuẩn nhạy với penicillin*: penicillin G 2 triệu đơn vị TM mỗi 4 giờ trong 2 tuần.
+  - *Nhiễm khuẩn do H. influenzae và S. pneumoniae ức chế β-lactamase*: ceftriaxon 1-2 g một lần/ngày, hoặc cefotaxim 1 g 3 lần/ngày trong 2 tuần.
+  - *Phần lớn các nhiễm vi khuẩn gram âm đường ruột*: kháng sinh cephalosporin thế hệ 3 hoặc 4 đường TM trong 3-4 tuần, hoặc thuốc nhóm fluoroquinolon như levofloxacin 500mg đường tĩnh mạch hoặc uống mỗi 24 giờ.
+  - *Nhiễm khuẩn trực khuẩn mủ xanh*: phối hợp kháng sinh nhóm aminoglycosid với ceftazidim 1g mỗi 8 giờ (hoặc với mezlocillin 3g tĩnh mạch mỗi 4 giờ). Thời gian dùng trong khoảng 2 tuần, sau đó dùng kháng sinh nhóm fluoroquinolon như ciprofloxacin 500 mg uống 2 lần/ngày đơn độc hoặc phối hợp với ceftazidim.
+
+*Điều trị viêm khớp do lậu cầu:*
+- **Trường hợp lậu cầu nhạy cảm penicillin**: có thể dùng amoxicillin uống 1500 mg/ngày chia 3 lần, hoặc dùng ciprofloxacin uống 1000 mg chia hai lần/ngày (ngoại trú) trong 7 ngày.
+- **Trường hợp nghi ngờ lậu cầu kháng penicillin**: khởi đầu ceftriaxon 1g tiêm bắp hoặc tiêm tĩnh mạch mỗi 24 giờ trong 7 ngày, sau đó chuyển dùng ciprofloxacin uống 500 mg hai lần/ngày; hoặc spectinomycin 2g tiêm bắp mỗi 12 giờ/ngày trong 7 ngày.
+- **Khi nghi ngờ bội nhiễm *Chlamydia trachomatis***: phối hợp kháng sinh uống doxycyclin 100mg 2 lần/ngày hoặc tetracyclin 500mg 4 lần/ngày hoặc erythromycin 500mg 4 lần/ngày trong 7 ngày.
+
+**Các biện pháp khác có thể phối hợp với điều trị kháng sinh:**
+- **Hút, dẫn lưu khớp** khi có viêm khớp có dịch mủ.
+- **Nội soi khớp rửa khớp**: trong trường hợp sau 5 - 7 ngày điều trị đúng thuốc kết hợp hút, dẫn lưu dịch khớp nhiều lần thất bại; hoặc nhiễm khuẩn khớp dịch mủ đặc hay có vách ngăn không hút được dịch khớp.
+- **Phẫu thuật mở khớp** lấy bỏ tổ chức nhiễm khuẩn khi kèm nhiễm khuẩn phần mềm lân cận, nhiễm khuẩn sụn khớp hay xương; nhiễm khuẩn ở khớp nhân tạo (đa số trường hợp phải lấy bỏ khớp nhân tạo, dùng kháng sinh đường tĩnh mạch ít nhất 4-6 tuần, sau đó mới xem xét có làm lại khớp nhân tạo khác hoặc không); nhiễm khuẩn khớp ở sâu khó hút như khớp háng; nhiễm khuẩn khớp háng ở trẻ em (là biện pháp tốt nhất để tránh tổn thương làm hư hại chỏm xương đùi).
+
+## 5. PHÒNG BỆNH
+Thực hiện vô trùng tuyệt đối khi làm các thủ thuật, phẫu thuật tiến hành tại khớp. Điều trị tốt các nhiễm khuẩn tại các cơ quan khác, đặc biệt tại da, phần mềm và xương. Đối với bệnh lậu phòng bằng cách thực hiện hành vi tình dục an toàn.
+
+### TÀI LIỆU THAM KHẢO
+1. Lê Ngọc Trọng, Đỗ Kháng Chiến (chủ biên); "Viêm khớp mủ và viêm khớp do lậu"; Hướng dẫn điều trị, tập II: hướng dẫn điều trị một số bệnh nhiễm khuẩn thường gặp; Nhà xuất bản Y học, 2006; trang 24-28.
+2. Goldenberg D, "Bacterial Arthritis", Textbook of Rheumatology, fourth Edition, Vol 2; W.B Saunders Company, 2003; p 1449-1466.
+3. Goldenberg D, Sexton D; "Septic arthritis in adults"; Uptodate 19.3, 2011.
+4. Madoff Lawrence; "Infectious Arthritis"; Harrison's Principles of Internal Medicine, 17th Edition, Vol II; McGraw-Hill, 2008, p. 2169-2175.
+5. Osmon DR, Steckelberg JM; "Osteomyelitis, Infectious arthritis and Prosthetic-joint infection"; Current diagnosis and treatment in infectious diseases, 1st Edition; McGraw-Hill/Appleton and Lange, 2001; p. 160-168.
+
+# VIÊM CƠ, ÁP XE CƠ NHIỄM KHUẨN
+
+## 1. ĐỊNH NGHĨA
+Viêm cơ nhiễm khuẩn (infectious myositis) là tổn thương viêm hoặc áp xe tại cơ vân do vi khuẩn gây nên.
+
+## 2. NGUYÊN NHÂN
+Vi khuẩn gây bệnh:
+- Nguyên nhân thường gặp nhất là tụ cầu vàng.
+- Các loại vi khuẩn khác: Liên cầu, lậu cầu, phế cầu, não mô cầu, *Burkholderia pseudomallei*, vi khuẩn Gram âm, các vi khuẩn yếm khí khác.
+
+## 3. TRIỆU CHỨNG - CHẨN ĐOÁN
+
+### 3.1. Triệu chứng lâm sàng
+- **Vị trí tổn thương:** Có thể gặp ở bất kỳ vị trí nào.
+- **Số lượng:** Thường ở một cơ. Ở những bệnh nhân nhiễm trùng huyết hoặc ở cơ địa suy giảm miễn dịch có thể tổn thương ở nhiều cơ.
+- **Viêm cơ thắt lưng chậu:** Thường xảy ra sau các nhiễm trùng đường tiết niệu - sinh dục hoặc phẫu thuật ở vùng bụng, thường do vi trùng lao hoặc do vi trùng sinh mủ. Trên lâm sàng, bệnh nhân thường đau ở vùng hạ sườn. Bệnh nhân thường không duỗi được chân bên có cơ bị viêm, khám khớp háng bình thường.
+- **Tính chất:**
+  - *Giai đoạn đầu (1-2 tuần đầu):* Sưng cơ, ấn chắc, có thể đỏ hoặc đau nhẹ.
+  - *Giai đoạn 2 (tuần 2-4):* Cơ sưng tấy đỏ rất đau, bùng nhùng khi ấn, chọc hút ra mủ.
+  - *Giai đoạn 3:* Có thể xuất hiện các biến chứng như áp xe xa, sốc nhiễm khuẩn...
+- **Biểu hiện toàn thân:** Hội chứng nhiễm trùng thường rõ:
+  - Sốt cao 39 - 40ºC, sốt liên tục, dao động.
+  - Gầy sút, mệt mỏi, môi khô, lưỡi bẩn.
+
+### 3.2. Các thăm dò cận lâm sàng
+- **Xét nghiệm:**
+  - *Xét nghiệm máu:* Tế bào máu ngoại vi có thể tăng số lượng bạch cầu, tăng tỷ lệ bạch cầu đoạn trung tính; tăng tốc độ máu lắng, tăng CRP, tăng fibrinogen, tăng globulin. Procalcitonin máu có thể tăng trong trường hợp nhiễm trùng nặng.
+  - *Cấy máu:* Có thể dương tính.
+  - *Chọc hút ổ mủ:* Chọc mù hoặc dưới hướng dẫn của siêu âm lấy mủ xét nghiệm:
+    - *Tế bào học:* Thấy nhiều bạch cầu đa nhân trung tính thoái hóa (tế bào mủ).
+    - *Các xét nghiệm vi sinh:* Soi tươi, nhuộm Gram, nuôi cấy, BK, PCR lao. Có thể phân lập được vi khuẩn qua soi trực tiếp hoặc nuôi cấy mủ.
+- **Chẩn đoán hình ảnh:**
+  - *Siêu âm cơ:* Có thể thấy các hình ảnh cơ tăng thể tích, mất cấu trúc sợi cơ, các ổ có cấu trúc siêu âm hỗn hợp, áp xe cơ.
+  - *X-quang quy ước:* Tổn thương các cơ ở chi: chụp chi có cơ tổn thương có thể thấy hình ảnh viêm xương màng xương kết hợp. Tổn thương cơ thắt lưng chậu: vùng cột sống thắt lưng có thể thấy rõ bóng cơ thắt lưng chậu, bóng khí. Hình ảnh calci hóa tại vùng áp xe gợi ý vi khuẩn lao.
+  - *Chụp cắt lớp vi tính:* Được chỉ định với cơ thắt lưng chậu cho phép phát hiện sớm tổn thương với độ nhạy cao. Nếu thấy khí tại vùng cơ, tức là đã có áp xe.
+  - *Cộng hưởng từ:* Chỉ định trong trường hợp viêm hoặc áp xe cơ ở chi hoặc cơ thắt lưng chậu: giảm tín hiệu trên T1, tăng tín hiệu trên T2 thành ổ khu trú trên cơ.
+
+### 3.3. Chẩn đoán xác định
+- Dựa vào lâm sàng (các dấu hiệu tại chỗ và toàn thân).
+- Xét nghiệm bilan nhiễm trùng.
+- Chẩn đoán hình ảnh (siêu âm, chụp cắt lớp vi tính, hoặc chụp cộng hưởng từ).
+- Nuôi cấy phân lập vi khuẩn.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc điều trị
+- Dùng kháng sinh sớm (ngay sau khi làm các xét nghiệm vi sinh), liều cao, đường tĩnh mạch (sau có thể chuyển đường uống), đủ thời gian (4-6 tuần). Lựa chọn kháng sinh dựa theo kháng sinh đồ.
+- Khi chưa có kết quả vi sinh, lựa chọn kháng sinh theo kinh nghiệm dựa trên bệnh cảnh lâm sàng:
+  - Kháng sinh sử dụng đầu tiên nên hướng tới tụ cầu vàng. Nếu nghi ngờ tụ cầu kháng methicillin, xem xét sử dụng vancomycin.
+  - Với cơ địa suy giảm miễn dịch, nên sử dụng kháng sinh phổ rộng, trong đó có trực khuẩn gram âm và vi khuẩn yếm khí, chẳng hạn vancomycin và một kháng sinh nhóm carbapenem hoặc piperacillin/tazobactam. Đối với vi khuẩn yếm khí, có thể dùng clindamycin.
+- Kết hợp chọc hút dẫn lưu mủ hoặc phẫu thuật dẫn lưu ổ mủ (giai đoạn 2, 3).
+- Điều trị triệu chứng và nâng cao thể trạng, chống sốc nhiễm khuẩn (nếu có).
+
+### 4.2. Điều trị cụ thể
+- **Khi chưa có kết quả cấy máu, dịch:** Dùng ngay kháng sinh oxacillin hoặc nafcillin 2g đường tĩnh mạch (TM) mỗi 6 giờ một lần (8g/ngày), hoặc clindamycin 2,4g TM/ngày chia 4 lần.
+- **Đối với tụ cầu còn nhạy cảm với methicillin:**
+  - Cefazolin 1g TM mỗi 8 giờ x 2 tuần hoặc
+  - Levofloxacin 750mg TM mỗi 24 giờ x 2 tuần hoặc
+  - Moxifloxacin 400mg TM mỗi 24 giờ x 2 tuần hoặc
+  - Ampicillin/sulbactam 3g TM mỗi 6 giờ x 2 tuần.
+  *Sau đó chuyển sang:*
+  - Cephalexin 500mg uống mỗi 6 giờ x 2 tuần hoặc
+  - Điều trị phối hợp clindamycin 300mg uống mỗi 6 giờ x 2 tuần với levofloxacin 750mg uống mỗi 24 giờ x 2 tuần hoặc moxifloxacin 400mg uống mỗi 24 giờ x 2 tuần.
+- **Nếu nghi ngờ tụ cầu (*Staphylococcus aureus*) kháng methicillin:**
+  - Vancomycin 1g TM mỗi 12 giờ x 2 tuần, hoặc
+  - Linezolid 600mg TM mỗi 12 giờ x 2 tuần, hoặc
+  - Daptomycin 4mg/kg TM mỗi 24 giờ x 2 tuần.
+  *Sau đó chuyển sang:*
+  - Linezolid 600mg uống mỗi 12 giờ x 2 tuần hoặc
+  - Minocycline 100mg uống mỗi 12 giờ x 2 tuần.
+- **Nếu nghi ngờ nhiễm Gram (+) khác:**
+  - Cefazolin TM 3g/ngày chia 3 lần trong 2-3 tuần, sau đó dùng cephalexin 4g/ngày chia 4 lần (4-6 tuần), hoặc
+  - Clindamycin TM 1800 mg/ngày, chia 3 lần trong 2-3 tuần; sau đó duy trì bằng uống clindamycin 1800 mg/ngày, chia 3 lần trong 4-6 tuần, hoặc
+  - Lincomycin TM 1800 mg/ngày, chia 3 lần (2-3 tuần); sau đó duy trì bằng uống lincomycin 1800 mg/ngày, chia 3 lần trong 4-6 tuần.
+- **Nếu nghi ngờ nhiễm liên cầu (*Streptococcus* nhóm A):**
+  - Penicillin G TM 2-4 triệu IU mỗi 4-6 giờ, sau chuyển sang penicillin V uống, hoặc
+  - Ceftriaxone TM 1-2 g/24 giờ.
+- **Nếu nghi nhiễm trực khuẩn mủ xanh:** Cần phối hợp ceftazidim 2g/lần x 2-3 lần/ngày với kháng sinh nhóm aminoglycosid (như gentamicin 3 mg/kg/ngày - dùng một lần tiêm bắp vào buổi sáng hoặc amikacin 15mg/kg/ngày tiêm bắp hoặc pha truyền TM 1 lần/ngày).
+- **Phần lớn các nhiễm vi khuẩn gram âm đường ruột:** Kháng sinh cephalosporin thế hệ 3 hoặc 4 đường TM trong 3-4 tuần, hoặc thuốc nhóm fluoroquinolon như levofloxacin 500mg đường tĩnh mạch hoặc uống mỗi 24 giờ.
+
+### 5. DỰ PHÒNG
+- Đảm bảo nguyên tắc vô trùng khi làm thủ thuật hoặc tiêm chích.
+- Điều trị tốt các ổ nhiễm ban đầu ở da như mụn nhọt, vết loét...
+- Kiểm soát tốt các bệnh lý mạn tính như đái tháo đường, các bệnh lý tự miễn.
+
+## TÀI LIỆU THAM KHẢO
+1. Nguyễn Thị Ngọc Lan (2010). "Viêm cơ do vi khuẩn", *Bệnh học cơ xương khớp nội khoa*. NXB Giáo dục Việt Nam, 2010: 239-246.
+2. Burke Acunha (2008). *Antibiotic essentials*. Eighth edition - Physician's Press.
+3. David N. Gilbert, Robert C. Moellering, et al. (2011). *The Sanford Guide to Antimicrobial Therapy*. 41st Edition.
+4. *Clinical Procedures in Emergency Medicine*. 5th ed.
+5. Stryjewski ME, Chambers HF (2008). *Skin and soft-tissue infections caused by community-acquired methicillin-resistant Staphylococcus aureus*. *Clin Infect Dis*. Jun 1;46 Suppl 5:S368-77.
+
+# VIÊM XƯƠNG TỦY NHIỄM KHUẨN
+
+## 1. ĐẠI CƯƠNG
+Viêm xương tủy (*Osteomyelitis*), hay còn gọi là cốt tủy viêm, là một bệnh nhiễm trùng của xương (vỏ hoặc tủy xương), có thể là cấp tính hoặc mạn tính, do nhiều loại vi sinh vật gây nên, nhưng thường gặp nhất là vi khuẩn.
+
+## 2. NGUYÊN NHÂN
+
+### 2.1. Nguyên nhân
+- Vi khuẩn hay gặp nhất là tụ cầu vàng (*Staphylococcus aureus*).
+- Các vi khuẩn thường gặp khác bao gồm liên cầu tan huyết nhóm B, các chủng *Pseudomonas*, *E. coli* và các trực khuẩn đường ruột khác và một số loại vi khuẩn khác.
+
+### 2.2. Yếu tố nguy cơ
+Nhiễm trùng da kéo dài, bệnh tiểu đường không được kiểm soát, máu lưu thông kém (xơ cứng động mạch), các yếu tố nguy cơ cho máu lưu thông kém (huyết áp cao, hút thuốc lá, cholesterol máu cao và bệnh tiểu đường), suy giảm miễn dịch, khớp giả, việc sử dụng thuốc tiêm tĩnh mạch, ung thư.
+
+### 2.3. Phân loại
+- Viêm xương tủy cấp tính: từ đường máu và từ đường kế cận.
+- Viêm xương tủy mạn tính: xảy ra sau viêm xương tủy cấp tính đường máu.
+
+## 3. TRIỆU CHỨNG - CHẨN ĐOÁN
+
+### 3.1. Lâm sàng
+- **Viêm xương tủy đường máu:** Biểu hiện hội chứng viêm (sốt, rét run, mệt mỏi...). Biểu hiện đau không rõ ràng, thường chỉ thấy hơi sưng nề tại vùng đau. Muộn hơn thấy có khối sưng, nóng, đỏ, đau rõ, giống như một viêm cơ, vùng khớp lân cận sưng nề. Chọc dò có thể thấy mủ, nuôi cấy vi khuẩn thấy đa số là tụ cầu vàng.
+- **Viêm xương tủy đường kế cận:** Sau mổ, sau gãy xương hở... từ ngày thứ 4, 5 trở đi, bệnh nhân tiếp tục sốt cao, rét run. Đau nhức tại ổ gãy hoặc tại vết thương, đau ngày càng tăng. Căng nề, tấy đỏ lan tỏa tại vết thương hay vết mổ, chảy mủ thối qua vết thương, vết mổ.
+- **Viêm xương tủy mạn tính:** Xảy ra sau viêm xương tủy cấp không được điều trị triệt để, bệnh tái phát từng đợt với đặc trưng là lỗ dò và xương chết.
+
+### 3.2. Cận lâm sàng
+- **Xét nghiệm máu:** Trong viêm xương tủy cấp thường có tăng bạch cầu (viêm xương tủy mạn tính bạch cầu máu thường bình thường). Tốc độ máu lắng và protein C phản ứng (CRP) thường tăng cao.
+- **X-quang:** Hình ảnh hủy xương và phản ứng màng xương. Tổn thương trên X-quang thường chỉ rõ khi nhiễm trùng đã có từ 10-14 ngày. X-quang bình thường không loại trừ chẩn đoán viêm tủy xương.
+- **Xạ hình xương:** Có ích trong chẩn đoán sớm viêm xương tủy cấp. Thường làm xạ hình xương ba pha. Thuốc sử dụng là Technetium-99, được tích lũy trong vị trí gia tăng lưu lượng máu và hình thành xương phản ứng.
+- **Chụp cắt lớp vi tính (CT scan) và chụp cộng hưởng từ (MRI):** Rất có giá trị trong chẩn đoán và đánh giá của viêm tủy xương.
+- **Định danh vi khuẩn:**
+  - Sinh thiết mô xương viêm là tiêu chuẩn vàng để chẩn đoán viêm tủy xương và để lựa chọn một loại kháng sinh phù hợp.
+  - Cần thiết phải cấy máu, cấy mủ hoặc các vật cấy ghép vào cơ thể và cần nuôi cấy trên môi trường kỵ khí.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc chung
+Chẩn đoán bệnh sớm, dùng kháng sinh (liều cao, đường tĩnh mạch, kết hợp kháng sinh, kéo dài ít nhất 6 tuần), cần cấy máu hoặc mô để định danh vi khuẩn trước khi dùng kháng sinh, dẫn lưu mủ và tổ chức hoại tử, loại bỏ các vật cấy ghép vào cơ thể.
+
+### 4.2. Điều trị cụ thể
+- **Kháng sinh:**
+  - **Giai đoạn đầu:** Lựa chọn kháng sinh dựa theo kinh nghiệm. *Staphylococcus aureus* (nguyên nhân hàng đầu):
+    - *Tụ cầu nhạy cảm với methicillin (MSSA):* Nafcillin hoặc oxacillin 2g tiêm mạch mỗi 6 giờ 1 lần (8g/ngày).
+    - *Tụ cầu kháng methicillin (MRSA):* Vancomycin 1g tiêm mạch mỗi 12 giờ, hoặc daptomycin 4-6 mg/kg cân nặng đường TM 1 lần/ngày, hoặc teicoplanin 6 mg/kg 1 lần/ngày trong những ngày đầu, sau đó giảm còn 3 mg/kg TM hoặc tiêm bắp; hoặc linezolid 600mg mỗi 12 giờ tiêm mạch, hoặc uống rifampicin 300mg uống 2 lần/ngày.
+    - *Nếu dị ứng hoặc không đáp ứng các kháng sinh trên:* Clindamycin 6 mg/kg (600-900 mg) tiêm mạch mỗi 8 giờ, hoặc levofloxacin 750mg uống mỗi 24 giờ ± rifampicin 300mg uống 2 lần/ngày, hoặc acid fusidic 500mg tiêm mạch mỗi 8 giờ kết hợp với rifampicin 300mg uống 2 lần/ngày.
+  - **Trường hợp do trực khuẩn mủ xanh (*P. aeruginosa*):** Phối hợp kháng sinh nhóm aminoglycosid với ceftazidim 1g mỗi 8 giờ (hoặc với mezlocillin 3g tĩnh mạch mỗi 4 giờ). Thời gian dùng trong khoảng 2 tuần, sau đó dùng kháng sinh nhóm fluoroquinolon như ciprofloxacin 500mg uống 2 lần/ngày đơn độc hoặc phối hợp với ceftazidim.
+  - **Trường hợp nhiễm nhiều vi khuẩn (*S. aureus*, vi trùng Gram âm, *P. aeruginosa*) hay gặp trong viêm xương dài sau đóng đinh nội tủy:** Vancomycin 1g TM mỗi 12 giờ + ceftazidim (hoặc cefepim). Hoặc thay thế bằng linezolid 600mg TM hoặc uống 2 lần/ngày + ceftazidim (hoặc cefepim).
+  - **Phần lớn các nhiễm vi khuẩn gram âm đường ruột:** Kháng sinh cephalosporin thế hệ 3 hoặc 4 đường TM trong 3-4 tuần, hoặc thuốc nhóm fluoroquinolon như levofloxacin 500mg đường tĩnh mạch hoặc uống mỗi 24 giờ.
+  - **Lưu ý:**
+    - Trường hợp viêm xương mạn tính, viêm xương trên cơ địa đái tháo đường: Cần thiết có bằng chứng của vi khuẩn học và kháng sinh đồ để điều trị.
+    - Giai đoạn sau: Tùy theo đáp ứng lâm sàng và kết quả kháng sinh đồ.
+- **Các biện pháp phối hợp:**
+  - **Bất động:** Bó bột được chỉ định rộng rãi cho mọi trường hợp viêm xương tủy cấp tính, nhằm phòng gãy xương bệnh lý và giúp cho quá trình chống đỡ của cơ thể tốt hơn.
+  - **Dinh dưỡng:** Đảm bảo chế độ ăn uống đủ chất dinh dưỡng.
+  - **Phẫu thuật:** Rạch rộng tháo mủ, loại bỏ hoại tử. Tiến hành đục xương đến tận xương lành (chỗ xương có rỉ máu). Tháo bỏ các vật cấy ghép hoặc thậm chí phải cắt bỏ chi để ngăn chặn nhiễm trùng lan rộng thêm. Có thể truyền kháng sinh tại chỗ. Lấp đầy ổ khuyết xương là điều cần thiết và bắt buộc trong phẫu thuật điều trị viêm xương.
+
+## 5. DỰ PHÒNG
+Viêm xương tủy nếu không điều trị kịp thời hoặc điều trị không đầy đủ sẽ tiến triển thành mạn tính rất khó điều trị dứt bệnh. Vì vậy nhằm phòng chống viêm xương tủy, việc quản lý thích hợp các vết thương và chăm sóc y tế kịp thời các bệnh nhiễm trùng là rất cần thiết và cần được tuân thủ nghiêm ngặt.
+
+## TÀI LIỆU THAM KHẢO
+1. Chihara S, Segreti J (2010). "Osteomyelitis". *Dis Mon*.; 56(1):5-31.
+2. Calhoun JH, Manring MM (2005). "Adult osteomyelitis". *Infect Dis Clin North Am*.; 19(4):765–86.
+3. Aloui N, Nessib N, Jalel C, et al. (2004). "Acute osteomyelitis in children: early MRI diagnosis". *J Radiol*. Apr; 85(4 Pt 1):403-8.
+4. Joseph M. Fritz, Jay R. McDonald (2008). "Osteomyelitis: Approach to Diagnosis and Treatment". *Phys Sportsmed*.; 36(1): nihpa 116823.
+
+# CHẨN ĐOÁN VÀ ĐIỀU TRỊ NHIỄM KHUẨN DA VÀ MÔ MỀM
+
+## 1. ĐỊNH NGHĨA VÀ PHÂN LOẠI
+- Nhiễm trùng da và mô mềm là tình trạng viêm cấp tính của da và mô mềm thường do các vi khuẩn ký sinh trên da như tụ cầu, liên cầu… gây ra khi có các yếu tố thuận lợi với các đặc điểm sưng, nóng, đỏ, đau vùng da và phần mềm bị tổn thương.
+- Phân loại theo Hiệp hội Bệnh truyền nhiễm Hoa Kỳ (IDSA) gồm năm loại:
+  - Nhiễm trùng bề mặt da.
+  - Nhiễm trùng đơn giản: chốc, viêm quầng, viêm mô tế bào.
+  - Nhiễm trùng hoại tử.
+  - Nhiễm trùng liên quan đến vết cắn của thú vật.
+  - Nhiễm trùng liên quan đến phẫu thuật và suy giảm miễn dịch.
+
+## 2. NGUYÊN NHÂN
+Một số tác nhân gây bệnh theo cấu trúc da và mô mềm:
+
+| Cấu trúc giải phẫu | Loại nhiễm khuẩn | Tác nhân gây bệnh |
+| :--- | :--- | :--- |
+| **Thượng bì** | Thủy đậu, sởi | *Varicella zoster virus*, *Measles virus* |
+| **Lớp keratin** | Nấm da | *Microsporum*, *Epidermophyton*, *Trichophyton* |
+| **Biểu bì** | Chốc, loét | *Streptococcus pyogenes*, *Staphylococcus aureus* |
+| **Hạ bì** | Viêm quầng | *Streptococcus pyogenes* |
+| **Nang lông** | Viêm nang lông, mụn nhọt | *Staphylococcus aureus* |
+| **Tuyến bã** | Mụn trứng cá | *Propionibacterium acnes* |
+| **Mô mỡ dưới da** | Viêm mô tế bào | Liên cầu tan huyết nhóm $\beta$ |
+| **Cân mạc** | Viêm hoại tử cân mạc | *S. pyogenes* và vi khuẩn yếm khí |
+| **Lớp cơ** | Viêm cơ và hoại tử cơ | *S. aureus* và *C. perfringens* |
+
+## 3. ĐƯỜNG XÂM NHẬP CỦA VI KHUẨN
+- Nhiễm trùng thường theo sau một tổn thương da: vết thương da (giập, nứt, rách, đâm xuyên, côn trùng hay thú vật cắn,…), vết thương phẫu thuật (kim tiêm, vết mổ hay thủ thuật như thông tiểu, các vật liệu thay thế), hoặc không phát hiện được tổn thương ban đầu.
+- Điều kiện thuận lợi tại chỗ là tình trạng hăm do ẩm ướt, nấm da, viêm tắc tĩnh mạch hay bạch huyết, loét tì đè, béo phì.
+- Điều kiện thuận lợi toàn thân là cơ địa dễ bị nhiễm khuẩn như đái tháo đường, nhiễm HIV, các bệnh lý tự miễn, bệnh ác tính, người già, tình trạng suy kiệt hoặc sử dụng kéo dài một số thuốc như glucocorticoid, methotrexate, và các thuốc ức chế miễn dịch khác…
+
+## 4. CHẨN ĐOÁN
+
+### 4.1. Lâm sàng
+- Triệu chứng tại chỗ:
+  - **Nhẹ:** nhọt, mụn mủ, bọng nước, mảng hồng ban, sau đó đóng vảy, diễn tiến ly tâm.
+  - **Tổn thương sâu hơn (viêm mô tế bào, hoại tử mạc - cơ):** sưng, nóng, đỏ, đau, bề mặt da giống như vỏ cam, ranh giới giữa vùng da bệnh và lành không rõ.
+  - Bọng nước, xuất huyết dạng điểm hoặc mảng, vỡ ra làm cho nhiễm trùng càng lan rộng và sâu hơn.
+- Hạch vùng da tổn thương có thể có hoặc không.
+- Triệu chứng toàn thân: sốt cao, rét run, mệt mỏi, xanh xao, gầy sút, chán ăn.
+- Dấu hiệu nặng:
+  - Huyết áp tâm thu < 90 mmHg.
+  - Mạch > 100 lần/phút hoặc < 60 lần/phút.
+  - Nhiệt độ > 39 °C hoặc < 36,5 °C.
+- Phân độ Eron:
+
+| Phân độ Eron | Dấu hiệu toàn thân | Bệnh kèm |
+| :--- | :--- | :--- |
+| **Độ I** | (-) | (-) |
+| **Độ II** | (+/-) | (+/-) |
+| **Độ III** | Dấu hiệu nhiễm độc và triệu chứng toàn thân (sốt, mạch nhanh, HA tụt, thở nhanh) | (+/-) |
+| **Độ IV** | Hội chứng nhiễm trùng nhiễm độc nặng đe dọa tính mạng (Sốc, trụy tim mạch, nhiễm toan, suy hô hấp,...) | (+/-) |
+
+### 4.2. Cận lâm sàng
+- Tế bào máu ngoại vi: tăng số lượng bạch cầu, đặc biệt là bạch cầu đa nhân.
+- Tăng tốc độ lắng máu.
+- Tăng nồng độ protein C phản ứng huyết thanh (CRP).
+- Cấy máu định danh vi khuẩn: có thể dương tính.
+- Siêu âm, CT-scanner, MRI: có thể thấy hình ảnh viêm - áp xe tổ chức dưới da và mô mềm, cơ. Ngoài ra MRI còn giúp chẩn đoán phân biệt giữa viêm xương tủy với hoại tử cơ do vi khuẩn kỵ khí.
+- Vi trùng học: soi tươi, nuôi cấy, kháng sinh đồ của các loại bệnh phẩm như máu và dịch tiết hoặc mủ tại vị trí sang thương.
+
+### 4.3. Chẩn đoán xác định
+Tiêu chuẩn vàng cho chẩn đoán xác định là phân lập được vi khuẩn gây bệnh, nhưng trong thực tế chỉ có khoảng 5% trường hợp cấy máu cho kết quả (+), và 20-30% từ dịch vết thương.
+Chẩn đoán thường được xác lập dựa trên bệnh cảnh lâm sàng với các dấu hiệu tại chỗ, toàn thân kết hợp với cận lâm sàng và hình ảnh học.
+
+### 4.4. Chẩn đoán phân biệt
+- Ung thư di căn da.
+- Viêm da cơ tự miễn.
+- Tình trạng phù nề phần mềm cạnh khớp trong gout cấp.
+
+## 5. ĐIỀU TRỊ
+
+### 5.1. Nguyên tắc điều trị
+- Loại bỏ tình trạng nhiễm trùng bằng kháng sinh phù hợp và chăm sóc vết thương.
+- Phòng ngừa tình trạng nhiễm trùng lan rộng.
+- **Kháng sinh:**
+  Kháng sinh nên điều trị ngay trước khi có kết quả kháng sinh đồ, có thể dựa trên phân độ Eron:
+  - **Độ I:** kháng sinh đường uống: dicloxacillin, erythromycin, cephalexin, augmentin, clindamycin.
+  - **Độ II và độ III:** kháng sinh đường toàn thân: nafcillin hoặc oxacillin (1-2 g/4h/ngày); clindamycin (600 mg/8h/ngày), vancomycin (30 mg/kg chia 2 lần/ngày). MRSA: vancomycin, linezolid, daptomycin.
+  - **Độ III - IV:** phối hợp các kháng sinh, hoặc với meropenem, ertapenem, imipenem.
+  - Đánh giá đáp ứng lâm sàng sau 48-72 giờ, sau đó điều chỉnh kháng sinh theo kháng sinh đồ.
+- **Điều trị hỗ trợ:**
+  - Giảm đau: paracetamol, codein, tramadol…
+  - Kháng viêm không steroid khi cần.
+  - Tại chỗ: thay băng hay chăm sóc vết thương, phẫu thuật cắt lọc hay dẫn lưu mủ khi cần.
+  - Toàn thân: nâng tổng trạng, điều chỉnh nước - điện giải, bù protein, albumin, huyết tương, máu khi cần.
+
+### 5.2. Theo dõi
+- Theo dõi các dấu hiệu sinh tồn, các triệu chứng toàn thân, triệu chứng tại chỗ để phát hiện diễn biến chuyển độ nặng đòi hỏi thay đổi chiến thuật điều trị phù hợp và kịp thời.
+
+```mermaid
+graph TD
+    Start([SƠ ĐỒ ĐIỀU TRỊ NHIỄM TRÙNG DA - MÔ MỀM]) --> Assessment{Phân độ Eron}
+    
+    Assessment -->|Eron I| Outpatient[NGOẠI TRÚ]
+    Assessment -->|Eron II| Inpatient[NỘI TRÚ]
+    Assessment -->|Eron III - IV| ICU[HỒI SỨC]
+
+    Outpatient --> Tx1[Kháng sinh uống:<br>- Dicloxacillin<br>- Erythromycin<br>- Cephalexin<br>- Augmentin<br>- Clindamycin]
+    
+    Inpatient --> Tx2[Kháng sinh tiêm:<br>- Nafcillin hoặc Oxacillin<br>- Clindamycin<br>- Vancomycin<br>- Linezolid<br>- Daptomycin]
+    
+    ICU --> Tx3[Kháng sinh phối hợp tiêm:<br>- Meropenem<br>- Ertapenem<br>- Imipenem<br><br>Hồi sức tích cực]
+
+    Tx1 --> Support[Điều trị hỗ trợ:<br>- Giảm đau, KVKS<br>- Tại chỗ: thay băng, cắt lọc, dẫn lưu...<br>- Nâng tổng trạng, điện giải<br>- Điều trị bệnh đi kèm]
+    Tx2 --> Support
+    Tx3 --> Support
+
+    Support --> Reevaluate{Sau 48 - 72 giờ}
+    Reevaluate --> Eval[Đánh giá lại lâm sàng, cận lâm sàng]
+    Eval --> Adjust[Điều chỉnh kháng sinh theo kháng sinh đồ nếu cần]
+```
+*(KS: Kháng sinh, KVKS: Kháng viêm không steroid)*
+
+- Theo dõi chức năng gan, thận và bilan viêm (tế bào máu ngoại vi, tốc độ lắng máu, CRP) thường xuyên.
+- Thời gian điều trị tuỳ dạng lâm sàng, có thể kéo dài 4-6 tuần.
+- Có thể chuyển sang kháng sinh đường uống khi lâm sàng ổn định sau 10-14 ngày. Điều kiện là phải phù hợp kháng sinh đồ và kiểm soát tốt tình trạng nhiễm trùng, các bệnh đi kèm ổn định.
+
+## TÀI LIỆU THAM KHẢO
+1. Barr Walter G. 2009. "Mycobacterial infections of bones and joints". Kelley's textbook of rheumatology. Chap 101.
+2. Bhattacharya Roby P., Simmons Rachel P. and Basgoz. 2011. "Infectious diseases. Pocket medicine 4th". The handbook general hospital handbook of Internal medicine. P. 6-16.
+3. Eron Lawrence J., Laine Christine et al (2008), "Cellulitis and soft tissues infections". Annals of Internal medicine.
+4. Ghafur Abdul, Shareek PS, Chennai (2012), "Skin and soft tissue infection". Medicine update. Vol 22. P. 60-66.
+5. Hagan Jose E., Babcock Hilary M. and Kimani Nigar, (2010), "Treatment of infectious diseases". The Washington manual of medical therapeutics 33rd edition. P. 444.
+
+# HỒNG BAN NÚT
+
+## 1. ĐẠI CƯƠNG
+Hồng ban nút (*Erythema nodosum*) là tình trạng viêm của các tế bào mỡ dưới da (*panniculitis*) biểu hiện dưới dạng sẩn hoặc u cục nhỏ màu đỏ, thường gặp nhất ở hai cẳng chân. Cơ chế bệnh sinh chưa biết rõ, thường xảy ra ở người mang gen HLA B8 (80%) và 6% có tính chất gia đình. Đây được coi là sự đáp ứng miễn dịch với các nguyên nhân khác nhau (tình trạng nhiễm khuẩn, sử dụng một số thuốc) hoặc có thể là triệu chứng của một số bệnh hệ thống, đôi khi có thể không rõ nguyên nhân. Ở Việt Nam, nguyên nhân thường gặp nhất là lao và nhiễm liên cầu khuẩn tan huyết và điều trị nguyên nhân khiến bệnh khỏi hoàn toàn. Bệnh gặp ở nữ nhiều hơn nam, tỷ lệ 3-7 nữ/1 nam, ở bất kỳ lứa tuổi nào song thường gặp nhất ở lứa tuổi từ 20 đến 40.
+
+## 2. NGUYÊN NHÂN
+Có khoảng 25-50% trường hợp không tìm thấy nguyên nhân. Số còn lại do hai nhóm nguyên nhân chính: bệnh lý nhiễm trùng, viêm.
+- Trong số các nhiễm trùng ở Việt Nam, nguyên nhân thường gặp nhất là lao và nhiễm liên cầu. Ngoài ra có thể gặp nhiễm *Yersinia*, *Chlamydia*, *Salmonella*; viêm gan virus A, B, C; *Brucella* hoặc *Mycobacterium leprae* (Bệnh phong).
+- Bệnh viêm: sarcoidosis, bệnh Behçet; viêm đại trực tràng chảy máu và bệnh Crohn.
+- Nguyên nhân khác do thuốc (sulfamid, thuốc chống viêm không steroid, dẫn xuất iod, thuốc tránh thai), tình trạng mang thai...
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Lâm sàng
+**Hồng ban nút:** ban màu đỏ, dạng u cục, sẩn cứng.
+- **Hình thái hồng ban nút:** những u cục có thể nhìn hoặc sờ thấy ở dưới da, hình tròn hoặc ovan; kích thước có thể dao động từ 1-10 cm đường kính, thường gặp khoảng 1-2 cm. Sẩn cục này rắn, ít di động, xung quanh các cục sưng nề. Đôi khi nhiều sẩn cục kết hợp lại thành một mảng lớn.
+- **Vị trí:** mặt trước cẳng chân, hai bên, đối xứng. Các nốt có thể xảy ra bất cứ nơi nào có chất béo dưới da, bao gồm cả đùi, cánh tay, thân, mặt, song hiếm gặp ở chi trên, ở mặt và vùng cổ.
+- **Tiến triển:** ban đa dạng, tuổi khác nhau với màu sắc thay đổi như đám xuất huyết dưới da (chuyển thành màu tím hơi xanh, nâu, vàng nhạt, và cuối cùng là màu xanh lá cây). Ban biến mất trong vòng từ 10-15 ngày, không để lại sẹo hay di chứng teo da.
+- **Triệu chứng phối hợp:** Hồng ban nút ban đỏ thường xuất hiện cùng với các triệu chứng tương tự như cúm, sốt và cảm giác mệt mỏi. Đau khớp, viêm màng hoạt dịch và cảm giác cứng khớp có thể xảy ra trước hoặc đồng thời với tổn thương da, và có thể kéo dài đến 6 tháng.
+
+### 3.2. Cận lâm sàng
+- Hội chứng viêm: tốc độ máu lắng giờ đầu tăng, bạch cầu đa nhân trung tính tăng.
+- Mô bệnh học: sinh thiết tổn thương da chỉ được chỉ định trong trường hợp không điển hình. Kết quả cho thấy tình trạng viêm có vách của các tế bào mỡ dưới da (*panniculitis*) cấp tính hoặc mãn tính tại tổ chức mỡ và xung quanh các mạch máu.
+- Các xét nghiệm tìm kiếm nguyên nhân:
+  - Phân lập liên cầu khuẩn tan huyết beta từ dịch lấy từ họng, xét nghiệm ASLO.
+  - Test Mantoux, X-quang phổi (đôi khi cần chụp CT phổi) và phát hiện tình trạng nhiễm vi khuẩn BK khi nội soi phế quản.
+  - X-quang phổi: hạch rốn phổi một bên thường gặp trong các bệnh nhiễm trùng hoặc bệnh ác tính; hạch rốn phổi hai bên thường kết hợp với sarcoidosis.
+
+### 3.3. Chẩn đoán xác định
+- Thể điển hình: hồng ban nút biểu hiện rõ, dễ dàng phát hiện, kèm theo bệnh nhân có sốt, đau khớp.
+- Thể không điển hình: Sinh thiết tổn thương da.
+
+### 3.4. Chẩn đoán phân biệt
+Phân biệt các ban trong viêm da bán cấp hoặc mãn tính. Giai đoạn đầu cần phân biệt: Viêm quầng (*erysipèle*), vết côn trùng cắn, sẩn mày đay cấp tính, viêm tắc tĩnh mạch nông, viêm tắc tĩnh mạch dạng nốt. Giai đoạn tiến triển cần phân biệt với viêm nút quanh động mạch; viêm mạch hoại tử...
+
+## 4. ĐIỀU TRỊ
+Hồng ban nút thường tự biến mất trong vòng 3-6 tuần. Cần điều trị nguyên nhân (lao, liên cầu) nếu phát hiện được nguyên nhân. Thalidomide được chỉ định trong trường hợp hồng ban nút do *Mycobacterium leprae* (bệnh phong). Điều trị triệu chứng bao gồm các biện pháp dưới đây.
+- Nghỉ tại giường, nâng cao chân, sử dụng tất đàn hồi như trong điều trị giãn tĩnh mạch chi dưới có thể cải thiện triệu chứng phù chân.
+- Thuốc chống viêm không steroid, thuốc giảm đau (nếu cần).
+- Corticosteroid: liều 40 mg mỗi ngày (chỉ định với thể không rõ nguyên nhân): các nốt hồng ban mất sau vài ngày. Trường hợp hồng ban kéo dài có thể tiêm triamcinolone acetonide, với liều 5 mg/ml, tiêm trực tiếp vào trung tâm của các nốt hồng ban.
+- Colchicine: liều 0,6 mg đến 1,2 mg, hai lần mỗi ngày, thường được chỉ định trong trường hợp hồng ban nút do bệnh Behçet.
+- Trường hợp hồng ban nút do nguyên nhân viêm đại trực tràng chảy máu hay bệnh Crohn có thể chỉ định Hydroxychloroquine 200 mg/ngày hoặc cyclosporin A, hoặc các thuốc sinh học (Infliximab, Rituximab...).
+- Thuốc chống sốt rét tổng hợp: hydroxychloroquine: 200 mg hai lần mỗi ngày.
+- Muối iod (*iodure de potassium*): có thể chỉ định trong trường hợp tổn thương kéo dài không rõ nguyên nhân (cơ chế chưa rõ).
+
+## 5. TIẾN TRIỂN VÀ BIẾN CHỨNG
+Hồng ban nút khỏi tự nhiên từ 3-6 tuần, tuy nhiên bệnh hay tái phát 3-4 lần (12-14%) nếu không điều trị dứt điểm nguyên nhân gây bệnh.
+
+## TÀI LIỆU THAM KHẢO
+1. C. Longueville, V. Doffoel-Hantz, S. Hantz, N. Souyri, Y. Nouaille, C. Bédane, A. Sparsa. (2012), 'Erytheme noueux induit par le Gardasil', Rev Med Int 2012; 33 (3) e17-e18.
+2. M. Mazouni. (2009), "A propos de l’érythème noueux chez l’enfant", Paediatrica 2009; 20 (2) 32-35.
+3. S. Youssef, H. Hammami, S. Cheffaï, M.R. Dhaoui, K. Jaber, N. Doss. (2009), 'Erytheme noueux unilatéral associé à une leishmaniose cutanée homolatérale', Med Mal Infect 2009; 39 (9) 739-740.
+
+# LOẠN DƯỠNG CƠ TIẾN TRIỂN
+
+## 1. ĐẠI CƯƠNG
+
+### 1.1. Định nghĩa
+- Loạn dưỡng cơ tiến triển (*Progressive muscular dystrophies*) là một nhóm bệnh cơ vân thoái hóa tiến triển do các bất thường về gen di truyền với các đặc điểm về lâm sàng và di truyền đặc trưng.
+- Bệnh được chia thành các thể:
+  - Loạn dưỡng cơ Duchenne.
+  - Loạn dưỡng cơ Becker.
+  - Loạn dưỡng cơ mặt - vai - cánh tay và một số thể hiếm gặp khác.
+
+### 1.2. Dịch tễ học
+Tùy theo thể, bệnh có thể gặp ở trẻ em hoặc cả trẻ em và người lớn. Riêng loạn dưỡng cơ Duchenne và bẩm sinh gặp ở trẻ em dưới 5 tuổi và trẻ sơ sinh hoặc những tháng đầu sau đẻ, loạn dưỡng cơ mắt và hầu họng gặp ở những người 50-60 tuổi.
+
+### 1.3. Cơ chế bệnh sinh
+Do các bất thường về di truyền gây ra thiếu hụt hoặc biến đổi các protein cấu trúc của tế bào cơ. Hậu quả là làm rối loạn quá trình phát triển của cơ gây ra thoái hóa, teo cơ, giảm hoặc mất chức năng vận động của cơ.
+
+## 2. CHẨN ĐOÁN
+### 2.1. Chẩn đoán xác định
+Chẩn đoán của chứng loạn dưỡng cơ được dựa trên tình trạng yếu cơ, teo cơ, tăng enzym cơ (creatine phosphokinase - CK), rối loạn điện cơ có nguồn gốc cơ, kết hợp với kết quả sinh thiết cơ và phân tích DNA.
+
+#### 2.1.1. Loạn dưỡng cơ Duchenne
+- Gặp chủ yếu ở nam.
+- Yếu cơ xuất hiện sớm ngay sau đẻ hoặc trước 6 tuổi, yếu cơ xuất hiện ban đầu ở các cơ mông, chi dưới sau đó ở các cơ lưng, hô hấp, chi trên, tổn thương cơ gốc chi xuất hiện trước. Ở giai đoạn sớm có thể có phì đại một số cơ do xâm nhập các tổ chức mỡ thay vì các mô cơ (được gọi là teo cơ giả phì đại) - thường gặp nhất ở các cơ cẳng chân. Tiếp sau đó là giai đoạn teo cơ tiến triển. Thường không có teo ở cơ bụng chân và một số trường hợp cơ rộng và cơ delta cánh tay.
+- Trẻ thường yếu, chậm biết đi, hay ngã.
+- Biến dạng cột sống: gù vẹo, vẹo hoặc ưỡn cột sống.
+- Giai đoạn muộn có teo cơ hô hấp, khó thở, giảm hoặc mất phản xạ gân xương.
+- Có thể có bệnh lý cơ tim và thiểu năng trí tuệ kèm theo.
+- Xét nghiệm enzym cơ (CK) thường tăng cao.
+- Điện cơ có các rối loạn nguồn gốc cơ.
+- Sinh thiết cơ nhuộm hóa miễn dịch hoặc xét nghiệm ELISA không tìm thấy dystrophin.
+- Xét nghiệm di truyền có bất thường gen mã hóa dystrophin.
+
+#### 2.1.2. Loạn dưỡng cơ Becker
+- Gặp chủ yếu ở nam.
+- Các triệu chứng yếu cơ, phì đại và teo cơ giống như trong loạn dưỡng cơ Duchenne nhưng thường xuất hiện muộn hơn khoảng từ 10 - 15 tuổi.
+- Mức độ tổn thương cơ nhẹ hơn so với loạn dưỡng cơ Duchenne.
+- Xét nghiệm enzym cơ (CK) bình thường hoặc tăng nhẹ.
+- Điện cơ có các rối loạn nguồn gốc cơ.
+- Thường không có thiểu năng trí tuệ kèm theo.
+- Sinh thiết cơ nhuộm hóa miễn dịch thấy biến đổi về cấu trúc của dystrophin. Có một số trường hợp cho kết quả vừa có giảm số lượng và biến đổi về cấu trúc của dystrophin được xếp vào loạn dưỡng cơ thể trung gian giữa Duchenne và Becker.
+- Xét nghiệm di truyền có bất thường gen mã hóa dystrophin.
+
+#### 2.1.3. Loạn dưỡng cơ mặt - vai - cánh tay
+- Tuổi bị bệnh thường là ở lứa tuổi thanh niên.
+- Yếu cơ mặt biểu hiện bằng hạn chế vận động môi, môi hơi trễ và cong ra ngoài, mắt nhắm không kín, không làm được các động tác như huýt sáo, thổi bóng.
+- Xương bả vai nhô lên trông như cánh gà. Bệnh nhân không giơ tay lên ngang vai được mặc dù cơ delta không yếu.
+- Đai vai có hình dạng đặc trưng, nhìn từ phía trước xương đòn có vẻ xuống thấp, đỉnh xương bả vai nhô lên bên trên hố thượng đòn.
+- Yếu cơ gốc chi ở chân, tay hơn là cơ mác và cơ chày trước.
+- Bệnh có thể gặp ở nhiều thành viên trong một gia đình, với các mức độ khác nhau từ nhẹ, tiến triển chậm đến nặng dẫn đến tàn phế cho người bệnh.
+- Các triệu chứng khác có thể gặp như điếc, chậm phát triển trí tuệ, liệt mặt hai bên, bệnh mạch máu võng mạc như dãn mạch từng điểm và xuất tiết võng mạc.
+
+### 2.2. Chẩn đoán phân biệt
+Loạn dưỡng cơ cần được chẩn đoán phân biệt với một số tình trạng bình thường hoặc bệnh lý sau:
+
+#### 2.2.1. Chậm phát triển vận động ở trẻ em
+- Không có yếu cơ bất thường.
+- Các xét nghiệm enzym cơ (CK) bình thường.
+- Điện cơ không có rối loạn.
+- Sinh thiết cơ bình thường.
+
+#### 2.2.2. Trường hợp có yếu cơ gốc chi lan tỏa
+Cần phân biệt với viêm đa cơ, viêm da cơ...
+
+#### 2.2.3. Các bệnh lý cơ do nguyên nhân thần kinh
+- Dựa vào các dấu hiệu về thần kinh.
+- Điện cơ có tổn thương nguồn gốc thần kinh.
+- Xét nghiệm enzym cơ (CK) không thay đổi.
+- Sinh thiết cơ bình thường.
+
+#### 2.2.4. Các bệnh lý cơ nguyên nhân do thuốc, chuyển hóa, nội tiết
+Cần khai thác kỹ tiền sử dùng thuốc, căn cứ vào các triệu chứng lâm sàng và xét nghiệm của các bệnh này.
+
+## 3. ĐIỀU TRỊ
+- Hiện tại không có phương pháp điều trị đặc hiệu loạn dưỡng cơ tiến triển.
+- Các biện pháp điều trị chủ yếu để hạn chế các biến chứng có thể xảy ra do tình trạng yếu cơ tiến triển, suy hô hấp, rối loạn tim mạch.
+
+### 3.1. Các biện pháp không dùng thuốc
+- Không nên nghỉ ngơi tại giường trong thời gian dài. Khuyến khích người bệnh duy trì các hoạt động trong sinh hoạt hàng ngày. Bơi là một trong những biện pháp tốt (nếu có điều kiện).
+- Cần khuyến khích bệnh nhân tập thở. Hô hấp hỗ trợ khi có tổn thương cơ hô hấp.
+- Vật lý trị liệu bằng kích thích điện.
+- Cần có chế độ dinh dưỡng giàu protein như thịt nạc, hải sản, đậu. Nên tăng cường sử dụng dầu ô liu, chất chống oxy hóa. Giảm lượng thực phẩm chế biến, chất béo, cafein và các đồ uống có cồn...
+
+### 3.2. Các thuốc điều trị
+- Corticosteroid: prednisolone đường uống bắt đầu với liều 0,75 mg/kg/ngày, sau đó giảm liều dần. Thuốc có tác dụng làm chậm quá trình tiến triển bệnh nhưng không ngăn chặn được hoàn toàn. Thời gian dùng corticoid có thể kéo dài trong nhiều năm.
+- Điều trị biến chứng nhiễm trùng hô hấp, suy hô hấp, rối loạn tim mạch nếu có.
+- Điều trị thay thế hoặc cấy ghép gen, tế bào gốc hiện đang được nghiên cứu.
+
+## TÀI LIỆU THAM KHẢO
+1. Nguyễn Thị Ngọc Lan và CS (2011), “Bệnh học cơ xương khớp nội khoa”. NXB Giáo dục Việt Nam.
+2. Dalakas, M.C., “Polymyositis, Dermatomyositis, and Inclusion Body Myositis”, in Harrison's Principles of Internal Medicine. Fauci, A.S., et al., Editors. 2008, McGraw-Hill.
+3. McPhee, S.J., M.A. Papadakis, “Current Medical Diagnosis & Treatment”. 50th ed. 2011: McGraw-Hill.
+4. Ropper, A.H., Samuels, M.A., “The Muscular Dystrophies, in Adams and Victor's Principles of Neurology”. Ropper, A.H., Samuels, M.A., Editors 9th ed. 2008: McGraw-Hill.
+
+# CHẨN ĐOÁN VÀ ĐIỀU TRỊ NHƯỢC CƠ
+
+## 1. ĐẠI CƯƠNG
+Nhược cơ là một bệnh về rối loạn thần kinh cơ, được đặc trưng bởi tình trạng yếu và mỏi cơ. Bản chất của bệnh là tình trạng giảm số lượng các thụ thể acetylcholine tại bản vận động cơ do sự tấn công của các kháng thể tự miễn vào các thụ thể này. Tình trạng yếu cơ thay đổi và xảy ra với một số cơ chủ động, nhất là các cơ kích thích bởi các tế bào thần kinh vận động ví dụ như các cơ vận nhãn, cơ nhai, cơ mặt, cơ nuốt và cơ thanh quản. Yếu cơ xảy ra khi cơ hoạt động liên tục và phục hồi khi nghỉ ngơi. Sử dụng các thuốc kháng cholinesterase giúp phục hồi cơ lực nhanh. Bệnh có liên quan rõ rệt tới tuyến ức: 10-15% trường hợp có u tân sinh (neoplasm) của tuyến ức, 65% có tăng sản các nang lympho (lymphofollicular hyperplasia) ở tủy tuyến ức, với các trung tâm mầm (germinal centers) hoạt động mạnh ở phần tủy của tuyến.
+
+Khởi phát ở bất kỳ lứa tuổi nào, thường gặp độ tuổi 20-30 (đối với phụ nữ) và trên 50 (đối với nam) và có 10% trẻ dưới 10 tuổi. Nữ chiếm đa số (tỷ lệ nam/nữ là khoảng 2/3 và 1/5 đối với trẻ em). Tỷ lệ mới mắc hàng năm là 1-9 người/1 triệu dân, tỷ lệ mắc bệnh hiện có (prevalence) là 25-142 người/1 triệu dân. Người châu Á có tỷ lệ khởi phát bệnh ở tuổi trẻ nhiều hơn so với các chủng tộc khác.
+
+## 2. CHẨN ĐOÁN
+
+### 2.1. Triệu chứng lâm sàng
+Nét đặc trưng của bệnh nhược cơ là yếu cơ. Yếu một nhóm cơ tăng lên sau khi vận động và hồi phục (hoàn toàn hoặc một phần) khi nghỉ ngơi.
+
+Đa số trường hợp bệnh khởi phát âm thầm, chỉ một số ít phát triển rất nhanh. Bệnh có thể khởi phát sau một stress hay bệnh nhiễm trùng (thường là nhiễm trùng hô hấp); khi có thai hoặc khi gây mê.
+
+Vị trí cơ tổn thương: Biểu hiện đầu tiên thường ở các cơ ổ mắt, cơ ở mặt, cơ nhai, cơ cổ, cơ họng. Hiếm khi biểu hiện đầu tiên ở cơ tứ chi. Giai đoạn cuối, tổn thương cơ ra toàn thân. Phân bố của yếu cơ không theo định khu giải phẫu.
+
+- **Tổn thương các cơ vận nhãn** (gặp ở khoảng 85% số bệnh nhân):
+  - Triệu chứng sụp mi rất gợi ý, đôi khi sụp mi một bên kèm với mở to mắt bên đối diện, do phản ứng cố gắng bù trừ tự nhiên. Có thể kèm theo nhìn đôi.
+  - Dấu hiệu Cogan: cho bệnh nhân nhìn xuống để cơ nâng mi được nghỉ, sau đó yêu cầu nhìn thẳng thật nhanh, mi trên sẽ giật mạnh, rồi nhanh chóng sụp xuống.
+  - Thao tác Gorelick: cho bệnh nhân nhìn ngược chằm chằm lên một điểm cố định trên cao, mi trên ở một bên mắt sẽ từ từ sụp xuống, dùng ngón tay (của người khám) để kéo và giữ mi bên đó lên, sau một lúc lại thấy mi trên phía bên kia từ từ sụp xuống. Thao tác này là rất đặc hiệu cho bệnh nhược cơ.
+- **Các cơ khác**: Các cơ ở mặt, các cơ tham gia nhai, nuốt và nói cũng thường bị tổn thương (5-10% tổng số bệnh nhân ở giai đoạn sớm và 80% ở giai đoạn toàn phát). Bệnh nhân chóng bị mỏi hàm khi nhai, thậm chí cằm có thể trễ xuống phải lấy tay đẩy lên. Bữa ăn dễ bị ngắt quãng do không nhai được và nuốt nghẹn tăng dần. Khi hội thoại thì càng về cuối, giọng nói càng khó nghe hơn và chuyển thành giọng mũi. Cổ có thể rũ xuống do yếu các cơ gáy. Khi bệnh đã phát triển, tất cả các cơ đều có thể bị yếu, bao gồm cả các cơ hô hấp như cơ hoành, cơ liên sườn, cơ thành bụng. Thậm chí khi bệnh nặng, có thể các cơ vòng của bàng quang và trực tràng cũng bị ảnh hưởng. Trong các cơ ở tứ chi, thì các cơ gốc chi thường bị nặng hơn các cơ ở ngoại biên.
+  - **Đặc điểm**: Trong một ngày, mức độ yếu cơ nhẹ vào buổi sáng và nặng lên vào buổi chiều tối. Hiếm khi có teo cơ. Cơ tim và các cơ trơn không bị ảnh hưởng. Phản xạ gân xương bình thường. Phản xạ đồng tử với ánh sáng và điều tiết vẫn bình thường.
+  - **Tính mạng bệnh nhân sẽ bị đe dọa** trong hai tình huống gần như ngược nhau, đó là cơn nhược cơ (myasthenic crisis) và cơn cường cholin (cholinergic crisis) (xem ở phần điều trị cấp cứu).
+- **Tổn thương kết hợp**: Khoảng 5-10% bệnh nhân nhược cơ có các rối loạn tuyến giáp (cường giáp hoặc suy giáp).
+- **Nhược cơ sơ sinh**: Gặp ở khoảng 10-15% trẻ sơ sinh của những bà mẹ nhược cơ. Các triệu chứng nhược cơ chỉ tạm thời, kéo dài trung bình 18 ngày rồi hết, không tái phát. Đã phát hiện thấy kháng thể kháng AChR vào cơ thể của trẻ qua nhau thai.
+
+### 2.2. Các test chẩn đoán trong lâm sàng
+- **Edrophonium (Tensilon) test**: Dùng để chẩn đoán nhược cơ và rất hữu ích để chẩn đoán phân biệt cơn nhược cơ với cơn cường cholin do thuốc tác dụng nhanh và hết tác dụng cũng nhanh trên cơ sở lực cơ phục hồi sau tiêm Edrophonium.
+  Trước khi tiến hành test, cho bệnh nhân dưới da 0,8 mg Atropine, nhằm loại trừ tác dụng không mong muốn muscarinic của thuốc. Gây khởi phát triệu chứng: Cho bệnh nhân nhìn ngược lên đến khi xuất hiện hiện tượng sụp mi; hoặc nhìn cố định về một hướng nào để xuất hiện hiện tượng nhìn đôi. Sau khi xuất hiện triệu chứng: Tiêm Tensilon tĩnh mạch. Tổng liều 10 mg (= 1 ml). Khởi đầu tiêm 1 mg (= 0,1 ml). Nếu bệnh nhân dung nạp thuốc tốt và không thấy cải thiện sức cơ sau 45 giây, bơm tiếp 3-6 mg. Sau 45 giây, nếu vẫn không có đáp ứng, có thể dùng nốt lượng còn lại trong vòng 1 phút. Đa số bệnh nhân có đáp ứng với 5 mg Tensilon, và tác dụng kéo dài 4-5 phút.
+  Đáp ứng: Hết nhìn đôi hoặc hết sụp mi. Lưu ý test này có thể dương tính trong những trường hợp sụp mi không do nhược cơ (hội chứng Guillain - Barré, liệt dây vận nhãn do khối u, bệnh lý tuyến giáp, phình mạch cảnh...), và có thể không âm tính giả trong giai đoạn đầu của bệnh nhược cơ. Tuy nhiên, nếu đã dùng tới liều tối đa mà không có đáp ứng, thì có thể là cơn cường cholin hoặc yếu cơ không do bệnh nhược cơ (xem thêm ở phần cấp cứu dưới đây).
+- **Neostigmine test**: Cũng tiêm dưới da 0,8 mg Atropin trước khi làm test. Sau đó tiêm bắp 1,5 mg Neostigmin. Các biểu hiện nhược cơ thuyên giảm sau 10-15 phút, tác dụng tối đa thường sau 20 phút. Tác dụng kéo dài 2-3 giờ. Nếu test âm tính, đa số các trường hợp không phải là nhược cơ tuy cũng không loại trừ hoàn toàn bệnh này.
+- **Test túi nước đá (Ice pack test)**: Trên bệnh nhân sụp mi nghi do nhược cơ, làm test bằng cách bỏ nước đá vào găng tay cao su, quấn quanh bằng khăn mặt, đặt trên mi mắt bệnh nhân trong 2 phút. Test dương tính nếu hết sụp mi. Độ nhạy của test là 82% và độ đặc hiệu là 96%.
+
+### 2.3. Cận lâm sàng
+- Các phương pháp chẩn đoán cận lâm sàng bao gồm điện cơ thường quy, điện cơ sợi đơn độc (SF-EMG), kích thích lặp lại liên tiếp, xét nghiệm tìm kháng thể chống thụ cảm thể acetylcholine (acetylcholine receptor antibody - ARA) và kháng thể kháng MuSK (muscle-specific tyrosine kinase). Xét nghiệm kháng thể có độ đặc hiệu cao nhất và điện cơ sợi đơn độc SF-EMG có độ nhạy cao nhất. Do đây là bệnh hiếm gặp và các xét nghiệm chuyên biệt nên chúng tôi không trình bày chi tiết.
+- **X-quang phổi**: Phát hiện viêm phổi do sặc (khá thường gặp) và có thể phát hiện gần 30% trường hợp u tuyến ức (đa số cần phát hiện u hoặc tăng sản tuyến ức trên CT scan và MRI). Các phương pháp bơm hơi trung thất ít khi được dùng.
+- **Khí máu động mạch và chức năng hô hấp**: Nên kiểm tra trong trường hợp nhược cơ nặng nhằm chỉ định thở máy.
+
+## 3. ĐIỀU TRỊ
+
+### 3.1. Thuốc kháng Cholinesterase
+Pyridostigmine (Mestinon) thường được dùng hơn neostigmine (Prostigmin). Liều lượng uống pyridostigmine (viên Mestinon 60 mg) 1/2 viên x 3 lần/ngày, có thể 30-90 mg cứ 6 giờ 1 lần (tối đa 120 mg/lần, 3 giờ 1 lần). Có loại viên tác dụng chậm, chỉ dùng lúc đi ngủ, dành cho người hay có nhược cơ nặng lên về đêm, hoặc sáng sớm. Liều lượng và thời gian dùng của mỗi thuốc cần được điều chỉnh cho từng trường hợp cụ thể. Với các bệnh nhân nhược cơ nhẹ, hoặc sau phẫu thuật tuyến ức và nhược cơ thể mắt đơn thuần có thể chỉ cần dùng thuốc kháng cholinesterase (trường hợp có biểu hiện nhìn đôi, có thể dùng thêm corticosteroids liều thấp). Dưới đây là một số chế phẩm và liều tương đương của các thuốc ức chế cholinesterase sử dụng trong điều trị nhược cơ.
+
+| Thuốc ức chế cholinesterase | Liều tương đương | Thời gian bắt đầu tác dụng | Thời gian đạt hiệu quả tối đa |
+| :--- | :--- | :--- | :--- |
+| Pyridostigmine uống (Mestinon) | 60 mg | 40 phút | 1 giờ |
+| Neostigmine uống | 15 mg | 1 giờ | 1,5 giờ |
+| Neostigmine tĩnh mạch | 1,5 mg | 30 phút | 1 giờ |
+| Neostigmine tiêm bắp | 0,5 mg | ngay | 20 phút |
+
+Thuộc nhóm kháng Cholinesterase còn có ambenonium (Mytelase), viên 10 mg, liều lượng 5-25 mg/lần x 3-4 lần/ngày, ít được dùng hơn hai thuốc trên.
+
+- Các thuốc kháng cholinesterase thường có tác dụng không mong muốn là hội chứng muscarinic như: buồn nôn và nôn, da xanh tái, toát mồ hôi và chảy dãi, nhịp tim chậm, đau bụng và tiêu chảy, có thể hạ huyết áp. Thường cần kết hợp Atropin nhằm giảm thiểu tác dụng này.
+
+### 3.2. Corticosteroids
+Chỉ định cho nhược cơ toàn thân mức độ trung bình hoặc nặng. Liều tính theo **prednisone**: Thường dùng đường uống, khởi đầu 10 - 15 mg/ngày, tăng dần liều cho tới 1 - 2 mg/kg cân nặng dựa vào triệu chứng lâm sàng. Nếu liều khởi đầu cao quá hoặc tăng liều nhanh quá thì triệu chứng nhược cơ có thể nặng lên. Thường đạt hiệu quả (sau vài tuần), cần giảm dần liều lượng chậm, rồi chuyển sang cho uống cách nhật (ngày uống, ngày nghỉ). Lưu ý bổ sung kali, calci và cho thuốc bảo vệ niêm mạc dạ dày (nên dùng nhóm ức chế bơm proton) để tránh loét dạ dày.
+
+Trường hợp bệnh nhân không thể uống có thể dùng đường tiêm tĩnh mạch: **methylprednisolone** (Solu-Medrol) liều tĩnh mạch 40 - 60 mg/lần và 3 - 4 lần/ngày (trẻ em 1 - 2 mg/kg cân nặng x 3 - 4 lần/ngày).
+
+Lưu ý các chỉ định, chống chỉ định của corticosteroid, đặc biệt đối với bệnh nhân trẻ em. Nên nhớ rằng khi mới bắt đầu dùng corticosteroid cũng có thể làm cho triệu chứng nhược cơ nặng lên.
+
+### 3.3. Các thuốc ức chế miễn dịch
+Chỉ định: phối hợp với corticosteroids, hoặc dùng đơn độc khi bệnh nhân không dung nạp với corticosteroids. Cần theo dõi chức năng gan, thận và số lượng bạch cầu.
+
+- **Azathioprine** (Imuran - Imurel viên 50 mg): Khởi đầu 1 viên/ngày x vài ngày. Nếu dung nạp tốt thì tăng dần liều, cho tới 2 - 4 viên/ngày (2 - 3 mg/kg cân nặng/ngày). Đáp ứng với thuốc có thể sau vài tháng hoặc 1 năm.
+- **Cyclosporine**: liều 6 mg/kg cân nặng/ngày, chia làm hai lần. Tác dụng không mong muốn: tăng huyết áp, suy thận, chảy máu bàng quang...
+- **Mycophenolate mofetil** (Cellcept): hiệu quả tương đương azathioprine, song dung nạp tốt hơn.
+
+### 3.4. Thay huyết tương (plasma exchange)
+Nhằm mục đích lọc các kháng thể. Chỉ định: bệnh nhược cơ nặng, không đáp ứng với các phương pháp điều trị đã nêu trên, hoặc đang trong cơn nhược cơ nặng (myasthenic crisis) hoặc trước và sau mổ cắt bỏ tuyến ức, hoặc khi bắt đầu dùng thuốc ức chế miễn dịch.
+
+### 3.5. Globulin miễn dịch
+Truyền immunoglobulin tĩnh mạch (intravenous immunoglobulin – IVIG) là một phương pháp điều trị tốt nhưng rất tốn kém. Liều lượng mỗi đợt là 2g/kg cân nặng chia đều trong 5 ngày hoặc trong 2 ngày. Mỗi tháng lặp lại 01 liều nếu cần.
+
+Chỉ định: bệnh nhược cơ nặng, không đáp ứng với các phương pháp điều trị đã nêu trên.
+
+### 3.6. Cắt bỏ tuyến ức (thymectomy)
+Nếu có u, nên phẫu thuật cắt bỏ tất cả các u tuyến ức. Sau mổ nên chiếu xạ tại chỗ để diệt phần còn sót, và có thể dùng hóa trị liệu (với cisplatin) để điều trị các xâm lấn hạch bạch huyết. Trong trường hợp không lấy được hoàn toàn tuyến ức có thể cần phối hợp điều trị xạ trị tại chỗ hoặc hóa chất. Nhược cơ ở trẻ em, dù cắt bỏ tuyến ức hiệu quả tốt, nhưng do tầm quan trọng của tuyến ức đối với sự phát triển của hệ thống miễn dịch, nên chờ tới tuổi dậy thì (nếu được). Không nên phẫu thuật cho bệnh nhược cơ khu trú ở mắt. Sau mổ, nhớ tránh dùng một số kháng sinh có thể làm vượng triệu chứng nhược cơ, chúng tôi sẽ liệt kê ở phần sau.
+
+### 3.7. Các tình trạng cấp cứu
+Bao gồm cơn nhược cơ (thường gặp hơn) và cơn cường cholin, có nguy cơ tử vong cao. Nếu yếu cơ toàn thân nặng kèm khó thở ở người đang dùng thuốc liều cao, dùng Tensilon test để chẩn đoán phân biệt: nếu yếu cơ có cải thiện rõ, chứng tỏ thuốc chưa đủ liều; ngược lại nếu yếu cơ tăng lên hoặc không thay đổi, thì có thể là cơn cường cholin.
+
+- **Cơn cường cholin** (cholinergic crisis): do dùng quá nhiều thuốc ức chế cholinesterase, biểu hiện gần giống như tình trạng nhiễm độc phospho hữu cơ. Tình trạng kích thích quá mức các thụ cảm thể gây nên liệt mềm các cơ, hầu như không thể phân biệt được với yếu cơ do nhược cơ gây ra, và đều có thể gây co thắt phế quản.
+- Nếu có co đồng tử và hội chứng SLUDGE (Salivation – tiết nước miếng, Lacrimation – chảy nước mắt, Urinary incontinence – tiểu dầm, Diarrhea – tiêu chảy, GI upset and hypermotility – rối loạn dạ dày ruột và tăng nhu động, và Emesis – nôn ói) là cơn cường cholin. Tuy nhiên các dấu hiệu này không phải lúc nào cũng biểu hiện. Cần kiểm tra khí máu động mạch, và khi pCO₂ tăng cao thì tiến hành cấp cứu về đường thở kịp thời.
+- **Cơn nhược cơ** (myasthenic crisis): là tình trạng nhược cơ tăng tiến nhanh chóng gây liệt tứ chi kèm suy hô hấp. Dấu hiệu báo động: giảm dung tích sống, bệnh nhân bồn chồn bất an, sợ hãi, run rẩy, toát mồ hôi. Nếu liệt cơ hoành, ta sẽ thấy thở nông, hoặc hiện tượng cử động nghịch đảo của thành bụng và ngực khi hô hấp: bụng thót lại khi bệnh nhân hít vào.
+
+Cần theo dõi để kịp thời tiến hành cấp cứu về đường thở. Khi đã thở máy, có thể tạm ngừng thuốc kháng cholinesterase, nên thay huyết tương hoặc IVIG nếu có điều kiện. Thường sau vài ngày đến 1 tuần, trước khi bỏ máy thở, cho dùng lại thuốc kháng cholinesterase, kèm corticosteroids.
+
+### 3.8. Cần tránh sử dụng các thuốc làm bộc lộ bệnh nhược cơ tiềm ẩn hoặc làm tăng nặng bệnh nhược cơ
+Các kháng sinh (nhóm aminoglycosides, polymyxin B, colistin, clindamycin, ciprofloxacin, netilmicin, azithromycin, pefloxacin, norfloxacin, và erythromycin); Các thuốc chống loạn nhịp (lidocaine, quinidine, quinine, procainamide, và trimetaphan camsylate); Corticosteroid; Magnesi (đường tiêm truyền)...
+
+## 4. TIÊN LƯỢNG
+Diễn tiến của bệnh nhược cơ rất khác nhau. Nguy cơ tử vong chủ yếu do biến chứng hô hấp. Bệnh tiến triển tới mức nặng nhất trong vòng 1 - 7 năm. Thời kỳ nhược các cơ vận nhãn đơn thuần càng kéo dài, thì nguy cơ yếu cơ toàn thân càng giảm. Tiến triển ở nam giới nhanh hơn ở nữ giới; khởi phát ở người trẻ nặng hơn người già. Nhược cơ trẻ em thường có tiên lượng xa khá tốt: khoảng 30% trẻ không cắt tuyến ức và 40% trẻ được cắt tuyến ức sẽ khỏi hoàn toàn.
+
+## TÀI LIỆU THAM KHẢO
+1. Anthony A. Amato, James A. Russell (2008), "Neuromuscular Disorders". McGraw-Hill, p 457-528.
+2. Cortese I, Chaudhry V, So YT, Cantor F, Cornblath DR, Rae-Grant A (2011), "Evidence-based guideline update: Plasmapheresis in neurologic disorders; Report of the Therapeutics and Technology Assessment Subcommittee of the American Academy of Neurology". Neurology, Jan 18; 76(3):294-300.
+3. Henry J. Kaminski (2009), "Myasthenia Gravis and Related Disorders, Second Edition". Humana Press, p 71-208, 293-302.
+4. Marisa Schiller Sosinsky, Petra Kaufmann (2008), "Myasthenia Gravis & Other Disorders of the Neuromuscular Junction. In: Current Diagnosis & Treatment in Neurology". Edited by John CM Brust. McGraw-Hill, p 350-359.
+5. Stephen J. McPhee, Maxime A. Papadakis (2008), "Current Medical Diagnosis & Treatment". McGraw-Hill, p 892-8893.
+
+# CHẨN ĐOÁN VÀ ĐIỀU TRỊ THOÁI HÓA KHỚP GỐI
+
+## 1. ĐỊNH NGHĨA
+Thoái hóa khớp gối là hậu quả của quá trình cơ học và sinh học làm mất cân bằng giữa tổng hợp và hủy hoại của sụn và xương dưới sụn. Sự mất cân bằng này có thể được bắt đầu bởi nhiều yếu tố: di truyền, phát triển, chuyển hóa và chấn thương, biểu hiện cuối cùng của thoái hóa khớp là các thay đổi hình thái, sinh hóa, phân tử và cơ sinh học của tế bào và chất cơ bản của sụn dẫn đến nhuyễn hóa, nứt loét và mất sụn khớp, xơ hóa xương dưới sụn, tạo gai xương và hốc xương dưới sụn.
+
+Bệnh thường gặp ở nữ giới, chiếm 80% các trường hợp thoái hóa khớp gối.
+
+## 2. NGUYÊN NHÂN
+Theo nguyên nhân chia hai loại: thoái hóa khớp nguyên phát và thứ phát.
+
+### 2.1. Thoái hóa khớp nguyên phát
+Là nguyên nhân chính, xuất hiện muộn, thường ở người sau 60 tuổi, có thể ở một hoặc nhiều khớp, tiến triển chậm. Ngoài ra có thể có yếu tố di truyền, yếu tố nội tiết và chuyển hóa (mãn kinh, đái tháo đường...) có thể gia tăng tình trạng thoái hóa.
+
+### 2.2. Thoái hóa khớp thứ phát
+Bệnh gặp ở mọi lứa tuổi, nguyên nhân có thể do sau các chấn thương khiến trục khớp thay đổi (gãy xương khớp, can lệch...); Các bất thường trục khớp gối bẩm sinh: khớp gối quay ra ngoài (*genu valgum*); Khớp gối quay vào trong (*genu varum*); Khớp gối quá duỗi (*genu recurvatum*...) hoặc sau các tổn thương viêm khác tại khớp gối (viêm khớp dạng thấp, viêm cột sống dính khớp, lao khớp, viêm mủ, bệnh gút, chảy máu trong khớp - bệnh Hemophilia…)
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Chẩn đoán xác định
+Áp dụng tiêu chuẩn chẩn đoán của Hội Thấp khớp học Mỹ - ACR (American College of Rheumatology), 1991.
+- Có gai xương ở rìa khớp (trên X-quang).
+- Dịch khớp là dịch thoái hóa.
+- Tuổi trên 38.
+- Cứng khớp dưới 30 phút.
+- Có dấu hiệu lục cục khi cử động khớp.
+
+Chẩn đoán xác định khi có yếu tố 1, 2, 3, 4 hoặc 1, 2, 5 hoặc 1, 4, 5.
+
+- **Các dấu hiệu khác:**
+  - *Tràn dịch khớp:* Đôi khi thấy ở khớp gối, do phản ứng viêm của màng hoạt dịch.
+  - *Biến dạng:* Do xuất hiện các gai xương, do lệch trục khớp hoặc thoát vị màng hoạt dịch.
+- **Các phương pháp thăm dò hình ảnh chẩn đoán:**
+  - *X-quang quy ước:* Tiêu chuẩn chẩn đoán thoái hóa khớp của Kellgren và Lawrence:
+    - Giai đoạn 1: Gai xương nhỏ hoặc nghi ngờ có gai xương.
+    - Giai đoạn 2: Mọc gai xương rõ.
+    - Giai đoạn 3: Hẹp khe khớp vừa.
+    - Giai đoạn 4: Hẹp khe khớp nhiều kèm xơ xương dưới sụn.
+  - *Siêu âm khớp:* Đánh giá tình trạng hẹp khe khớp, gai xương, tràn dịch khớp, đo độ dày sụn khớp, màng hoạt dịch khớp, phát hiện các mảnh sụn thoái hóa bong vào trong ổ khớp.
+  - *Chụp cộng hưởng từ (MRI):* Phương pháp này có thể quan sát được hình ảnh khớp một cách đầy đủ trong không gian ba chiều, phát hiện được các tổn thương sụn khớp, dây chằng, màng hoạt dịch.
+  - *Nội soi khớp:* Phương pháp nội soi khớp quan sát trực tiếp được các tổn thương thoái hóa của sụn khớp ở các mức độ khác nhau (theo Outerbridge chia bốn độ), qua nội soi khớp kết hợp sinh thiết màng hoạt dịch để làm xét nghiệm tế bào chẩn đoán phân biệt với các bệnh lý khớp khác.
+- **Các xét nghiệm khác:**
+  - *Xét nghiệm máu và sinh hóa:* Tốc độ lắng máu bình thường.
+  - *Dịch khớp:* Đếm tế bào dịch khớp < 1.000 tế bào/1 mm³.
+
+### 3.2. Chẩn đoán phân biệt
+Viêm khớp dạng thấp: chẩn đoán phân biệt khi chỉ tổn thương tại khớp gối, đặc biệt khi chỉ biểu hiện ở một khớp: tình trạng viêm tại khớp và các biểu hiện viêm sinh học rõ (tốc độ máu lắng tăng, CRP tăng…) và có thể có yếu tố dạng thấp dương tính. Thường được chẩn đoán qua nội soi và sinh thiết màng hoạt dịch.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc điều trị
+- Giảm đau trong các đợt tiến triển.
+- Phục hồi chức năng vận động của khớp, hạn chế và ngăn ngừa biến dạng khớp.
+- Tránh các tác dụng không mong muốn của thuốc, lưu ý tương tác thuốc và các bệnh kết hợp ở người cao tuổi.
+- Nâng cao chất lượng cuộc sống cho người bệnh.
+
+### 4.2. Điều trị nội khoa
+
+#### 4.2.1. Vật lý trị liệu
+Các phương pháp siêu âm, hồng ngoại, chườm nóng, liệu pháp suối khoáng, bùn có hiệu quả cao.
+
+#### 4.2.2. Thuốc điều trị triệu chứng tác dụng nhanh
+Chỉ định khi có đau khớp:
+- Thuốc giảm đau: **Paracetamol**: 1g - 2g/ngày. Đôi khi cần chỉ định các thuốc giảm đau bậc 2: **Paracetamol** phối hợp với **Tramadol** 1g - 2g/ngày.
+- Thuốc chống viêm không steroid (NSAIDs): lựa chọn một trong các thuốc sau:
+  - **Etoricoxib** 30mg - 60mg/ngày, **Celecoxib** 200mg/ngày, **Meloxicam** 7,5 - 15mg/ngày.
+  - Thuốc chống viêm không steroid khác: **Diclofenac** 50 - 100mg/ngày, **Piroxicam** 20mg/ngày...
+- Thuốc bôi ngoài da: bôi tại khớp đau 2-3 lần/ngày. Các loại gel như: **Voltaren Emulgel**... có tác dụng giảm đau và rất ít tác dụng phụ.
+- Corticosteroid: Không có chỉ định cho đường toàn thân.
+- Đường tiêm nội khớp:
+  - **Hydrocortison acetat**: Mỗi đợt tiêm cách nhau 5-7 ngày, không vượt quá 3 mũi tiêm mỗi đợt. Không tiêm quá 3 đợt trong một năm.
+  - Các chế phẩm chậm: **Methylprednisolone**, **Betamethasone dipropionate** tiêm mỗi mũi cách nhau 6-8 tuần. Không tiêm quá 3 đợt một năm vì thuốc gây tổn thương sụn khớp nếu dùng quá liều.
+  - **Acid hyaluronic** (AH) dưới dạng hyaluronate: 1 ống/1 tuần x 3-5 tuần liền.
+
+#### 4.2.3. Thuốc điều trị triệu chứng tác dụng chậm (SYSADOA)
+Nên chỉ định sớm, kéo dài, khi có đợt đau khớp, kết hợp với các thuốc điều trị triệu chứng tác dụng nhanh nêu trên.
+- **Piascledine 300mg** (cao toàn phần không xà phòng hóa quả bơ và đậu nành): 1 viên/ngày.
+- **Glucosamine sulfate**: 1,5g/ngày.
+- **Acid hyaluronic** kết hợp **Chondroitin sulfate**: 30ml uống mỗi ngày.
+- Thuốc ức chế Interleukin 1: **Diacerein** 50mg x 2 viên/ngày.
+
+#### 4.2.4. Huyết tương giàu tiểu cầu tự thân (PRP)
+- **Huyết tương tự thân giàu tiểu cầu (PRP)**: lấy máu tĩnh mạch, chống đông, ly tâm tách huyết tương sau đó bơm vào khớp gối 6ml - 8ml PRP.
+
+#### 4.2.5. Cấy ghép tế bào gốc (Stem cell transplantation)
+- Tế bào gốc chiết xuất từ mô mỡ tự thân (Adipose Derived Stem Cell - ADSCs).
+- Tế bào gốc từ nguồn gốc tủy xương tự thân.
+
+### 4.3. Điều trị ngoại khoa
+
+#### 4.3.1. Điều trị dưới nội soi khớp
+- Cắt lọc, bào, rửa khớp.
+- Khoan kích thích tạo xương (microfracture).
+- Cấy ghép tế bào sụn.
+
+#### 4.3.2. Phẫu thuật thay khớp nhân tạo
+Được chỉ định ở các thể nặng tiến triển, có giảm nhiều chức năng vận động. Thường được áp dụng ở những bệnh nhân trên 60 tuổi. Thay khớp gối một phần hay toàn bộ khớp.
+
+## 5. THEO DÕI VÀ QUẢN LÝ
+- Chống béo phì.
+- Có chế độ vận động thể dục thể thao hợp lý, bảo vệ khớp tránh quá tải.
+- Phát hiện điều trị chỉnh hình sớm các dị tật khớp (lệch trục khớp, khớp gối vẹo trong, vẹo ngoài...).
+
+# CHẨN ĐOÁN VÀ ĐIỀU TRỊ U SỤN MÀNG HOẠT DỊCH
+
+## 1. ĐỊNH NGHĨA
+Bệnh u sụn màng hoạt dịch (Synovial Osteochondromatosis) là một dạng dị sản lành tính của bao hoạt dịch trong đó các tế bào liên kết có khả năng tự tạo sụn. Trong ổ khớp, các khối sụn nhỏ mọc chồi lên bề mặt, sau đó phát triển cuống và trở thành các u, các u này xơ cứng lại và được gọi là u sụn, một số rơi vào trong ổ khớp và trở thành các dị vật khớp.
+
+U sụn màng hoạt dịch thường hay gặp ở khớp gối, chiếm 50% - 60%, sau đó là các khớp khác như khớp háng và khớp vai, khớp khuỷu, khớp cổ chân.
+
+## 2. NGUYÊN NHÂN
+Nguyên nhân gây bệnh chưa được biết rõ nhất là đối với u sụn nguyên phát.
+- Nguyên phát (*Primary synovial osteochondromatosis*): gặp ở lứa tuổi từ 30 - 50 tuổi, nguyên nhân chưa rõ.
+- Thứ phát (*Secondary synovial osteochondromatosis*): gặp ở người có tiền sử bệnh khớp:
+  - Thoái hóa khớp.
+  - Viêm khớp do lao.
+  - Viêm xương sụn bóc tách.
+  - Gãy đầu xương trong ổ khớp, vỡ sụn.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Lâm sàng
+Bệnh u xương sụn thường gặp ở người lớn 30 - 50 tuổi, nam : nữ = 2 : 1.
+- **Biểu hiện tại khớp:**
+  - Đau, sưng khớp, thường có dấu hiệu kẹt khớp.
+  - Giảm khả năng vận động khớp.
+  - Khám có thể thấy u cục quanh khớp, cứng, di động hoặc không.
+  - Tràn dịch khớp: hiếm gặp.
+  - Biểu hiện viêm khớp: ít gặp.
+- **Dấu hiệu toàn thân:** Ít thay đổi.
+
+### 3.2. Cận lâm sàng
+- **Xét nghiệm tế bào máu ngoại vi và sinh hóa:** Bình thường.
+- **Xquang:** Đặc điểm Xquang thường quy (Milgram, 1997):
+  - Dày bao khớp và màng hoạt dịch.
+  - Nốt calci hóa trong và cạnh khớp hình tròn hoặc ovan.
+  - Khe khớp không hẹp.
+  - Mật độ xương tại đầu khớp bình thường.
+  *Lưu ý:* Nốt u sụn thường chỉ có thể được phát hiện trên Xquang vào giai đoạn 2, khi xuất hiện các nốt calci hóa rõ.
+- **Chụp cắt lớp vi tính** có thể phát hiện:
+  - Nốt calci hóa cản quang.
+  - Tràn dịch khớp.
+- **Cộng hưởng từ:** Ngoài các hình ảnh như chụp cắt lớp vi tính còn có thể quan sát thấy:
+  - Dày màng hoạt dịch.
+  - Thể tự do giảm tín hiệu ở T1, tăng tín hiệu ở T2.
+  - Nếu calci hóa nhiều: giảm tín hiệu T1 hoặc T1 và T2.
+- **Phương pháp nội soi khớp:** Được chỉ định khi các bằng chứng vẫn còn chưa chắc chắn, nhằm mục đích chẩn đoán xác định và kết hợp điều trị. Ngoài ra, qua nội soi khớp có thể kết hợp sinh thiết màng hoạt dịch, các tổ chức u sụn, sụn khớp làm xét nghiệm mô bệnh học để chẩn đoán xác định.
+- **Mô bệnh học:**
+  - *Hình ảnh đại thể:* Do sụn được nuôi dưỡng bằng dịch của màng hoạt dịch nên các u sụn có thể phát triển và tăng dần lên về kích thước. Các u sụn trong ổ khớp, túi hoạt dịch hoặc bao gân thường có cùng hình dạng và kích thước (thay đổi từ một vài mm đến một vài cm). Nếu sự gắn kết nhiều u sụn có thể tạo hình dạng khối sụn lớn (hình dạng đá tảng).
+  - *Hình ảnh vi thể:* Chụp dưới kính hiển vi quang học thấy hình ảnh tăng sinh màng hoạt dịch, thấy nhiều tế bào hai nhân, nhân đông.
+
+### 3.3. Chẩn đoán phân biệt
+- Viêm khớp dạng thấp có hình ảnh hạt gạo.
+- Viêm khớp nhiễm khuẩn (lao khớp).
+- Bệnh gút.
+- Viêm màng hoạt dịch thể lông nốt sắc tố.
+- Viêm khớp nhiễm khuẩn (lao khớp).
+- U máu màng hoạt dịch.
+- Chấn thương vỡ xương sụn.
+
+### 3.4. Chẩn đoán các giai đoạn bệnh
+Milgram chia bệnh lý u xương sụn thành ba giai đoạn:
+- **Giai đoạn 1:** Bệnh tiềm ẩn trong bao hoạt dịch nhưng không có các vật thể lạ tự do.
+- **Giai đoạn 2:** Tăng sinh màng hoạt dịch có kèm các vật thể lạ tự do.
+- **Giai đoạn 3:** Các u sụn tăng sinh nhiều ở bao khớp, màng hoạt dịch hoặc nhiều hạt tự do trong ổ khớp.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc điều trị
+- Giảm đau, cải thiện chức năng vận động khớp.
+- Tránh tái phát bệnh.
+
+### 4.2. Điều trị cụ thể
+- **Điều trị nội khoa:**
+  - *Thuốc chống viêm không steroid (NSAIDs):* Etoricoxib 30 - 90 mg/ngày; Meloxicam 7,5 - 15 mg/ngày; Celecoxib 200 mg/ngày.
+  - *Thuốc điều trị triệu chứng tác dụng chậm (SYSADOA):* Glucosamine sulfate và chondroitin sulfate: 1500 mg/ngày.
+  - *Thuốc ức chế Interleukin-1:* Diacerein 50 mg x 2 viên/ngày.
+- **Nội soi khớp:** Có thể vừa thực hiện chẩn đoán lấy vật thể lạ hoặc cắt từng phần màng hoạt dịch bị tổn thương (khi có viêm màng hoạt dịch).
+  *Chú ý:* Phương pháp chỉ định khi u sụn kích thước nhỏ dưới 2 cm.
+- **Chỉ định ngoại khoa:** Trong trường hợp bệnh nhân đến muộn, những tổ chức u sụn phát triển nhiều hoặc quá to sẽ có chỉ định cắt bỏ u sụn và phần màng hoạt dịch tổn thương qua phẫu thuật mở.
+
+## 5. THEO DÕI VÀ QUẢN LÝ
+Cần thăm khám định kỳ cho đến khi hết triệu chứng trên lâm sàng và Xquang để đánh giá kết quả điều trị cũng như phát hiện các u sụn mới có thể xuất hiện để có biện pháp điều trị kịp thời.
+
+# BỆNH THOÁI HÓA CỘT SỐNG THẮT LƯNG (Spondylosis)
+
+## 1. ĐỊNH NGHĨA
+Thoái hóa cột sống thắt lưng (*Spondylosis* hoặc *Osteoarthritis of lumbar spine*) là bệnh mạn tính tiến triển từ từ, tăng dần gây đau, hạn chế vận động, biến dạng cột sống thắt lưng mà không có biểu hiện viêm. Tổn thương cơ bản của bệnh là tình trạng thoái hóa sụn khớp và đĩa đệm cột sống phối hợp với những thay đổi ở phần xương dưới sụn và màng hoạt dịch.
+
+## 2. NGUYÊN NHÂN
+Thoái hóa cột sống là hậu quả của nhiều yếu tố: tuổi cao; nữ; nghề nghiệp lao động nặng; một số yếu tố khác như: tiền sử chấn thương cột sống, bất thường trục chi dưới, tiền sử phẫu thuật cột sống, yếu cơ, di truyền, tư thế lao động…
+
+Do tình trạng chịu áp lực quá tải lên sụn khớp và đĩa đệm lặp đi lặp lại kéo dài trong nhiều năm dẫn đến sự tổn thương sụn khớp, phần xương dưới sụn, mất tính đàn hồi của đĩa đệm, xơ cứng dây chằng bao khớp tạo nên những triệu chứng và biến chứng trong thoái hóa cột sống.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Lâm sàng
+- Có thể có dấu hiệu cứng cột sống vào buổi sáng.
+- Đau cột sống âm ỉ và có tính chất cơ học (đau tăng khi vận động và giảm khi nghỉ ngơi). Khi thoái hóa ở giai đoạn nặng, có thể đau liên tục và ảnh hưởng đến giấc ngủ.
+- Bệnh nhân có thể cảm thấy tiếng lục khục khi cử động cột sống.
+- Đau cột sống thắt lưng do thoái hóa không có biểu hiện triệu chứng toàn thân như sốt, thiếu máu, gầy sút cân. Nói chung bệnh nhân đau khu trú tại cột sống.
+- Một số trường hợp có đau rễ dây thần kinh do hẹp lỗ liên hợp hoặc thoát vị đĩa đệm kết hợp.
+- Có thể có biến dạng cột sống: gù, vẹo cột sống.
+- Trường hợp hẹp ống sống: biểu hiện đau cách hồi thần kinh: bệnh nhân đau theo đường đi của dây thần kinh tọa, xuất hiện khi đi lại, nghỉ ngơi đỡ đau (Cộng hưởng từ cho phép chẩn đoán mức độ hẹp ống sống).
+
+### 3.2. Cận lâm sàng
+- **Xquang thường quy cột sống thẳng, nghiêng:** Hình ảnh hẹp khe đĩa đệm, mâm đĩa đệm nhẵn, đặc xương dưới sụn, gai xương thân đốt sống, hẹp lỗ liên hợp đốt sống. Trường hợp trượt đốt sống có chỉ định chụp chếch 3/4 phải, trái nhằm phát hiện tình trạng gãy cuống đốt sống "gãy cổ chó".
+- **Xét nghiệm tế bào máu ngoại vi và sinh hóa:** Bình thường.
+- **Chụp cộng hưởng từ cột sống:** Chỉ định trong trường hợp có thoát vị đĩa đệm.
+
+### 3.3. Chẩn đoán xác định
+Chẩn đoán thoái hóa cột sống đơn thuần dựa vào những dấu hiệu:
+- **Lâm sàng:** Đau cột sống có tính chất cơ học.
+- **Xquang cột sống thắt lưng thường quy (thẳng – nghiêng – chếch 3/4 hai bên):** Hẹp khe khớp với bờ diện khớp nhẵn, đặc xương dưới sụn, gai xương thân đốt sống, hẹp lỗ liên hợp đốt sống.
+- **Xét nghiệm:** Cần lưu ý bệnh nhân phải không có triệu chứng toàn thân như: sốt, gầy sút cân, thiếu máu... Cần làm các xét nghiệm máu (bilan viêm, phosphatase kiềm...) để khẳng định là các thông số này bình thường. Trường hợp có các bất thường về lâm sàng (đau quá mức, gầy sút cân, sốt…) hoặc tốc độ lắng máu tăng cao cần phải tìm nguyên nhân khác (xem thêm bài *Đau cột sống thắt lưng*).
+- **Phối hợp bệnh lý:** Thoái hóa cột sống thắt lưng ít khi diễn ra một cách đơn thuần, đa phần kết hợp với thoái hóa đĩa đệm cột sống, có thể thoát vị đĩa đệm cột sống và ở người có tuổi, thường phối hợp với loãng xương, lún xẹp đốt sống do loãng xương.
+
+### 3.4. Chẩn đoán phân biệt
+Trường hợp đau cột sống có biểu hiện viêm (có dấu hiệu toàn thân như sốt, thiếu máu, gầy sút cân, hạch ngoại vi…) cần chẩn đoán phân biệt với các bệnh lý dưới đây:
+- **Bệnh lý cột sống huyết thanh âm tính** (đặc biệt viêm cột sống dính khớp): Nam giới, trẻ tuổi, đau và hạn chế các động tác của cột sống thắt lưng cùng, Xquang có viêm khớp cùng chậu, xét nghiệm tốc độ lắng máu tăng.
+- **Viêm đốt sống đĩa đệm** (do nhiễm khuẩn hoặc do lao): Tính chất đau kiểu viêm, đau liên tục, kèm theo dấu hiệu toàn thân; Xquang có diện khớp hẹp, bờ khớp nham nhở không đều; cộng hưởng từ có hình ảnh viêm đĩa đệm đốt sống, xét nghiệm bilan viêm dương tính.
+- **Ung thư di căn xương:** Đau mức độ nặng, kiểu viêm; kèm theo dấu hiệu toàn thân, Xquang có hủy xương hoặc kết đặc xương, cộng hưởng từ và xạ hình xương có vai trò quan trọng trong chẩn đoán.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc
+- Điều trị theo triệu chứng (thuốc chống viêm, giảm đau, giãn cơ...) kết hợp với các thuốc chống thoái hóa tác dụng chậm.
+- Nên phối hợp các biện pháp điều trị nội khoa, vật lý trị liệu, phục hồi chức năng. Trường hợp có chèn ép rễ có thể chỉ định ngoại khoa.
+
+### 4.2. Điều trị cụ thể
+
+#### 4.2.1. Vật lý trị liệu
+Bài tập thể dục, xoa bóp, kéo nắn, chiếu hồng ngoại, chườm nóng, liệu pháp suối khoáng, bùn nóng, paraffin, tập cơ dựng lưng...
+
+#### 4.2.2. Điều trị nội khoa
+- **Thuốc giảm đau theo bậc thang giảm đau của WHO:**
+  - *Bậc 1:* Paracetamol 500 mg, uống 4 đến 6 lần/ngày, không quá 4g/ngày. Thuốc có thể gây hại cho gan.
+  - *Bậc 2:* Paracetamol kết hợp với codein hoặc kết hợp với tramadol: Ultracet liều 2 - 4 viên/24 giờ (tuy nhiên uống thuốc này thường gây chóng mặt, buồn nôn); Efferalgan-Codein liều 2 - 4 viên/24 giờ.
+  - *Bậc 3:* Opiat và dẫn xuất của opiat.
+- **Thuốc chống viêm không steroid (NSAIDs):** Chọn một trong các thuốc sau. *Lưu ý:* Tuyệt đối không phối hợp thuốc trong cùng nhóm vì không làm tăng tác dụng điều trị mà lại có nhiều tác dụng không mong muốn.
+  - *Diclofenac:* Viên 25 mg, 50 mg, 75 mg; liều 50 - 150 mg/ngày, dùng sau khi ăn no. Có thể sử dụng dạng ống tiêm bắp 75 mg/ngày trong 2 - 3 ngày đầu khi bệnh nhân đau nhiều, sau đó chuyển sang đường uống.
+  - *Meloxicam:* Viên 7,5 mg: 2 viên/ngày sau khi ăn no hoặc dạng ống tiêm bắp 15 mg/ngày x 2 - 3 ngày nếu bệnh nhân đau nhiều, sau đó chuyển sang đường uống.
+  - *Piroxicam:* Viên hay ống 20 mg, uống 1 viên/ngày sau khi ăn no, hoặc tiêm bắp ngày 1 ống trong 2 - 3 ngày đầu khi bệnh nhân đau nhiều, sau đó chuyển sang đường uống.
+  - *Celecoxib:* Viên 200 mg, liều 1 đến 2 viên/ngày sau khi ăn no. Không nên dùng cho bệnh nhân có bệnh tim mạch và thận trọng ở người cao tuổi.
+  - *Etoricoxib:* Viên 60 mg, 90 mg, 120 mg; ngày uống 1 viên, thận trọng dùng ở người có bệnh lý tim mạch.
+  - *Thuốc chống viêm bôi ngoài da:* Diclofenac gel, profenid gel, xoa 2 - 3 lần/ngày ở vị trí đau.
+- **Thuốc giãn cơ:** Eperison (viên 50 mg): 3 viên/ngày, hoặc tolperisone (viên 50 mg, 150 mg): 2 - 6 viên/ngày.
+- **Thuốc điều trị triệu chứng tác dụng chậm (SYSADOA):**
+  - *Piascledine 300 mg* (cao toàn phần không xà phòng hóa quả bơ và đậu nành): 1 viên/ngày.
+  - *Glucosamine sulfate và chondroitin sulfate:* Uống trước ăn 15 phút, dùng kéo dài trong nhiều năm.
+  - *Thuốc ức chế IL-1:* Diacerein 50 mg (viên 50 mg) 1 - 2 viên/ngày, dùng kéo dài trong nhiều năm.
+- **Tiêm corticoid tại chỗ:** Tiêm ngoài màng cứng bằng hydrocortison acetat, hoặc methylprednisolon acetate trong trường hợp đau thần kinh tọa, tiêm cạnh cột sống, tiêm khớp liên mấu (dưới màn tăng sáng hoặc dưới hướng dẫn của chụp cắt lớp vi tính).
+
+#### 4.2.3. Điều trị ngoại khoa
+Chỉ định khi thoát vị đĩa đệm, trượt đốt sống gây đau thần kinh tọa kéo dài, hoặc có hẹp ống sống với các dấu hiệu thần kinh tiến triển nặng ảnh hưởng tới chất lượng cuộc sống mà các biện pháp điều trị nội khoa không kết quả. Trong trường hợp đĩa đệm thoái hóa nhiều, có thể xem xét thay đĩa đệm nhân tạo.
+
+## 5. TIẾN TRIỂN VÀ BIẾN CHỨNG
+- Thoái hóa cột sống thắt lưng tiến triển nặng dần theo tuổi và một số yếu tố nguy cơ như: mang vác nặng ở tư thế cột sống xấu.
+- Dấu hiệu chèn ép rễ dây thần kinh thường gặp ở thoái hóa cột sống nặng khi những gai xương thân đốt sống phát triển chèn ép vào lỗ liên hợp đốt sống. Cùng với sự thoái hóa đốt sống, đĩa đệm cũng bị thoái hóa và nguy cơ phình, thoát vị đĩa đệm sẽ dẫn tới chèn ép rễ dây thần kinh (biểu hiện đau dây thần kinh tọa).
+
+## 6. PHÒNG BỆNH
+- Theo dõi và phát hiện sớm các dị tật cột sống để điều trị kịp thời.
+- Giáo dục tư vấn các bài tập tốt cho cột sống, sửa chữa các tư thế xấu.
+- Định hướng nghề nghiệp thích hợp với tình trạng bệnh, kiểm tra định kỳ những người lao động nặng (khám phát hiện triệu chứng, chụp Xquang cột sống khi cần...).
+
+## TÀI LIỆU THAM KHẢO
+1. Clifton O. Bingham, "Bone and Osteoarthritis", *Novel Osteoarthritis Therapeutics*, Vol 4, 2007; p. 181.
+2. Kenneth C. Kalunian, "Diagnosis and classification of osteoarthritis", *UpToDate* 17.1, January 2009.
+3. Shari M. Ling, Yvette L. Ju, "Osteoarthritis" – chapter 116, 2009; p. 1411-1420.
+4. Stephanie G. Wheeler, "Approach to the diagnosis and evaluation of low back pain in adults", *UpToDate* 2010, Last literature review version 18.2: May 2010 | This topic last updated: May 6, 2010.
+
+# HỘI CHỨNG ĐAU THẮT LƯNG (Low back pain)
+
+## 1. ĐỊNH NGHĨA
+**Đau cột sống thắt lưng** hay còn gọi là **đau lưng vùng thấp** (*Low back pain*) là hội chứng do đau khu trú trong khoảng từ ngang mức L1 đến nếp lằn mông (có thể ở một bên hoặc cả hai bên), đây là một hội chứng xương khớp hay gặp nhất trong thực hành lâm sàng. Khoảng 65 - 80% những người trưởng thành trong cộng đồng có đau cột sống thắt lưng (CSTL) cấp tính hoặc từng đợt một vài lần trong cuộc đời và khoảng 10% số này bị chuyển thành đau CSTL mạn tính.
+
+## 2. NGUYÊN NHÂN
+
+### 2.1. Đau cột sống thắt lưng do nguyên nhân cơ học
+Nguyên nhân phổ biến do căng giãn cơ, dây chằng cạnh cột sống quá mức; thoái hóa đĩa đệm cột sống; thoát vị đĩa đệm CSTL; trượt thân đốt sống, dị dạng thân đốt sống (cùng hóa thắt lưng 5, thắt lưng hóa cùng 1…), loãng xương nguyên phát... Loại này diễn biến lành tính, chiếm 90% số trường hợp đau CSTL.
+
+### 2.2. Đau cột sống thắt lưng do một bệnh toàn thân (Đau cột sống thắt lưng "triệu chứng")
+Đau cột sống thắt lưng là triệu chứng của một trong các bệnh khớp mạn tính (viêm cột sống dính khớp, viêm khớp dạng thấp, loãng xương); hoặc tổn thương tại cột sống do nguyên nhân nhiễm khuẩn (viêm đĩa đệm đốt sống do vi khuẩn lao hoặc vi khuẩn sinh mủ); do ung thư; do các nguyên nhân khác (sỏi thận, loét hành tá tràng, bệnh lý động mạch chủ bụng, u xơ tuyến tiền liệt…), tổn thương cột sống do chấn thương...
+
+## 3. CHẨN ĐOÁN
+### 3.1. Lâm sàng
+- **Đau cột sống thắt lưng do nguyên nhân cơ học:**
+  - **Đau cột sống thắt lưng (CSTL) do căng giãn dây chằng quá mức:** đau xuất hiện đột ngột sau bê vật nặng, sau hoạt động sai tư thế (lao động chân tay kéo dài, đi guốc cao gót…), rung xóc do đi xe đường dài, sau nhiễm lạnh hoặc sau một cử động đột ngột. Đau thường kèm theo co cứng khối cơ cạnh cột sống, tư thế cột sống bị lệch vẹo mất đường cong sinh lý, khi thầy thuốc ấn ngón tay dọc các mỏm gai sau hoặc vào khe liên đốt ở hai bên cột sống có thể xác định được điểm đau.
+  - **Thoát vị đĩa đệm cột sống thắt lưng:** thường có biểu hiện của đau thần kinh tọa. Người bệnh đau lan từ cột sống thắt lưng lan xuống mông, phía sau ngoài đùi, mặt trước bên cẳng chân, mắt cá ngoài, qua mu chân tới ngón I nếu bị chèn ép ở L5. Nếu tổn thương ở S1, đau lan xuống mặt sau đùi, cẳng chân, gân Achille, mắt cá ngoài qua bờ ngoài gan chân tới ngón V. Đôi khi có rối loạn cảm giác nông: cảm giác tê bì, kiến bò, kim châm… dấu hiệu giật dây chuông dương tính, dấu hiệu Lasègue dương tính. Trường hợp có chèn ép nặng người bệnh có thể có rối loạn cơ tròn. Phản xạ gân xương chi dưới thường giảm hoặc mất, có thể có teo cơ đùi và cẳng chân nếu đau kéo dài.
+- **Đau cột sống thắt lưng do một bệnh toàn thân:**
+  Trong trường hợp đau cột sống thắt lưng là triệu chứng của một bệnh toàn thân, người bệnh thường có các triệu chứng khác kèm theo như: sốt, dấu hiệu nhiễm trùng thường gặp do nguyên nhân nhiễm khuẩn; gầy, sút cân nhanh, đau ngày càng tăng, không đáp ứng với các thuốc chống viêm giảm đau thông thường là các triệu chứng gợi ý nguyên nhân của bệnh ung thư; trường hợp đau thắt lưng dữ dội ngày càng tăng kèm theo dấu hiệu sốc (shock), da xanh thiếu máu nên nghi ngờ phình tách động mạch chủ bụng… Khi có dấu hiệu chỉ điểm của một bệnh toàn thân liên quan đến đau vùng thắt lưng, thầy thuốc cần hướng dẫn người bệnh đến các cơ sở chuyên khoa thực hiện các xét nghiệm, thăm dò chuyên sâu để tìm nguyên nhân.
+  Một số các trường hợp có nguyên nhân do tâm lý: dấu hiệu đau thắt lưng xuất hiện sau các stress do áp lực của tâm lý hoặc lao động thể lực quá sức, sau đó chuyển thành đau thắt lưng mạn tính dai dẳng. Tuy nhiên, thầy thuốc cần loại trừ các bệnh thực thể gây đau thắt lưng trước khi chẩn đoán đau do nguyên nhân tâm lý.
+
+### 3.2. Cận lâm sàng
+- **Đau thắt lưng do nguyên nhân cơ học:**
+  - Các xét nghiệm phát hiện dấu hiệu viêm, bilan phospho-calci thường ở trong giới hạn bình thường.
+  - Xquang thường quy đa số bình thường hoặc có thể gặp một trong các hình ảnh sau:
+    - Hình ảnh thoái hóa cột sống: hẹp các khe liên đốt, đặc xương ở mâm đốt sống, các gai xương ở thân đốt sống, đôi khi có trượt thân đốt sống.
+    - Hình ảnh loãng xương: đốt sống tăng thấu quang hoặc có lún xẹp.
+    - Có thể có các hình ảnh tổn thương thân đốt sống trong một số trường hợp đau thắt lưng do thuộc nhóm đau cột sống thắt lưng “triệu chứng” (ổ khuyết xương, vỡ thân đốt sống…).
+  - Chụp cộng hưởng từ cột sống thắt lưng: chỉ chỉ định khi có triệu chứng đau thần kinh tọa.
+- **Đau cột sống thắt lưng là triệu chứng của một bệnh toàn thân:**
+  Khi có các triệu chứng nghi ngờ đau cột sống thắt lưng là triệu chứng của một bệnh toàn thân, tùy theo nguyên nhân được định hướng mà chỉ định thêm các xét nghiệm khác (bilan lao, bilan đa u tủy xương (bệnh Kahler), bilan ung thư...) nhằm xác định nguyên nhân.
+
+### 3.3. Chẩn đoán xác định và chẩn đoán nguyên nhân
+Chẩn đoán xác định dựa vào triệu chứng lâm sàng. Phải chẩn đoán nguyên nhân đau cột sống thắt lưng, và điều này không phải luôn dễ dàng.
+
+Bằng chứng để chẩn đoán xác định “Đau cột sống thắt lưng do nguyên nhân cơ học” như sau:
+- Đau tại vùng cột sống thắt lưng, kiểu cơ học (nghỉ ngơi có đỡ).
+- Gần đây tình trạng toàn thân không thay đổi, không sốt, không có các rối loạn chức năng thuộc bất cứ cơ quan nào (dạ dày, ruột, sản phụ khoa, phế quản - phổi...) mới xuất hiện; không có các biểu hiện đau vùng cột sống khác: lưng, cổ, sườn, khớp khác…
+- Các xét nghiệm dấu hiệu viêm và bilan phospho-calci âm tính.
+- Xquang cột sống thắt lưng bình thường hoặc có các triệu chứng của thoái hóa.
+
+Trường hợp có một hoặc càng nhiều các triệu chứng nêu trên bất thường, càng nghi ngờ đau cột sống thắt lưng “triệu chứng” và cần phải tìm nguyên nhân. Tùy theo gợi ý nguyên nhân nào mà chỉ định các xét nghiệm tương ứng.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc chung
+Điều trị theo nguyên nhân. Phần dưới đây chỉ nêu điều trị nhóm “đau cột sống thắt lưng do nguyên nhân cơ học”.
+- Kết hợp điều trị thuốc với các biện pháp phục hồi chức năng, luyện tập, thay đổi lối sống nhằm bảo vệ cột sống thắt lưng.
+- Không lạm dụng điều trị ngoại khoa, đặc biệt đối với những trường hợp đau cột sống thắt lưng cấp hoặc bán cấp.
+
+### 4.2. Điều trị cụ thể
+Thường kết hợp các nhóm: thuốc chống viêm không steroid, thuốc giảm đau, thuốc giãn cơ.
+
+#### 4.2.1. Điều trị nội khoa
+- **Đau thắt lưng cấp tính:**
+  - **Thuốc chống viêm không steroid (NSAIDs):** có thể lựa chọn một trong các thuốc trong nhóm này nhưng lưu ý không sử dụng kết hợp hai loại thuốc NSAID, việc lựa chọn thuốc cụ thể phụ thuộc vào tình trạng đau và cần cân nhắc các nguy cơ trên đường tiêu hóa và trên tim mạch của bệnh nhân cụ thể.
+    - Piroxicam 20mg hoặc meloxicam 15mg tiêm bắp ngày 1 ống trong 2-3 ngày, sau đó chuyển sang dạng uống 1 viên piroxicam 20mg hoặc 2 viên meloxicam 7,5mg mỗi ngày.
+    - Celecoxib 200mg: uống 1-2 viên mỗi ngày.
+  - **Paracetamol:**
+    - Paracetamol: 0,5g x 4-6 viên/24h, chia 3 lần uống sau ăn. Tối đa 4000mg/ngày.
+    - Paracetamol kết hợp với codein hoặc paracetamol kết hợp với tramadol (liều lượng cụ thể của các thuốc này tùy thuộc vào liều khuyến cáo của nhà sản xuất).
+  - **Các thuốc giãn cơ:**
+    - Đường tiêm: tolperisone 100-200mg/24h chia 2 lần.
+    - Đường uống: tolperisone 150mg x 2-3 viên/24h hoặc eperisone: 50mg x 2-3 viên/24h.
+  - **Trường hợp đau có nguồn gốc thần kinh** có thể kết hợp với một trong các thuốc giảm đau sau:
+    - Gabapentin: viên 300 mg. Liều 600-900 mg/ngày, chia 2-3 lần.
+    - Pregabalin: viên 75 mg. Liều: 150-300 mg/ngày chia 2 lần.
+  - Nằm nghỉ tại chỗ trên giường phẳng, đeo đai hỗ trợ vùng thắt lưng khi ngồi dậy hoặc đi lại vận động, chiếu đèn hồng ngoại hoặc điều trị điện xung, châm cứu kết hợp dùng thuốc. Khi đỡ đau lưng có thể tăng dần mức độ hoạt động.
+- **Đau thắt lưng mạn tính:**
+  - **Thuốc chống trầm cảm ba vòng (tricyclic antidepressant), chống lo âu:** Amitriptylin: viên 25 mg.
+  - Kéo dãn cột sống, bơi, thể dục nhẹ nhàng.
+  - Điều chỉnh lối sống và thói quen làm việc, vận động để tránh gây đau tái phát.
+  - Có thể duy trì các nhóm thuốc trên nhưng chú ý sử dụng liều thấp nhất có hiệu quả để tránh tác dụng không mong muốn của thuốc.
+
+#### 4.2.2. Điều trị ngoại khoa
+- Chỉ định phẫu thuật cho các trường hợp đau thắt lưng do thoát vị đĩa đệm hoặc kèm trượt đốt sống đã được điều trị nội khoa tích cực trong ba tháng nhưng không đạt hiệu quả, đặc biệt đối với trường hợp đau nhiều, có dấu hiệu ép rễ nặng (teo cơ nhanh, rối loạn cơ tròn, rối loạn cảm giác).
+
+## 5. PHÒNG BỆNH
+- Tư vấn cho bệnh nhân hiểu rõ về bệnh và thực hiện các biện pháp tránh tái phát đau vùng thắt lưng: làm việc đúng tư thế, đặc biệt tư thế đúng khi mang vật nặng, tránh xoắn vặn vùng thắt lưng, nên bơi hàng tuần, tập luyện các động tác làm chắc khỏe cơ bụng, cơ lưng…
+
+### TÀI LIỆU THAM KHẢO
+1. Nguyễn Thị Ngọc Lan; “Đau cột sống thắt lưng và đau thần kinh tọa do thoát vị đĩa đệm”; Bệnh học Nội khoa. NXB Y học, tập 2, 2008; trang 343-354.
+2. Chou R, Qaseem A, Snow V et al; "Diagnosis and treatment of low back pain: a joint clinical practice guideline from the American College of Physicians and the American Pain Society"; Ann Intern Med 147 (7), 2007, p478–91.
+3. Last A, et al; “Chronic low back pain: Evaluation and management”. American Family Physician; 2009; p79:1067.
+4. Malanga GA, Dunn KR; “Low back pain management: approaches to treatment”; J Musculoskel Med. 27, 2010; p305-315.
+5. Pepijn DDM Roelofs, et al; “Non-steroidal anti-inflammatory drugs for low back pain”; Cochrane Database of Systematic Reviews. Accessed July 15, 2012.
+6. Van Middelkoop M, Rubinstein SM, Verhagen AP, Ostelo RW, Koes BW, van Tulder MW; "Exercise therapy for chronic nonspecific low-back pain"; Best Pract Res Clin Rheumatol 24 (2), 2010; p193–204.
+
+# ĐAU THẦN KINH TỌA (Sciatica pain)
+
+## 1. ĐỊNH NGHĨA
+Đau thần kinh tọa (sciatica pain) còn gọi là đau thần kinh hông to, biểu hiện bởi cảm giác đau dọc theo đường đi của thần kinh tọa: đau tại cột sống thắt lưng lan tới mặt ngoài đùi, mặt trước ngoài cẳng chân, mắt cá ngoài và tận ở các ngón chân. Tùy theo vị trí tổn thương mà hướng lan của đau có khác nhau.
+
+Thường gặp đau thần kinh tọa một bên, ở lứa tuổi lao động (30-50 tuổi). Trước kia tỷ lệ nam cao hơn nữ, song các nghiên cứu năm 2011 cho thấy tỷ lệ nữ cao hơn nam. Nguyên nhân thường gặp nhất là do thoát vị đĩa đệm. Tỷ lệ đau thần tọa do thoát vị đĩa đệm cột sống thắt lưng tại cộng đồng miền Bắc Việt Nam là 0,64% (2010).
+
+## 2. NGUYÊN NHÂN
+- Nguyên nhân hàng đầu gây chèn ép rễ thần kinh tọa là thoát vị đĩa đệm (thường gặp nhất là đĩa đệm L4-L5 hoặc L5-S1 gây chèn ép rễ L5 hoặc S1 tương ứng); trượt đốt sống; thoái hóa cột sống thắt lưng gây hẹp ống sống thắt lưng. Các nhóm nguyên nhân do thoái hóa này có thể kết hợp với nhau.
+- Các nguyên nhân hiếm gặp hơn: viêm đĩa đệm đốt sống, tổn thương thân đốt sống (thường do lao, vi khuẩn, u), chấn thương, tình trạng mang thai…
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Chẩn đoán xác định
+
+#### 3.1.1. Lâm sàng
+- Đau dọc đường đi của dây thần kinh tọa, đau tại cột sống thắt lưng lan tới mặt ngoài đùi, mặt trước ngoài cẳng chân, mắt cá ngoài và tận ở các ngón chân. Tùy theo vị trí tổn thương mà biểu hiện trên lâm sàng có khác nhau:
+  - Tổn thương rễ L4: đau đến khoeo chân.
+  - Tổn thương rễ L5: đau lan tới mu bàn chân tận hết ở ngón chân cái (ngón I).
+  - Tổn thương rễ S1: đau lan tới lòng bàn chân (gan chân) tận hết ở ngón V (ngón út).
+  - Một số trường hợp không đau cột sống thắt lưng, chỉ đau dọc chân.
+- Đau có thể liên tục hoặc từng cơn, giảm khi nằm nghỉ ngơi, tăng khi đi lại nhiều. Trường hợp có hội chứng chèn ép: tăng khi ho, rặn, hắt hơi. Có thể có triệu chứng yếu cơ. Giai đoạn muộn có teo cơ tứ đầu đùi, hạn chế vận động, co cứng cơ cạnh cột sống.
+- Một số nghiệm pháp:
+  - Hệ thống điểm đau Valleix, dấu chuông bấm dương tính.
+  - Dấu hiệu Lasègue dương tính.
+  - Các dấu hiệu khác có giá trị tương đương dấu hiệu Lasègue: dấu hiệu Chavany, dấu hiệu Bonnet.
+  - Phản xạ gân xương: Phản xạ gân bánh chè giảm hoặc mất trong tổn thương rễ L4, phản xạ gân gót giảm hoặc mất trong tổn thương rễ S1.
+
+#### 3.1.2. Cận lâm sàng
+- Các xét nghiệm về dấu hiệu viêm trong xét nghiệm máu âm tính, các chỉ số sinh hóa thông thường không thay đổi. Tuy nhiên cần chỉ định xét nghiệm bilan viêm, các xét nghiệm cơ bản nhằm mục đích loại trừ những bệnh lý như viêm nhiễm, ác tính và cần thiết khi chỉ định thuốc.
+- Chụp Xquang thường quy cột sống thắt lưng: ít có giá trị chẩn đoán nguyên nhân. Đa số các trường hợp Xquang thường quy bình thường hoặc có dấu hiệu thoái hóa cột sống thắt lưng, trượt đốt sống. Chỉ định chụp Xquang thường quy nhằm loại trừ một số nguyên nhân (viêm đĩa đệm đốt sống, tình trạng hủy đốt sống do ung thư…).
+- Chụp cộng hưởng từ (MRI) cột sống thắt lưng: nhằm xác định chính xác dạng tổn thương cũng như vị trí khối thoát vị, mức độ thoát vị đĩa đệm, đồng thời có thể phát hiện các nguyên nhân ít gặp khác (viêm đĩa đệm đốt sống, khối u…).
+- Chụp CT-scan: chỉ được chỉ định khi không có điều kiện chụp cộng hưởng từ.
+- Điện cơ: giúp phát hiện và đánh giá tổn thương các rễ thần kinh.
+
+### 3.2. Chẩn đoán phân biệt
+Cần phân biệt với các trường hợp giả đau thần kinh tọa:
+- Đau thần kinh đùi, đau thần kinh bì đùi, đau thần kinh bịt.
+- Đau khớp háng do viêm, hoại tử, thoái hóa, chấn thương.
+- Viêm khớp cùng chậu, viêm, áp xe cơ thắt lưng chậu.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc điều trị
+- Điều trị theo nguyên nhân (thường gặp nhất là thoát vị đĩa đệm cột sống thắt lưng).
+- Giảm đau và phục hồi vận động nhanh.
+- Điều trị nội khoa với những trường hợp nhẹ và vừa.
+- Can thiệp ngoại khoa khi có những biến chứng liên quan đến vận động, cảm giác.
+- Đau thần kinh tọa do nguyên nhân ác tính: điều trị giải ép cột sống kết hợp điều trị chuyên khoa.
+
+### 4.2. Điều trị cụ thể
+
+#### 4.2.1. Nội khoa
+- Chế độ nghỉ ngơi:
+
+Nằm giường cứng, tránh các động tác mạnh đột ngột, mang vác nặng, đứng, ngồi quá lâu.
+
+- **Điều trị thuốc**:
+  - **Thuốc giảm đau**: Tùy mức độ đau mà sử dụng một hoặc phối hợp các thuốc giảm đau sau đây:
+    - *Thuốc giảm đau*: paracetamol 1-3 gam/ngày chia 2-4 lần. Trường hợp đau nhiều, chỉ định paracetamol kết hợp với opioid nhẹ như Codein hoặc Tramadol 2-4 viên/ngày.
+    - *Thuốc kháng viêm không steroid (NSAID)*: tùy đối tượng bệnh nhân, có thể dùng một trong các NSAID không chọn lọc hoặc có ức chế chọn lọc COX-2, ví dụ: Ibuprofen (400 mg x 3-4 lần/ngày), naproxen (500 mg x 2 lần/ngày), diclofenac (75-150 mg/ngày), piroxicam (20 mg/ngày), meloxicam (15 mg/ngày), celecoxib (200 mg/ngày), etoricoxib (60 mg/ngày). Cần lưu ý các tác dụng phụ trên đường tiêu hóa, thận, tim mạch. Để giảm nguy cơ tiêu hóa (đặc biệt khi sử dụng các NSAID không chọn lọc) nên xem xét sử dụng phối hợp với một thuốc bảo vệ dạ dày thuộc nhóm ức chế bơm proton (PPI) (xem thêm phần phụ lục).
+    - Trong trường hợp đau nhiều có thể cần phải dùng đến các chế phẩm thuốc phiện như morphin.
+  - **Thuốc giãn cơ**: Tolperisone (100-150 mg x 3 lần uống/ngày) hoặc Eperisone (50 mg x 2-3 lần/ngày)...
+  - **Các thuốc khác**: khi bệnh nhân có đau nhiều, đau mãn tính, có thể sử dụng phối hợp với các thuốc giảm đau thần kinh như:
+    - *Gabapentin*: 600-1200 mg/ngày (bắt đầu bằng liều 300 mg/ngày trong tuần đầu).
+    - *Pregabalin*: 150-300 mg/ngày (bắt đầu bằng liều 75 mg/ngày trong tuần đầu).
+    - *Các thuốc khác*: các vitamin nhóm B hoặc Mecobalamin.
+  - **Tiêm corticosteroid ngoài màng cứng**: giảm đau do rễ trong bệnh thần kinh tọa, có thể tiêm dưới hướng dẫn của màn huỳnh quang tăng sáng hoặc CT.
+
+### 4.2.2. Vật lý trị liệu
+- Mát-xa liệu pháp.
+- Thể dục trị liệu: những bài tập kéo giãn cột sống, xà đơn treo người nhẹ. Bơi, một số bài tập cơ lưng giúp tăng cường sức mạnh cột sống.
+- Đeo đai lưng hỗ trợ nhằm tránh quá tải trên đĩa đệm cột sống.
+
+### 4.2.3. Các thủ thuật can thiệp xâm lấn tối thiểu
+- **Các thủ thuật điều trị can thiệp tối thiểu**: sử dụng sóng cao tần (tạo hình nhân đĩa đệm). Mục đích là lấy bỏ hoặc làm tiêu tổ chức từ vùng trung tâm đĩa đệm để làm giảm áp lực chèn ép của đĩa đệm bị thoát vị đối với rễ thần kinh.
+- **Chỉ định**: những thoát vị đĩa đệm dưới dây chằng, tức là chưa qua dây chằng dọc sau.
+
+### 4.2.4. Điều trị ngoại khoa
+- **Chỉ định**: khi điều trị nội khoa thất bại hoặc những trường hợp có chèn ép nặng (hội chứng đuôi ngựa, hẹp ống sống, liệt chi dưới...), teo cơ.
+- Tùy theo tình trạng thoát vị, trượt đốt sống hoặc u chèn ép cũng như điều kiện kỹ thuật cho phép mà sử dụng các phương pháp phẫu thuật khác nhau (nội soi, sóng cao tần, vi phẫu hoặc mổ hở, làm vững cột sống). Hai phương pháp phẫu thuật thường sử dụng:
+  - **Phẫu thuật lấy nhân đệm**: cắt bỏ một phần nhỏ đĩa đệm thoát vị gây chèn ép thần kinh. Chỉ định sau khi điều trị đau 03 tháng không kết quả. Trường hợp bệnh nhân đã có biến chứng hạn chế vận động và rối loạn cảm giác nặng, cần phẫu thuật sớm hơn.
+  - **Phẫu thuật cắt cung sau đốt sống**: chỉ định đối với đau thần kinh tọa do hẹp ống sống, phương pháp này làm cột sống mất vững và dễ tái phát.
+  - **Trường hợp trượt đốt sống gây chèn ép thần kinh nặng**: cố định bằng phương pháp làm cứng đốt sống, nẹp vít cột sống.
+
+### SƠ ĐỒ CHẨN ĐOÁN VÀ ĐIỀU TRỊ ĐAU THẦN KINH TỌA
+
+```mermaid
+flowchart TD
+    A["Đau dọc đường đi của thần kinh tọa<br>Dấu Valleix (+), Lasegue (+)"] --> B["Chẩn đoán đau thần kinh tọa"]
+    B --> C["X-quang cột sống thắt lưng quy ước<br>MRI/CT cột sống thắt lưng"]
+    C --> D1["Thoái hóa cột sống thắt lưng"]
+    C --> D2["Chèn ép tủy sống nhẹ"]
+    C --> D3["Chèn ép tủy nặng"]
+    D1 --> E1["Điều trị nội khoa"]
+    D2 --> E2["Can thiệp xâm lấn tối thiểu"]
+    D3 --> E3["Điều trị ngoại khoa"]
+```
+
+## 5. TIẾN TRIỂN VÀ BIẾN CHỨNG
+- Rối loạn vận động chi dưới gây hạn chế vận động một phần hoặc hoàn toàn liệt chi dưới.
+- Rối loạn cảm giác chi dưới.
+- Rối loạn cơ vòng (cơ tròn).
+
+## 6. THEO DÕI VÀ QUẢN LÝ
+- Cần các biện pháp bảo vệ cột sống kết hợp (thay đổi lối sống, có các biện pháp tránh cho cột sống bị quá tải, nên bơi hàng tuần).
+- Nếu do các nguyên nhân ác tính tại chỗ hoặc di căn, cần kết hợp điều trị ung thư (hóa trị, xạ trị).
+- Nên mang đai lưng sau phẫu thuật ít nhất 1 tháng khi đi lại hoặc ngồi lâu.
+- Tái khám định kỳ sau điều trị nội khoa hoặc ngoại khoa theo hẹn.
+
+## 7. PHÒNG BỆNH
+- Giữ tư thế cột sống thẳng đứng khi ngồi lâu hoặc lái xe, có thể mang đai lưng hỗ trợ.
+- Tránh các động tác mạnh đột ngột, sai tư thế, mang vác nặng.
+- Luyện tập bơi lội hoặc yoga giúp tăng sức bền và sự linh hoạt khối cơ lưng.
+
+## TÀI LIỆU THAM KHẢO
+1. Bradley WG, et al; *"Neurology in Clinical Practice"*; 5th ed. Philadelphia, Pa.: Butterworth-Heinemann Elsevier; 2008.
+2. Knight CL, et al; *"Treatment of acute low back pain"*; http://www.uptodate.com/index. Accessed Aug. 9, 2012.
+3. Hsu PS, et al; *"Lumbosacral radiculopathy: Pathophysiology, clinical features and diagnosis"*; http://www.uptodate.com/index. Accessed Aug. 2, 2012.
+4. Levin K, et al; *"Acute lumbosacral radiculopathy: Prognosis and treatment"*; http://www.uptodate.com/index. Accessed Aug. 2, 2012.
+5. Van Tulder M, Peul W, Koes B ; *"Sciatica: what the rheumatologist needs to know"*; Nat Rev Rheumatol. 2010;6(3):139-45.
+
+---
+
+# BỆNH THOÁI HÓA CỘT SỐNG CỔ
+**(Cervical spondylosis)**
+
+## 1. ĐỊNH NGHĨA
+Thoái hóa cột sống cổ (Cervical spondylosis) là bệnh lý mạn tính khá phổ biến, tiến triển chậm, thường gặp ở người lớn tuổi và/hoặc liên quan đến tư thế vận động. Tổn thương cơ bản của bệnh là tình trạng thoái hóa sụn khớp và/hoặc đĩa đệm ở cột sống cổ.
+Có thể gặp thoái hóa ở bất kỳ đoạn nào song đoạn C5-C6-C7 là thường gặp nhất.
+
+## 2. NGUYÊN NHÂN
+- Quá trình lão hóa của tổ chức sụn, tế bào và tổ chức khớp và quanh khớp (cơ cạnh cột sống, dây chằng, thần kinh...).
+- Tình trạng chịu áp lực quá tải kéo dài của sụn khớp.
+
+## 3. CHẨN ĐOÁN
+### 3.1. Lâm sàng
+Biểu hiện rất đa dạng, thường gồm bốn hội chứng chính sau:
+- **Hội chứng cột sống cổ**: đau, có thể kèm theo co cứng vùng cơ cạnh cột sống cổ cấp hoặc mạn tính; triệu chứng đau tăng lên ở tư thế cổ thẳng hoặc cúi đầu kéo dài, mệt mỏi, căng thẳng, lao động nặng, thay đổi thời tiết đặc biệt bị nhiễm lạnh; có điểm đau cột sống cổ; hạn chế vận động cột sống cổ.
+- **Hội chứng rễ thần kinh cổ**: tùy theo vị trí rễ tổn thương (một bên hoặc cả hai bên) mà đau lan từ cổ xuống tay bên đó. Có thể đau tại vùng gáy, đau quanh khớp vai. Đau sâu trong cơ xương, bệnh nhân có cảm giác nhức nhối; có thể kèm cảm giác kiến bò, tê rần dọc cánh tay, có thể lan đến các ngón tay. Đau tăng lên khi vận động cột sống cổ ở các tư thế (cúi, ngửa, nghiêng, quay) hoặc khi ho, hắt hơi, ngồi lâu... Có thể kèm theo hiện tượng chóng mặt, yếu cơ hoặc teo cơ tại vai, cánh tay bên tổn thương.
+- **Hội chứng động mạch đốt sống**: nhức đầu vùng chẩm, thái dương, trán và hai hố mắt thường xảy ra vào buổi sáng; có khi kèm chóng mặt, ù tai, hoa mắt, mờ mắt, nuốt vướng; đau tai, lan ra sau tai, đau khi để đầu ở một tư thế nhất định.
+- **Hội chứng ép tủy**: tùy theo mức độ và vị trí tổn thương mà biểu hiện chỉ ở chi trên hoặc cả thân và chi dưới. Dáng đi không vững, đi lại khó khăn; yếu hoặc liệt chi, teo cơ ngọn chi, dị cảm. Tăng phản xạ gân xương.
+- **Biểu hiện khác**: dễ cáu gắt, thay đổi tính tình, rối loạn giấc ngủ, giảm khả năng làm việc...
+
+Tùy theo vị trí cột sống cổ bị tổn thương mà có thể xuất hiện riêng lẻ hoặc đồng thời các biểu hiện trên.
+
+### 3.2. Cận lâm sàng
+- **Các xét nghiệm phát hiện dấu hiệu viêm, bilan phosphor - calci**: thường ở trong giới hạn bình thường. Tuy nhiên cần chỉ định xét nghiệm bilan viêm, các xét nghiệm cơ bản nhằm mục đích loại trừ những bệnh lý như viêm nhiễm, bệnh lý ác tính và cần thiết khi chỉ định thuốc.
+- **X-quang cột sống cổ thường quy**: với các tư thế sau: thẳng, nghiêng, chếch 3/4 trái và phải. Trên phim X-quang có thể phát hiện các bất thường: mất đường cong sinh lý, gai xương ở thân đốt sống, giảm chiều cao đốt sống, đĩa đệm, đặc xương dưới sụn, hẹp lỗ liên hợp...
+- **Chụp cộng hưởng từ (MRI) cột sống cổ**: phương pháp có giá trị nhất nhằm xác định chính xác vị trí rễ bị chèn ép, vị trí khối thoát vị, mức độ thoát vị đĩa đệm, mức độ hẹp ống sống, đồng thời có thể phát hiện các nguyên nhân ít gặp khác (viêm đĩa đệm đốt sống, khối u,...).
+- **Chụp CT-scan**: do hiệu quả chẩn đoán kém chính xác hơn nên chỉ được chỉ định khi không có điều kiện chụp cộng hưởng từ.
+- **Điện cơ**: giúp phát hiện và đánh giá tổn thương các rễ thần kinh.
+
+### 3.3. Chẩn đoán xác định
+Hiện tại vẫn chưa có tiêu chuẩn chẩn đoán xác định bệnh lý thoái hóa cột sống cổ. Chẩn đoán cần dựa vào triệu chứng lâm sàng và cận lâm sàng, trong đó:
+- Đau tại vùng cột sống cổ và có một hoặc nhiều các triệu chứng thuộc bốn hội chứng nêu trên.
+- X-quang cột sống cổ bình thường hoặc có các triệu chứng của thoái hóa.
+- Cộng hưởng từ hoặc CT-scan: vị trí, mức độ rễ thần kinh bị chèn ép; nguyên nhân chèn ép (thoát vị đĩa đệm, gai xương...).
+- **Cần lưu ý**: gần đây tình trạng toàn thân không bị thay đổi, không sốt, không có các rối loạn chức năng thuộc bất cứ cơ quan nào (dạ dày, ruột, sản phụ khoa, phế quản - phổi...) mới xuất hiện; không có các biểu hiện đau các vùng cột sống khác: lưng, cổ, sườn, khớp khác...
+- Các xét nghiệm dấu hiệu viêm và bilan phospho-calci âm tính.
+
+### 3.4. Chẩn đoán phân biệt
+- Các chấn thương vùng cột sống cổ gây tổn thương xương và đĩa đệm.
+- Các ung thư xương hoặc di căn xương, các bệnh lý tủy xương lành tính hoặc ác tính.
+- U nội tủy, u thần kinh...
+- Bệnh lý của hệ động mạch sống nền.
+
+## 4. ĐIỀU TRỊ
+### 4.1. Nguyên tắc chung
+- Cần phối hợp phương pháp nội khoa và phục hồi chức năng, luyện tập, thay đổi lối sống nhằm bảo vệ cột sống cổ, tránh tái phát.
+- Áp dụng các liệu pháp giảm đau theo mức độ nhẹ - vừa - nặng, hạn chế sử dụng dài ngày.
+- Cần tăng cường các nhóm thuốc điều trị bệnh theo nguyên nhân.
+
+### 4.2. Điều trị cụ thể
+#### 4.2.1. Điều trị nội khoa
+- **Paracetamol**: đây là lựa chọn ưu tiên với sự cân bằng giữa tác dụng phụ và hiệu quả mong muốn. Có thể đơn chất hoặc phối hợp với các chất giảm đau trung ương như codein, dextropropoxyphene…
+- **Tramadol**: có hiệu quả, chỉ dùng khi không đáp ứng với nhóm giảm đau nêu trên và tránh dùng kéo dài. Một vài trường hợp hãn hữu, thể tăng đau có thể chỉ định opioids ngắn ngày và liều thấp nhất có thể.
+- **Nhóm thuốc giảm đau chống viêm không steroid liều thấp**: các dạng kinh điển (diclofenac, ibuprofen, naproxen…) hoặc các thuốc ức chế chọn lọc COX-2 (celecoxib, etoricoxib...), tuy nhiên cần thận trọng ở bệnh nhân lớn tuổi, có bệnh lý ống tiêu hóa, tim mạch hoặc thận mạn tính. Có thể dùng đường uống hoặc bôi ngoài da.
+- **Thuốc giãn cơ**.
+- **Nhóm thuốc chống thoái hóa tác dụng chậm**: piascledine 300mg/ngày; glucosamine sulfate: 1500mg/ngày, dùng đơn độc hoặc phối hợp với chondroitin sulfate; hoặc diacerein 50mg x 2 viên/ngày.
+- **Các thuốc khác**: khi bệnh nhân có biểu hiện đau kiểu rễ, có thể sử dụng phối hợp với các thuốc giảm đau thần kinh như:
+  - Gabapentin: 600-1200 mg/ngày (nên bắt đầu bằng liều thấp)
+  - Pregabalin: 150-300 mg/ngày (nên bắt đầu bằng liều thấp)
+  - Các vitamin nhóm B (B1, B6, B12), mecobalamin
+- **Tiêm Glucocorticoid cạnh cột sống**: có hiệu quả từ vài ngày đến vài tháng. Không nên tiêm quá 3 lần trên cùng một khớp trong một năm. Cần có sự hướng dẫn của bác sĩ chuyên khoa. Trường hợp chèn ép rễ, có thể tiêm thẩm phân corticosteroid tại rễ bị chèn ép dưới hướng dẫn của CT.
+
+#### 4.2.2. Phục hồi chức năng
+- Cần thực hiện các bài tập vận động vùng cổ, đặc biệt với bệnh nhân đã mang nẹp cổ thời gian dài, bệnh nhân có công việc ít vận động vùng cổ.
+- Nghỉ ngơi, giữ ấm, tránh thay đổi tư thế cột sống cổ đột ngột.
+- Các liệu pháp vật lý trị liệu: sử dụng nhiệt, sóng siêu âm... Có thể kéo dãn cột sống cổ song nên thực hiện với mức độ tăng dần từ từ.
+
+#### 4.2.3. Điều trị ngoại khoa
+Chỉ chỉ định áp dụng trong các trường hợp: có biểu hiện chèn ép rễ thần kinh hoặc tủy sống tiến triển nặng, trượt đốt sống độ 3-4 hoặc đã thất bại với điều trị nội khoa và phục hồi chức năng sau 03 tháng.
+
+## 5. TIẾN TRIỂN - BIẾN CHỨNG
+- Chèn ép thần kinh gây hội chứng vai cánh tay một hoặc hai bên.
+- Chèn ép các động mạch đốt sống gây đau đầu, chóng mặt.
+- Chèn ép tủy: gây yếu, đau tứ chi, đi lại khó khăn hoặc liệt không vận động được.
+
+## 6. PHÒNG BỆNH
+- Phát hiện và điều trị sớm các dị tật cột sống cổ.
+- Tránh các tư thế cột sống cổ bị quá tải do vận động và trọng lượng, tránh các động tác mạnh đột ngột tại cột sống cổ...
+
+## TÀI LIỆU THAM KHẢO
+1. Nguyễn Mai Hồng; *"Thoái hóa cột sống, chẩn đoán và điều trị những bệnh cơ xương khớp"*; Nhà xuất bản Y học, 2009; trang 56-64.
+2. Đào Thị Vân Khánh; *"Thoái khớp"*; Bài giảng bệnh học nội khoa - tập 2, Nhà xuất bản Y học, 2007; trang 111-116.
+3. Hector Molina và CS; *"Osteoarthritis, Arthritis and Rheumatologic Diseases"*; The Washington manual of medical therapeutics, 2010; p.870-872.
+4. John H. Klippel và CS; *"Osteoarthritis, Primer on the rheumatic diseases"*; edition 13, 2008; p. 224-240.\n
+# HỘI CHỨNG CỔ VAI CÁNH TAY
+(Cervical scapulohumeral syndrome)
+
+## 1. ĐẠI CƯƠNG
+- **Hội chứng cổ vai cánh tay** (cervical scapulohumeral syndrome), còn gọi là **hội chứng vai cánh tay** (scapulohumeral syndrome) hay **bệnh lý rễ tủy cổ** (cervical radiculopathy), là một nhóm các triệu chứng lâm sàng liên quan đến các bệnh lý cột sống cổ có kèm theo các rối loạn chức năng rễ, dây thần kinh cột sống cổ và/hoặc tủy cổ, không liên quan tới bệnh lý viêm.
+- Biểu hiện lâm sàng thường gặp là **đau vùng cổ, vai và một bên tay**, kèm theo một số rối loạn cảm giác và/hoặc vận động tại vùng chi phối của rễ dây thần kinh cột sống cổ bị ảnh hưởng.
+
+## 2. NGUYÊN NHÂN
+- Nguyên nhân thường gặp nhất (70-80%) là do **thoái hóa cột sống cổ**, thoái hóa các khớp liên đốt và liên mỏm bên làm hẹp lỗ tiếp hợp, hậu quả là gây chèn ép rễ/dây thần kinh cột sống cổ tại các lỗ tiếp hợp.
+- **Thoát vị đĩa đệm cột sống cổ** (20-25%), đơn thuần hoặc phối hợp với thoái hóa cột sống cổ.
+- Các nguyên nhân ít gặp khác gồm chấn thương, khối u, nhiễm trùng, loãng xương, bệnh lý viêm cột sống, bệnh lý phần mềm cạnh cột sống.
+- Trong một số trường hợp, hội chứng cổ vai cánh tay là do bản thân bệnh lý của cột sống cổ gây đau cổ và lan ra vai hoặc tay, mà không có bệnh lý rễ dây thần kinh cổ.
+
+## 3. CHẨN ĐOÁN
+### 3.1. Chẩn đoán xác định
+#### 3.1.1. Lâm sàng
+Tùy thuộc nguyên nhân, mức độ và giai đoạn bệnh, bệnh nhân có thể có ít nhiều những triệu chứng và hội chứng sau đây:
+- **Hội chứng cột sống cổ**:
+  - Đau vùng cổ gáy, có thể khởi phát cấp tính sau chấn thương, sau động tác vận động cổ quá mức, hoặc tự nhiên như sau khi ngủ dậy. Đau cũng có thể xuất hiện từ từ, âm ỉ, mạn tính.
+  - Hạn chế vận động cột sống cổ, có thể kèm theo dấu hiệu vẹo cổ, hay gặp trong đau cột sống cổ cấp tính.
+  - Điểm đau cột sống cổ khi ấn vào các gai sau, cạnh cột sống cổ tương ứng các rễ thần kinh.
+- **Hội chứng rễ thần kinh**:
+  - Đau vùng gáy lan lên vùng chẩm và xuống vai hoặc cánh tay, bàn tay, biểu hiện lâm sàng là hội chứng vai gáy, hoặc hội chứng vai cánh tay. Đau thường tăng lên khi xoay đầu hoặc gập cổ về phía bên đau.
+  - Rối loạn vận động, cảm giác kiểu rễ: Yếu cơ và rối loạn cảm giác như rát bỏng, kiến bò, tê bì ở vùng vai, cánh tay, hoặc ở bàn tay và các ngón tay.
+  - Một số nghiệm pháp đánh giá tổn thương rễ thần kinh cổ:
+    - **Dấu hiệu chuông bấm**: Ấn điểm cạnh sống tương ứng với lỗ tiếp hợp thấy đau xuất hiện từ cổ lan xuống vai và cánh tay.
+    - **Nghiệm pháp Spurling**: Bệnh nhân ngồi hoặc nằm nghiêng đầu về bên đau, thầy thuốc dùng tay ép lên đỉnh đầu bệnh nhân, làm cho đau tăng lên.
+    - **Nghiệm pháp dạng vai**: Bệnh nhân ngồi, cánh tay bên đau đưa lên trên đầu và ra sau, các triệu chứng rễ giảm hoặc mất.
+    - **Nghiệm pháp kéo giãn cổ**: Bệnh nhân nằm ngửa, thầy thuốc dùng tay giữ chẩm và cằm và kéo từ từ theo trục dọc, làm giảm triệu chứng.
+- **Hội chứng tủy cổ**:
+  - Do lồi hoặc thoát vị đĩa đệm gây chèn ép tủy cổ tiến triển trong một thời gian dài.
+  - Biểu hiện sớm là dấu hiệu tê bì và mất sự khéo léo của hai bàn tay, teo cơ hai tay, đi lại khó khăn, nhanh mỏi. Giai đoạn muộn tùy vị trí tổn thương có thể thấy liệt trung ương tứ chi; liệt ngoại vi hai tay và liệt trung ương hai chân; rối loạn phản xạ đại tiểu tiện.
+- **Các triệu chứng khác**:
+  - **Hội chứng động mạch sống nền**: Đau đầu vùng chẩm, chóng mặt, ù tai, mờ mắt, đôi khi có giảm thị lực thoáng qua, mất thăng bằng, mệt mỏi.
+  - Có thể có các rối loạn thần kinh thực vật: Đau kèm theo ù tai, rối loạn thị lực, rối loạn vận mạch vùng chẩm vai hoặc tay.
+  - Khi có các triệu chứng toàn thân như sốt, rét run, vã mồ hôi vào ban đêm, sụt cân,… cần phải đặc biệt lưu ý loại trừ bệnh lý ác tính, nhiễm trùng.
+
+#### 3.1.2. Cận lâm sàng
+- **Xét nghiệm máu**: Ít có giá trị chẩn đoán trong bệnh lý cột sống cổ và đĩa đệm gây chèn ép cơ học. Trong những bệnh như khối u, viêm, nhiễm trùng có thể thấy thay đổi trong một số xét nghiệm như tế bào máu ngoại vi, tốc độ lắng máu, CRP, phosphatase kiềm, điện di protein huyết thanh, v.v…
+- **Chụp X-quang thường quy**: Cần chụp tư thế trước sau, nghiêng và chếch 3/4. X-quang có thể phát hiện những tổn thương cột sống cổ do chấn thương, thoái hóa, hẹp lỗ tiếp hợp, xẹp đốt sống do loãng xương, hủy xương do bệnh lý ác tính, v.v.
+- **Chụp cộng hưởng từ (MRI)**: MRI thường được chỉ định khi bệnh nhân đau kéo dài (> 4-6 tuần), đau ngày càng tăng, có tổn thương thần kinh tiến triển, có biểu hiện bệnh lý tủy cổ, hoặc các dấu hiệu cảnh báo gợi ý bệnh lý ác tính hay nhiễm trùng.
+- **Chụp cắt lớp vi tính (CT Scan)** đơn thuần hoặc kèm chụp tủy cản quang: Chụp CT đơn thuần có thể được chỉ định khi không có MRI hoặc chống chỉ định chụp MRI.
+- **Xạ hình xương**: Khi nghi ngờ ung thư di căn hoặc viêm đĩa đệm đốt sống, cốt tủy viêm.
+- **Điện cơ**: Có thể giúp phát hiện tổn thương nguồn gốc thần kinh và phân biệt bệnh lý tủy cổ với bệnh lý rễ và dây thần kinh ngoại biên.
+
+### 3.2. Chẩn đoán phân biệt
+- Bệnh lý khớp vai và viêm quanh khớp vai.
+- Hội chứng lối ra lồng ngực, viêm đám rối thần kinh cánh tay, hội chứng đường hầm cổ tay.
+- Hội chứng đau loạn dưỡng giao cảm phản xạ.
+- Bệnh lý tủy sống do viêm, nhiễm trùng, đa xơ cứng.
+- Bệnh lý não, màng não, tim mạch, hô hấp, tiêu hóa gây đau vùng cổ vai hoặc tay.
+
+## 4. ĐIỀU TRỊ
+### 4.1. Nguyên tắc điều trị
+- Điều trị triệu chứng bệnh kết hợp với giải quyết nguyên nhân nếu có thể.
+- Kết hợp điều trị thuốc với các biện pháp vật lý trị liệu, phục hồi chức năng và các biện pháp không dùng thuốc khác.
+- Chỉ định điều trị ngoại khoa khi cần thiết.
+
+### 4.2. Điều trị cụ thể
+#### 4.2.1. Các biện pháp không dùng thuốc
+- Giáo dục bệnh nhân, thay đổi thói quen sinh hoạt, công việc (tư thế ngồi làm việc, sử dụng máy tính, …).
+- Trong giai đoạn cấp khi có đau nhiều hoặc sau chấn thương có thể bất động cột sống cổ tương đối bằng đai cổ mềm.
+- Tập vận động cột sống cổ, vai, cánh tay với các bài tập thích hợp.
+- **Vật lý trị liệu**: Liệu pháp nhiệt, kích thích điện, siêu âm liệu pháp, xoa bóp bấm huyệt, châm cứu, kéo giãn cột sống (tại các cơ sở điều trị vật lý và phục hồi chức năng).
+
+#### 4.2.2. Các phương pháp điều trị thuốc
+- **Thuốc giảm đau**: Tùy mức độ đau, có thể dùng đơn thuần hoặc phối hợp các nhóm thuốc sau:
+  - *Thuốc giảm đau thông thường*: Paracetamol viên 0,5-0,65g x 2-4 viên/24h (không dùng quá 4 gam paracetamol/24h).
+  - *Thuốc giảm đau dạng phối hợp*: Paracetamol kết hợp với một opioid nhẹ như codein hoặc tramadol: 2-4 viên/24h.
+  - *Thuốc kháng viêm không steroid (NSAID)*: Lựa chọn một thuốc thích hợp tùy cơ địa bệnh nhân và các nguy cơ tác dụng phụ. Liều thường dùng: diclofenac 75-150 mg/ngày; piroxicam 20 mg/ngày; meloxicam 7,5-15 mg/ngày; celecoxib 100-200 mg/ngày; hoặc etoricoxib 30-60 mg/ngày. Nếu bệnh nhân có nguy cơ tiêu hóa nên dùng nhóm ức chế chọn lọc COX-2 hoặc phối hợp với một thuốc ức chế bơm proton.
+- **Thuốc giãn cơ**:
+  - Thường dùng trong đợt đau cấp, đặc biệt khi có tình trạng co cứng cơ.
+  - Các thuốc thường dùng: Eperisone 50 mg x 2-3 lần/ngày, hoặc tolperisone 50-150 mg x 2-3 lần/ngày, hoặc mephenesin 250 mg x 2-4 lần/ngày, hoặc diazepam.
+- **Các thuốc khác**:
+  - *Thuốc giảm đau thần kinh*: Có thể chỉ định khi có bệnh lý rễ thần kinh nặng hoặc dai dẳng, nên bắt đầu bằng liều thấp, sau đó tăng liều dần tùy theo đáp ứng điều trị: gabapentin 600-1200 mg/ngày, hoặc pregabalin 150-300 mg/ngày.
+  - *Thuốc chống trầm cảm ba vòng (liều thấp)*: amitriptyline hoặc nortriptyline (10-25 mg/ngày) khi có biểu hiện đau thần kinh mạn tính hoặc khi có kèm rối loạn giấc ngủ.
+  - *Vitamin nhóm B*: Viên 3B (B1, B6, B12) hoặc dẫn chất B12 mecobalamin (1000 - 1500 mcg/ngày).
+  - *Corticosteroid*: Trong một số trường hợp có biểu hiện chèn ép rễ nặng và có tính chất cấp tính mà các thuốc khác ít hiệu quả, có thể xem xét dùng một đợt ngắn hạn corticosteroid đường uống (prednisolone, methylprednisolone) trong 1-2 tuần.
+
+#### 4.2.3. Điều trị ngoại khoa
+- **Một số chỉ định**: Đau nhiều song điều trị nội khoa ít có kết quả, có tổn thương thần kinh nặng và tiến triển, có chèn ép tủy cổ đáng kể.
+- **Một số phương pháp phẫu thuật chủ yếu**: Chỉnh sửa cột sống để giải phóng chèn ép thần kinh tại các lỗ tiếp hợp bị hẹp, lấy nhân nhầy đĩa đệm thoát vị, làm dính và vững cột sống.
+
+#### 4.2.4. Các phương pháp khác
+- **Tiêm corticosteroid ngoài màng cứng hoặc tiêm khớp liên mỏm sau (facet)** cạnh cột sống cổ: Có thể được chỉ định và thực hiện tại các cơ sở chuyên khoa.
+- **Các thủ thuật giảm đau can thiệp**: Phong bế rễ thần kinh chọn lọc; điều trị đốt thần kinh cạnh hạch giao cảm cổ bằng sóng cao tần (radio frequency ablation, RFA).
+
+## 5. TIẾN TRIỂN, BIẾN CHỨNG, THEO DÕI
+- Tiên lượng nhìn chung là tốt nếu được điều trị thích hợp. Điều trị nội khoa bảo tồn có hiệu quả trong 80-90% trường hợp. Đa số bệnh nhân sẽ hết các triệu chứng sau khi được điều trị bảo tồn và ở một số bệnh nhân các triệu chứng có thể hết một cách tự nhiên.
+- Một số bệnh nhân dù được điều trị vẫn có thể còn những di chứng như không hết hoàn toàn các triệu chứng, vận động cột sống cổ không trở về mức độ bình thường, mất độ ưỡn tự nhiên của cột sống cổ. Những trường hợp chèn ép rễ hoặc tủy cổ nặng có thể gây rối loạn nặng cảm giác và vận động.
+- Bệnh nhân cần được thăm khám định kỳ cho đến khi hết triệu chứng để đánh giá kết quả điều trị, điều chỉnh phương pháp điều trị nếu cần và để phát hiện các tổn thương thần kinh tiến triển nặng thêm hoặc các triệu chứng nặng khác nếu có.
+
+## 6. PHÒNG BỆNH
+- Cần duy trì tư thế đầu và cổ thích hợp trong sinh hoạt, công việc, học tập và các hoạt động thể thao, tránh những tư thế ngồi, tư thế làm việc gây gập cổ, ưỡn cổ hoặc xoay cổ quá mức kéo dài, tránh ngồi hoặc đứng quá lâu, chú ý tư thế ngồi và ghế ngồi thích hợp.
+- Thực hiện các bài tập vận động cột sống cổ thích hợp để tăng cường sức cơ vùng cổ ngực và vai, cũng như tránh cho cơ vùng cổ bị mỏi mệt hoặc căng cứng.
+
+## TÀI LIỆU THAM KHẢO
+1. Bono CM, Ghiselli G, Gilbert TJ, et al; "North American Spine Society. An evidence-based clinical guideline for the diagnosis and treatment of cervical radiculopathy from degenerative disorders"; Spine J. 2011;11(1):64-72.
+2. Caridi JM, Pumberger M, and Hughes AP; "Cervical Radiculopathy: A Review"; HSS J. 2011; 7(3): 265–272.
+3. Douglass AB, Bope ET; "Evaluation and treatment of posterior neck pain in family practice"; J Am Board Fam Pract. 2004;17 Suppl:S13-22.
+4. Gross A, Miller J, D'Sylva J, et al ; "Manipulation or mobilisation for neck pain. Cochrane Database Syst Rev"; 2010;(1):CD004249.
+5. Guzman J, Haldeman S, Carroll LJ, et al; "Bone and Joint Decade 2000-2010 Task Force on Neck Pain and Its Associated Disorders. Clinical practice implications of the Bone and Joint Decade 2000-2010 Task Force on Neck Pain and Its Associated Disorders: from concepts and findings to recommendations"; Spine. 2008;33(4 Suppl):S199-213.
+
+# CHẨN ĐOÁN VÀ ĐIỀU TRỊ VIÊM QUANH KHỚP VAI
+(Periarthritis humeroscapularis)
+
+## 1. ĐỊNH NGHĨA
+**Viêm quanh khớp vai** (*Periarthritis humeroscapularis*) là thuật ngữ dùng chung cho các bệnh lý viêm các cấu trúc phần mềm quanh khớp vai: gân, túi thanh dịch, bao khớp; không bao gồm các bệnh lý có tổn thương đầu xương, sụn khớp và màng hoạt dịch như viêm khớp nhiễm khuẩn, viêm khớp dạng thấp…
+
+Theo Welfling (1981) có bốn thể lâm sàng của viêm quanh khớp vai:
+- **Đau vai đơn thuần** thường do bệnh lý gân.
+- **Đau vai cấp** do lắng đọng vi tinh thể.
+- **Giả liệt khớp vai** do đứt các gân của bó dài gân nhị đầu hoặc đứt các gân mũ cơ quay khiến cơ delta không hoạt động được.
+- **Cứng khớp vai** do viêm dính bao hoạt dịch, co thắt bao khớp, bao khớp dày, dẫn đến giảm vận động khớp ổ chảo - xương cánh tay.
+
+## 2. NGUYÊN NHÂN
+- **Thoái hóa gân do tuổi tác**: Bệnh thường xảy ra ở người trên 50 tuổi.
+- **Nghề nghiệp lao động nặng** có các chấn thương cơ học lặp đi lặp lại, gây tổn thương các gân cơ quanh khớp vai như gân cơ trên gai, cơ nhị đầu cánh tay.
+- **Tập thể thao quá sức**, chơi một số môn thể thao đòi hỏi phải nhấc tay lên quá vai như chơi cầu lông, tennis, bóng rổ, bóng chuyền.
+- **Chấn thương vùng vai** do ngã, trượt, tai nạn ô tô, xe máy.
+- **Một số bệnh lý khác** (tim mạch, hô hấp, tiểu đường, ung thư vú, thần kinh, lạm dụng thuốc ngủ).
+
+## 3. CHẨN ĐOÁN
+### 3.1. Lâm sàng
+#### 3.1.1. Đau khớp vai đơn thuần (viêm gân mạn tính)
+- Đau vùng khớp vai thường xuất hiện sau vận động khớp vai quá mức, hoặc sau những vi chấn thương liên tiếp ở khớp vai.
+- Đau kiểu cơ học. Đau tăng khi làm các động tác co cánh tay đối kháng. Ít hạn chế vận động khớp.
+- Thường gặp tổn thương gân cơ nhị đầu và gân cơ trên gai. Thường có điểm đau chói khi ấn tại điểm bám tận gân bó dài của gân cơ nhị đầu cánh tay (mặt trước của khớp vai, dưới mỏm quạ 1cm) hoặc gân trên gai (mỏm cùng vai).
+
+#### 3.1.2. Đau vai cấp (viêm khớp vi tinh thể)
+- Đau vai xuất hiện đột ngột với các tính chất dữ dội, đau gây mất ngủ, đau lan toàn bộ vai, lan lên cổ, lan xuống tay, đôi khi xuống tận bàn tay.
+- Bệnh nhân giảm vận động khớp vai nhiều, thường có tư thế cánh tay sát vào thân, không thực hiện được các động tác vận động thụ động khớp vai, đặc biệt là động tác dạng (giả cứng khớp vai do đau).
+- Vai sưng to nóng. Có thể thấy khối sưng bùng nhùng ở trước cánh tay tương ứng với túi thanh mạc bị viêm. Có thể có sốt nhẹ.
+
+#### 3.1.3. Giả liệt khớp vai (đứt mũ gân cơ quay)
+- Đau dữ dội kèm theo tiếng kêu răng rắc, có thể xuất hiện đám bầm tím ở phần trước trên cánh tay sau đó vài ngày.
+- Đau kết hợp với hạn chế vận động rõ. Khám thấy mất động tác nâng vai chủ động, trong khi vận động thụ động hoàn toàn bình thường, không có các dấu hiệu thần kinh.
+- Nếu đứt bó dài gân nhị đầu, khám thấy phần đứt cơ ở trước dưới cánh tay khi gấp có đối kháng cẳng tay.
+
+#### 3.1.4. Cứng khớp vai (đông cứng khớp vai)
+- Đau khớp vai kiểu cơ học, đôi khi đau về đêm.
+- Khám: hạn chế vận động khớp vai cả động tác chủ động và thụ động. Hạn chế các động tác, đặc biệt là động tác dạng và quay ngoài.
+- Khi quan sát bệnh nhân từ phía sau, lúc bệnh nhân giơ tay lên sẽ thấy xương bả vai di chuyển cùng một khối với xương cánh tay.
+
+### 3.2. Cận lâm sàng
+#### 3.2.1. Xét nghiệm máu
+Các xét nghiệm máu về hội chứng viêm sinh học thường âm tính.
+
+### 3.2.2. Chẩn đoán hình ảnh
+- **Đau khớp vai đơn thuần (viêm gân mạn tính):**
+  - **X-quang:** Hình ảnh bình thường, có thể thấy hình ảnh calci hóa tại gân.
+  - **Siêu âm:** Hình ảnh gân giảm âm hơn bình thường. Nếu gân bị vôi hóa sẽ thấy nốt tăng âm kèm bóng cản. Có thể thấy dịch quanh bao gân nhị đầu. Trên Doppler năng lượng thấy hình ảnh tăng sinh mạch trong gân hoặc bao gân.
+- **Đau vai cấp (viêm khớp vi tinh thể):**
+  - **X-quang:** Thường thấy hình ảnh calci hóa kích thước khác nhau ở khoảng cùng vai - mấu động. Các calci hóa này có thể biến mất sau vài ngày.
+  - **Siêu âm:** Có hình ảnh các nốt tăng âm kèm bóng cản (calci hóa) ở gân và bao thanh dịch dưới mỏm cùng vai, có thể có dịch (cấu trúc trống âm) ở bao thanh dịch dưới mỏm cùng vai. Trên Doppler năng lượng có hình ảnh tăng sinh mạch trong gân, bao gân, hoặc bao thanh dịch.
+- **Giả liệt khớp vai (đứt gân mũ cơ quay):**
+  - **X-quang:** Chụp khớp vai cản quang phát hiện đứt các gân mũ cơ quay do thấy hình cản quang của túi thanh mạc dưới mỏm cùng cơ delta, chứng tỏ sự thông thương giữa khoang khớp và túi thanh mạc. Gần đây thường phát hiện tình trạng đứt gân trên cộng hưởng từ.
+  - **Siêu âm:** Đứt gân nhị đầu, không thấy hình ảnh gân nhị đầu ở hố liên mấu động hoặc phía trong hố liên mấu động; có thể thấy hình ảnh tụ máu trong cơ mặt trước cánh tay. Nếu đứt gân trên gai thấy gân mất tính liên tục, co rút hai đầu gân đứt. Thường có dịch ở vị trí đứt.
+- **Cứng khớp vai (đông cứng khớp vai):**
+  - **X-quang:** Chụp khớp với thuốc cản quang, khó khăn khi bơm thuốc. Hình ảnh cho thấy khoang khớp bị thu hẹp (chỉ 5-10ml trong khi bình thường 30-35ml); giảm cản quang khớp, các túi cùng màng hoạt dịch biến mất. Đây là phương pháp vừa chẩn đoán vừa điều trị: bơm thuốc có tác dụng nong rộng khoang khớp, sau thủ thuật bệnh nhân vận động dễ dàng hơn.
+
+### 3.3. Chẩn đoán xác định
+Dựa vào các triệu chứng lâm sàng và cận lâm sàng.
+
+### 3.4. Phân loại các thể lâm sàng
+Theo Welfling (1981) có bốn thể lâm sàng của viêm quanh khớp vai:
+- Đau vai đơn thuần
+- Đau vai cấp
+- Giả liệt khớp vai
+- Cứng khớp vai
+
+### 3.5. Chẩn đoán phân biệt
+- **Đau vai do các nguyên nhân khác** như đau thắt ngực, tổn thương đỉnh phổi, đau rễ cột sống cổ...
+- **Bệnh lý xương:** Hoại tử vô mạch đầu trên xương cánh tay.
+- **Bệnh lý khớp:** Viêm khớp mủ, viêm khớp do lao, viêm do tinh thể như gút hoặc calci hóa sụn khớp, viêm khớp dạng thấp, viêm cột sống dính khớp...
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc chung
+Điều trị viêm quanh khớp vai bao gồm điều trị đợt cấp và điều trị duy trì. Cần kết hợp nhiều biện pháp khác nhau như nội khoa, ngoại khoa, vật lý trị liệu, phục hồi chức năng.
+
+### 4.2. Điều trị cụ thể
+
+#### 4.2.1. Nội khoa
+- **Thuốc giảm đau thông thường:** Sử dụng thuốc theo bậc thang của Tổ chức Y tế Thế giới. Chọn một trong các thuốc sau:
+  - Acetaminophen 0,5g x 2-4 viên/24h.
+  - Acetaminophen kết hợp với codein hoặc tramadol 2-4 viên/24h.
+- **Thuốc chống viêm không steroid (NSAIDs):** Chỉ định một trong các thuốc sau:
+  - Diclofenac 50mg x 2 viên/24h.
+  - Piroxicam 20mg x 1 viên/24h.
+  - Meloxicam 7,5mg x 1-2 viên/24h.
+  - Celecoxib 200mg x 1-2 viên/24h.
+- **Tiêm corticoid tại chỗ:** Áp dụng cho thể viêm khớp vai đơn thuần. Thuốc tiêm tại chỗ (vào bao gân, bao thanh dịch dưới cơ delta) thường sử dụng là các muối của corticoid như methylprednisolon acetat 40mg; betamethason dipropionat 5mg hoặc betamethason sodium phosphat 2mg tiêm 1 lần duy nhất; sau 3-6 tháng có thể tiêm nhắc lại nếu bệnh nhân đau trở lại. Tránh tiêm corticoid ở bệnh nhân có đứt gân bán phần do thoái hóa. Tiêm corticoid ở bệnh nhân này có thể dẫn đến hoại tử gân và gây đứt gân hoàn toàn. Nên tiêm dưới hướng dẫn của siêu âm.
+- **Nhóm thuốc chống thoái hóa khớp tác dụng chậm:**
+  - Glucosamin sulfat: 1500mg x 1 gói/24h.
+  - Diacerein 50mg: 01-02 viên mỗi ngày. Có thể duy trì 3 tháng.
+- **Chế độ sinh hoạt vận động hợp lý:** Trong giai đoạn đau vai cấp tính cần phải để cho vai được nghỉ ngơi. Sau khi điều trị có hiệu quả thì bắt đầu tập luyện để phục hồi chức năng khớp vai, đặc biệt thể đông cứng khớp vai. Tránh lao động quá mức trong thời gian dài, tránh các động tác dạng quá mức hay nâng tay lên cao quá vai.
+- **Nội soi ổ khớp** lấy các tinh thể calci lắng đọng.
+- **Tiêm huyết tương giàu tiểu cầu tự thân (PRP):** Áp dụng cho các thể đứt bán phần các gân mũ cơ quay do chấn thương ở bệnh nhân < 60 tuổi.
+
+#### 4.2.2. Ngoại khoa
+- Chỉ định với thể giả liệt, đặc biệt ở người trẻ tuổi có đứt các gân vùng khớp vai do chấn thương. Phẫu thuật nối gân bị đứt. Ở người lớn tuổi (> 60 tuổi), đứt gân do thoái hóa, chỉ định ngoại khoa cần thận trọng.
+- Cần tái khám định kỳ sau 1-3 tháng, tùy theo tình trạng bệnh. Có thể siêu âm khớp vai để kiểm tra tình trạng của gân, bao gân và khớp vai.
+
+## 5. TIẾN TRIỂN VÀ BIẾN CHỨNG
+Đối với thể đau vai đơn thuần và đau vai cấp nếu không được chẩn đoán và điều trị sớm sẽ dẫn đến tình trạng đau dai dẳng và hạn chế vận động khớp vai, ảnh hưởng nhiều đến chất lượng cuộc sống của người bệnh và theo thời gian sẽ dẫn đến viêm quanh khớp vai thể đông cứng hoặc đứt gân.
+
+## 6. PHÒNG BỆNH
+- Tránh lao động quá mức, tránh các động tác dạng quá mức hay nâng tay lên cao quá vai.
+- Tránh các chấn thương ở vùng khớp vai.
+- Phát hiện và điều trị sớm các trường hợp đau vai đơn thuần và đau vai cấp.
+
+## TÀI LIỆU THAM KHẢO
+1. Trần Ngọc Ân; “Viêm quanh khớp vai”; Bệnh thấp khớp, Nhà xuất bản Y học 2002; trang 364-374.
+2. De Winter AF, Jans MP, Scholten RJ, Deville W, van Schaardenburg D, Bouter LM; “Diagnostic classification of shoulder disorders: interobserver agreement and determinants of disagreement”; Ann Rheum Dis, 1999; p58: 272-7.
+3. Ebenbichler GR, Erdogmus CB, Resch KL, et coll; “Ultrasound therapy for calcific tendinitis of the shoulder”; N Eng J Med 340(20), 1999; p1533.
+4. Hurt G, Baker CL Jr; “Calcific tendinitis of the shoulder”; Orthop Clin North Am. 2003;34(4); p567–75.
+5. Jess D Salinas Jr, Jerrold N Rosenberg; “Corticosteroid Injections of Joints and Soft Tissues”; Emedicine Specialities-Physical Medicine and Rehabilitation, 2009.
+
+# VIÊM GÂN VÙNG MỎM TRÂM QUAY CỔ TAY (De Quervain syndrome)
+
+## 1. ĐẠI CƯƠNG
+Viêm gân vùng mỏm trâm quay cổ tay (De Quervain syndrome) là bệnh lý viêm bao gân cơ dạng dài và duỗi ngắn ngón tay cái do nhà phẫu thuật người Thụy Sỹ Fréderic De Quervain phát hiện năm 1895. Bệnh thường gặp ở nữ giới từ 30 đến 50 tuổi.
+
+Bình thường cơ dạng dài và cơ duỗi ngắn ngón cái trượt trong đường hầm được bao bọc bởi bao hoạt dịch gân, có tác dụng làm trơn để hai gân trượt được dễ dàng. Khi bao gân này bị viêm sẽ sưng phồng lên gây ra hiện tượng chèn ép dẫn đến hạn chế vận động của gân trong đường hầm gọi là hội chứng De Quervain.
+
+## 2. NGUYÊN NHÂN
+Nguyên nhân còn chưa rõ (tự phát). Tuy nhiên có một số yếu tố nguy cơ như:
+- Các chấn thương vùng cổ bàn tay.
+- Phụ nữ có thai và cho con bú.
+- Các nghề nghiệp phải sử dụng bàn tay nhiều như làm ruộng, giáo viên, phẫu thuật, cắt tóc, nội trợ. Vi chấn thương (các động tác lặp lại nhiều lần như cầm, nắm, xoay, vặn của cổ tay và ngón cái) là điều kiện thuận lợi gây nên viêm bao gân.
+- Trong một số trường hợp có sự kết hợp với một số bệnh khớp như viêm khớp dạng thấp, thoái hóa khớp.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Lâm sàng
+- Đau vùng mỏm trâm quay, đau tăng khi vận động ngón cái, đau liên tục nhất là về đêm. Đau có thể lan ra ngón cái và lan lên cẳng tay.
+- Sưng nề vùng mỏm trâm quay.
+- Phụ nữ có thai và cho con bú.
+- Sờ thấy bao gân dày lên, có khi có nóng, đỏ, ấn vào đau hơn.
+- Khó nắm tay. Khi vận động ngón cái có thể nghe thấy tiếng kêu cót két.
+- **Test Finkelstein:** gấp ngón cái và khép về phía ngón 5 vào trong lòng bàn tay. Nắm các ngón tay trùm lên ngón cái. Uốn cổ tay về phía xương trụ. Nếu bệnh nhân thấy đau chói vùng gân dạng dài và gân duỗi ngắn ngón cái hoặc ở gốc ngón cái là dấu hiệu dương tính của nghiệm pháp.
+
+### 3.2. Cận lâm sàng
+- Có thể siêu âm vùng mỏm trâm quay: Hình ảnh gân dạng dài và duỗi ngắn dày lên, bao gân dày, có dịch quanh gân.
+- Có thể thấy hình ảnh tăng sinh mạch trong gân hoặc bao gân trên Doppler năng lượng (PW).
+- Làm thêm các xét nghiệm cơ bản (đường máu, chức năng gan, thận...).
+
+### 3.3. Chẩn đoán xác định
+Chẩn đoán bệnh chủ yếu dựa vào khám lâm sàng. Triệu chứng đau chói vùng mỏm trâm quay và test Finkelstein dương tính là bắt buộc phải có để chẩn đoán xác định bệnh. Cũng cần đánh giá các yếu tố nguyên nhân hay yếu tố nguy cơ gây bệnh như tiền sử nghề nghiệp, chấn thương vùng cổ bàn tay, các bệnh khớp kèm theo như viêm khớp dạng thấp, thoái hóa khớp. Có thể sử dụng thêm siêu âm vùng mỏm trâm quay ở cơ sở y tế có điều kiện.
+
+### 3.4. Chẩn đoán phân biệt
+- Viêm màng hoạt dịch khớp cổ tay.
+- Thoái hóa khớp gốc ngón tay cái.
+- Viêm bao hoạt dịch gân cơ duỗi cổ tay quay ngắn và dài.
+- Chèn ép nhánh nông thần kinh quay.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc chung
+- Kết hợp nhiều phương pháp điều trị: Không dùng thuốc, dùng thuốc, vật lý trị liệu, phục hồi chức năng, ngoại khoa.
+- Dự phòng bệnh tái phát: Loại bỏ các yếu tố nguy cơ, chế độ ăn uống, sinh hoạt hợp lý, chú ý tư thế lao động đúng...
+
+### 4.2. Điều trị cụ thể
+
+#### 4.2.1. Các phương pháp không dùng thuốc
+- Giảm hoặc ngừng vận động cổ tay và ngón tay cái (thường 4 - 6 tuần).
+- Trường hợp sưng đau nhiều nên dùng băng nẹp cổ tay và ngón cái liên tục trong 3 - 6 tuần ở tư thế cổ tay để nguyên, ngón cái dạng 45 độ so với trục xương quay và gấp 10 độ.
+- Chườm lạnh.
+- Điều trị bằng sử dụng laser màu, siêu âm, xung điện kích thích thần kinh qua da (TENS – transcutaneous electrical nerve stimulation) để giảm đau, chống viêm.
+
+#### 4.2.2. Dùng thuốc
+- **Thuốc chống viêm không steroid bôi tại chỗ:** thuốc diclofenac dạng bôi: bôi 2-3 lần/ngày.
+- **Thuốc giảm đau:** acetaminophen (Paracetamol): 0,5g x 2-4 viên/24h.
+- **Thuốc chống viêm không steroid đường uống:** Dùng một trong các loại thuốc sau:
+  - Diclofenac 50mg x 2 viên/24h.
+  - Meloxicam 7,5mg x 1-2 viên/24h.
+  - Celecoxib 200mg x 1-2 viên/24h.
+- **Tiêm corticoid trong bao gân De Quervain:** Cần tránh tiêm vào mạch máu. Do vậy tốt nhất là nên tiêm corticoid dưới hướng dẫn của siêu âm do tính chính xác, độ an toàn cao. Chỉ các bác sĩ được đào tạo chuyên khoa khớp mới được tiêm corticoid trong bao gân vì có nguy cơ đứt gân khi tiêm vào gân hay nhiễm trùng. Các chế phẩm:
+  - Hydrocortison acetat là loại tác dụng nhanh, thời gian bán hủy ngắn. Liều cho một lần tiêm trong bao khớp là 0,3ml. Tiêm không quá ba lần cho mỗi đợt điều trị.
+  - Methylprednisolon acetat là loại tác dụng kéo dài, liều dùng 0,3 ml/1 lần, mỗi đợt tiêm hai lần. Mỗi năm không quá ba đợt.
+  - Betamethasone (tên đầy đủ: betamethasone dipropionate): Liều dùng 0,3ml/1 lần tiêm.
+
+#### 4.2.3. Điều trị ngoại khoa
+Chỉ áp dụng khi tất cả các biện pháp trên không hiệu quả. Can thiệp phẫu thuật tạo ra nhiều không gian hơn cho gân hoạt động để gân không cọ xát vào đường hầm.
+
+Sau mổ, có thể tham gia phục hồi chức năng. Sau khi cắt chỉ, tập các bài tập chủ động để tăng dần biên độ và sức mạnh của các cơ.
+
+## 5. TIẾN TRIỂN VÀ BIẾN CHỨNG
+Hội chứng De Quervain đa số diễn biến từ từ và kéo dài; triệu chứng thường không rầm rộ. Đôi khi bệnh nhân chỉ đau và hạn chế vận động nhẹ. Tuy nhiên bệnh ảnh hưởng nhiều đến khả năng lao động, sinh hoạt hàng ngày của người bệnh, làm giảm năng suất lao động, đặc biệt là khi làm các động tác cần đến hoạt động tinh tế của bàn tay.
+
+## 6. PHÒNG BỆNH
+- Tránh các hoạt động bàn tay, cổ tay lặp đi lặp lại trong thời gian dài; cần xen kẽ thời gian nghỉ ngơi hợp lý. Cũng cần tập luyện cho gân dẻo dai qua những bài tập cho gân khớp vùng cổ tay.
+- Không nên xoa bóp thuốc rượu, dầu nóng vì dễ làm tình trạng viêm nặng thêm. Không nên nắn bẻ khớp vì sẽ làm tổn thương thêm gân khớp.
+- Ngoài ra, nên có chế độ ăn đầy đủ sinh tố, đặc biệt ở phụ nữ khi mang thai hay sau khi sinh. Ở người lớn tuổi, nên bổ sung thêm calci, dùng sữa và các sản phẩm của sữa (sữa chua, phomat).
+
+## TÀI LIỆU THAM KHẢO
+1. Carlton A, William W; “Corticosteroid Injection for Treatment of de Quervain’s Tenosynovitis” A Pooled Quantitative Literature Evaluation, 2003; p1-3.
+2. Cyriac Peters-Veluthamaningal, Winters JC; “Randomised controlled trial of local corticosteroid injections for de Quervains”; 2009; p1-8.
+3. M, Moghazy K; “Ultrasonographic diagnosis of the de Quervain’s tenosynovitis”; Ann Rheum Dis 2002; p61:1034-5.
+4. Peters-Veluthamaningal C, Windt DA; “Corticosteroid injection for de Quervain's tenosynovitis”; Cochrane Database Syst Rev, 2009:CD005616.
+5. Seyed A.M, Seyed A.A; “Methylprednisolone Acetate Injection Plus Casting Versus Casting Alone for the Treatment of de Quervain’s Tenosynovitis”; December 2008; p270-275.
+
+# VIÊM GÂN GẤP NGÓN TAY (NGÓN TAY LÒ XO) (Trigger finger)
+
+## 1. ĐỊNH NGHĨA
+Ngón tay lò xo (Trigger finger) là tình trạng viêm bao gân của các gân gấp các ngón tay gây chít hẹp bao gân. Một số trường hợp gân gấp bị viêm xuất hiện hạt xơ, làm di động của gân gấp qua vị trí hạt xơ bị cản trở. Mỗi lần gấp hay duỗi ngón tay rất khó khăn, bệnh nhân phải cố gắng mới bật được ngón tay ra hoặc phải dùng tay bên lành kéo ngón tay ra như kiểu ngón tay có lò xo. Vì vậy bệnh có tên là ngón tay lò xo.
+
+## 2. NGUYÊN NHÂN
+- Một số nghề nghiệp có nhiều nguy cơ mắc bệnh: Nông dân, giáo viên, thợ cắt tóc, bác sĩ phẫu thuật, thợ thủ công...
+- Chấn thương.
+- Hậu quả của một số bệnh: Viêm khớp dạng thấp, đái tháo đường, viêm khớp vảy nến, gút...
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Chẩn đoán xác định
+- Dựa vào triệu chứng lâm sàng tại chỗ.
+- Đau ngón tay tại vị trí bao gân bị viêm và tại hạt xơ, khó cử động ngón tay.
+- Ngón tay có thể bị kẹt ở tư thế gấp vào lòng bàn tay hoặc duỗi thẳng.
+- Khám ngón tay có thể có sưng.
+- Có thể sờ thấy hạt xơ trên gân gấp ngón tay ở vị trí khớp đốt bàn ngón tay. Hạt xơ di động khi gấp duỗi ngón tay.
+- Ngoài ra, sử dụng siêu âm với đầu dò tần số > 7,5 - 20 MHz có thể thấy gân, bao gân dày lên và có dịch bao quanh. Có thể thấy hình ảnh hạt xơ bao gân.
+- Không cần thiết phải làm xét nghiệm máu đặc biệt cũng như không cần chụp X-quang. Tuy nhiên cần phải làm xét nghiệm cơ bản trước khi cho thuốc hay trước khi tiêm corticoid, đặc biệt là các xét nghiệm đường máu, chức năng gan thận.
+
+### 3.2. Chẩn đoán phân biệt
+Viêm khớp dạng thấp, viêm khớp phản ứng, viêm khớp vảy nến, gút: là những bệnh có thể có biểu hiện sưng đau các khớp ở bàn tay. Có thể phân biệt dựa vào các triệu chứng lâm sàng kèm theo và dựa vào siêu âm.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc điều trị
+- Kết hợp nhiều biện pháp điều trị: Không dùng thuốc, dùng thuốc, tiêm corticoid tại chỗ, vật lý trị liệu, phục hồi chức năng, ngoại khoa.
+- Cần tích cực dự phòng bệnh tái phát bằng chế độ lao động, sinh hoạt nhẹ nhàng, hợp lý, kết hợp với dùng thuốc, vật lý trị liệu và phục hồi chức năng.
+
+### 4.2. Điều trị cụ thể (nội khoa, ngoại khoa)
+
+#### 4.2.1. Các phương pháp không dùng thuốc
+- Hạn chế vận động gân bị tổn thương.
+- Chườm lạnh nếu có sưng nóng đỏ, chiếu tia hồng ngoại.
+
+#### 4.2.2. Thuốc
+- **Thuốc giảm đau**: Có tác dụng hỗ trợ giảm đau, chỉ định một trong các thuốc sau:
+  - Floctafenine 200 mg x 2 viên/24h.
+  - Acetaminophen 0,5 g x 2-4 viên/24h.
+  - Paracetamol/dextropropoxiphen 400 mg/30 mg x 2 viên/24h.
+  - Paracetamol/tramadol x 3 viên/24h.
+- **Thuốc chống viêm không steroid (NSAIDs)** bôi tại chỗ hoặc đường toàn thân: chỉ định một trong các thuốc sau:
+  - Diclofenac 50 mg x 2 viên/24h.
+  - Piroxicam 20 mg x 1 viên/24h.
+  - Meloxicam 7,5 mg x 1-2 viên/24h.
+  - Celecoxib 200 mg x 1-2 viên/24h.
+  - Etoricoxib 60 mg x 1-2 viên/24h.
+- **Tiêm corticoid tại chỗ**: Chỉ tiêm với điều kiện có bác sĩ chuyên khoa và phải có phòng tiêm vô trùng. Khi tiến hành tiêm corticoid tại chỗ phải đảm bảo vô trùng tuyệt đối. Các chế phẩm:
+  - Methylprednisolon acetat (1 ml = 40 mg) là loại tác dụng kéo dài. Liều cho một lần tiêm trong bao gân từ 8 - 20 mg/1 lần (0,2 - 0,5 ml/1 lần) tuỳ thuộc vị trí, mỗi đợt cách nhau 3 - 6 tháng, mỗi năm không quá ba đợt.
+  - Betamethasone (1 ml = 5 mg Betamethasone dipropionate + 2 mg Betamethasone sodium phosphate) là loại tác dụng kéo dài. Liều cho một lần tiêm cạnh khớp từ 0,8 - 2 mg/1 lần (0,2 - 0,5 ml/1 lần) tuỳ thuộc vị trí, mỗi đợt cách nhau 3 - 6 tháng, mỗi năm không quá ba đợt.
+  - **Chống chỉ định tuyệt đối tiêm corticoid tại chỗ**: Các tổn thương do nhiễm khuẩn, nấm hoặc chưa loại trừ được nhiễm khuẩn; tổn thương nhiễm trùng trên hoặc gần vị trí tiêm.
+  - **Chống chỉ định tương đối tiêm corticoid tại chỗ** (bao gồm các chống chỉ định của corticoid): Cao huyết áp, đái tháo đường, viêm loét dạ dày tá tràng (phải điều trị và theo dõi trước và sau khi tiêm), bệnh nhân đang dùng thuốc chống đông hoặc có rối loạn đông máu.
+  - **Các tác dụng ngoại ý sau tiêm corticoid tại chỗ**: Đau sau tiêm vài giờ, có thể kéo dài một vài ngày, thường hay gặp sau tiêm mũi đầu tiên; teo da tại chỗ hoặc mảng sắc tố da do tiêm quá nông, tình trạng này sẽ hết trong vài tháng đến hai năm; nhiễm trùng.
+- **Điều trị nguyên nhân kèm theo** nếu có.
+
+#### 4.2.3. Điều trị ngoại khoa
+Phẫu thuật giải phóng chèn ép, cắt bỏ phần viêm xơ nếu điều trị nội khoa thất bại.
+
+## 5. THEO DÕI VÀ QUẢN LÝ
+Tránh các yếu tố nguy cơ: Tránh các vi chấn thương. Phát hiện và điều trị đúng các bệnh lý như viêm khớp dạng thấp, viêm khớp vảy nến, viêm cột sống dính khớp, gút, thoái hoá khớp, đái tháo đường, nhiễm khuẩn. Chỉnh các dị tật gây lệch trục của chi.
+Thận trọng khi sử dụng thuốc nhóm Quinolon và phát hiện sớm khi có triệu chứng gợi ý.
+
+## TÀI LIỆU THAM KHẢO
+1. Trần Ngọc Ân; "Bệnh thấp khớp học"; NXB Y học, 1999; trang 327-334.
+2. Canoso Juan J; "Regional pain syndromes Diagnosis and Management American College of Rheumatology"; 2005.
+3. Kin Ghee Chee, Mark Edward Puhaindran, Alphonsus Khin Sze Chong; "General practitioners’ knowledge of hand surgery in Singapore: a survey study"; Singapore Med J 2012; 53(8): 522–525.
+4. Mark Steele; "Tenosynovitis"; Medicine 2005; p. 1-14.
+5. Roye Benjamin D; "Tenosynovitis"; University of Maryland Medicine Center, 2001.
+
+# CHẨN ĐOÁN VÀ ĐIỀU TRỊ VIÊM LỒI CẦU NGOÀI XƯƠNG CÁNH TAY (Lateral epicondylitis)
+
+## 1. ĐỊNH NGHĨA
+Bệnh viêm lồi cầu ngoài xương cánh tay (lateral epicondylitis) còn được gọi bằng một số tên khác như khuỷu tay của người chơi tennis (tennis elbow), khuỷu tay của người chèo thuyền. Tổn thương cơ bản là viêm chỗ bám của gân duỗi cổ tay quay, đặc trưng bởi triệu chứng đau tại vùng lồi cầu ngoài cánh tay.
+Tỷ lệ mắc bệnh trong cộng đồng khoảng 1 - 3% dân số với tuổi thường mắc từ 40 - 50. Hầu hết các trường hợp đều hồi phục thậm chí một số trường hợp không cần điều trị, chỉ cần nghỉ ngơi là khỏi; một số tái phát sau 6 tháng. Bệnh có thể kéo dài từ vài tuần, vài tháng hoặc hàng năm, trung bình từ 6 tháng đến 2 năm.
+
+## 2. NGUYÊN NHÂN VÀ CƠ CHẾ BỆNH SINH
+Nguyên nhân gây bệnh thường do vận động quá mức của các cơ duỗi cổ tay và ngón tay, chủ yếu là cơ duỗi cổ tay quay ngắn hoặc do tình trạng căng giãn gây ra do các động tác đối kháng ở tư thế ngửa của cổ tay. Các động tác lặp đi lặp lại hàng ngày trong một thời gian dài như chơi đàn, đan lát, thái thịt, xoay đấm cửa, vặn tua vít, chơi tennis, cầu lông... là nguyên nhân gây bệnh. Ngược lại, một người không quen công việc đột ngột thực hiện một động tác mạnh cũng có thể là nguyên nhân gây ra các chấn thương cho gân cơ (chẳng hạn một người không bao giờ hoặc rất ít khi sử dụng búa, khi có việc cần sử dụng búa sẽ dễ bị chấn thương). Các nghiên cứu trên đại thể và vi thể thấy có các vết rách giữa gân cơ duỗi chung và màng xương ở khu vực lồi cầu ngoài.
+Các vi chấn thương này có thể là hậu quả của một quá trình vận động quá mức của các cơ này. Tại vị trí bám của gân chứa tổ chức hạt xâm lấn vào mạc gân, tăng sinh mạch và phù nề và khi cắt bỏ tổ chức này thì hết triệu chứng.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Triệu chứng lâm sàng
+- Đau ở vùng lồi cầu ngoài xương cánh tay, có thể lan xuống cẳng tay và mặt mu của cổ tay. Đau xuất hiện tự nhiên hoặc khi làm một số động tác như duỗi cổ tay, lắc, nâng một vật, mở cửa... Giảm khả năng duỗi cổ bàn tay và khả năng cầm nắm. Đau có thể kéo dài vài tuần cho đến vài tháng.
+- Ấn tại lồi cầu hoặc cạnh lồi cầu ngoài xương cánh tay có điểm đau chói. Đôi khi có thể thấy sưng nhẹ tại chỗ.
+- Đau xuất hiện hoặc tăng lên khi thực hiện các động tác đối kháng ở tư thế duỗi cổ tay và ngửa bàn tay hoặc nâng vật nặng.
+- Các động tác vận động khớp khuỷu trong giới hạn bình thường.
+
+### 3.2. Cận lâm sàng
+Các xét nghiệm về viêm và X-quang khớp khuỷu tay bình thường.
+Siêu âm gân cơ bằng đầu dò tần số cao (7,5 - 20 MHz) hình ảnh tổn thương có thể thấy kích thước gân to hơn, giảm đậm độ siêu âm. Ngoài ra còn phát hiện đứt gân từng phần hoặc hoàn toàn, lắng đọng calci trong gân, vỏ xương tại vị trí bám của gân không đều và có hình ảnh tân sinh mạch máu trên siêu âm Doppler năng lượng.
+
+### 3.3. Chẩn đoán xác định
+Chủ yếu dựa vào lâm sàng: Bệnh nhân đau vùng khuỷu và có điểm đau chói khi ấn tại vị trí bám tận của gân (lồi cầu ngoài xương cánh tay).
+
+### 3.4. Chẩn đoán phân biệt
+- Thoái hóa khớp khuỷu
+- Viêm túi thanh dịch ở khuỷu tay
+- Bệnh lý rễ ở cột sống cổ (C6 - C7)
+- Hội chứng đường hầm cổ tay
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc điều trị
+- Tránh những động tác có thể gây nặng bệnh (xem ở phần nguyên nhân gây bệnh).
+- Điều trị bảo tồn là chính.
+- Có thể cân nhắc phẫu thuật khi điều trị bảo tồn thất bại.
+
+### 4.2. Điều trị cụ thể
+- **Giáo dục bệnh nhân**: Nhằm giúp cho người bệnh hiểu rõ về bệnh, hạn chế và tránh các động tác có thể gây bệnh hoặc làm nặng bệnh. Khuyên bệnh nhân giảm các hoạt động duỗi mạnh và ngửa cổ tay.
+- **Điều trị vật lý**: Xoa bóp, điện phân, sóng ngắn, laser lạnh, băng chun hỗ trợ ở cẳng tay trong lao động, băng cẳng tay dưới khuỷu tay 2,5 - 5 cm để làm giảm sự căng cơ duỗi ở nơi bám vào lồi cầu.
+- **Điều trị bằng thuốc**:
+  - Thuốc chống viêm không steroid (NSAIDs): Dùng dạng gel bôi tại chỗ (diclofenac, profenid) hoặc đường uống (diclofenac, piroxicam, meloxicam, celecoxib, etoricoxib…). Cần chú ý đến cơ địa người bệnh và các bệnh mãn tính sẵn có để lựa chọn thuốc cho phù hợp.
+  - Có thể phối hợp thêm với thuốc giảm đau thông thường nếu có đau nhiều.
+  - Tiêm corticosteroid tại chỗ: Khi có đau nặng hoặc đau dai dẳng, không đáp ứng với các thuốc nêu trên. Có thể dùng Methylprednisolon acetat (Depo-Medrol) hoặc betamethasone (Diprospan) 1/2 ml tiêm tại chỗ. Chỉ nên tiêm một lần và nếu phải tiêm nhắc lại thì cách ít nhất 3 tháng. Phương pháp này có hiệu quả tốt tuy nhiên không bền vững. Tiêm nhiều lần có thể gây tổn thương chỗ bám của gân và có thể gây các biến chứng như teo da tại chỗ tiêm, nhiễm trùng, bạch biến… Luôn khuyến khích bệnh nhân hạn chế vận động để bảo tồn kết quả.
+- **Điều trị phẫu thuật**: Chỉ định khi các biện pháp điều trị nội khoa thất bại. Một số kỹ thuật được áp dụng như:
+  - Cắt bỏ tổ chức mủn nát ở gốc của gân duỗi, giải phóng gân cơ duỗi từ mỏm lồi cầu.
+  - Cắt gân cơ duỗi, kéo dài và tạo hình chữ Z để ngăn hoạt động của các cơ duỗi.
+- **Một số phương pháp điều trị mới**: Tiêm huyết tương giàu tiểu cầu tự thân, tiêm hyaluronic acid, tiêm botulinum toxin A vào cơ duỗi ngón 3, 4 làm liệt cơ duỗi nhằm hạn chế quá tải cho gân duỗi; băng glyceryl trinitrate... Tuy nhiên các phương pháp này vẫn còn đang tiếp tục được nghiên cứu.
+
+## 5. TIẾN TRIỂN VÀ BIẾN CHỨNG
+Bệnh lành tính, có một số trường hợp tự hồi phục không cần điều trị. Tuy nhiên đa số các trường hợp tiến triển kéo dài nhiều tuần, có thể nhiều tháng hoặc nhiều năm. Tình trạng viêm mãn tính hoặc có thể khỏi rồi lại tái phát, lâu dài dẫn đến thoái hóa, xơ hóa gân duỗi ảnh hưởng nhiều đến lao động và sinh hoạt.
+
+## 6. PHÒNG BỆNH
+Tránh các vận động quá tải, vận động đột ngột của gân cơ duỗi trong các hoạt động như chơi quần vợt, cầu lông, bóng bàn, chơi đàn, sử dụng tuốc nơ vít, kìm búa, thái thịt, xoay cổ tay, mang xách nặng...
+
+## TÀI LIỆU THAM KHẢO
+1. Adrian E. Flatt, MD, FRCS. "Tennis Elbow". Proc (Bayl Univ Med Cent). 2008 October; 21(4): 400–402. Clinical Review.
+2. Harrison's Principles of Internal Medicine 18th - 2012. Volume 1; part 15. "Disorders of joint and adjacent Tissues"; chapter 337 Periarticular Disorders of the Extremities.
+3. Isenberg, David A.; Maddison, Peter J.; Woo, Patricia; Glass, David; Breedveld, Ferdinand C. "Oxford Textbook of Rheumatology, 3rd Edition". Copyright © 2004 Oxford University Press - Soft-tissue rheumatism. p. 1075.
+4. John Orchard; Alex Kountouris. "The management of tennis elbow". Clinical review. BMJ 2011; 342: d2687 doi: 10.1136/bmj.d2687.
+5. Obradov M, Anderson PG. "Ultrasonographic findings for chronic lateral epicondylitis". JBR-BTR. 2012 Mar-Apr; 95(2): 66-70.
+
+# BỆNH LOÃNG XƯƠNG (Osteoporosis)
+
+## 1. ĐỊNH NGHĨA
+Loãng xương (Osteoporosis) là tình trạng rối loạn chuyển hoá của xương dẫn đến tổn thương độ chắc của xương đưa đến tăng nguy cơ gãy xương. Độ chắc của xương bao gồm sự toàn vẹn cả về khối lượng và chất lượng của xương.
+- **Khối lượng xương** được biểu hiện bằng:
+  - Mật độ khoáng chất của xương (Bone Mineral Density – BMD).
+  - Khối lượng xương (Bone Mass Content – BMC).
+- **Chất lượng xương** phụ thuộc vào:
+  - Thể tích xương.
+  - Vi cấu trúc của xương (Thành phần chất nền và chất khoáng của xương).
+  - Chu chuyển xương (Tình trạng tổn thương vi cấu trúc xương, tình hình sửa chữa cấu trúc của xương).
+
+## 2. PHÂN LOẠI LOÃNG XƯƠNG
+
+### **2.1. Loãng xương người già (Loãng xương tiên phát)**
+- **Đặc điểm:**
+  - Tăng quá trình hủy xương.
+  - Giảm quá trình tạo xương.
+- **Nguyên nhân:**
+  - Các tế bào tạo xương (Osteoblast) bị lão hóa.
+  - Sự hấp thu calci ở ruột bị hạn chế.
+  - Sự suy giảm tất yếu các hormon sinh dục (nữ và nam).
+- Loãng xương nguyên phát thường xuất hiện trễ, diễn biến chậm, tăng từ từ và ít có những biến chứng nặng nề như gãy xương hay lún xẹp các đốt sống.
+
+### **2.2. Loãng xương sau mãn kinh**
+Loãng xương sau mãn kinh làm nặng hơn tình trạng loãng xương do tuổi ở phụ nữ do giảm đột ngột oestrogen khi mãn kinh.
+- **Đặc điểm:**
+  - Tăng quá trình hủy xương.
+  - Quá trình tạo xương bình thường.
+
+### **2.3. Loãng xương thứ phát**
+Bệnh loãng xương sẽ trở nên nặng nề hơn, sớm hơn, nhiều biến chứng hơn… nếu người bệnh có thêm một hoặc nhiều yếu tố nguy cơ dưới đây:
+
+**Các yếu tố nguy cơ của bệnh loãng xương:**
+- Kém phát triển thể chất từ khi còn nhỏ, đặc biệt là còi xương, suy dinh dưỡng, chế độ ăn thiếu protein, thiếu calci hoặc tỷ lệ calci/phospho trong chế độ ăn không hợp lý, thiếu vitamin D hoặc cơ thể không hấp thu được vitamin D... Vì vậy khối lượng khoáng chất đỉnh của xương ở tuổi trưởng thành thấp, đây được coi là yếu tố nguy cơ quan trọng nhất của bệnh loãng xương.
+- Tiền sử gia đình có cha, mẹ bị loãng xương hoặc gãy xương.
+- Ít hoạt động thể lực, ít hoạt động ngoài trời, bất động quá lâu ngày do bệnh tật hoặc do nghề nghiệp.
+- Có thói quen sử dụng nhiều rượu, bia, cà phê, thuốc lá… làm tăng thải calci qua đường thận và giảm hấp thu calci ở đường tiêu hóa.
+- Bị mắc một số bệnh: Thiếu năng các tuyến sinh dục nam và nữ (suy buồng trứng sớm, mãn kinh sớm, cắt buồng trứng, thiểu năng tinh hoàn…), bệnh nội tiết: cường tuyến giáp, cường tuyến cận giáp, cường tuyến vỏ thượng thận, bệnh mạn tính đường tiêu hóa làm hạn chế hấp thu calci, vitamin D, protein… làm ảnh hưởng chuyển hóa calci và sự tạo xương, bệnh suy thận mạn hoặc phải chạy thận nhân tạo lâu ngày gây mất calci qua đường tiết niệu, các bệnh xương khớp mạn tính đặc biệt là viêm khớp dạng thấp và thoái hóa khớp.
+- Sử dụng dài hạn một số thuốc: chống động kinh (Dihydan), thuốc chữa tiểu đường (Insulin), thuốc chống đông (Heparin) và đặc biệt là nhóm thuốc kháng viêm Corticosteroid (Corticosteroid một mặt ức chế trực tiếp quá trình tạo xương, mặt khác làm giảm hấp thu calci ở ruột, tăng bài xuất calci ở thận và làm tăng quá trình hủy xương).
+
+---
+
+## **3. CHẨN ĐOÁN**
+
+### **3.1. Triệu chứng lâm sàng**
+Loãng xương là bệnh diễn biến âm thầm không có triệu chứng lâm sàng đặc trưng, chỉ biểu hiện khi đã có biến chứng.
+- Đau xương, đau lưng cấp và mạn tính.
+- Biến dạng cột sống: Gù, vẹo cột sống, giảm chiều cao do thân các đốt sống bị gãy.
+- Đau ngực, khó thở, chậm tiêu… do ảnh hưởng đến lồng ngực và thân các đốt sống.
+- Gãy xương: Các vị trí thường gặp là gãy đầu dưới xương quay, gãy cổ xương đùi, gãy các đốt sống (lưng và thắt lưng); xuất hiện sau chấn thương rất nhẹ, thậm chí không rõ chấn thương.
+
+### **3.2. Triệu chứng cận lâm sàng**
+- **X-quang quy ước:** hình ảnh đốt sống tăng thấu quang, biến dạng thân đốt sống (gãy làm xẹp và lún các đốt sống), với các xương dài thường giảm độ dày vỏ xương (khiến ống tủy rộng ra).
+- **Đo khối lượng xương (BMD)** bằng phương pháp đo hấp phụ tia X năng lượng kép (Dual Energy X-ray Absorptiometry - DXA) ở các vị trí trung tâm như xương vùng khớp háng hoặc cột sống thắt lưng, để chẩn đoán xác định loãng xương, đánh giá mức độ loãng xương, dự báo nguy cơ gãy xương và theo dõi điều trị.
+- **Đo khối lượng xương ở ngoại vi** (gót chân, ngón tay…) bằng các phương pháp (DXA, siêu âm…) được dùng để tầm soát loãng xương trong cộng đồng.
+- **Một số phương pháp khác:** CT Scan hoặc MRI có thể được sử dụng để đánh giá khối lượng xương, đặc biệt ở cột sống hoặc cổ xương đùi.
+- Trong một số trường hợp cần thiết, có thể định lượng các **marker hủy xương và tạo xương**: Amino terminal telopeptide (NTX), Carboxyterminal telopeptide (CTX), Procollagen type 1 N-terminal propeptide (PINP), Procollagen type 1 C-terminal propeptide (PICP)… để đánh giá đáp ứng của điều trị.
+
+### **3.3. Chẩn đoán xác định**
+- **Tiêu chuẩn chẩn đoán loãng xương của Tổ chức Y tế Thế giới (WHO) năm 1994**, đo mật độ xương tại cột sống thắt lưng và cổ xương đùi theo phương pháp DXA:
+  - **Xương bình thường:** T-score từ –1 SD trở lên.
+  - **Thiếu xương (Osteopenia):** T-score dưới –1 SD đến –2,5 SD.
+  - **Loãng xương (Osteoporosis):** T-score dưới –2,5 SD.
+  - **Loãng xương nặng:** T-score dưới –2,5 SD kèm tiền sử / hiện tại có gãy xương.
+- **Trường hợp không có điều kiện đo mật độ xương:**
+  Có thể chẩn đoán xác định loãng xương khi đã có biến chứng gãy xương dựa vào triệu chứng lâm sàng và X-quang: Đau xương, đau lưng, gãy xương sau chấn thương nhẹ, tuổi cao…
+
+### **3.4. Các yếu tố tiên lượng quan trọng cần lưu ý**
+- Giới: nữ.
+- Tuổi cao.
+- Khối lượng xương thấp.
+- Tiền sử gãy xương (của cá nhân và gia đình).
+- Nguy cơ té ngã (bệnh phối hợp: giảm thị lực, đau khớp, parkinson...).
+- Hút thuốc, sử dụng thuốc (Corticosteroid, thuốc chống đông...).
+
+### **3.5. Các mô hình tiên lượng dự báo nguy cơ gãy xương (dựa trên BMD và các yếu tố nguy cơ)**
+- **Mô hình FRAX** của Tổ chức Y tế Thế giới (http://www.shef.ac.uk/FRAX/): Sử dụng 12 yếu tố nguy cơ: tuổi, giới, cân nặng, chiều cao, tiền sử gãy xương, chỉ số T, tiền sử gãy xương của gia đình, hút thuốc, uống rượu, viêm khớp dạng thấp, loãng xương thứ phát, sử dụng corticoid. Người sử dụng chỉ việc nhập số liệu của bệnh nhân, website sẽ cho kết quả tiên lượng xác suất gãy xương trong vòng 10 năm.
+- **Mô hình NGUYEN** của viện Garvan, Úc (http://www.fractureriskcalculator.com): Sử dụng 5 yếu tố nguy cơ: tuổi, cân nặng, tiền sử gãy xương, chỉ số T và tiền sử té ngã. Cũng như mô hình của WHO, mô hình này cho kết quả nguy cơ gãy xương trong vòng 5 năm và 10 năm.
+
+### **3.6. Chẩn đoán phân biệt**
+- Bất toàn tạo xương hay xương thủy tinh (Osteogenesis Imperfecta – OI).
+- Các loãng xương thứ phát như ung thư di căn xương, các bệnh ác tính của cơ quan tạo máu (đa u tủy xương, bệnh bạch cầu leucemie…).
+
+---
+
+## **4. ĐIỀU TRỊ**
+
+### **4.1. Các phương pháp không dùng thuốc (bao gồm dự phòng và điều trị)**
+- **Chế độ ăn uống:** Bổ sung nguồn thức ăn giàu calci (theo nhu cầu của cơ thể: từ 1.000 - 1.500mg hàng ngày, từ các nguồn: thức ăn, sữa và dược phẩm), tránh các yếu tố nguy cơ: thuốc lá, café, rượu… tránh thừa cân hoặc thiếu cân.
+- **Chế độ sinh hoạt:** Tăng cường vận động, tăng dẻo dai cơ bắp, tránh té ngã…
+- **Sử dụng các dụng cụ, nẹp chỉnh hình** (cho cột sống, cho khớp háng) giảm sự tỳ đè lên cột sống, đầu xương, xương vùng hông.
+
+### **4.2. Các thuốc điều trị loãng xương**
+- **Các thuốc bổ sung nếu chế độ ăn không đủ** (dùng hàng ngày trong suốt quá trình điều trị):
+  - **Calci:** Cần bổ sung calci 500 – 1.500mg hàng ngày.
+  - **Vitamin D:** 800 - 1.000 UI hàng ngày (hoặc chất chuyển hoá của vitamin D là Calcitriol 0,25 – 0,5 mcg, thường chỉ định cho các bệnh nhân lớn tuổi hoặc suy thận vì không chuyển hóa được vitamin D).
+- **Các thuốc chống hủy xương:** Làm giảm hoạt tính tế bào hủy xương
+  - **Nhóm Bisphosphonat:** Hiện là nhóm thuốc được lựa chọn đầu tiên trong điều trị các bệnh lý loãng xương (người già, phụ nữ sau mãn kinh, nam giới, do corticosteroid).
+    - *Chống chỉ định:* Phụ nữ có thai và cho con bú, dưới 18 tuổi (cần xem xét từng trường hợp cụ thể), suy thận với mức lọc cầu thận (GFR) < 35 ml/phút.
+    - *Alendronat 70mg* hoặc *Alendronat 70mg + Cholecalciferol 2800UI* uống sáng sớm, khi bụng đói, một tuần uống một lần, uống kèm nhiều nước. Sau uống nên vận động, không nằm sau uống thuốc ít nhất 30 phút. Tác dụng phụ chủ yếu của bisphosphonate dạng uống là kích ứng đường tiêu hóa như: viêm thực quản, loét dạ dày, nuốt khó...
+    - *Zoledronic acid 5mg* truyền tĩnh mạch một năm chỉ dùng một liều duy nhất. Thuốc có khả dụng sinh học vượt trội hơn đường uống, không gây kích ứng đường tiêu hóa và cải thiện được sự tuân thủ điều trị của người bệnh. Chú ý bổ sung đầy đủ nước, calci và vitamin D trước khi truyền. Có thể dùng acetaminophen (paracetamol) để làm giảm các phản ứng phụ sau truyền thuốc (như đau khớp, đau đầu, đau cơ, sốt).
+  - **Calcitonin** (chiết xuất từ cá hồi) 100UI tiêm dưới da hoặc 200UI xịt qua niêm mạc mũi hàng ngày. Chỉ định ngắn ngày (2 – 4 tuần) trong trường hợp mới gãy xương, đặc biệt khi có kèm triệu chứng đau. Không dùng dài ngày trong điều trị loãng xương, khi bệnh nhân giảm đau, điều trị tiếp bằng nhóm Bisphosphonat (uống hoặc truyền tĩnh mạch).
+  - **Liệu pháp sử dụng các chất giống hormon:** Chỉ định đối với phụ nữ sau mãn kinh có nguy cơ cao hoặc có loãng xương sau mãn kinh:
+    - *Raloxifen*, chất điều hoà chọn lọc thụ thể Estrogen (SERMs): 60mg uống hàng ngày, trong thời gian ≤ 2 năm.
+- **Thuốc có tác dụng kép: Strontium ranelat**
+  - Thuốc vừa có tác dụng tăng tạo xương vừa có tác dụng ức chế hủy xương, đang được coi là thuốc có tác động kép phù hợp hoạt động sinh lý của xương.
+  - Liều dùng 2g uống ngày một lần vào buổi tối (sau bữa ăn 2 giờ, trước khi đi ngủ tối).
+  - Thuốc được chỉ định khi bệnh nhân có chống chỉ định hoặc không dung nạp nhóm bisphosphonates.
+- **Thuốc ức chế osteocalcin:** **Menatetrenon** (vitamin K2).
+- **Các nhóm thuốc khác có thể phối hợp trong những trường hợp cần thiết:**
+  - Thuốc làm tăng quá trình đồng hóa: *Deca-Durabolin* và *Durabolin*.
+
+### **4.3. Điều trị triệu chứng**
+- **Đau cột sống, đau dọc các xương…** (khi mới gãy xương, lún xẹp đốt sống): Chỉ định calcitonin và các thuốc giảm đau theo bậc thang của Tổ chức Y tế Thế giới. Có thể kết hợp thuốc kháng viêm giảm đau không steroid (NSAIDs), thuốc giảm đau bậc 2 (phối hợp nhóm opiat nhẹ và vừa), thuốc giãn cơ...
+- **Chèn ép rễ thần kinh liên sườn** (đau ngực khó thở, chậm tiêu, đau lan theo rễ thần kinh, dị cảm, tê…): Nẹp thắt lưng, điều chỉnh tư thế ngồi hoặc đứng, thuốc giảm đau, thuốc giảm đau thần kinh, vitamin nhóm B… nếu cần.
+
+### **4.4. Điều trị ngoại khoa các biến chứng gãy cổ xương đùi, gãy thân đốt sống**
+- Trường hợp gãy cổ xương đùi có thể bắt vít xốp, thay chỏm xương đùi hoặc thay toàn bộ khớp háng.
+- Gãy đốt sống, biến dạng cột sống: Phục hồi chiều cao đốt sống bằng các phương pháp tạo hình đốt sống (bơm xi măng vào thân đốt sống, thay đốt sống nhân tạo…).
+- Phụ nữ sau mãn kinh, nam giới > 60 tuổi bị gãy đốt sống, gãy cổ xương đùi hoặc gãy xương cổ tay do chấn thương nhẹ có thể được điều trị loãng xương mà không cần đo khối lượng xương. Việc đo khối lượng xương sẽ được thực hiện sau đó, khi thuận tiện, để theo dõi và đánh giá kết quả điều trị.
+
+---
+
+## **5. THEO DÕI, QUẢN LÝ**
+- Bệnh nhân phải được điều trị lâu dài và theo dõi sát để bảo đảm sự tuân thủ điều trị. Nếu không tuân thủ điều trị, sẽ không có hiệu quả điều trị.
+- Có thể sử dụng một số markers chu chuyển xương để hỗ trợ chẩn đoán, tiên lượng gãy xương, tiên lượng tình trạng mất xương và theo dõi điều trị.
+- Đo khối lượng xương (phương pháp DXA) mỗi 2 năm để theo dõi và đánh giá kết quả điều trị.
+- Thời gian điều trị phải kéo dài từ 3 – 5 năm (tùy mức độ loãng xương), sau đó đánh giá lại tình trạng bệnh và quyết định các trị liệu tiếp theo.
+
+---
+
+## **6. PHÒNG BỆNH**
+Loãng xương là bệnh có thể phòng ngừa:
+- Cung cấp đầy đủ calci, vitamin D và các dưỡng chất cần thiết chung cho cơ thể trong suốt cuộc đời, theo nhu cầu của từng lứa tuổi và tình trạng cơ thể.
+- Duy trì chế độ vận động thường xuyên giúp dự trữ calci cho xương, tăng sự khéo léo, sức mạnh cơ, sự cân bằng để giảm khả năng té ngã và gãy xương.
+- Hạn chế một số thói quen: hút thuốc lá, uống nhiều rượu, nhiều cà phê, ít vận động…
+- Khi bệnh nhân có nguy cơ loãng xương (BMD từ -1,5 đến -2,4 SD), nhưng lại có nhiều yếu tố nguy cơ: phải dùng corticosteroid để điều trị bệnh nền, tiền sử gia đình có gãy xương do loãng xương, nguy cơ té ngã cao..., bisphosphonates có thể được chỉ định để phòng ngừa loãng xương.
+
+---
+
+## **TÀI LIỆU THAM KHẢO**
+1. Bolland MJ et al. "Effective osteoporosis treatment on mortality in eight randomized placebo-controlled trials". *J Clin Endocrinol Metab*. 2010;95:1174-1181.
+2. IOF guidelines 2010 http://www.osteofound.org/osteoporosis/treatment.html and APLAR guidelines 2010.
+3. European guidance for the diagnosis and management of osteoporosis in postmenopausal women. *International Osteoporosis Foundation and National Osteoporosis Foundation* 2012.
+4. National Osteoporosis Foundation (2013). "Clinician’s guide to prevention and treatment of osteoporosis".
+5. National Institutes of Health (2011), "Dietary supplement fact sheet: Calcium", http://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/, (10/9/2013).
+
+---
+
+# **CHẨN ĐOÁN VÀ ĐIỀU TRỊ HOẠI TỬ VÔ MẠCH CHỎM XƯƠNG ĐÙI**
+**(Avascular necrosis)**
+
+## **1. ĐẠI CƯƠNG**
+**Hoại tử vô mạch (Avascular Necrosis - AVN)** chỏm xương đùi hay còn gọi là **hoại tử vô khuẩn chỏm xương đùi** là bệnh có tổn thương hoại tử tế bào xương và tủy xương do bị thiếu máu nuôi phần trên chỏm xương đùi. Vùng hoại tử lúc đầu tạo ra các vùng thưa xương, các ổ khuyết xương, về sau dẫn đến gãy xương dưới sụn, cuối cùng gây xẹp chỏm xương đùi, thoái hóa thứ phát và mất chức năng của khớp háng, dẫn đến tàn phế.
+
+Hoại tử chỏm xương đùi tự phát thường gặp nhất ở độ tuổi trung niên; nam thường gặp hơn nữ. Hoại tử xương thứ phát sau chấn thương hoặc các nguyên nhân khác phụ thuộc vào tuổi mắc các bệnh lý nền.
+
+## **2. NGUYÊN NHÂN**
+
+### **2.1. Tự phát**
+Thường gặp nhất, có thể chiếm tới 50% các trường hợp.
+### 2.2. Thứ phát
+- **Do chấn thương:** Do trật khớp hoặc gãy cổ xương. Thông thường hoại tử xuất hiện sau chấn thương khoảng 2 năm và không ảnh hưởng nhiều bởi tuổi và giới.
+- **Không do chấn thương:** Lạm dụng rượu, thuốc lá, dùng corticoid liều cao, bệnh khí ép (thợ lặn, công nhân hầm mỏ), bệnh hồng cầu hình liềm, bệnh tự miễn (lupus ban đỏ hệ thống, viêm khớp dạng thấp), ghép tạng, viêm ruột, bệnh lý tăng đông và bệnh tắc mạch tự phát, đái tháo đường, rối loạn chuyển hóa mỡ, thai nghén. Trong đó, rượu và corticosteroid chiếm 2/3 nguyên nhân gây hoại tử chỏm xương đùi không do chấn thương.
+
+## 3. SINH BỆNH HỌC
+Mạch máu nuôi dưỡng xương ở chỏm xương đùi bị tắc nghẽn do huyết khối, giọt mỡ hoặc các bóng hơi. Cấu trúc thành mạch bị phá hủy do các tổn thương viêm mạch, tia xạ hoặc các yếu tố gây co mạch. Các tổn thương này sẽ dẫn đến giảm hoặc mất việc cung cấp máu cho tổ chức xương và gây ra các vùng hoại tử. Vùng hoại tử sát với vùng mạch nguyên vẹn và các tế bào còn sống trải qua quá trình tiêu hủy xương chết và hình thành xương mới nhưng tiêu hủy xương thường diễn ra nhanh hơn làm yếu cấu trúc xương, gây gãy các bè xương dưới sụn và sập chỏm xương đùi. Sau khi sập chỏm, sụn khớp phải chịu lực tỳ cơ học bất thường và dẫn tới thoái hóa tiến triển. Mặt chỏm xương đùi không đều truyền các lực tỳ bất thường lên sụn ổ cối và cũng dẫn đến thoái hóa.
+
+## 4. CHẨN ĐOÁN
+
+### 4.1. Chẩn đoán xác định
+- **Lâm sàng:**
+  - Chú ý hỏi tiền sử dùng thuốc, uống rượu, chấn thương, bệnh lý phối hợp để đánh giá các yếu tố nguy cơ.
+  - Tổn thương có thể ở một hoặc hai bên khớp háng, khoảng 70% trường hợp tổn thương xảy ra ở một bên. Ở giai đoạn sớm, bệnh nhân có thể không có triệu chứng. Biểu hiện lâm sàng chính là đau khớp háng bên tổn thương, thường xuất hiện từ từ, tăng dần. Đau tăng lên khi đi lại hoặc đứng lâu, giảm khi nghỉ ngơi. Bệnh nhân thường không có các biểu hiện toàn thân, trừ các triệu chứng của bệnh nền nếu có.
+  - Khám lâm sàng ở giai đoạn sớm thường thấy vận động của khớp háng không bị hạn chế, muộn hơn có thể thấy hạn chế các động tác như xoay, dạng, khép, trong khi gấp duỗi thường bình thường. Ở giai đoạn muộn thường có hạn chế vận động tất cả các động tác. Khám tại chỗ không thấy các dấu hiệu bất thường.
+- **Cận lâm sàng:**
+  Các xét nghiệm huyết học, sinh hóa, bilan viêm thường bình thường.
+  - *X-quang:* Thường chỉ phát hiện được khi bệnh ở giai đoạn muộn. Có thể thấy dấu hiệu trăng lưỡi liềm do gãy xương dưới sụn (đường sáng dưới sụn). Muộn hơn thì thấy hình ảnh vỡ xương dưới sụn, biến dạng chỏm hoặc xẹp chỏm hoàn toàn, hẹp khe khớp háng và tổn thương ổ cối do thoái hóa thứ phát.
+  - *CT-scan:* Không thể phát hiện sớm những bất thường ở tủy và mạch máu của chỏm trong hoại tử vô khuẩn. Dấu hiệu sớm nhất có thể phát hiện được là thưa xương. Các dấu hiệu khác gồm các nốt tăng tỷ trọng không đều hoặc những dải tăng tỷ trọng với bề dày khác nhau; đường sáng dưới sụn; vỡ xương dưới sụn và biến dạng chỏm.
+  - *Cộng hưởng từ (MRI):* MRI là phương tiện chẩn đoán hình ảnh có khả năng phát hiện sớm nhất và nhạy nhất hoại tử vô khuẩn chỏm xương đùi. Ngoài ra, MRI còn xác định được kích thước ổ tổn thương và phân độ tổn thương hoại tử, giúp định hướng phương pháp điều trị can thiệp như khoan giảm áp và đánh giá đáp ứng của chỏm sau điều trị. Tổn thương trên MRI gồm hình ảnh vùng giảm tín hiệu ở chỏm xương, thường gặp vùng trước trên, có thể thấy ở vùng rìa xương; hình ảnh tăng tín hiệu phía trong có ranh giới rõ với vùng giảm tín hiệu phía ngoài (dấu hiệu đường viền kép), v.v…
+
+### 4.2. Chẩn đoán giai đoạn
+Theo Ficat và Arlet (1997) có bốn giai đoạn (năm 1985 được mở rộng thêm giai đoạn 0), dựa vào biểu hiện trên X-quang của chỏm xương đùi.
+- **Phân loại ARCO (1993)** chia ra bảy giai đoạn:
+  - **Giai đoạn 0:** Có yếu tố nguy cơ, không phát hiện được trên chẩn đoán hình ảnh, kể cả MRI.
+  - **Giai đoạn 1:** Phát hiện được bằng MRI, xạ hình xương, không phát hiện được bằng X-quang thường. Bệnh nhân bắt đầu than đau âm ỉ không liên tục ở vùng háng bị tổn thương, cũng có thể đau khớp gối.
+  - **Giai đoạn 2-6:** Bắt đầu có biểu hiện trên X-quang thường ở các mức độ từ nhẹ đến nặng. Mức độ thay đổi từ khu trú ở chỏm xương đùi (xơ hóa, tiêu xương xen kẽ, đặc xương, xẹp chỏm) đến các thay đổi ở khe khớp và ổ cối.
+
+### 4.3. Chẩn đoán phân biệt
+- **Ở giai đoạn sớm:** Cần phân biệt với tất cả các bệnh khớp háng tác động lên xương, sụn khớp, màng hoạt dịch như viêm màng hoạt dịch, u màng hoạt dịch, viêm sụn khớp, các viêm khớp do nguyên nhân khác.
+- **Ở giai đoạn muộn:** Có hẹp khe khớp, thoái hóa thứ phát cần phân biệt với các bệnh lý gây phá hủy khớp háng như lao khớp, viêm khớp nhiễm trùng, viêm cột sống dính khớp, viêm khớp dạng thấp, thoái hóa khớp do những nguyên nhân khác.
+
+## 5. ĐIỀU TRỊ
+
+### 5.1. Nguyên tắc điều trị
+- Quá trình điều trị phụ thuộc vào giai đoạn tiến triển của bệnh tại thời điểm chẩn đoán và những yếu tố khác như tuổi, vị trí và kích thước vùng tổn thương, nguyên nhân và các yếu tố nguy cơ đi kèm.
+- Phương pháp điều trị theo ba giai đoạn chính sau:
+  - **Giai đoạn sớm** (trước khi có gãy xương dưới sụn): Mục tiêu là dự phòng hạn chế tối đa bệnh tiến triển nặng lên. Các phương pháp can thiệp chính gồm làm giảm áp lực lên chỏm xương đùi, khoan giảm áp, phẫu thuật lấy xương hoại tử và ghép xương, xoay chỏm xương.
+  - **Giai đoạn muộn hơn** (đã có gãy xương dưới sụn): Điều trị triệu chứng, phục hồi chức năng, hướng dẫn chế độ vận động sinh hoạt thích hợp, xem xét phẫu thuật ghép xương.
+  - **Giai đoạn muộn** (xẹp chỏm xương đùi, thoái hóa thứ phát): Điều trị triệu chứng, xem xét phẫu thuật thay khớp háng bán phần hoặc toàn phần.
+
+### 5.2. Điều trị cụ thể
+- **Điều trị nội khoa:**
+  - *Các biện pháp không dùng thuốc:*
+    - Loại bỏ các yếu tố nguy cơ: Bỏ thuốc lá, tránh rượu bia, tránh hoặc hạn chế tối đa việc sử dụng corticosteroid nếu có thể.
+    - Giảm chịu lực chân đau: Người bệnh nên giảm hoạt động hoặc dùng nạng hoặc dụng cụ hỗ trợ đi lại để giúp chỏm xương đùi hạn chế chịu lực, giúp làm chậm quá trình tiến triển của bệnh.
+    - Tập vận động khớp, giúp cải thiện chức năng vận động khớp, tránh biến chứng co rút khớp.
+    - Kích thích điện có thể giúp cơ thể tạo xương mới để thay thế xương chết.
+  - *Điều trị bằng thuốc:*
+    - Các thuốc kháng viêm không steroid (NSAID) như diclofenac, piroxicam, meloxicam, celecoxib, etoricoxib (liều lượng xem ở phần Phụ lục) có thể giúp giảm đau, giảm quá trình viêm kèm theo. Lưu ý tác dụng phụ của NSAID và tác động của thuốc đối với việc điều trị bệnh lý nền.
+    - Thuốc giảm đau thông thường: Paracetamol (500 mg x 3-4 lần/ngày), hoặc paracetamol + codein/tramadol (2-4 viên/ngày).
+    - Xem xét sử dụng Calcitonin hoặc Bisphosphonate (alendronate 70 mg uống/tuần, risedronate 35 mg/tuần, v.v…).
+    - Bổ sung calci (500–1000 mg/ngày) và vitamin D 400–800 IU/ngày.
+    - Điều trị những bệnh lý phối hợp, đặc biệt là tình trạng rối loạn lipid máu.
+- **Các phương pháp điều trị ngoại khoa:**
+  - Phẫu thuật khoan giải áp chỏm xương đùi khi tổn thương ở độ 1 và độ 2 (phân loại ARCO). Phẫu thuật khoan giảm áp kết hợp với ghép xương bằng mảnh xương tự do hoặc mảnh xương có cuống mạch được chỉ định với tổn thương hoại tử chỏm xương đùi độ 3.
+  - Chỉ định thay khớp háng bán phần hoặc toàn phần khi tổn thương hoại tử từ độ 4 trở lên, khi bệnh nhân đau nhiều, khớp háng không còn chức năng.
+  - *Phương pháp khác:* Tiêm tế bào gốc tự thân (lấy từ tủy xương) có thể được chỉ định với những tổn thương hoại tử ở độ I và II, khi chưa có vỡ xương dưới sụn, thông qua đường khoan giảm áp. Tuy nhiên, phương pháp này đang được nghiên cứu, đánh giá kết quả.
+
+## 6. THEO DÕI, QUẢN LÝ
+- Hoại tử vô mạch chỏm xương đùi khởi phát lúc đầu âm thầm. Khi bệnh nhân xuất hiện triệu chứng thì tổn thương hoại tử thường tiến triển mức độ nhanh đến thời điểm can thiệp phẫu thuật là cần thiết. Việc phát hiện sớm và điều trị kịp thời, đặc biệt ở giai đoạn cấu trúc giải phẫu của chỏm xương đùi còn nguyên vẹn là lý tưởng nhất.
+- Để dự phòng hoại tử vô mạch chỏm xương đùi đòi hỏi phải loại bỏ các yếu tố nguy cơ, trong đó bên cạnh các yếu tố bệnh nghề nghiệp thì cần bỏ rượu, thuốc lá và việc lạm dụng corticoid.
+
+# BỆNH U TẾ BÀO KHỔNG LỒ (Giant cell tumor)
+
+## 1. ĐẠI CƯƠNG
+- U tế bào khổng lồ (giant cell tumor, GCT) của xương, còn gọi là u đại bào, là một dạng u xương lành tính, thường gặp ở đầu xương dài ở người lớn trẻ tuổi khi xương đã trưởng thành và sụn tiếp hợp ở vùng đầu xương đã cốt hóa.
+- U xương tế bào khổng lồ chiếm 5 - 10% các khối u xương nguyên phát và chiếm khoảng 20% các u xương lành tính. Đây là loại u xương thường gặp nhất ở người trong độ tuổi 30 - 40, tỷ lệ nữ mắc bệnh gấp khoảng 1,3 - 1,5 lần so với nam giới.
+- Các vị trí thường gặp nhất theo thứ tự là đầu dưới xương đùi, đầu trên xương chày, đầu dưới xương quay và xương cùng. Khoảng 50% u tế bào khổng lồ xuất hiện ở xương vùng quanh khớp gối. Một số vị trí cũng thường gặp khác gồm đầu xương mác, đầu trên xương đùi, đầu trên xương cánh tay. Hiếm gặp hơn là ở cột sống và những vị trí khác. Đa phần chỉ gặp ở một vị trí, rất hiếm gặp u tế bào khổng lồ đa ổ.
+
+## 2. NGUYÊN NHÂN
+Nguyên nhân chưa rõ, đây không phải là một dạng tân sản mà là một tình trạng có tính chất phản ứng. Khối u được hình thành có thể bắt đầu từ những khiếm khuyết về mạch máu và xuất huyết tại chỗ trong xương cùng với sự tác động của một số yếu tố khác đã biến đổi các tế bào bạch cầu đơn nhân thành các tế bào khổng lồ và hủy cốt bào.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Chẩn đoán xác định
+- **Lâm sàng:**
+  - Ở giai đoạn sớm hoặc khối u nhỏ, bệnh nhân có thể không có triệu chứng.
+  - Các triệu chứng thường không đặc hiệu và thường xuất hiện khi tổn thương bắt đầu phá hủy vỏ xương và kích thích màng xương hoặc khi xương yếu gây gãy xương bệnh lý. Hầu hết bệnh nhân có biểu hiện đau, xuất hiện từ từ, tăng dần, đôi khi có thể phát hiện thấy khối u xương hoặc u phần mềm tại vị trí tổn thương.
+  - Khi u tế bào khổng lồ nằm ở vị trí cận khớp, bệnh nhân có thể có đau và hạn chế vận động khớp, có thể có tràn dịch khớp.
+  - U tế bào khổng lồ ở cột sống có thể có biểu hiện đau thắt lưng hoặc đau cột sống cổ tiến triển từ từ, tăng dần, có thể kèm triệu chứng kích thích rễ.
+  - Một số khối u tế bào khổng lồ có biểu hiện đầu tiên là gãy xương bệnh lý.
+- **Xét nghiệm:**
+  Các xét nghiệm sinh hóa, huyết học thường bình thường. Nên làm xét nghiệm calci, phospho máu để loại trừ bệnh lý cường cận giáp trạng.
+- **Chẩn đoán hình ảnh:**
+  - *X-quang thường quy:* Tổn thương u tế bào khổng lồ thường có các đặc điểm sau:
+    - Hình ảnh tiêu xương khu trú, lệch tâm theo trục của xương, thường có ranh giới rõ nằm ở vùng đầu xương và có thể lan tới vùng hành xương. Tổn thương có thể phá hủy vùng vỏ xương kế cận song thường không phá hủy bề mặt khớp.
+    - Vùng trung tâm khối u là nơi tăng thấu quang nhất và đậm độ cản quang tăng dần ra phía ngoại vi.
+    - Thường không có biểu hiện calci hóa trong lòng khối u và không có phản ứng màng xương.
+  - *CT-scan hoặc MRI:* Cho phép đánh giá chi tiết tổn thương vỏ xương và phần mềm kế cận.
+  - *Xạ hình xương:* Ít có vai trò trong chẩn đoán và đánh giá u tế bào khổng lồ. Độ tập trung phóng xạ thường tăng, song có thể bình thường.
+- **Sinh thiết xương và mô bệnh học:**
+  - Tổn thương thường dày đặc tế bào, với nhiều tế bào khổng lồ nhiều nhân xen kẽ với các tế bào đệm đơn nhân. Các tế bào đệm là các tế bào đơn nhân đồng nhất hình tròn hoặc ô van, nhân lớn. Nhân của các tế bào đệm giống nhân trong các tế bào khổng lồ, đây là đặc điểm để phân biệt u tế bào khổng lồ với các tổn thương khác có chứa tế bào khổng lồ.
+  - Các tế bào khổng lồ thường có số lượng nhân rất lớn, có thể tới hàng trăm nhân. Giữa các tế bào có rất ít chất gian bào, ngoại trừ một ít sợi collagen.
+
+### 3.2. Chẩn đoán giai đoạn
+- **Giai đoạn 1 (< 5%):** Khối u nhỏ, không hoặc ít tiến triển, ranh giới rõ, vỏ xương còn nguyên vẹn, thường không có triệu chứng, mô học lành tính.
+- **Giai đoạn 2 (70-85%):** Có triệu chứng, có thể có gãy xương bệnh lý. Tổn thương xương trên X-quang lan rộng, vỏ xương mỏng và giãn rộng, song chưa bị thủng. Trên xạ hình có tăng hoạt tính. Mô học lành tính.
+- **Giai đoạn 3 (10-15%):** Có triệu chứng, khối u phát triển nhanh. Tổn thương phá hủy vỏ xương, khối u lan vào mô mềm xung quanh trên X-quang hoặc CT-scan. Xạ hình xương thấy tăng hoạt tính phóng xạ vượt quá giới hạn tổn thương xương. Tăng sinh mạch máu trên chụp mạch. Mô học lành tính.
+
+### 3.3. Chẩn đoán phân biệt
+- U nguyên bào sụn (chondroblastoma)
+- Sarcoma sụn (chondrosarcoma)
+- Kén xương phình mạch (aneurysmal bone cyst)
+- U nâu (brown tumor) trong cường cận giáp trạng
+- Sarcom xương (osteosarcoma)
+- U tế bào tạo collagen (desmoplastic fibroma)
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc điều trị
+- **Điều trị ngoại khoa** là chủ yếu. Điều trị nội khoa thường chỉ có tính chất hỗ trợ, giảm triệu chứng nếu có.
+- Những khối u không có khả năng điều trị bằng phẫu thuật do ở vị trí khó hoặc do có bệnh lý phối hợp nặng có thể xem xét điều trị **xạ trị**.
+- Trong thời gian chờ đợi phẫu thuật, nếu khối u lớn nên sử dụng nẹp vùng chi có xương bị tổn thương nhằm đề phòng **gãy xương bệnh lý**.
+
+### 4.2. Điều trị cụ thể
+- **Điều trị nội khoa:**
+  - *Thuốc giảm đau* (nếu bệnh nhân có đau): Paracetamol, hoặc paracetamol kết hợp codein hoặc tramadol, hoặc thuốc kháng viêm không steroid.
+  - *Xem xét sử dụng bisphosphonate* (zoledronic acid, pamidronate) truyền tĩnh mạch. Có thể có tác dụng giảm triệu chứng và hạn chế tái phát sau các thủ thuật can thiệp ở một số bệnh nhân u tế bào khổng lồ, tuy nhiên hiệu quả thực sự chưa rõ ràng.
+  - *Denosumab* (kháng thể đơn dòng kháng RANKL), một thuốc điều trị loãng xương và bệnh lý ác tính di căn xương, có hiệu quả song cũng đang trong quá trình thử nghiệm.
+- **Các phương pháp phẫu thuật:**
+  - *Nạo vét khối u:* Đây là phương pháp phẫu thuật chủ yếu. Có thể nạo vét đơn thuần hoặc nạo vét rộng kết hợp với bơm phenol hoặc nitơ lỏng tại chỗ. Lòng khối u có thể được lấp đầy bằng xi măng polymethyl methacrylate hoặc ghép xương sau nạo vét.
+  - *Cắt bỏ rộng khối u:* Với những tổn thương có tính chất lan rộng và mức độ phá hủy cao, hoặc tổn thương xuất hiện ở những xương có thể loại bỏ được như u ở xương mác; hoặc với những trường hợp khối u tái phát nhiều lần.
+  - *Tạo hình xương:* Tùy theo độ lớn của khối u, vị trí chịu lực, mức độ tổn thương sau khi nạo vét hoặc cắt bỏ khối u mà cần chỉ định các phương pháp tạo hình khác nhau.
+
+## 5. TIẾN TRIỂN VÀ BIẾN CHỨNG
+- **U xương tế bào khổng lồ** là một tổn thương lành tính, mặc dù có thể tiến triển và xâm lấn tại chỗ, song rất hiếm khi ác tính hóa. Trong một số hiếm trường hợp (khoảng 2%) có thể thấy di căn ở phổi, song tổn thương phổi thường là lành tính và đa số được phát hiện một cách tình cờ. Nên chụp X-quang hoặc CT ngực cho tất cả các bệnh nhân mới được chẩn đoán u tế bào khổng lồ để phát hiện tổn thương di căn phổi nếu có.
+- U xương tế bào khổng lồ khi phát triển rộng có thể gây **gãy xương bệnh lý** đặc biệt khi khối u ở các chi.
+- Bệnh có thể **tái phát tại chỗ** sau phẫu thuật. Tái phát tại chỗ sau khi nạo vét đơn thuần có thể tới 50% trường hợp. Tái phát sau khi nạo vét rộng có tỷ lệ khoảng 10%.
+
+## 6. THEO DÕI VÀ QUẢN LÝ
+- Sau phẫu thuật, bệnh nhân cần được thông tin về **nguy cơ tái phát tại chỗ**.
+- Bệnh nhân nên được theo dõi đều đặn mỗi 3-4 tháng trong ít nhất 2 năm đầu, sau đó mỗi 6 tháng đến một năm tới ít nhất 5 năm. Khi có tái phát tại chỗ, nên thăm khám đánh giá lại một cách toàn diện, bao gồm cả việc chụp CT-scan ngực, bụng và khung chậu.
+
+### TÀI LIỆU THAM KHẢO
+1. Clifford R. Wheeless. Giant cell tumor. *"Wheeless' Textbook of Orthopaedics"*. Duke University Medical Center's Division of Orthopedic Surgery and Data Trace Internet Publishing, LLC. 2011.
+2. Karpik M. Giant Cell Tumor (tumor gigantocellularis, osteoclastoma) - epidemiology, diagnosis, treatment. *Ortop Traumatol Rehabil*. 2010;12(3): 207-15.
+3. Mendenhall, W. M., Zlotecki, R. A., Scarborough, M. T., et al. "Giant Cell Tumor of Bone." *American Journal of Clinical Oncology*, 2006; 29(1):96-99.
+4. Thomas DM and Skubitz KM. Giant cell tumour of bone. *"Current Opinion in Oncology"* 2009;21:338–344
+
+# CHẨN ĐOÁN VÀ ĐIỀU TRỊ U XƯƠNG DẠNG XƯƠNG (Osteoid osteoma)
+
+## 1. ĐẠI CƯƠNG
+- **U xương dạng xương (Osteoid osteoma)** là một tổn thương xương lành tính. Đó là một ổ nhỏ (**nidus**) bao quanh là một vùng xơ cứng phản ứng có kích thước rất nhỏ khoảng từ **1,5cm - 2cm**, xuất hiện chủ yếu tại các thân xương dài của chi dưới (chiếm tỷ lệ 80-90%). Tại cột sống chiếm 7-20%, ngoài ra hiếm gặp ở khớp, xương sọ.
+- U xương dạng xương chiếm khoảng 10% tất cả các khối u lành tính và 5% tất cả các u xương nguyên phát.
+- **Tuổi mắc bệnh:** chủ yếu dưới 25 tuổi (chiếm 90%).
+- **Giới:** Nam nhiều hơn nữ (tỷ lệ 2-3:1).
+
+## 2. NGUYÊN NHÂN
+Hiện nay vẫn chưa rõ nguyên nhân gây u xương dạng xương, **di truyền** được cho là yếu tố quan trọng. Một số tác giả cho rằng nguyên nhân là do virus, do các viêm nhiễm, hoặc liên quan đến miễn dịch.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Chẩn đoán xác định
+- **Triệu chứng lâm sàng:**
+  - *Đau là triệu chứng chính:* Đau liên tục, dữ dội với nhiều mức độ khác nhau tại nơi có khối u, **đau tăng về đêm** (chiếm 95% bệnh nhân) và giảm nhẹ trước buổi sáng hoặc sau khi uống aspirin. Cơn đau có thể khiến bệnh nhân thức giấc (chiếm 29% trường hợp) và có thể ảnh hưởng tới dáng đi của bệnh nhân. Triệu chứng đau có thể kéo dài từ nhiều tuần đến nhiều năm.
+  - *Tại vị trí có u xương dạng xương:* Thường bình thường, tuy nhiên có thể gặp sưng, tăng nhiệt độ, tăng tiết mồ hôi, tăng cảm giác đau khi chạm vào.
+  - *Triệu chứng biểu hiện khác nhau tùy thuộc vào vị trí u:*
+    - Tại cột sống: gây cong vẹo cột sống, đau lưng hoặc cổ, đau lan các chi dưới and vai giống như triệu chứng của bệnh thoát vị đĩa đệm.
+    - Tại bàn tay: có biểu hiện như viêm khớp, bệnh bàn tay bất thường (macrodactyly), ngón tay dùi trống (clubbing).
+- **Cận lâm sàng:**
+  - *Chẩn đoán hình ảnh:*
+    - *Chụp phim X-quang:* Trên phim X-quang, hình ảnh đặc trưng của u xương dạng xương là khối xơ cứng bao quanh một ổ sáng (**lucent nidus**). Có bốn đặc điểm chẩn đoán bao gồm:
+      - Tổn thương rõ nét hình tròn hoặc hình oval.
+      - Đường kính nhỏ hơn 2cm.
+      - Có vùng trung tâm dày đặc đồng nhất.
+      - Có một vùng thấu quang có chu vi từ 1-2mm.
+      *Lưu ý:* X-quang thông thường có giá trị chẩn đoán thấp, thường phát hiện muộn u xương dạng xương.
+    - *Chụp cắt lớp vi tính (CT scan):* Giúp xác định chính xác vị trí khối u trong 90% trường hợp khối u ngoài khớp, 66% trường hợp khối u ở các vị trí như cột sống hay cổ xương đùi. U xương dạng xương là một khối u hình khuyên có đường vòng bao quanh với tín hiệu giảm hơn tín hiệu khối u.
+    - *Chụp cắt lớp vi tính có cản quang:* Cho thấy giai đoạn động mạch có giao động nhanh tăng cường và sau đó là sự thoát ra chậm của thuốc cản quang tại ổ bệnh, phù hợp với dòng chảy chậm trong giai đoạn tĩnh mạch.
+    - *Chụp cộng hưởng từ (MRI):* Chỉ định cho những trường hợp còn nghi ngờ.
+    - *Chụp đồng vị phóng xạ:* Xác định chính xác ổ nidus tới 2mm.
+    - *Chụp động mạch (Arteriography):* Trong trường hợp xơ cứng hóa xương tới mức các phương pháp thăm khám, kiểm tra khác không xác định được các nidus nhỏ, chụp động mạch giúp xác định được ba pha của u xương dạng xương.
+  - *Chẩn đoán mô bệnh học:* U xương dạng xương là một tổn thương màu đỏ nâu tại vỏ xương hoặc tủy xương. Ổ (nidus) được bao quanh bởi xương đã bị xơ cứng với tế bào tạo xương bị dày đặc, có hạt (gritty), tế bào hủy xương xuất hiện.
+
+### 3.2. Chẩn đoán phân biệt
+- **Lâm sàng:** Phân biệt với viêm tủy xương (osteomyelitis), áp xe Brodie (Brodie abscesses), u hạt tăng bạch cầu ái toan (eosinophilic granulomas) và các u nang lành tính khác.
+- **X-quang:** Phân biệt với gãy xương do đè nén, áp xe khớp, viêm xương tủy xơ cứng của Garré, hoặc hoại tử vô khuẩn, viêm xương sụn tách rời và viêm khớp, u xương ác tính (osteosarcoma).
+- **Chụp CT:** Phân biệt với các tổn thương xơ cứng khác như u nguyên bào xương (osteoblastoma), viêm tủy xương (osteomyelitis), viêm khớp và đảo xương (enostosis).
+- **Về mô bệnh học:** U xương dạng xương cần phân biệt với:
+  - *U nguyên bào xương lành tính (osteoblastoma):* Tổn thương là mẫu thống nhất các bè xương dày, xếp sát nhau với số lượng mạch máu và tế bào tăng lên.
+  - *U xương ác tính (osteosarcoma):* Có nhiều tế bào hơn u xương dạng xương và nhiều tế bào không phân hóa.
+  - *Đảo xương (enostosis):* Hình ảnh một đảo những bè xương bị dày hóa, xếp san sát với hệ đệm mô liên kết bình thường.
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc chung
+- **Điều trị nội khoa:** Thuốc giảm đau, thuốc chống viêm không steroid (NSAIDs) có hiệu quả trong thời gian dài.
+- **Điều trị ngoại khoa:** Yếu tố quan trọng nhất cho sự thành công của phẫu thuật là việc xác định chính xác vị trí khối u. Lựa chọn phương pháp điều trị phải đơn giản, chính xác, hiệu quả và ít tốn kém nhất.
+
+### 4.2. Điều trị cụ thể
+- **Điều trị nội khoa:**
+  - *Thuốc giảm đau:* Aspirin 650 - 3250mg/ngày, paracetamol 1 - 2 gam/ngày.
+  - *Thuốc chống viêm không steroid (NSAIDs):* Etoricoxib 30mg - 60mg/ngày, celecoxib 200mg/ngày, meloxicam 7,5 - 15mg/ngày, diclofenac 50mg - 100mg/ngày.
+- **Điều trị bằng phẫu thuật:**
+  - *Chỉ định phẫu thuật:* Những bệnh nhân không đáp ứng với điều trị nội khoa, không sử dụng được thuốc chống viêm không steroid kéo dài và hạn chế vận động nhiều.
+  - *Điều trị bằng phẫu thuật mở:* Phẫu thuật cắt bỏ triệt độ khối u, giảm thiểu nguy cơ tái phát.
+  - *Điều trị bằng phẫu thuật ít xâm lấn:* Phương pháp phẫu thuật ít xâm lấn bằng nội soi có sự hỗ trợ của video, kính hiển vi hoặc phá hủy u bằng sóng cao tần thực hiện theo đường qua da, ít gây chấn thương cho mô.
+  - *Phẫu thuật dưới da với sự hỗ trợ của chụp cắt lớp vi tính:* Để định vị chính xác ổ bệnh (nidus), dùng dây Kirschner đưa vào qua da và khoan qua lớp vỏ xương để vào trong nidus, kim sinh thiết được đưa qua dây và loại bỏ hoàn toàn khối u, tỷ lệ thành công từ 83 - 100%.
+  - *Phẫu thuật cắt bỏ khối u có sự tham gia của chất đồng vị phóng xạ:* Bệnh nhân cần chụp xạ hình xương (bone scintigraphy) để xác định ổ nidus chính xác tới 2mm. Phương pháp này cho phép theo dõi tiến trình cắt bỏ khối u, tạo điều kiện cho phẫu thuật ít ảnh hưởng đến xương lành.
+  - *Phẫu thuật có sự hỗ trợ của máy tính:* Là tổng hợp những kỹ thuật hình ảnh và thiết bị theo dõi ba chiều nhằm nâng cao hiệu quả phẫu thuật, đặc biệt đối với những khối u nhỏ nằm sâu trong xương.
+
+## 5. TIẾN TRIỂN VÀ BIẾN CHỨNG
+U xương dạng xương có thể tự thoái triển ở một số bệnh nhân sau một thời gian nhất định.
+
+### 5.1. Đối với điều trị nội khoa
+- Điều trị bằng nội khoa giúp bệnh nhân giảm đau hiệu quả trong thời gian dài, với đáp ứng tích cực trên khoảng 90% bệnh nhân. Tuy nhiên, cũng có một số trường hợp không đáp ứng điều trị nội khoa, không sử dụng được NSAIDs kéo dài.
+- Trong quá trình điều trị, cần theo dõi các xét nghiệm về huyết học và sinh hóa. Đồng thời nên chụp X-quang mỗi 3-6 tháng để đánh giá hiệu quả điều trị khi trên X-quang thấy sự hóa xương (**ossification**) và sự gia tăng hình thành xương xung quanh các ổ (**nidus**).
+
+### 5.2. Đối với điều trị ngoại khoa
+Làm giảm triệu chứng đau trong vài giờ hoặc vài ngày sau phẫu thuật. Tuy nhiên, bệnh nhân cần được theo dõi tái phát sau phẫu thuật trong vòng ít nhất 1 năm.
+
+### TÀI LIỆU THAM KHẢO
+1. Gerard L., Charles T. (2011), "Osteoid Osteoma", (http://emedicine.medscape.com/article/1253443-overview#aw2aab6b3).
+2. Greenspan A. (1993), "Benign bone-forming lesions: osteoma, osteoid osteoma, and osteoblastoma. Clinical, imaging, pathologic, and differential considerations", *Skeletal Radiol*, Vol. 22, Iss. 7.
+3. Hashemi J. et al (2011), "Radiological Features of Osteoid Osteoma: Pictorial Review", *Iran J Radiol*, Vol. 8, Iss. 3.
+4. Javad P., Gregory K. (2011), *High yield Orthopaedics*, Saunders, pp. 345-346.
+5. Motamedi D., Learch TJ., Ishimitsu DN., Motamedi K., Katz MD., Brien EW., et al., "Thermal ablation of osteoid osteoma: overview and step-by-step guide", *Radiographics*, Vol. 29, Iss. 7.
+
+# LOẠN SẢN XƠ XƯƠNG (Fibrous dysplasia of bone)
+
+## 1. ĐẠI CƯƠNG
+- **Loạn sản xơ xương (Fibrous dysplasia of bone)** là bệnh lý xương mạn tính không di truyền, trong đó mô xương bình thường bị thay thế bởi mô xơ. Đặc trưng lâm sàng của bệnh là tổn thương xương tiến triển lành tính, biến dạng xương, đau xương, gãy xương.
+- Đây là một bệnh xương hiếm gặp, chiếm khoảng 5% u xương lành tính, xuất hiện lẻ tẻ. Bệnh thường xảy ra ở tuổi thiếu niên, trong độ tuổi từ 3-15. Đa số những trường hợp có triệu chứng trước tuổi 30. Tỷ lệ nam giới và nữ giới mắc bệnh tương đương nhau.
+
+## 2. NGUYÊN NHÂN, BỆNH SINH
+- Nguyên nhân của bệnh chưa rõ. Một số thể loạn sản xơ xương là kết quả của **đột biến ngẫu nhiên gen GNAS** ở vị trí nhiễm sắc thể 20 của tạo cốt bào. Các tạo cốt bào ít biệt hoá này còn tăng sản xuất **interleukin IL-6**, làm tăng hoạt động của các tế bào hủy xương, gây nên các tổn thương tiêu xương dưới dạng các hốc xương trong mô xơ cũng như trong xương lành quanh đó.
+- Thuật ngữ "loạn sản xơ xương" được **Lichtenstein** đặt tên vào năm 1938. Một hoặc nhiều vùng xương không trưởng thành bình thường và vẫn ở dạng bè xương non, khoáng hoá kém sắp xếp bất thường, rải rác trong mô sợi loạn sản. Khi xương phát triển, mô xơ mềm lan rộng, làm xương yếu đi, biến dạng và dễ gãy.
+
+## 3. CHẨN ĐOÁN
+
+### 3.1. Chẩn đoán xác định
+Chủ yếu dựa vào lâm sàng và các thăm dò chẩn đoán hình ảnh, đặc biệt là hình ảnh X-quang đặc trưng.
+
+- **Lâm sàng:** Các biểu hiện lâm sàng rất phong phú, đa dạng. Loạn sản xương có thể ở nhiều xương hay chỉ ở một xương, do vậy có các biểu hiện lâm sàng khác nhau.
+  - **Triệu chứng tại xương:** Đau xương, biến dạng xương, gãy xương bệnh lý, khó khăn khi đi lại, còi xương. Biến chứng ung thư xương (sarcom xương, sarcom sợi, sarcom sụn).
+  - **Tổn thương ngoài xương:** Trong một số ít các trường hợp, loạn sản xơ xương có thể kết hợp với bất thường nội tiết (dậy thì sớm, cường giáp, cường cận giáp, hội chứng Cushing, tổn thương tuyến yên), mảng sắc tố da.
+- **Cận lâm sàng:**
+  - **X-quang:** Tổn thương nội tủy thân xương làm xương trong suốt, có hình ảnh kính mờ, với vỏ xương mỏng, biến dạng gấp khúc xương; Tổn thương trong suốt có bờ xơ hóa dày, gọi là dấu hiệu vỏ cây; Tổn thương dạng nang: thấu quang với viền phản ứng, không có bè xương, độ dày vỏ xương vẫn bình thường; Kiểu tổn thương Paget: bè xương đặc hơn bình thường; Biến dạng kiểu gậy chăn cừu: tổn thương tiến triển đầu trên xương đùi, gây cong đùi vào trong như gậy của người chăn cừu; Có thể thấy các tổn thương trong suốt, xơ hóa, dưới dạng đơn độc hay đa ổ, có hay không đối xứng trên xương sọ mặt. Đặc điểm X-quang của ác tính hóa là tăng nhanh kích thước của tổn thương hay sự thay đổi xương khoáng hóa bằng tổn thương tiêu xương.
+  - **CT scanner:** Đánh giá tiến triển của tổn thương xương, đặc biệt ở những vị trí phức tạp như cột sống, khung chậu, lồng ngực hay xương sọ mặt, cũng như lan rộng tổn thương ra phần mềm cạnh cột sống.
+  - **Cộng hưởng từ hạt nhân:** Đánh giá sự tiến triển của tổn thương, khả năng gãy xương bệnh lý, khả năng ác tính hóa của tổn thương xương, hay đánh giá tình trạng ép tủy khi cột sống bị tổn thương. MRI tiêm gadolinium cũng có thể đánh giá tình trạng tái phát sau mổ.
+  - **Xạ hình xương bằng Tc-99:** Tăng hấp thụ phóng xạ tại vùng tổn thương tiến triển, giúp xác định cả các tổn thương không có triệu chứng. Tuy nhiên hình ảnh tổn thương không đặc hiệu.
+  - **Xét nghiệm mô bệnh học:** Về mặt đại thể, u xương là một khối rắn chắc có màu trắng, hay sẫm màu. Về mặt vi thể, xương bệnh lý bao gồm hỗn hợp mô xơ chưa trưởng thành và các mảnh nhỏ xương bè chưa trưởng thành, có dạng các chữ cái Trung Hoa.
+  - **Xét nghiệm máu:** Tăng nồng độ men phosphatase kiềm. Xét nghiệm nước tiểu cho thấy tăng nồng độ hydroxyprolin. Tuy nhiên các bất thường này không đặc hiệu cho loạn sản xơ xương.
+
+### 3.2. Chẩn đoán thể bệnh
+- **Thể một ổ:** Hầu hết bệnh nhân chỉ có tổn thương một xương (70% các trường hợp). Bệnh thường phát hiện ở người trưởng thành, trong độ tuổi 20-30. Tổn thương có thể không có triệu chứng, hoặc đau xương tại chỗ, hay dễ gãy xương. Các xương hay bị tổn thương nhất là xương sườn, xương sọ, mặt, đặc biệt là xương hàm, hành xương hay thân xương của đầu trên xương đùi hay xương chày. Đa số (95%) bệnh tự ổn định sau khi trưởng thành, tổn thương không lớn lên nữa.
+- **Thể đa ổ (30% trường hợp):** Bệnh nặng hơn với tổn thương nhiều nơi và lan rộng, gây nhiều triệu chứng và biến chứng. Bệnh thường phát hiện sớm dưới 10 tuổi. Thường là một phía của cơ thể bị mắc bệnh. Tuy nhiên khoảng 1/4 số bệnh nhân tổn thương dạng đa xương bị tổn thương hơn một nửa khung xương, đặc biệt ở chi dưới. Tổn thương xương mặt sọ gặp ở 1/2 số bệnh nhân có tổn thương xương nhiều nơi. Khi tổn thương xương sọ mặt bệnh nhân có thể có các triệu chứng chèn ép thần kinh mạch máu như đau đầu, ù tai, bất thường thần kinh sọ não, thậm chí chảy máu sọ não tự phát. Loạn sản xương thái dương có thể giảm thính lực và bịt tắc hốc tai ngoài.
+  - Thể đa ổ có thể kết hợp dậy thì sớm, loạn sản xơ xương và đám da màu cà phê sữa, gọi là hội chứng Albright hay u nhầy trong cơ vân (hội chứng Mazabraud).
+  - **Về mặt tiên lượng:** Thể một ổ có tiên lượng tốt. Tổn thương đa ổ có xu hướng tiến triển nặng lên, đôi khi có thể bị ác tính hóa thành sarcom xương hay sarcom sợi.
+
+### 3.3. Chẩn đoán phân biệt
+- Cường cận giáp
+- Bệnh Paget
+- U xơ không cốt hóa
+- U tế bào khổng lồ
+- U nguyên bào xương
+- U xơ thần kinh
+
+## 4. ĐIỀU TRỊ
+
+### 4.1. Nguyên tắc chung
+Chưa có điều trị đặc hiệu chữa khỏi bệnh. Các bệnh nhân không có triệu chứng không cần phải điều trị, chỉ cần theo dõi. Hầu như không có điều trị gì đối với các tổn thương da hoặc tình trạng dậy thì sớm. Việc điều trị thường nhằm giải quyết các tổn thương xương và tùy theo thể bệnh một hoặc nhiều xương. Chống chỉ định điều trị bằng tia xạ vì có thể chuyển dạng thành sarcom xương. Hóa trị không có kết quả.
+
+Điều trị bao gồm các biện pháp điều trị bảo tồn và ngoại khoa, tuỳ theo vị trí và mức độ tổn thương xương. Bệnh nhân cần được theo dõi 6 tháng một lần khám lâm sàng, làm các xét nghiệm và X-quang để phát hiện các biến chứng của bệnh như chèn ép thần kinh thị giác.
+
+### 4.2. Điều trị cụ thể
+- **Điều trị nội khoa:**
+  - **Giảm đau xương:** Thuốc giảm đau thông thường. Sử dụng thuốc theo bậc thang của Tổ chức Y tế Thế giới. Chọn một trong các thuốc sau:
+    - Paracetamol 0,5g x 2-4 viên/24h.
+    - Paracetamol kết hợp với codein hoặc tramadol: 2-4 viên/24h.
+  - **Thuốc chống viêm không steroid, chỉ định một trong các thuốc sau:**
+    - Diclofenac 50mg x 2 viên/ngày.
+    - Piroxicam 20mg x 1 viên/ngày.
+    - Meloxicam 7,5mg x 1-2 viên/ngày.
+    - Celecoxib 200mg x 1 - 2 viên/ngày.
+    - Etoricoxib viên 30mg, 60mg x 1 viên/ngày.
+  - **Có thể dùng các thuốc nhóm bisphosphonat** để giảm đau xương mãn tính, tăng mật độ xương cột sống và xương đùi, làm giảm nguy cơ gãy xương:
+    - Alendronat viên 70mg x 1 viên/tuần trong thời gian 3 năm.
+    - Pamidronat 60mg, pha truyền tĩnh mạch 60mg/ngày, trong 3 ngày liên tục và nhắc lại sau 6 tháng, trong tối thiểu 2 năm. Có thể tái điều trị sau 1 năm, tuỳ theo đáp ứng lâm sàng giảm đau, xét nghiệm sinh học hay X-quang.
+    - Zoledronic acid 5mg, pha truyền tĩnh mạch 1 đợt/năm trong tối thiểu 2 năm, sau đó có thể tái điều trị sau 1 năm.
+  - **Bổ sung calci và vitamin D** khi điều trị bisphosphonat để tránh cường cận giáp thứ phát:
+    - Vitamin D3 x 800 UI/ngày.
+    - Calci 500-1000 mg/ngày.
+  - **Bổ sung thêm phospho** khi có thiếu hụt.
+  - **Calcitonin** chỉ có tác dụng ở thể đa ổ có kèm đau xương và tăng phosphatase kiềm:
+    - Calcitonin ống 50 UI, 100 UI, tiêm bắp 50-100 UI/ngày.
+  - **Điều trị các rối loạn nội tiết** như: hội chứng cường giáp trạng, hội chứng Cushing, đái tháo đường, dậy thì sớm kèm theo bằng các thuốc thích hợp hay phẫu thuật tuyến nội tiết nếu có chỉ định.
+- **Điều trị ngoại khoa:**
+  Mục tiêu của điều trị ngoại khoa là dự phòng và điều trị các biến dạng xương nặng và gãy xương, đặc biệt là các xương chịu tải; khắc phục sự khác nhau về độ dài của chi dưới; giải phóng chèn ép thần kinh, đặc biệt ở vùng sọ mặt. Điều trị có tác dụng làm uốn thẳng và làm mạnh xương bị tổn thương.
+  - *Chỉ định điều trị ngoại khoa:* Điều trị bảo tồn thất bại; Gãy xương di lệch, không liền; Đau thường xuyên; Biến dạng tiến triển; Ung thư hóa; Dự phòng tổn thương rộng có thể dẫn đến gãy xương.
+  - *Phẫu thuật tuỳ thuộc vào vị trí xương bị tổn thương,* bao gồm nạo vét tổn thương, mổ kết hợp xương, ghép xương tự thân hay xương đồng loại, chỉnh hình và cố định bằng đóng đinh, nẹp vít. Tỷ lệ tái phát cao sau nạo vét và ghép xương, đặc biệt ở bệnh nhi. Cắt gọt và nạo vét xương không có chỉ định khi xương loạn sản tái phát.
+
+## 5. TIẾN TRIỂN VÀ BIẾN CHỨNG
+- Gãy xương bệnh lý.
+- Ác tính hóa tổn thương loạn sản xơ xương có thể xảy ra tuy hiếm gặp, tỷ lệ từ 0,5-3%. Sự ác tính hóa thường xảy ra ở thể bệnh nhiều xương, thường xảy ra vào tuổi trưởng thành ở tổn thương đã tiến triển hơn 13 năm và tái hoạt động nhiều lần (hủy xương, đau, gãy xương...).
+- Biến chứng chèn ép thần kinh hay mạch máu của tổn thương xương là đau đầu, ù tai, bất thường thần kinh sọ não, giảm thính lực, hẹp ống tai ngoài, chảy máu sọ não tự phát khi tổn thương xương sọ mặt. Loạn sản xương thái dương có thể giảm thính lực và bịt tắc hốc tai ngoài, mất đối xứng mặt, lồi mắt. Gãy xương gặp với tỷ lệ cao, ở trên 85% bệnh nhân. Lùn xảy ra do cốt hóa sớm đầu xương.
+
+## 6. PHÒNG BỆNH
+Bệnh nhân cần đeo nẹp để dự phòng gãy xương. Có chế độ sinh hoạt vận động hợp lý. Tránh mang vác, lao động nặng. Phòng tránh ngã. Cần tái khám định kỳ sau 6 tháng đến 1 năm, tùy theo tình trạng bệnh.
+
+## TÀI LIỆU THAM KHẢO
+1. Chong VF. "Fibrous dysplasia involving the base of the skull". *AJR Am J Roentgenol* 2002, 178 (3): 717-20.
+2. Fitzpatrick KA. "Imaging findings of fibrous dysplasia with histopathologic and intraoperative correlation". *AJR Am J Roentgenol* 2004, 182 (6): 1389-98.
+3. Glorieux F: "Pamidronate treatment in children with fibrous dysplasia & osteogenesis imperfecta- Bone", 17, 611, 1995.
+4. Whyte MP: Fibrous dysplasia. In "Primer on the Metabolic Bone Diseases and Disorders of Mineral Metabolism". Lippincott-Raven, Philadelphia, 3rd ed, 380-381, 1996.
+
+# UNG THƯ DI CĂN XƯƠNG (Bone metastases)
+
+## 1. ĐẠI CƯƠNG
+Ung thư di căn xương (Bone metastases) là tình trạng những tế bào ung thư từ ổ nguyên phát di căn đến tổ chức xương làm tổn hại đến cấu trúc của xương. Hệ thống xương là một trong những cơ quan hay bị ung thư di căn nhất và thường gây ảnh hưởng nhiều nhất đến chất lượng cuộc sống người bệnh do gây đau đớn.
+
+Những loại ung thư hay gây di căn vào xương bao gồm ung thư tại các vị trí như phổi, vú (nữ), tiền liệt tuyến, thận, tuyến giáp, dạ dày. Vị trí xương hay bị di căn là: cột sống, xương chậu, xương sườn, xương sọ, xương cánh tay, xương dài ở chi dưới, trong đó cột sống, xương sườn, xương chậu là những vị trí thường bị ảnh hưởng sớm nhất.
+
+Hiện tại có thể điều trị kiểm soát được các triệu chứng của ung thư di căn xương và làm ngăn cản sự phát triển của ung thư.
+
+## 2. CHẨN ĐOÁN
+
+### 2.1. Chẩn đoán xác định
+Dựa vào lâm sàng và các thăm dò cận lâm sàng, trong đó việc tìm thấy tế bào ung thư nguyên phát qua chọc hút hoặc sinh thiết xương là tiêu chuẩn vàng quan trọng nhất.
+
+**Biểu hiện lâm sàng:**
+- **Đau xương:** Là biểu hiện hay gặp nhất, thường đau tăng về đêm và khi nghỉ ngơi.
+- **Gãy xương bệnh lý:** Đôi khi triệu chứng gãy xương là dấu hiệu ban đầu của ung thư di căn xương. Gãy xương bệnh lý thường gặp hơn ở những bệnh nhân ung thư di căn xương có tổn thương tiêu xương.
+- **Dấu hiệu chèn ép rễ thần kinh** hoặc chèn ép tủy sống khi có di căn cột sống.
+- **Các triệu chứng tăng calci máu:** Kém ăn, mệt mỏi, nôn, táo bón, lú lẫn.
+- **Toàn thân:** Sút cân, có thể thấy hạch ngoại vi.
+- **Triệu chứng khác:** Thiếu máu (do tổn thương tủy xương), nhiễm trùng cơ hội (do giảm sức đề kháng), xuất huyết (do giảm tiểu cầu).
+- Có thể có các biểu hiện của ung thư nguyên phát.
+
+**Cận lâm sàng:**
+- **Xét nghiệm:** Các xét nghiệm về bilan viêm (máu lắng, CRP tăng) thường tăng; phosphatase kiềm máu tăng, calci máu tăng khi có sự huỷ xương nhiều; giảm tế bào máu: giảm hồng cầu, giảm bạch cầu và tiểu cầu. Các xét nghiệm về marker ung thư có thể tăng cao theo từng loại ung thư nguyên phát (CEA, CA125, PSA...).
+- **X-quang xương:** Hình ảnh tổn thương xương có thể là những ổ tiêu xương, hoặc kết đặc xương, hoặc hỗn hợp. Khi đã thấy tổn thương xương trên X-quang thường quy thì bệnh nhân đã ở giai đoạn muộn.
+- **Xạ hình xương:** Giúp phát hiện tổn thương ung thư di căn sớm hơn X-quang thường quy, có độ nhạy cao nhưng độ đặc hiệu không cao. Dấu hiệu điển hình là hình ảnh tăng hoạt tính phóng xạ đa ổ với hình dạng, kích thước và tỷ trọng khác nhau, phân bố không đối xứng, không đều, rải rác trên toàn bộ hệ thống xương, đặc biệt trên cột sống. Nếu cần thiết, nên chụp SPECT (chụp 3 pha), đặc biệt khi ổ tổn thương là đơn độc, để phân tích đặc tính ổ tổn thương qua ba pha huyết động, hoặc chụp PET hoặc PET-CT để phát hiện ung thư ở giai đoạn sớm cả về vị trí và chức năng của khối u.
+- **Chụp cắt lớp vi tính (CT scan):** Có thể phát hiện được tổn thương di căn có hủy xương mà xạ hình xương không phát hiện được.
+- **Cộng hưởng từ (MRI):** Cho thấy hình ảnh xương và các tổ chức phần mềm một cách rõ nét. Có giá trị nhất khi di căn ở vùng cột sống.
+- **Sinh thiết xương:** Sinh thiết trực tiếp hoặc dưới hướng dẫn của chụp CT, làm xét nghiệm mô bệnh học. Cần sinh thiết nhiều mẫu bệnh phẩm để tránh bỏ sót. Phát hiện tế bào ung thư nguyên phát được coi là tiêu chuẩn vàng.
+- **Các thăm dò khác:**
+  - Đo mật độ xương: Phát hiện sớm loãng xương.
+  - Phát hiện sự mất thăng bằng giữa tạo cốt bào và hủy cốt bào.
+  - Các thăm dò để chẩn đoán ung thư nguyên phát, tuy nhiên nhiều trường hợp không phát hiện được ung thư nguyên phát.
+
+### 2.2. Chẩn đoán phân biệt
+- Các u xương lành tính.
+- Loãng xương thông thường và loãng xương thứ phát do các nguyên nhân khác.
+- Đa u tủy xương (bệnh Kahler).
+- Sarcoma xương hoặc các bệnh lý ác tính khác của xương.
+
+## 3. ĐIỀU TRỊ
+
+### 3.1. Nguyên tắc điều trị
+- **Điều trị triệu chứng và chăm sóc giảm nhẹ** để cải thiện chất lượng sống là những biện pháp điều trị chủ yếu và quan trọng nhất: Giảm đau, điều trị gãy xương, tăng calci máu, nâng cao sức đề kháng...
+- **Ngăn chặn và/hoặc làm giảm quá trình huỷ xương**, làm chậm quá trình di căn xương.
+- **Kết hợp với điều trị ung thư nguyên phát** nếu có thể.
+
+### 3.2. Điều trị cụ thể
+
+#### Điều trị triệu chứng:
+- **Giảm đau:** Điều trị giảm đau theo bậc thang giảm đau của WHO:
+  - **Bậc 1:** Paracetamol liều người lớn 500 – 1000mg mỗi 4-6 giờ nếu cần và không quá 4000mg/ngày; liều cho trẻ em < 12 tuổi là 10-15mg/kg cân nặng, mỗi 4-6 giờ.
+  - **Bậc 2:** Paracetamol + codein hoặc tramadol liều dùng 1-2 viên mỗi 4-6 giờ và không quá 8 viên/ngày, dùng không quá 5 ngày; giảm liều ở những bệnh nhân suy gan, suy thận, người lớn tuổi.
+  - **Bậc 3:** Morphin hoặc các dẫn xuất của morphin (morphin sulphat 10mg, liều tùy theo từng mức độ đau của bệnh nhân, có thể sử dụng dạng uống hoặc tiêm, liều dao động 5-30mg, mỗi 4 giờ nếu cần).
+  - **Thuốc chống viêm không steroid (NSAID):** Chọn một trong các thuốc sau: Diclofenac 100 – 150mg/ngày; Piroxicam 20mg/ngày; Meloxicam 7,5 – 15 mg/ngày; Celecoxib 200-400mg/ngày; Etoricoxib 60mg/ngày. Dùng đường uống hoặc tiêm bắp (không nên tiêm quá 4 ngày).
+  - **Kết hợp thuốc chống trầm cảm:** Ở những bệnh nhân có biểu hiện lo lắng hay trầm cảm nhiều: Amitriptyline 25mg, liều 1-4 viên/ngày; sulpiride 50mg, ngày 2-4 viên.
+  - **Thuốc giảm đau thần kinh (pregabalin, gabapentin):** Có thể được chỉ định cho những bệnh nhân có các biểu hiện đau thần kinh.
+
+- **Điều trị tăng calci máu:**
+  - **Truyền dịch pha loãng:** Dung dịch natriclorua 0,9% 3 - 4 lít/ngày (200 – 300ml/giờ và duy trì nước tiểu 100-200ml/giờ) với điều kiện huyết áp cho phép. Truyền dịch qua tĩnh mạch trung tâm là tốt nhất.
+  - **Lợi tiểu:** Dùng nhóm furosemide 20mg (tiêm tĩnh mạch), sử dụng trong và sau khi truyền dịch.
+  - **Calcitonin:** Tiêm bắp hoặc pha với natriclorua 0,9% truyền tĩnh mạch có tác dụng hạ calci máu nhanh với liều 4 – 6UI/kg cứ mỗi 12 giờ. Theo dõi nồng độ calci máu để quyết định việc sử dụng thuốc tiếp tục (không dùng kéo dài calcitonin).
+  - **Corticoid:** Truyền tĩnh mạch methylprednisolon 1-2mg/kg.
+  - **Biphosphonat đường tĩnh mạch:** Pamidronate 90mg pha với natriclorua 0,9% truyền trong 2 giờ, hoặc zoledronic acid 4mg pha với 200ml natriclorua 0,9% hoặc glucose 5% truyền nhanh trong 30 phút.
+
+- **Điều trị thiếu máu:**
+  - Truyền khối hồng cầu hoặc các chế phẩm của máu khác nếu cần.
+  - Erythropoietin tiêm dưới da 2000 - 4000 UI/ngày, tuần 3 lần.
+
+#### Điều trị ngăn chặn hoặc giảm huỷ xương, làm chậm quá trình tiến triển di căn xương và tiến triển của bệnh:
+- **Biphosphonate:** Pamidronate 30mg, liều 90mg, mỗi tháng truyền một lần hoặc zoledronic acid 4mg, liều 4mg tháng một lần pha truyền tĩnh mạch.
+- **Một số thuốc chống hủy xương khác:** Thuốc kháng RANKL, thuốc kháng cathepsin K, ...
+- **Thuốc ức chế tăng sinh mạch của tổ chức ung thư:** Ức chế Endothelin – 1.
+- **Xạ trị ngoài:** Chiếu xạ vào những vùng di căn với mục đích giảm đau, hạn chế sự phát triển của khối u.
+- **Dược chất phóng xạ (xạ trị trong):** Có tác dụng giảm đau do ung thư di căn xương: Strontium - 89 và phosphorus - 32, Samarium 153.
+- **Liệu pháp quang động học (photodynamic therapy).**
+- **Hướng điều trị trong tương lai:** Tác động theo từng khâu của quá trình sinh bệnh, phát triển và di căn của tế bào ung thư: gen trị liệu, ức chế cytokin (IL-11, TGF, IGF).
+
+#### Điều trị ngoại khoa:
+Khi có gãy xương, chèn ép tủy, hoặc cắt bỏ tổn thương khi có chỉ định.
+
+#### Vật lý trị liệu, tâm lý liệu pháp, chăm sóc giảm nhẹ:
+Hỗ trợ giảm đau cho người bệnh.
+
+### 4. TIẾN TRIỂN, BIẾN CHỨNG
+- Các biến chứng thường gặp của ung thư di căn xương bao gồm đau xương nặng, gãy xương bệnh lý, chèn ép tủy sống, thiếu máu nặng, tăng calci máu.
+- Một khi ung thư đã di căn vào xương, tiên lượng nhìn chung là xấu. Tiên lượng bệnh phụ thuộc vào mức độ ung thư của cơ quan nguyên phát. Thời gian sống trung bình có thể tính theo năm, tuy nhiên nếu di căn từ ung thư phổi thì chỉ tính được theo tháng.
+
+### 5. PHÒNG BỆNH
+- Mục tiêu là phát hiện ung thư sớm khi chưa có di căn để điều trị triệt căn.
+- Thực hiện khám sức khỏe định kỳ, sàng lọc ung thư sớm.
+
+### TÀI LIỆU THAM KHẢO
+1. Bruce E. Hillner, James N. Ingle, Rowan T. Chlebowski et al. "American Society of Clinical Oncology 2003 update on the Role of Bisphosphonates and Bone Health Issues in Women With Breast Cancer". *J. Clin Oncol*. 2003; 21(21), 4042 – 4057.
+2. Cook RJ, Major P. "Methodology for treatment evaluation in patients with cancer metastatic to bone". *J Natl Cancer Inst* 2001; 93:534–538.
+3. Patel LR, et al. "Mechanisms of cancer cell metastasis to the bone: a multistep process". *Lancet*, 2011;377(9768):813-22.
+4. Fizazi K, Carducci M, et al. "Denosumab versus zoledronic acid for treatment of bone metastases in men with castration – resistant prostate cancer: a randomized, double-blind study". *Future Oncol*, 2011;7(11):1285-97.
+5. Lipton A, Smith MR, et al. "Treatment –induced bone loss and fractures in cancer patients undergoing hormone ablation therapy: efficacy and safety of denosumab". *Clin Med Insights Oncol*, 2012;6:287-303.
+
+---
+
+# PHỤ LỤC: HƯỚNG DẪN SỬ DỤNG MỘT SỐ THUỐC CHÍNH TRONG ĐIỀU TRỊ CÁC BỆNH KHỚP
+
+## HƯỚNG DẪN SỬ DỤNG THUỐC CHỐNG VIÊM KHÔNG STEROID (NSAIDs - Nonsteroidal anti-inflammatory drugs)
+
+### 1. ĐẠI CƯƠNG VỀ THUỐC CHỐNG VIÊM KHÔNG STEROID
+Thuốc chống viêm không steroid - NSAIDs là một nhóm thuốc bao gồm các thuốc có hoạt tính chống viêm và không chứa nhân steroid. Nhóm này bao gồm nhiều dẫn chất có thành phần hoá học khác nhau nhưng có chung cơ chế tác dụng là ức chế các chất trung gian hoá học gây viêm, quan trọng nhất là prostaglandine - điều này lý giải phần lớn các hiệu quả của thuốc, đồng thời cũng giải thích tác dụng phụ của nhóm thuốc chống viêm không steroid. Đa số các thuốc trong nhóm cũng có tác dụng hạ nhiệt và giảm đau.
+
+Các thuốc chống viêm không steroid chỉ làm giảm các triệu chứng viêm mà không loại trừ được các nguyên nhân gây viêm, không làm thay đổi tiến triển của quá trình bệnh lý chính. Hiện thuốc được chia thành hai nhóm chính:
+- **Nhóm thuốc ức chế COX không chọn lọc** (đa số các thuốc chống viêm không steroid “cổ điển”) với nhiều tác dụng không mong muốn về tiêu hóa (viêm, loét, thủng... dạ dày tá tràng, ruột non...).
+- **Nhóm thuốc ức chế ưu thế (hoặc chọn lọc) COX-2** (meloxicam, celecoxib, etoricoxib...) có ưu thế là tác dụng không mong muốn về tiêu hóa thấp, song cần thận trọng trong các trường hợp có bệnh lý tim mạch (suy tim sung huyết, bệnh lý mạch vành...).
+
+Việc chỉ định một thuốc nào trong nhóm cần cân nhắc trên một bệnh nhân cụ thể.
+
+### 2. NGUYÊN TẮC SỬ DỤNG THUỐC CHỐNG VIÊM KHÔNG STEROID - NSAIDs
+- Nên bắt đầu bằng loại thuốc có ít tác dụng không mong muốn nhất. Lý do lựa chọn thuốc trong nhóm dựa trên tình trạng cụ thể của mỗi bệnh nhân. Cần thận trọng ở các đối tượng có nguy cơ: tiền sử dạ dày, tim mạch, dị ứng, suy gan, suy thận, người già, phụ nữ có thai... và chỉ chỉ định thuốc dựa trên sự cân nhắc giữa lợi và hại khi dùng thuốc.
+- Nên khởi đầu bằng liều thấp nhất, không vượt liều tối đa và duy trì liều tối thiểu có hiệu quả. Dùng thuốc trong thời gian ngắn nhất có thể.
+- Phải theo dõi các tai biến dạ dày, gan, thận, máu, dị ứng...
+- Không sử dụng đồng thời hai hoặc nhiều thuốc chống viêm không steroid, vì kết hợp các thuốc trong nhóm không tăng hiệu quả mà gây tăng tác dụng không mong muốn.
+- Đường tiêm bắp không dùng quá 3 ngày. Nên dùng đường uống do thuốc được hấp thu dễ dàng qua đường tiêu hóa. Mỗi thuốc có dạng bào chế riêng, do đó đa số các thuốc uống khi no song một số thuốc có thời gian uống theo khuyến cáo của nhà sản xuất. Ví dụ Voltaren SR: uống sau ăn 1 giờ, chứ không uống lúc no như các loại diclofenac khác.
+- Cần kết hợp với thuốc giảm đau (nhóm paracetamol) và cố gắng điều trị nguyên nhân gây bệnh (điều trị đặc hiệu, điều trị cơ bản bệnh, kết hợp nhóm DMARDs - Disease-modifying antirheumatic drugs đối với một số bệnh khớp tự miễn).
+
+### 3. CHỈ ĐỊNH VÀ CHỐNG CHỈ ĐỊNH CỦA THUỐC CHỐNG VIÊM KHÔNG STEROID
+
+#### 3.1. Chỉ định của thuốc chống viêm không steroid trong thấp khớp học
+- **Các bệnh viêm khớp:** Thấp khớp cấp, viêm khớp dạng thấp, viêm cột sống dính khớp, viêm khớp phản ứng, viêm khớp vảy nến, gút, viêm khớp tự phát thiếu niên...
+- **Các bệnh hệ thống:** Lupus ban đỏ hệ thống, xơ cứng bì toàn thể...
+- **Thoái hóa khớp (hư khớp), thoái hóa cột sống:** Đau cột sống cổ, đau vai gáy, đau thắt lưng cấp hoặc mạn tính, đau thần kinh tọa...
+- **Bệnh lý phần mềm do thấp:** Viêm quanh khớp vai, viêm lồi cầu xương cánh tay, hội chứng De Quervain, hội chứng đường hầm cổ tay...
+
+#### 3.2. Chống chỉ định của thuốc chống viêm không steroid
+- **Chống chỉ định tuyệt đối:**
+  - Bệnh lý chảy máu không được kiểm soát.
+  - Tiền sử dị ứng, mẫn cảm với thuốc.
+  - Loét dạ dày tá tràng đang tiến triển.
+  - Suy tế bào gan mức độ vừa đến nặng.
+  - Phụ nữ có thai ba tháng đầu hoặc ba tháng cuối, phụ nữ đang cho con bú.
+- **Chống chỉ định tương đối, thận trọng:**
+  - Nhiễm trùng đang tiến triển.
+  - Hen phế quản.
+  - Tiền sử viêm loét dạ dày tá tràng.
+
+#### 3.3. Khuyến cáo sử dụng thuốc chống viêm không steroid khi có nguy cơ tiêu hóa, tim mạch
+
+- **Phương pháp dự phòng biến chứng tiêu hóa do thuốc chống viêm không steroid:** Cần điều trị dự phòng biến chứng tiêu hóa do thuốc chống viêm không steroid ở các đối tượng có nguy cơ.
+  - **Các yếu tố nguy cơ cao:** Nữ, trên 60 tuổi; tiền sử loét dạ dày tá tràng, tiền sử xuất huyết tiêu hoá cao; cần sử dụng thuốc chống viêm không steroid liều cao; sử dụng kết hợp hai loại thuốc chống viêm không steroid (một cách sai lầm), kết hợp với aspirin liều thấp.
+  - **Các yếu tố nguy cơ trung bình:** Nữ giới, tuổi trên 55 tuổi; tiền sử có các triệu chứng tiêu hoá (đau thượng vị, đầy hơi, ợ hơi, ợ chua, chậm tiêu...); hút thuốc lá, uống rượu; nhiễm HP; bệnh viêm khớp dạng thấp; tình trạng dinh dưỡng kém; stress tinh thần hoặc thể chất mới xuất hiện.
+  - **Phương pháp dự phòng:**
+    - Hạn chế sử dụng thuốc: Liều thấp nhất có thể và thời gian dùng ngắn nhất có thể.
+    - Ưu tiên lựa chọn các thuốc ức chế chọn lọc COX-2 như celecoxib, etoricoxib hoặc các thuốc có dạng bào chế đặc biệt như piroxicam-β-cyclodextrin...
+    - Sử dụng kèm các thuốc ức chế bơm proton: Thuốc nhóm này có hiệu quả dự phòng và điều trị các tổn thương dạ dày tá tràng do chống viêm không steroid (Omeprazole 20mg hoặc các thuốc trong nhóm như Esomeprazole 20 mg uống 1 viên vào buổi tối trước khi đi ngủ). Các thuốc này ít hiệu quả dự phòng các tác dụng không mong muốn ở đường tiêu hóa dưới. Do vậy đối với các bệnh nhân có nguy cơ cao nên dùng nhóm ức chế chọn lọc COX-2. Một số trường hợp có nguy cơ rất cao về tiêu hóa mà có chỉ định dùng thuốc chống viêm không steroid, có thể kết hợp nhóm ức chế chọn lọc COX-2 với thuốc ức chế bơm proton.
+    - Không nên sử dụng các thuốc là chất kháng acid dạng gel có chứa alumin trong dự phòng tổn thương dạ dày tá tràng do chống viêm không steroid. Các thuốc nhóm này có tác dụng với các cơn đau bỏng rát hoặc tình trạng khó chịu do acid gây ra ở dạ dày, thực quản song không có tác dụng dự phòng. Hơn nữa, chúng có thể gây cản trở hấp thu các thuốc khác.
+
+- **Nguyên tắc sử dụng thuốc chống viêm không steroid ở các đối tượng có nguy cơ tim mạch:**
+  - Nếu dùng aspirin, uống aspirin trước khi uống thuốc chống viêm không steroid ít nhất 02 giờ (đặc biệt nếu là ibuprofen; nếu celecoxib thì không cần).
+  - Không sử dụng thuốc chống viêm không steroid trong vòng 3-6 tháng nếu có bệnh lý tim mạch cấp hoặc can thiệp tim mạch.
+  - Theo dõi và kiểm soát huyết áp chặt chẽ.
+  - Sử dụng liều thuốc chống viêm không steroid thấp, loại có thời gian bán thải ngắn và tránh các loại giải phóng chậm.
+
+- **Nguyên tắc lựa chọn thuốc chống viêm không steroid chỉ định cho bệnh nhân mắc bệnh khớp:**
+  - **Nguy cơ thấp:** Dưới 65 tuổi, không có nguy cơ tim mạch, bệnh lý khớp không đòi hỏi sử dụng thuốc chống viêm không steroid (CVKS) liều cao và kéo dài, không kết hợp aspirin, corticosteroids, hoặc thuốc chống đông: chỉ định thuốc chống viêm không steroid kinh điển với liều thấp nhất có thể và thời gian ngắn nhất có thể.
+  - **Nguy cơ vừa hoặc cao:** Chỉ định các thuốc theo mức độ nguy cơ dựa trên bảng dưới đây:
+
+| Mức độ nguy cơ / Tình trạng lâm sàng | Khuyến cáo chỉ định thuốc theo mức độ nguy cơ |
+| :--- | :--- |
+| **Nguy cơ vừa**<br>- ≥ 65 tuổi<br>- Cần phải sử dụng thuốc chống viêm không steroid liều cao và kéo dài<br>- Không có tiền sử hoặc biến chứng loét đường tiêu hóa<br>- Nguy cơ tim mạch thấp, có thể đang dùng aspirin với mục đích dự phòng | - Celecoxib mỗi ngày một lần.<br>- Kết hợp thuốc ức chế bơm proton, hoặc misoprostol, hoặc thuốc ức chế thụ thể H2 liều cao.<br>- Nếu phải dùng aspirin, cần dùng liều thấp (75 - 81 mg/ngày).<br>- Nếu phải kết hợp aspirin, dùng NSAID cổ điển ít nhất 2 giờ trước khi uống aspirin. |
+| **Nguy cơ cao**<br>- Người cao tuổi, gầy yếu hoặc tăng huyết áp, có bệnh lý gan, thận kèm theo<br>- Có tiền sử biến chứng loét đường tiêu hóa hoặc có nhiều yếu tố nguy cơ đường tiêu hóa<br>- Tiền sử tim mạch và dùng aspirin hoặc thuốc chống ngưng tập tiểu cầu để dự phòng<br>- Tiền sử suy tim | - Chỉ định acetaminophen < 3 g/ngày.<br>- Tránh thuốc NSAID nếu có thể.<br>- Dùng liều thuốc NSAID ngắt quãng.<br>- Dùng thuốc NSAID liều thấp và loại có thời gian bán hủy ngắn.<br>- Không dùng các loại thuốc NSAID dạng giải phóng chậm.<br>- Chỉ chỉ định thuốc NSAID khi thực sự cần thiết.<br>- Theo dõi và quản lý huyết áp.<br>- Theo dõi creatinin và điện giải đồ. |
+| **Nguy cơ tiêu hóa > nguy cơ tim mạch** | - Celecoxib một lần mỗi ngày kết hợp thuốc ức chế bơm proton hoặc misoprostol.<br>- Naproxen kết hợp thuốc ức chế bơm proton hoặc misoprostol. |
+| **Nguy cơ tim mạch > nguy cơ tiêu hóa** | - Tránh thuốc ức chế bơm proton nếu dùng thuốc chống ngưng tập tiểu cầu như clopidogrel. |
+
+### Bảng liều một số thuốc chống viêm không steroid thường được sử dụng
+
+| Nhóm | Tên chung | Liều 24h (mg) | Trình bày (mg) |
+| :--- | :--- | :---: | :--- |
+| **Propionic** | Ibuprofen | 400 - 1200 | Viên: 400<br>Viên đặt hậu môn: 500 |
+| | Naproxen | 250 - 1000 | Viên: 250; 500; 275; 550 |
+| **Oxicam** | Piroxicam | 10 - 40 | Viên: 10, 20;<br>Ống: 20 |
+| | Piroxicam-β-cyclodextrin | 20 | Viên: 20 |
+| | Tenoxicam | 20 | Viên, ống: 20 |
+| **Diclofenac** | Diclofenac | 50 - 150 | Viên: 25, 50;<br>Viên đặt hậu môn: 100;<br>Ống: 75 |
+| **Nhóm coxib** | Meloxicam | 7,5 - 15 | Viên: 7,5;<br>Ống: 15 |
+| | Celecoxib | 100 - 200 | Viên: 100 |
+| | Etoricoxib | 30 - 120 | Viên: 30, 60, 90, 120 |
+
+### 4. Một số ví dụ
+- **Diclofenac**: Viên 50 mg: 2 viên/ngày chia 2 lần sau ăn no hoặc viên 75 mg (dạng SR: phóng thích chậm) 1 viên/ngày sau ăn 1 giờ. Có thể sử dụng dạng ống tiêm bắp 75 mg/ngày trong 1 - 3 ngày đầu khi bệnh nhân đau nhiều, sau đó chuyển sang đường uống.
+- **Meloxicam**: Viên 7,5 mg: 2 viên/ngày, sau ăn no hoặc dạng ống tiêm bắp 15 mg/ngày x 2 - 3 ngày nếu bệnh nhân đau nhiều, sau đó chuyển sang đường uống.
+- **Piroxicam**: Viên hoặc ống 20 mg, uống 1 viên/ngày, uống sau ăn no hoặc tiêm bắp ngày 1 ống trong 1 - 3 ngày đầu khi bệnh nhân đau nhiều, sau đó chuyển sang đường uống.
+- **Celecoxib**: Viên 200 mg liều 1 đến 2 viên/ngày, uống sau ăn no. Không nên dùng cho bệnh nhân có tiền sử bệnh tim mạch và thận trọng hơn ở người cao tuổi.
+- **Etoricoxib**: Tùy theo chỉ định. Với gút cấp có thể uống 1 viên 90 mg hoặc 120 mg trong vài ngày đầu (không quá 8 ngày). Với các bệnh khác, dùng liều 30 - 45 - 60 - 90 mg mỗi ngày (lúc no). Nên tránh chỉ định cho bệnh nhân có tiền sử bệnh tim mạch và thận trọng hơn ở người cao tuổi.
+
+**Lưu ý với một số cơ địa đặc biệt:**
+Đối với trẻ em nên cho một trong các thuốc sau:
+- **Aspirin**: liều không quá 100 mg/kg/ngày.
+- **Indomethacin**: 2,5 mg/kg/ngày.
+- **Diclofenac**: 2 mg/kg/ngày.
+- **Naproxen**: 10 mg/kg/ngày.
+
+---
+
+# HƯỚNG DẪN SỬ DỤNG THUỐC GIẢM ĐAU
+
+## 1. NGUYÊN TẮC SỬ DỤNG CÁC THUỐC GIẢM ĐAU
+- Cần kết hợp điều trị nguyên nhân gây đau (điều trị đặc hiệu, điều trị cơ bản bệnh).
+- Tôn trọng sơ đồ bậc thang của Tổ chức Y tế Thế giới (WHO).
+- Dùng đường uống là chính nhằm đơn giản hóa cách thức sử dụng.
+- Tìm liều hiệu quả nhất, dung nạp cao nhất (tôn trọng chống chỉ định, tương tác thuốc, tăng dần liều, lưu ý sự phụ thuộc thuốc...).
+- Có thể kết hợp các điều trị hỗ trợ như trường hợp đau có nguồn gốc thần kinh nên kết hợp thuốc vitamin nhóm B và các thuốc giảm đau thần kinh. Có thể kết hợp các thuốc chống trầm cảm ở các trường hợp đau kéo dài, đau do ung thư, v.v...
+
+## 2. SƠ ĐỒ BẬC THANG CHỈ ĐỊNH THUỐC GIẢM ĐAU THEO KHUYẾN CÁO CỦA TỔ CHỨC Y TẾ THẾ GIỚI
+- **Bậc 1**: Thuốc không có morphin (paracetamol, thuốc chống viêm không steroid liều thấp, noramidopyrin, floctafenin...).
+- **Bậc 2**: Morphin yếu (codein, dextropropoxyphen, buprenorphin, tramadol).
+- **Bậc 3**: Morphin mạnh.
+
+**Bảng liều một số thuốc giảm đau bậc 1-2 theo khuyến cáo của Tổ chức Y tế Thế giới (WHO)**
+
+Điều trị giảm đau trong các bệnh cơ xương khớp tại Việt Nam chủ yếu sử dụng thuốc giảm đau bậc 1 và 2. Thuốc bậc 1 là các thuốc chống viêm không steroid liều thấp thường được khuyến cáo nên sử dụng nhóm ức chế chọn lọc COX-2. Tuy nhiên cần cân nhắc trên một bệnh nhân cụ thể.
+
+| Bậc | Tên chung | Liều 24h | Trình bày |
+| :--- | :--- | :--- | :--- |
+| **Bậc 1** | Paracetamol | 500 - 3.000 mg | Viên nén 500 mg<br>Viên nén 650 mg<br>Viên sủi 500 mg |
+| | Floctafenin | 200 - 1.200 mg | Viên nén 200 mg |
+| | Thuốc chống viêm không steroid | 100 - 200 mg | Viên nén |
+| **Bậc 2** | Paracetamol 325 mg + Tramadol 37,5 mg | 1 - 4 lần, mỗi lần 1 - 2 viên | Viên nén |
+| | Paracetamol 500 mg + Codein 30 mg | 1 - 3 lần, mỗi lần 1 - 2 viên | Viên sủi |
+
+## 3. MỘT SỐ VÍ DỤ
+
+### 3.1. Thuốc giảm đau bậc 1
+- **Thuốc giảm đau bậc 1 nhóm Paracetamol**:
+  - Liều Paracetamol mỗi lần 500 - 1.000 mg; ngày uống 1 - 4 lần; uống cách nhau 6 - 8 giờ/lần. Không quá 4 gam/24 giờ. Thuốc có thể gây hại cho gan. Chống chỉ định ở bệnh nhân suy tế bào gan, đang có hủy tế bào gan (có tăng men gan).
+- **Thuốc giảm đau bậc 1 nhóm Floctafenin**:
+  - Floctafenin: Viên nén 200 mg, ngày uống 1 - 3 lần, mỗi lần 1 - 2 viên. Thuốc ít gây tổn thương tế bào gan, do đó thường được chỉ định trong trường hợp suy tế bào gan.
+
+### 3.2. Thuốc giảm đau bậc 2 - Paracetamol kết hợp với codein hoặc tramadol
+Liều các thuốc nhóm này: Ngày uống 1 - 4 lần, mỗi lần 1 - 2 viên. Nên tăng liều dần, từ từ và chọn liều thấp nhất có hiệu quả, giảm ngay liều khi đỡ đau.
+- Paracetamol 500 mg + Codein 30 mg
+- Paracetamol 325 mg + Tramadol 37,5 mg
+
+### 3.3. Điều trị hỗ trợ
+- **Trường hợp đau có nguồn gốc thần kinh**:
+  - **Thuốc giảm đau thần kinh**:
+    - **Gabapentin**: Viên 300 mg. Liều 600 - 900 mg/ngày, chia 2 - 3 lần.
+    - **Pregabalin**: Viên 75 mg. Liều: 150 - 300 mg/ngày chia 2 lần.
+    - *Chỉ định*: Đau thần kinh tọa, hội chứng chèn ép đám rối thần kinh cánh tay, bệnh Fibromyalgia (còn gọi là bệnh đau sợi cơ; đau xơ cơ, đau cơ xơ hóa...).
+    - *Cách dùng*: Nên uống vào buổi trưa và tối, cần tăng liều dần. Khởi đầu bằng liều cao ngay từ đầu có thể gây chóng mặt, buồn nôn.
+  - **Vitamin nhóm B ($B_1$, $B_6$, $B_{12}$) đường tiêm hoặc uống**:
+    - Kết hợp vitamin $B_1$, $B_6$, $B_{12}$ hoặc vitamin $B_{12}$ đơn độc.
+    - *Chỉ định*: Đau khớp, đau cột sống nói chung, đặc biệt đau có nguồn gốc thần kinh như đau thần kinh tọa, hội chứng chèn ép đám rối thần kinh cánh tay (thường do thoái hóa cột sống cổ hoặc thoát vị cột sống cổ).
+    - *Cách dùng*: Nên dùng liều cao, đường tiêm hoặc uống.
+- **Trường hợp đau mạn tính**:
+  - **Thuốc chống trầm cảm ba vòng (tricyclic antidepressant), chống lo âu**:
+    - **Amitriptylin**: Viên 25 mg.
+      - *Chỉ định*: Đau mạn tính, đau có nguồn gốc thần kinh, có rối loạn giấc ngủ, có yếu tố tâm lý, hoặc đau do ung thư.
+      - *Cách dùng*: Nên khởi đầu bằng liều thấp: 1/2 viên/ngày. Liều: 25 - 75 mg. Có thể gây chóng mặt.
+    - **Sulpirid**: Viên 50 mg.
+      - *Chỉ định*: Đau có rối loạn giấc ngủ, có yếu tố tâm lý.
+      - *Cách dùng*: Nên khởi đầu bằng liều thấp: 50 mg/ngày. Sau đó tăng lên liều 50 - 150 mg/ngày. Không quá 4 tuần.
+
+---
+
+# HƯỚNG DẪN SỬ DỤNG THUỐC NHÓM GLUCOCORTICOID
+
+## 1. NGUYÊN TẮC SỬ DỤNG THUỐC THUỘC NHÓM GLUCOCORTICOID
+- Chỉ chỉ định thuốc khi có chẩn đoán chính xác và thực sự cần thiết.
+- Sử dụng trong thời gian ngắn nhất có thể; giảm liều và ngừng ngay khi triệu chứng hoặc bệnh được kiểm soát.
+- Theo dõi thường xuyên và kết hợp phòng ngừa biến chứng do thuốc (tổn thương dạ dày tá tràng, rối loạn điện giải, tăng đường máu, tăng huyết áp, nhiễm khuẩn, loãng xương...).
+
+## 2. BẢNG TÓM TẮT ĐẶC ĐIỂM VÀ LIỀU QUY CHUẨN MỘT SỐ GLUCOCORTICOID
+
+| Thuốc | Hiệu lực kháng viêm | Tính giữ $Na^+$ | Ái lực với receptor glucocorticoid | Liều quy chuẩn (mg) |
+| :--- | :---: | :---: | :---: | :---: |
+| **Thời gian tác dụng ngắn (T bán hủy sinh học: 8 - 12 giờ)** | | | | |
+| Cortisol | 1 | 1 | 100 | 20 |
+| Cortison | 0,8 | 0,8 | 1 | 25 |
+| Fluorocortison | 10 | 125 | - | - |
+| **Thời gian tác dụng trung bình (T bán hủy sinh học: 12 - 36 giờ)** | | | | |
+| Prednison | 4 | 0,8 | 5 | 5 |
+| Prednisolon | 4 | 0,8 | 220 | 5 |
+| Methylprednisolon | 5 | 0,5 | 1.190 | 4 |
+| Triamcinolon | 5 | 0 | 190 | 4 |
+| **Thời gian tác dụng dài (T bán hủy sinh học: 36 - 72 giờ)** | | | | |
+| Betamethason | 25 | 0 | 740 | 0,75 |
+| Dexamethason | 25 | 0 | 540 | 0,75 |
+
+## 3. CÁC ĐƯỜNG DÙNG
+- **Đường uống**: Thường sử dụng các dạng thuốc viên. Liều 1 viên prednison 5 mg tương đương với 1 viên của các loại thuốc sau: cortison (25 mg), methylprednisolon (4 mg), triamcinolon (4 mg), betamethason (0,75 mg).
+- **Đường tại chỗ** (tiêm trong hay cạnh khớp, tiêm ngoài màng cứng, tiêm vào trong ống sống): Phải được bác sĩ chuyên khoa chỉ định và tuân thủ quy định vô trùng chặt chẽ.
+- **Đường tiêm bắp hay tiêm tĩnh mạch**: Đường tiêm bắp hiện nay hầu như không được sử dụng trong điều trị các bệnh khớp vì các tác dụng tại chỗ khá nghiêm trọng (teo cơ, nguy cơ nhiễm khuẩn).
+- **Liều dùng (tính theo prednisolon)**:
+  - *Liều thấp*: 5 - 10 mg/24 giờ.
+  - *Liều trung bình*: 20 - 30 mg/24 giờ.
+  - *Liều cao*: 60 - 120 mg/24 giờ (1 - 2 mg/kg/24 giờ).
+  - Đối với các bệnh thấp khớp, thường cho liều 0,5 mg/kg/24 giờ, sau đó giảm liều 10% mỗi tuần. Từ liều 15 mg trở đi, giảm 1 mg/tuần. Có thể cho cách ngày. Dùng kéo dài: không quá 5 - 10 mg/24 giờ.
+- **Phác đồ điều trị đặc biệt**:
+  - **Truyền glucocorticoid tĩnh mạch liều cao** (còn có các tên đồng nghĩa là *bolus therapy*, *flash therapy* hoặc *pulse therapy*):
+    - *Chỉ định*: Trong trường hợp đặc biệt (đợt tiến triển của lupus ban đỏ, viêm khớp dạng thấp, viêm mạch...). Hiện nay ít dùng đường này. Phải theo dõi bệnh nhân nghiêm ngặt.
+    - *Cách dùng*: Truyền tĩnh mạch 750 mg đến 1000 mg (1 gam) methylprednisolon sodium succinat pha trong 250 - 500 ml dung dịch natriclorua 0,9%, truyền tĩnh mạch trong 2 - 3 giờ, dùng một liều duy nhất trong ngày, nhắc lại 3 ngày liên tiếp. Sau liều này, chuyển đường uống với liều tương đương với prednisolon 1,5 - 2 mg/kg/24 h.
+  - **Mini bolus therapy (mini pulse therapy)**:
+    - *Chỉ định*: Tương tự như phương pháp bolus therapy (pulse therapy).
+    - *Thuốc*: Methylprednisolon sodium succinat với liều 2 mg/kg/24 giờ; hoặc dexamethason với liều 0,4 mg/kg/24h.
+    - *Cách dùng*: Pha trong 250 ml dung dịch natriclorua 0,9% truyền tĩnh mạch 30 giọt/phút, trong 3 - 5 ngày liền. Sau liều này, chuyển đường uống với liều tương đương với prednisolon 1 - 2 mg/kg/24 h, sau đó giảm dần tùy theo đáp ứng của bệnh nhân.
+
+## 4. CHẾ ĐỘ ĐIỀU TRỊ BỔ SUNG KHI SỬ DỤNG GLUCOCORTICOID
+Cần lưu ý chế độ điều trị bổ sung, đặc biệt khi sử dụng với liều prednisolon trên 10 mg mỗi ngày, càng phải được thực hiện nghiêm ngặt khi liều càng cao hoặc kéo dài trên 1 tháng.
+- **Kali**: 1 - 2 gam kali clorua mỗi ngày.
+- **Vitamin D**: 800 UI kết hợp 1000 mg calci mỗi ngày.
+- **Thuốc bảo vệ niêm mạc dạ dày**: Nhóm ức chế bơm proton uống trước khi đi ngủ (omeprazol 20 mg...).
+- **Benzodiazepin** trong trường hợp mất ngủ.
+- **Bisphosphonat** (alendronat 70 mg/tuần; risedronat 35 mg/tuần; ibandronat 150 mg/tháng). Chỉ định khi sử dụng glucocorticoid kéo dài trên 1 tháng (bất kể liều nào).
+
+---
+
+# HƯỚNG DẪN SỬ DỤNG CÁC THUỐC DMARDs (Disease-modifying antirheumatic drugs)
+Các thuốc có tên thông dụng là DMARDs được kỳ vọng là các thuốc chống thấp khớp có thể làm thay đổi bệnh, điều trị cơ bản bệnh. Có hai loại DMARDs: DMARDs cổ điển và DMARDs sinh học.
+
+## 1. NHÓM DMARDs CỔ ĐIỂN
+Nhóm DMARDs cổ điển bao gồm các thuốc chống sốt rét tổng hợp (hydroxychloroquin hoặc quinacrin hydrochlorid), methotrexat, sulfasalazin, leflunomid, cyclosporin A. Trong số các thuốc nhóm DMARDs kinh điển, methotrexat thường được sử dụng nhiều nhất, do đó chúng tôi trình bày hướng dẫn sử dụng thuốc này. Quy trình sử dụng, theo dõi các thuốc khác (trừ thuốc chống sốt rét tổng hợp) tương tự như methotrexat.
+
+Thuốc DMARDs có thể sử dụng đơn độc hoặc kết hợp hai hoặc nhiều thuốc trong nhóm.
+
+### 1.1. Các thuốc chống sốt rét tổng hợp (hydroxychloroquin hoặc quinacrin hydrochlorid)
+- **Liều dùng**: 200 - 600 mg/ngày, ở Việt Nam thường dùng 200 mg/ngày.
+- **Chống chỉ định**: Người có suy giảm G6PD (glucose-6 phosphate dehydrogenase) hoặc có tổn thương gan. Cân nhắc lợi - hại ở bệnh nhân có thai (một số nghiên cứu cho thấy có thể sử dụng hydroxychloroquin ở bệnh nhân lupus có thai mà không gây các dị tật ở trẻ sơ sinh).
+- **Cần kiểm tra thị lực, thị trường, soi đáy mắt mỗi 6 tháng** và không dùng quá 5 năm nhằm tránh tác dụng không mong muốn đối với mắt: Thuốc gây viêm tổ chức lưới ở võng mạc không hồi phục, dẫn đến mất thị lực không hồi phục.
+- **Cần uống thuốc vào buổi tối** nhằm tránh ánh nắng, gây sạm da.
+
+### 1.2. Methotrexat
+Các xét nghiệm cần tiến hành trước khi cho thuốc và kiểm tra hàng tháng thời gian dùng thuốc:
+- Tế bào máu ngoại vi, tốc độ máu lắng, CRP.
+- Enzym gan, chức năng gan (Tỷ lệ prothrombin và albumin huyết thanh).
+- Chứ năng thận (ít nhất cần xét nghiệm creatinin huyết thanh).
+- Xquang phổi thẳng (và đo chức năng hô hấp nếu có điều kiện).
+
+**Các trường hợp cần lưu ý:**
+- **Không chỉ định đối với phụ nữ ở tuổi sinh đẻ, hoặc nam giới có vợ ở tuổi sinh đẻ** mà không có biện pháp tránh thai hữu hiệu. Bệnh nhân hoặc vợ bệnh nhân có thể mang thai nếu ngừng methotrexat ít nhất 2 tháng (các thuốc khác thuộc nhóm DMARDs cổ điển có thời gian ngừng thuốc dài hơn, ví dụ leflunomid phải ngừng thuốc ít nhất 2 năm).
+- **Nếu bệnh nhân có bệnh phổi mạn tính thì không được chỉ định methotrexat**. Nên đo chức năng hô hấp trước khi chỉ định methotrexat để khẳng định là chức năng phổi bình thường. Cần chụp lại phổi mỗi khi có các triệu chứng hô hấp. Nếu có triệu chứng hô hấp mạn tính cần ngừng methotrexat, chuyển dùng các thuốc thuộc nhóm DMARDs cổ điển khác.
+- **Tế bào máu ngoại vi**: Không cho thuốc hoặc cần ngừng thuốc khi số lượng bạch cầu dưới 4 G/l (hoặc 4 G/mm³) hoặc bạch cầu lympho dưới 1,5 G/l (hoặc 1,5 G/mm³).
+- **Chức năng gan (tỷ lệ prothrombin và albumin huyết thanh)**: Không chỉ định khi bệnh nhân suy tế bào gan hoặc enzym gan cao. Cần ngừng thuốc khi enzym gan cao gấp đôi trị số bình thường.
+- **Chức năng thận**: Không chỉ định khi bệnh nhân suy thận.
+- **Cơ chế tác dụng**: Do methotrexat có cấu trúc tương tự acid folic, cơ chế chính của thuốc là tranh chấp với vị trí hoạt động của acid folic trong quá trình tổng hợp pyrimidin, dẫn đến giảm tổng hợp DNA nên cần bổ sung acid folic với liều tương đương methotrexat nhằm tránh thiếu máu.
+
+**Liều methotrexat:**
+Trung bình 10 - 20 mg mỗi tuần (5 - 20 mg/tuần) tiêm bắp hoặc uống. Thường khởi đầu bằng liều 10 mg mỗi tuần.
+
+**Chế phẩm:**
+Methotrexat dạng 2,5 mg/viên, ống tiêm bắp 10 mg hoặc 15 mg.
+
+**Cách dùng:**
+Thường khởi đầu bằng đường uống với liều 10 mg/tuần. Nên uống một lần cả liều vào một ngày cố định trong tuần. Trường hợp kém hiệu quả hoặc kém dung nạp, có thể dùng đường tiêm bắp hoặc tiêm dưới da, mỗi tuần tiêm một mũi duy nhất vào một ngày cố định trong tuần. Liều methotrexat có thể tăng hoặc giảm tùy hiệu quả đạt được.
+
+Dùng kéo dài nếu có hiệu quả và dung nạp tốt. Hiệu quả thường đạt được sau 1 - 2 tháng, do đó thường duy trì liều đã chọn trong mỗi 1 - 2 tháng mới chỉnh liều. Khi các triệu chứng đã thuyên giảm, có thể giảm liều các thuốc kết hợp: lần lượt giảm liều corticoid, thay bằng chống viêm không steroid, thuốc giảm đau giảm cuối cùng. Thuốc thường duy trì nhiều năm, thậm chí suốt đời. Tuy nhiên, sau một giai đoạn ổn định kéo dài, thường xuất hiện tình trạng “kháng” methotrexat. Nếu không có hiệu quả nên kết hợp hoặc đổi các thuốc khác trong nhóm.
+
+**Thuốc kết hợp:**
+Thường kết hợp methotrexat với thuốc chống sốt rét tổng hợp nhằm tăng hiệu quả và giảm tác dụng không mong muốn của methotrexat trên gan. Cần bổ sung acid folic (liều tương đương với liều methotrexat) nhằm giảm thiểu tác dụng phụ về máu, không nên uống acid folic vào ngày uống methotrexat.
+
+Ví dụ cụ thể:
+- **Methotrexat** viên 2,5mg, 4 viên mỗi tuần, uống một lần duy nhất vào thứ 2 hàng tuần.
+- **Acid folic** viên 5mg: uống thứ 4 và thứ 6 hàng tuần, mỗi ngày uống 1 viên 5mg.
+
+### 2. DMARDs sinh học
+**Điều trị sinh học** (Biological therapy) là trị liệu sử dụng các tác nhân sinh học nhằm kích thích hoặc khôi phục lại khả năng của hệ thống miễn dịch hoặc tác động trực tiếp trên bệnh tương tự như đáp ứng của hệ thống miễn dịch nhằm mục đích bảo vệ cơ thể chống lại nhiễm trùng, bệnh tật.
+
+- **Các thuốc hiện có tại Việt Nam:**
+  - Nhóm kháng TNF-α: etanercept, infliximab…
+  - Nhóm ức chế tế bào lympho B: rituximab.
+  - Nhóm ức chế Interleukin 6: tocilizumab.
+- **Chỉ định:** Trong các trường hợp bệnh tự miễn (viêm khớp dạng thấp, lupus ban đỏ hệ thống, viêm cột sống dính khớp, thấp khớp vảy nến,...) kháng với các điều trị thông thường. Đối với bệnh viêm khớp dạng thấp, thường vẫn kết hợp với methotrexat nếu không có chống chỉ định. Gần đây nhóm thuốc này được nhiều tác giả khuyến khích sử dụng sớm nhằm tránh các tổn thương phá hủy khớp.
+- **Tính an toàn:** Các thuốc nhóm này nói chung khá an toàn nếu được theo dõi, quản lý tốt. Tác dụng không mong muốn đáng ngại nhất của các thuốc này là lao và các nhiễm khuẩn cơ hội, nhiễm virus (đặc biệt virus viêm gan B, C), ung thư.
+
+#### Quy trình sàng lọc bệnh nhân trước khi chỉ định thuốc sinh học:
+1. **Hỏi bệnh nhân về tình trạng tiêm chủng:** Không nên dùng vắc xin sống và bất hoạt đồng thời với các thuốc sinh học.
+2. **Khảo sát các cơ quan dễ nhiễm khuẩn:**
+  - **Phổi:** Cần loại trừ viêm phổi do vi khuẩn, đặc biệt là lao phổi: Khám lâm sàng, chụp phim X-quang quy ước phổi thẳng, nếu có nghi ngờ, chỉ định CT ngực lớp mỏng, nếu có tổn thương, cần nội soi phế quản, cấy dịch phế quản tìm vi khuẩn, BK. Kết hợp với kết quả xét nghiệm test da Mantoux.
+  - **Thận tiết niệu:** Tổng phân tích nước tiểu, cấy tìm vi khuẩn.
+  - **Răng hàm mặt - tai mũi họng.**
+  - **Tim:** Nghe tim, siêu âm tim nếu nghi ngờ.
+  - **Nhiễm virus:** HIV; HBsAg; Anti HCV.
+3. **Khảo sát phát hiện ung thư:**
+  Cần khảo sát các cơ quan sau, nếu có tổn thương hoặc nghi ngờ tổn thương, tuân theo quy trình chẩn đoán ung thư các tạng.
+  - **Trung thất:** X-quang quy ước phổi thẳng, nếu có nghi ngờ, chỉ định CT ngực lớp mỏng như trên.
+  - **Ổ bụng:** Siêu âm ổ bụng.
+  - **Khám hệ thống hạch và toàn trạng.**
+4. **Các trường hợp cần lưu ý:**
+  - **Nghi ngờ nhiễm lao:**
+    - Trường hợp Mantoux dương tính mà X-quang và CT phổi bình thường, nên nội soi phế quản cấy tìm vi khuẩn lao, PCR-BK. Nếu không thực hiện được thủ thuật này, bệnh nhân cần được điều trị như lao sơ nhiễm trước khi tiến hành điều trị sinh học và phải được theo dõi chặt chẽ về khả năng khởi phát lao trong quá trình điều trị.
+    - Trường hợp có nhiễm lao: Cần điều trị lao trước. Sau đó đánh giá, xem xét lại chỉ định điều trị sinh học.
+  - **Nhiễm virus viêm gan:**
+    Trường hợp kháng thể dương tính, nếu không có bằng chứng của tăng sinh của virus và các enzym gan bình thường có thể xem xét chỉ định điều trị sinh học. Trường hợp viêm gan tiến triển, cần điều trị viêm gan trước khi đánh giá, xem xét lại chỉ định điều trị sinh học.
+
+---
+
+## QUY TRÌNH TRUYỀN CYCLOPHOSPHAMID
+
+### 1. Chỉ định của Cyclophosphamid trong điều trị các bệnh cơ xương khớp
+- **Viêm da cơ, viêm đa cơ tự miễn:** Có tổn thương phổi kẽ, hoặc có viêm mạch nặng, hoặc đáp ứng kém với corticoid phối hợp với methotrexat.
+- **Lupus ban đỏ** có viêm cầu thận tiến triển, hội chứng thận hư... không đáp ứng với corticoid.
+- **Viêm mạch hệ thống** mức độ nặng.
+- **Viêm khớp dạng thấp, xơ cứng bì toàn thể, viêm khớp vảy nến** đáp ứng kém với các thuốc điều trị cơ bản thông thường...
+
+### 2. Chống chỉ định của Cyclophosphamid
+- Quá mẫn với thành phần của thuốc.
+- Suy tủy trầm trọng.
+- Viêm bàng quang.
+- Tắc nghẽn niệu đạo.
+- Phụ nữ có thai hoặc cho con bú (cần cân nhắc kỹ giữa lợi ích và tác hại).
+
+### 3. Liều Cyclophosphamid
+Trong các chỉ định nêu trên, với bệnh nhân chức năng gan thận bình thường, liều truyền tĩnh mạch cyclophosphamid là 10 - 15mg/kg cân nặng (một bệnh nhân 50kg thường chỉ định liều 700mg cyclophosphamid mỗi lần truyền).
+
+Nhằm tránh biến chứng chảy máu bàng quang do cyclophosphamid gây nên, cần truyền thêm natri 2-mercapto ethan sulfonat. Liều mesna thông thường bằng 60-100% liều cyclophosphamid. Ngoài ra cần truyền dịch để tránh các tác dụng không mong muốn.
+
+Thông thường, phác đồ bao gồm 6 liều, truyền tĩnh mạch mỗi 4 tuần/1 liều, sau đó cứ mỗi 3 tháng truyền nhắc lại một liều cyclophosphamid (10-15mg/kg cân nặng) như đã nêu ở trên. Quy trình cụ thể mỗi lần theo hướng dẫn dưới đây.
+
+- **Quy trình truyền cyclophosphamid liều 700mg/lần:**
+  - **Ngày thứ nhất:** Truyền tĩnh mạch các thuốc theo thứ tự sau (tốc độ XX giọt/phút):
+    - Natri 2-mercapto ethan sulfonat 400mg pha với 500ml glucose 5%
+    - Cyclophosphamid 200mg pha với 500ml glucose 5%
+    - Cyclophosphamid 500mg pha với 500ml glucose 5%
+    - Natri 2-mercapto ethan sulfonat 400mg pha với 500ml glucose 5%
+    - Natriclorua 0,9% 500ml x 3 chai. Pha vào mỗi chai 3 ống kali clorua 0,5g
+  - **Ngày thứ hai và thứ ba:** Mỗi ngày truyền 2000ml các dịch sau:
+    - 1000ml glucose 5% và 1000ml natriclorua 0,9%. Pha 4 ống kali clorua 0,5g vào mỗi chai 1000ml, truyền tĩnh mạch XX giọt/phút.
+
+*Chú ý:* Trước hết cần hòa tan cyclophosphamid bằng 10ml nước cất (không dùng nước muối sinh lý), rồi mới bơm vào chai 500ml glucose 5%.
+
+**Theo dõi và xử trí:**
+- Cần theo dõi tế bào máu ngoại biên, điện giải đồ: Sau truyền lần đầu 3-5 ngày (nếu xuất hiện bạch cầu máu giảm dưới 3000/mm³, cần theo dõi hàng ngày hoặc mỗi hai ngày); mỗi hai tuần nếu điều trị lâu dài.
+- Tình trạng viêm, chảy máu, ung thư bàng quang: tiểu buốt rắt, tiểu đỏ. Trường hợp có đái máu đại thể, cần ngừng truyền cyclophosphamid và truyền nốt liều Mesna và dịch.
+- Nhằm tránh rụng tóc, nên chườm nước đá lạnh lên đầu trong khi truyền cyclophosphamid.
+
+---
+
+## QUY TRÌNH TRUYỀN ACID ZOLEDRONIC
+
+**Acid zoledronic 5mg/100ml**, thuộc nhóm bisphosphonat.
+- **Cơ chế:** Chống hủy xương.
+- **Chỉ định:** Điều trị loãng xương ở phụ nữ sau mãn kinh hoặc loãng xương ở nam giới, loãng xương do sử dụng corticoid.
+- **Chống chỉ định:** Bệnh nhân có hệ số thanh thải creatinine < 35ml/phút hoặc dị ứng với thành phần của thuốc. Không cần chỉnh liều ở bệnh nhân suy gan hoặc người trên 65 tuổi.
+- **Thận trọng:** Có một tỷ lệ rung nhĩ sau truyền thuốc, nên nếu đã có các rối loạn nhịp tim, tiền sử bệnh lý mạch vành, không nên truyền trừ khi lợi ích cao hơn nguy cơ.
+- **Liều dùng:** Mỗi năm truyền tĩnh mạch một lần trên cơ sở kết hợp 800 UI vitamin D mỗi ngày và 800 - 1200 mg calci mỗi ngày.
+
+**Sau khi xác định chẩn đoán, các xét nghiệm cần làm trước khi chỉ định acid zoledronic:**
+- Xét nghiệm calci máu và creatin máu, tính toán mức lọc cầu thận. Nếu calci máu thấp cần uống bổ sung trước khi truyền, tránh tình trạng hạ calci máu.
+- Điện tâm đồ.
+
+**Quy trình truyền acid zoledronic:**
+- **Bước 1:** Cần đảm bảo bệnh nhân không có giảm calci máu trước khi truyền, có thể cho uống bổ sung 800 UI vitamin D và 800 - 1200mg calci vài ngày trước và các ngày trong và sau truyền acid zoledronic. Nên uống 2 lít nước vào ngày trước truyền thuốc.
+- **Bước 2:** Acid zoledronic 5mg được đóng sẵn 100ml dung dịch truyền, được truyền đường tĩnh mạch qua một dây truyền mở lỗ thông với tốc độ truyền ổn định. Thời gian truyền không được dưới 15 phút.
+- **Bước 3:** Uống 2 lít nước trong ngày sau truyền thuốc.
+
+**Lưu ý:**
+- Nên kết hợp paracetamol đường uống hoặc truyền tĩnh mạch, và thuốc chống viêm không steroid (ibuprofen, diclofenac, meloxicam...) trước hoặc vài ngày sau khi truyền nhằm phòng và điều trị hội chứng giả cúm (sốt, đau mình mẩy, đau xương khớp...).
+- Theo dõi nhịp tim, mạch, huyết áp, nhiệt độ và toàn trạng trong khi truyền và 3-5 ngày đầu sau truyền. Hội chứng giả cúm thường xuất hiện trong vòng 1-3 ngày đầu sau truyền acid zoledronic: Sốt (có thể tới 40°C); mệt, đau xương khớp. Cần xem xét việc bù dịch hoặc các chế phẩm dinh dưỡng tùy theo tình trạng của bệnh nhân trong những ngày đầu sau truyền. Luôn cảnh giác nguy cơ nhồi máu cơ tim có thể tình cờ xảy ra ở người nhiều tuổi hoặc các rối loạn nhịp (mặc dù tần suất thấp) để xử lý kịp thời.
+- Cần có thông báo tới bệnh nhân và người nhà bệnh nhân các tác dụng không mong muốn có thể xảy ra và có bản cam kết có chữ ký của bệnh nhân hoặc người nhà trước khi truyền acid zoledronic.
+
+---
+
+## CÁC TIÊU CHUẨN ĐÁNH GIÁ MỨC ĐỘ HOẠT ĐỘNG CỦA BỆNH VIÊM KHỚP DẠNG THẤP
+
+Các thuốc điều trị sẽ được thay đổi về số lượng và nhóm thuốc theo các giai đoạn hoạt động của bệnh (theo các hướng dẫn nêu cụ thể từng bệnh). Phạm vi bài này chỉ nêu hai bệnh là viêm khớp dạng thấp và viêm cột sống dính khớp.
+
+### 1. Tiêu chuẩn đánh giá giai đoạn hoạt động (đợt tiến triển) của bệnh viêm khớp dạng thấp theo EULAR (European League Against Rheumatism - Liên đoàn chống thấp khớp Châu Âu)
+Có ít nhất ba khớp sưng và ít nhất một trong ba tiêu chí sau:
+- Chỉ số Ritchie từ 9 điểm trở lên.
+- Cứng khớp buổi sáng ít nhất 45 phút.
+- Tốc độ máu lắng giờ đầu $\ge$ 28mm.
+
+*Ghi chú: Chỉ số Ritchie:* Chỉ số này được đánh giá như sau: Thầy thuốc dùng đầu ngón tay cái của mình ấn lên trên diện khớp của bệnh nhân với áp lực vừa phải. Tổng cộng có 26 vị trí khớp (các khớp ngón gần, khớp bàn ngón, khớp cổ tay, khớp khuỷu, khớp vai, khớp gối hai bên), mỗi vị trí khớp được tính điểm như sau:
+- **0 điểm:** Không đau
+- **1 điểm:** Đau ít, bệnh nhân nói là thao tác gây đau.
+- **2 điểm:** Đau vừa, bệnh nhân kêu đau và nhăn mặt.
+- **3 điểm:** Đau nhiều, đến nỗi bệnh nhân rút chi lại.
+
+*Kết quả:** Đau tối đa là 78 điểm, hoàn toàn không đau là 0 điểm, đợt tiến triển của bệnh từ 9 điểm trở lên.
+
+### 2. Đánh giá mức độ hoạt động của bệnh theo DAS 28 (DAS: Disease Activity Score)
+Công thức tính như sau:
+$$\text{DAS 28} = [0,56 \times \sqrt{\text{Số khớp đau}} + 0,28 \times \sqrt{\text{Số khớp sưng}} + 0,70 \times \ln(\text{máu lắng 1 giờ})] \times 1,08 + 0,16$$
+
+*(Ghi chú: Có 28 khớp cần khảo sát khi đánh giá chỉ số DAS)*
+
+- **DAS 28 < 2,9:** Bệnh không hoạt động.
+- **2,9 $\le$ DAS 28 < 3,2:** Hoạt động bệnh mức độ nhẹ.
+- **3,2 $\le$ DAS 28 $\le$ 5,1:** Hoạt động bệnh mức độ trung bình.
+- **DAS 28 > 5,1:** Bệnh hoạt động mạnh.
+
+Trên thực tế, chỉ cần vào trang: http://www.4s-dawn.com/DAS28/DAS28.html hoặc đánh chữ "DAS 28" trên mạng sẽ có các mục hướng dẫn vào trang nêu trên. Chỉ cần điền thông tin của bệnh nhân cụ thể vào các ô cần thiết sẽ xác định được chỉ số DAS và hướng dẫn giá trị của chỉ số, tức là mức độ hoạt động của bệnh.
+
+### 3. Đánh giá mức độ hoạt động của bệnh theo các chỉ số khác
+- **Chỉ số SDAI (Simplified Disease Activity Index):**
+  $$\text{SDAI} = \text{Số khớp đau (tổng số 28 khớp)} + \text{Số khớp sưng} + \text{VAS bệnh nhân} + \text{VAS bác sĩ đánh giá (0-10)} + \text{CRP (mg/dl)}$$
+  - **SDAI < 3,3:** Bệnh không hoạt động
+  - **3,3 $\le$ SDAI < 11:** Hoạt động nhẹ
+  - **11 $\le$ SDAI < 26:** Hoạt động trung bình
+  - **SDAI > 26:** Hoạt động mạnh
+
+- **Chỉ số CDAI (Clinical Disease Activity Index):**
+  $$\text{CDAI} = \text{Số khớp đau} + \text{Số khớp sưng} + \text{VAS bệnh nhân} + \text{VAS bác sĩ}$$
+  - **CDAI < 2,8:** Bệnh không hoạt động
+  - **2,8 $\le$ CDAI < 10:** Bệnh hoạt động nhẹ
+  - **10 $\le$ CDAI < 22:** Bệnh hoạt động trung bình
+  - **CDAI > 22:** Bệnh hoạt động mạnh
+
+### TIÊU CHUẨN LUI BỆNH ACR 2010
+*(ACR - American College of Rheumatology - Hội Thấp khớp học Hoa Kỳ)*
+
+Khi bệnh nhân viêm khớp dạng thấp đáp ứng được các yếu tố sau trong 6 tháng liền, tức là đã đạt được giai đoạn lui bệnh:
+- Cứng khớp sáng $\le$ 15 phút.
+- Không mệt.
+- Không đau khớp.
+- Khớp không đau khi thăm khám hay vận động.
+- Không sưng vùng khớp hoặc gân cơ cạnh khớp.
+- Tốc độ máu lắng giờ đầu $\le$ 30mm (đối với nữ) và $\le$ 20mm (đối với nam).
+
+---
+
+## CÁC TIÊU CHUẨN ĐÁNH GIÁ MỨC ĐỘ HOẠT ĐỘNG CỦA BỆNH VIÊM CỘT SỐNG DÍNH KHỚP
+
+### 1. Chỉ số BASFI (Bath Ankylosing Spondylitis Functional Index)
+Chỉ số BASFI đánh giá chức năng ở bệnh nhân viêm cột sống dính khớp cụ thể như sau:
+Bệnh nhân tự đánh giá khả năng vận động của mình trong thời gian một tuần trước thời điểm khảo sát. Mức độ theo thang điểm 10 với quy ước 0 điểm là hoạt động dễ dàng và 10 điểm là không thể làm được. Khảo sát qua 10 hoạt động sau:
+1. Đi tất (vớ) (không có sự trợ giúp).
+2. Cúi lưng xuống nhặt một cái bút trên sàn (không có sự trợ giúp).
+3. Với lên một cái giá cao (không cần sự trợ giúp).
+4. Đứng dậy từ ghế bành (không cần sử dụng tay hoặc sự trợ giúp khác).
+5. Ngồi dậy khi đang nằm.
+6. Thỏa mái khi đứng không có chỗ tựa trong 10 phút.
+7. Leo cầu thang 12-15 bước (không sử dụng tay vịn hoặc sự trợ giúp khác).
+8. Quay cổ lại phía sau mà không phải quay cả người.
+9. Hoạt động thể dục.
+10. Làm việc cả ngày (ở nhà hoặc nơi công cộng).
+
+**Tính chỉ số BASFI theo các bước sau:**
+- **Bước 1:** Tính điểm mỗi câu.
+- **Bước 2:** Tính thang điểm BASFI bằng tổng điểm 10 câu chia cho 10.
+
+### 2. BASDAI (Bath Ankylosing Spondylitis Disease Activity Index: Chỉ số đánh giá mức độ hoạt động của bệnh viêm cột sống dính khớp)
+Bệnh nhân tự đánh giá triệu chứng của mình trong một tuần trước thời điểm khảo sát. Mức độ đánh giá theo thang điểm 10 với quy ước 0 điểm là không có triệu chứng và 10 điểm là triệu chứng nghiêm trọng, qua 6 triệu chứng sau:
+1. Mức độ mệt mỏi?
+2. Mức độ đau ở cổ, lưng và khớp háng?
+3. Mức độ sưng của các khớp khác ngoài vùng cổ, lưng và háng?
+4. Mức độ khó chịu ở những vùng nhạy cảm khi chạm hoặc tỳ vào?
+5. Mức độ cứng khớp vào buổi sáng (kể từ lúc thức dậy)?
+
+* **Thời gian cứng khớp buổi sáng** kể từ khi thức dậy? (Quy ước: 30 phút = 2 điểm; 60 phút = 4 điểm; 90 phút = 6 điểm; 120 phút = 8 điểm; và trên 120 phút = 10 điểm).
+
+- **Tính chỉ số BASDAI theo các bước sau:**
+  - **Bước 1:** Tính tổng 4 câu trả lời đầu tiên, dựa vào thang điểm nhìn đánh giá.
+  - **Bước 2:** Tính trung bình của câu trả lời 5 và 6.
+  - **Bước 3:** Số điểm (tổng 4 câu đầu tiên và trung bình câu 5 và câu 6) chia 5 sẽ được chỉ số BASDAI.
+
+Bệnh hoạt động khi chỉ số **BASDAI ≥ 4**.
+
+---
+
+### 3. CHỈ SỐ ASDAS (Ankylosing Spondylitis Disease Activity Score)
+
+`ASDAS = 0,121 x VAS cột sống + 0,058 x thời gian cứng khớp buổi sáng + 0,110 x VAS bệnh nhân + 0,073 x số khớp đau hoặc sưng ngoại vi + 0,579 x ln(CRP + 1)`
+
+- **ASDAS < 1,3:** Bệnh không hoạt động.
+- **1,3 < ASDAS < 2,1:** Bệnh hoạt động mức độ nhẹ.
+- **2,1 < ASDAS < 3,5:** Bệnh hoạt động trung bình.
+- **ASDAS > 3,5:** Bệnh hoạt động mạnh.
+
+---
+
+## TÀI LIỆU THAM KHẢO
+
+1. Braun J et al. "2010 update of the ASAS/EULAR recommendations for the management of ankylosing spondylitis". *Annals of the Rheumatic Diseases*, 70(6), 896-904.
+2. Frank L. Lanza, MD, FACG<sup>1,2</sup>, Francis K.L. Chan, MD, FRCP, FACG<sup>3</sup>, Eamonn M.M. Quigley, MD, FACG<sup>4</sup> and the Practice Parameters Committee of the American College of Gastroenterology. "Guidelines for the prevention of NSAID-related ulcer complications". *Am J Gastroenterol* 2009; 104:728–38.
+3. Leslie J Crofford. "Use of NSAIDs in treating patients with arthritis". *Arthritis Research and Therapy* 2013, 15(Suppl 3):S2.
+4. Smolen Josef S et al. "EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs". *Ann Rheum Dis*, 2010; 69:964-975.
+5. Solomon Daniel H. "American College of Rheumatology Ad Hoc Group on Use of Selective and Nonselective Nonsteroidal Anti-inflammatory Drugs. Recommendations for use of selective and nonselective nonsteroidal anti-inflammatory drugs: an American College of Rheumatology white paper". *Arthritis Rheum*, 2008, 59:1058-1073.
