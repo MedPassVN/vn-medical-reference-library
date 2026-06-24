@@ -124,11 +124,19 @@ document.addEventListener('DOMContentLoaded', () => {
     // Action button creator
     function createActionButton(doc) {
         const link = document.createElement('a');
-        link.target = '_blank';
 
-        if (doc.remoteOnly === true) {
+        if (doc.localPath && doc.localPath !== '') {
+            link.href = '#';
+            link.className = 'btn-download';
+            link.textContent = 'Xem tài liệu';
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                openViewer(doc);
+            });
+        } else if (doc.remoteOnly === true || (doc.sourceUrl && doc.sourceUrl !== '')) {
             if (doc.sourceUrl && doc.sourceUrl !== '') {
                 link.href = doc.sourceUrl;
+                link.target = '_blank';
                 link.className = 'btn-download btn-online';
                 link.textContent = 'Xem online';
             } else {
@@ -137,14 +145,6 @@ document.addEventListener('DOMContentLoaded', () => {
                 link.removeAttribute('href');
                 link.style.pointerEvents = 'none';
             }
-        } else if (doc.localPath && doc.localPath !== '') {
-            link.href = doc.localPath;
-            link.className = 'btn-download';
-            link.textContent = 'Tải PDF';
-        } else if (doc.sourceUrl && doc.sourceUrl !== '') {
-            link.href = doc.sourceUrl;
-            link.className = 'btn-download btn-online';
-            link.textContent = 'Xem online';
         } else {
             link.className = 'btn-download btn-pending';
             link.textContent = 'Chưa có link';
@@ -153,6 +153,169 @@ document.addEventListener('DOMContentLoaded', () => {
         }
         return link;
     }
+
+    // Viewer Logic
+    let currentDoc = null;
+
+    const viewer = document.getElementById('document-viewer');
+    const viewerTitle = document.getElementById('viewer-title');
+    const viewerRefId = document.getElementById('viewer-ref-id');
+    const viewerDocType = document.getElementById('viewer-doc-type');
+    const viewerAuthority = document.getElementById('viewer-authority');
+    const pdfFrame = document.getElementById('pdf-frame');
+    const markdownRender = document.getElementById('markdown-render');
+    const markdownLoading = document.getElementById('markdown-loading');
+    const markdownError = document.getElementById('markdown-error');
+    const errorDetail = markdownError.querySelector('.error-detail');
+    
+    const btnCloseViewer = document.getElementById('btn-close-viewer');
+    const viewerOverlay = document.getElementById('viewer-overlay');
+    
+    const tabBtnPdf = document.getElementById('tab-btn-pdf');
+    const tabBtnMarkdown = document.getElementById('tab-btn-markdown');
+    const pdfTabContent = document.getElementById('viewer-tab-content-pdf');
+    const markdownTabContent = document.getElementById('viewer-tab-content-markdown');
+    
+    const actionNewTab = document.getElementById('viewer-action-newtab');
+    const actionDownload = document.getElementById('viewer-action-download');
+
+    function openViewer(doc) {
+        currentDoc = doc;
+        
+        // Metadata
+        viewerTitle.textContent = doc.title;
+        viewerRefId.textContent = doc.refId;
+        viewerDocType.textContent = doc.documentType;
+        viewerAuthority.textContent = doc.issuingAuthority || 'Bộ Y tế';
+        
+        // Toolbar actions
+        actionNewTab.href = doc.localPath || doc.sourceUrl;
+        if (doc.localPath) {
+            actionDownload.href = doc.localPath;
+            actionDownload.style.display = 'inline-flex';
+        } else {
+            actionDownload.style.display = 'none';
+        }
+        
+        // Set default tab: PDF
+        tabBtnPdf.classList.add('active');
+        tabBtnMarkdown.classList.remove('active');
+        pdfTabContent.classList.add('active');
+        markdownTabContent.classList.remove('active');
+        
+        // Reset Markdown Render container load status
+        markdownRender.dataset.loadedRefId = '';
+        
+        // Load PDF
+        pdfFrame.src = doc.localPath || doc.sourceUrl;
+        
+        // Show Modal
+        viewer.style.display = 'flex';
+        document.body.style.overflow = 'hidden';
+    }
+
+    function closeViewer() {
+        viewer.style.display = 'none';
+        pdfFrame.src = '';
+        document.body.style.overflow = '';
+        currentDoc = null;
+    }
+
+    function loadMarkdownForCurrentDoc() {
+        if (!currentDoc) return;
+        const doc = currentDoc;
+        
+        if (markdownRender.dataset.loadedRefId === doc.refId) {
+            return;
+        }
+        
+        markdownLoading.style.display = 'flex';
+        markdownError.style.display = 'none';
+        markdownRender.innerHTML = '';
+        
+        fetch(`./markdown_docs/${doc.refId}.md`)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Không thể tìm thấy hoặc đọc tệp Markdown (HTTP ${response.status})`);
+                }
+                return response.text();
+            })
+            .then(markdownText => {
+                // Parse markdown using marked.js if available, otherwise fallback to preformatted text
+                if (typeof marked !== 'undefined' && typeof marked.parse === 'function') {
+                    markdownRender.innerHTML = marked.parse(markdownText);
+                    
+                    // Render Mermaid diagrams if present
+                    const mermaidBlocks = markdownRender.querySelectorAll('pre code.language-mermaid');
+                    if (mermaidBlocks.length > 0) {
+                        mermaidBlocks.forEach((block, idx) => {
+                            const pre = block.parentElement;
+                            const codeText = block.textContent.trim();
+                            
+                            // Create a div wrapper for mermaid
+                            const div = document.createElement('div');
+                            div.className = 'mermaid';
+                            div.id = `mermaid-diagram-${idx}`;
+                            div.textContent = codeText;
+                            
+                            // Replace the pre element
+                            pre.replaceWith(div);
+                        });
+                        
+                        if (typeof mermaid !== 'undefined') {
+                            try {
+                                mermaid.run({
+                                    nodes: markdownRender.querySelectorAll('.mermaid')
+                                });
+                            } catch (err) {
+                                console.error('Lỗi khi render sơ đồ bằng Mermaid.js:', err);
+                            }
+                        }
+                    }
+                } else {
+                    console.warn('marked.js is not loaded, fallback to pre');
+                    markdownRender.innerHTML = `<pre style="white-space: pre-wrap; font-family: var(--font-stack);">${markdownText}</pre>`;
+                }
+                markdownRender.dataset.loadedRefId = doc.refId;
+                markdownLoading.style.display = 'none';
+            })
+            .catch(err => {
+                console.error(`Lỗi tải file markdown cho ${doc.refId}:`, err);
+                markdownLoading.style.display = 'none';
+                markdownError.style.display = 'flex';
+                errorDetail.textContent = `Chi tiết: ${err.message}`;
+            });
+    }
+
+    // Modal Close Triggers
+    btnCloseViewer.addEventListener('click', closeViewer);
+    viewerOverlay.addEventListener('click', closeViewer);
+    
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape' && viewer.style.display === 'flex') {
+            closeViewer();
+        }
+    });
+
+    // Modal Tabs Trigger
+    const viewerTabs = viewer.querySelectorAll('.viewer-tab');
+    viewerTabs.forEach(tab => {
+        tab.addEventListener('click', () => {
+            const targetTab = tab.dataset.tab;
+            
+            viewerTabs.forEach(t => t.classList.remove('active'));
+            tab.classList.add('active');
+            
+            if (targetTab === 'pdf') {
+                pdfTabContent.classList.add('active');
+                markdownTabContent.classList.remove('active');
+            } else {
+                pdfTabContent.classList.remove('active');
+                markdownTabContent.classList.add('active');
+                loadMarkdownForCurrentDoc();
+            }
+        });
+    });
 
     // Filtering Logic
     function filterData() {

@@ -125,9 +125,75 @@ fetch(`${cdnBase}/library.json`)
         </section>
     </div>
 
+    <!-- Document Viewer Modal -->
+    <div id="document-viewer" class="viewer-modal" style="display: none;">
+        <div class="viewer-overlay" id="viewer-overlay"></div>
+        <div class="viewer-content">
+            <header class="viewer-header">
+                <div class="viewer-title-area">
+                    <h2 id="viewer-title">Tên tài liệu</h2>
+                    <div class="viewer-meta">
+                        <span id="viewer-ref-id" class="ref-code">REF_ID</span>
+                        <span id="viewer-doc-type" class="ref-tag" style="color: #3b82f6;">CIRCULAR</span>
+                        <span id="viewer-authority" class="ref-tag">Bộ Y tế</span>
+                    </div>
+                </div>
+                <button class="btn-close-viewer" id="btn-close-viewer" aria-label="Đóng">&times;</button>
+            </header>
+            
+            <div class="viewer-tabs-bar">
+                <div class="viewer-tabs">
+                    <button class="viewer-tab active" id="tab-btn-pdf" data-tab="pdf">📄 Bản quét PDF</button>
+                    <button class="viewer-tab" id="tab-btn-markdown" data-tab="markdown">📝 Bản dịch Markdown</button>
+                </div>
+                <div class="viewer-actions">
+                    <a id="viewer-action-newtab" href="#" target="_blank" class="viewer-action-btn">Mở trong tab mới</a>
+                    <a id="viewer-action-download" href="#" download class="viewer-action-btn primary">Tải xuống PDF</a>
+                </div>
+            </div>
+
+            <div class="viewer-body">
+                <!-- PDF Container -->
+                <div id="viewer-tab-content-pdf" class="tab-content active">
+                    <iframe id="pdf-frame" src="" frameborder="0"></iframe>
+                </div>
+                
+                <!-- Markdown Container -->
+                <div id="viewer-tab-content-markdown" class="tab-content">
+                    <div id="markdown-loading" class="markdown-loading" style="display: none;">
+                        <div class="spinner"></div>
+                        <p>Đang tải và xử lý nội dung văn bản...</p>
+                    </div>
+                    <div id="markdown-error" class="markdown-error" style="display: none;">
+                        <p class="error-msg">Không thể tải nội dung Markdown của tài liệu này.</p>
+                        <p class="error-detail" style="font-size: 0.85rem; color: var(--text-muted); margin-top: 0.5rem;"></p>
+                    </div>
+                    <div id="markdown-render" class="markdown-body">
+                        <!-- Rendered HTML will go here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- Notification Toast -->
     <div id="toast" class="toast">Đã sao chép liên kết vào bộ nhớ tạm!</div>
 
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>
+        if (typeof mermaid !== 'undefined') {
+            mermaid.initialize({
+                startOnLoad: false,
+                theme: 'neutral',
+                securityLevel: 'loose',
+                flowchart: {
+                    useMaxWidth: true,
+                    htmlLabels: true
+                }
+            });
+        }
+    </script>
     <script src="index.js?v=1.0.1"></script>
 </body>
 </html>
