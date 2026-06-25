@@ -2,7 +2,7 @@
 
 > Kho: `vn-medical-reference-library` · Công cụ: agent `ref-doc-fidelity-checker` (full vision, đọc 100% trang qua `pdftoppm`→PNG→vision, đối chứng số liệu).
 > Bắt đầu: 2026-06-25 · Phạm vi mục tiêu: **36/36 tài liệu** (raw_sources ↔ markdown_docs).
-> **Trạng thái: đã quét 20/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
+> **Trạng thái: đã quét 24/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
 >
 > ⚠️ **Nguyên tắc rà soát:** chỉ đọc, KHÔNG chỉnh sửa file gốc/markdown. PDF gốc là chuẩn. Mọi chỗ markdown khác bản gốc đều bị cờ — **kể cả khi markdown "tự sửa cho đúng y khoa"** (vd `ln10→log10`, `mmHg→mmol/L`, `Dưới→Từ`); khuyến nghị giữ đúng nguyên văn gốc (kèm chú thích), không tự ý sửa văn bản pháp quy.
 
@@ -37,6 +37,12 @@
 | 18 | REF_MOH_2017_TT51 | Phản vệ (Thông tư 51) | 112* | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 0 | 2 |
 | 19 | REF_MOH_2017_QD5731 | PT Tiết niệu (46 quy trình) | 114 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 1 | 4 |
 | 20 | REF_MOH_2015_QD40 | Các bệnh về Mắt (30 bài) | 143 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 1 | 2 |
+| 21 | REF_MOH_2017_QD5590 | PT Thần kinh (64 quy trình) | 145 | 🔴 **FAIL**† | 0 | 1 | 1 | 2 |
+| 22 | REF_MOH_2021_QD5968 | HIV/AIDS | 145 | 🔴 **FAIL** | 2 | 1 | 5 | 2 |
+| 23 | REF_MOH_2024_QD3312 | Đột quỵ não | 148 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 2 | 2 |
+| 24 | REF_MOH_2025_QD2598 | Dinh dưỡng lâm sàng | 169 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 0 | 3 |
+
+† #21 FAIL ở mức biên: chỉ 1 lỗi (ngưỡng "5cm"→"5mm") — thực chất markdown sửa lỗi typo gốc; xem chi tiết.
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -199,9 +205,33 @@ Thân chính (I-IV, A/B/C/D) + đa số phụ lục trung thực; mọi tốc đ
 - 🟡 MEDIUM — H1 "**VIÊM TÚI LỆ**" lặp 2 lần liên tiếp (MD 522, 524) — chỉ lỗi tiêu đề, nội dung không trùng. *Xóa 1 dòng.*
 - ⚪ LOW — mermaid glôcôm góc đóng thêm "nguyên phát" vào node gốc (MD 1820); sơ đồ glôcôm góc mở tái diễn giải tuyến tính (logic giữ đúng, mất vòng phản hồi).
 
+## 21. REF_MOH_2017_QD5590 — QTKT Phẫu thuật Thần kinh (145 trang) — 🔴 FAIL (mức biên)
+Đủ **64/64 quy trình**, đúng thứ tự, không thiếu/ghép lai; mọi chống chỉ định không đảo nghĩa, mọi số liệu khớp — TRỪ 1 chỗ:
+- 🟠 **HIGH** — Quy trình #2 (mở nắp sọ giải ép tăng ALNS): ngưỡng đẩy lệch đường giữa PDF "**> 5cm**" → MD "**> 5mm**" (PDF tr.4 ⟶ MD 67). MD tự sửa ("5cm" gần như chắc là typo gốc, mâu thuẫn ">1cm" cùng dòng; 5mm mới đúng lâm sàng). *Theo nguyên tắc giữ gốc + chú thích [sic]; verdict FAIL là do nguyên tắc, bản chất là markdown sửa lỗi typo của PDF.*
+- 🟡 MEDIUM — thiếu front matter (QĐ tr.1-3 + "DANH SÁCH 64 hướng dẫn"); MD vào thẳng bài 1 (metadata vẫn ở library.json).
+- ⚪ LOW — chú thích "(Không có thông tin)" cho mục CCĐ trống #12; lỗi chính tả tiêu đề theo gốc ("NHIỄN", "PHẬU").
+
+## 22. REF_MOH_2021_QD5968 — HIV/AIDS (145 trang) — 🔴 FAIL
+Rất đầy đủ (Bảng 1-27 + phụ lục liều ARV/OI khớp). Nhưng **3 lỗi bảng phác đồ** sai lâm sàng:
+- 🔴 **CRITICAL** — Bảng 15 "Phác đồ ARV bậc 2" dựng **sai cấu trúc & nội dung hàng** (giống bản 2019 cũ, không phải 2021): thiếu hàng `AZT+3TC+EFV(NVP)→TDF+3TC+DTG`, thêm các hàng không có trong gốc (PDF tr.46 ⟶ MD 1072-1082). *Dựng lại đúng 7 hàng bản 2021.*
+- 🔴 **CRITICAL** — Bảng 5 ARV bậc 1 trẻ <10 tuổi: **xếp sai cột thay thế/đặc biệt** — `TAF+3TC+DTG` bị hạ xuống "đặc biệt", `ABC+3TC+EFV` nâng lên "thay thế" (đảo bậc ưu tiên phác đồ nhi) (PDF tr.34 ⟶ MD 778).
+- 🟠 **HIGH** — Bảng 1 phân loại miễn dịch trẻ: **mất nguyên cột "≤ 11 tháng"** (PDF tr.18 ⟶ MD 391-396).
+- 🟡 MEDIUM ×5: Bảng 2 PrEP creatinin thừa mốc T3/T12; Bảng 7 mất cột "phác đồ ARV" + ">30"→"≥30 kg"; Sơ đồ 4 & 6 không tái dựng; sai ngày QĐ thành lập HĐ (16/11→22/11/2021). ⚪ LOW: ban biên soạn rút gọn tên; nhãn chỉ số Bảng 20/21.
+
+## 23. REF_MOH_2024_QD3312 — Đột quỵ não (148 trang) — 🟡 PASS-WITH-WARNINGS
+PDF quét thuần ảnh (pdfplumber rỗng) → đọc full vision. **Mọi liều tiêu sợi huyết (alteplase 0,9 mg/kg max 90; tenecteplase 0,25 mg/kg max 25), cửa sổ thời gian (4,5h; DAWN 6-24h; DEFUSE III 6-16h), thang điểm (NIHSS/ASPECTS/ICH/Fisher/PHASES/CHA₂DS₂-VASc), ngưỡng HA/glucose, thuốc đảo ngược đều KHỚP** — không CRITICAL/HIGH.
+- 🟡 MEDIUM — Bảng thuốc SSTT (donepezil/galantamine/memantine) mất giá trị cột "Mức độ bằng chứng"/"Hạng khuyến cáo" (gốc đều I/A) (PDF tr.76 ⟶ MD 2085-2092).
+- 🟡 MEDIUM — Bảng PHASES nhân đôi tiêu đề + **bản đầu cắt cụt 2 tiêu chí** (PDF tr.56 ⟶ MD 1515-1533); bản thứ hai đầy đủ.
+- ⚪ LOW — ABCD2 ">140"→"≥140 mmHg" (MD 363); vài lỗi chính tả heading (gốc/tự sinh).
+
+## 24. REF_MOH_2025_QD2598 — Dinh dưỡng lâm sàng (169 trang) — 🟡 PASS-WITH-WARNINGS
+✅ **Phụ lục bảng tra KHÔNG bị phá hủy** (trái ngược doc nhân trắc #12): mọi bảng (NRS-2002, MNA, GLIM, Z-score, refeeding NL & nhi, TSF bách phân vị, AMA, calorimetry, độ nhớt) khớp chính xác.
+- 🟠 **HIGH** — Mất toàn bộ công cụ sàng lọc **MUST** (Phụ lục 3, Quy trình 1) — MD chỉ còn "*(Nội dung trống)*" (PDF tr.7 ⟶ MD 423-425). Mất ngưỡng BMI (>20/18,5-20/<18,5) & % sụt cân (<5/5-10/>10%) + bước quản lý. *Tái dựng.*
+- ⚪ LOW — biểu mẫu SGA & PG-SGA (QT6) chỉ còn tiêu đề (MD 1151-1157); "PGS.TS"→"PGS.TS.BS" Lương Ngọc Khuê; lệch vị trí marker chú thích (2) bảng nhân trắc.
+
 ---
 
-## Còn lại cần quét (16 file)
-145→299 trang (12 file): REF_MOH_2017_QD5590, REF_MOH_2021_QD5968, REF_MOH_2024_QD3312, REF_MOH_2025_QD2598, REF_MOH_2016_QD4484, REF_MOH_2024_QD2388, REF_MOH_2020_QD2058, REF_MOH_2024_QD162, REF_MOH_2014_QD361, REF_MOH_2015_QD708, REF_MOH_2015_QD315, REF_MOH_2015_QD5643.
+## Còn lại cần quét (12 file)
+186→299 trang (8 file): REF_MOH_2016_QD4484, REF_MOH_2024_QD2388, REF_MOH_2020_QD2058, REF_MOH_2024_QD162, REF_MOH_2014_QD361, REF_MOH_2015_QD708, REF_MOH_2015_QD315, REF_MOH_2015_QD5643.
 
 Giant (474–892 trang, xử lý đặc biệt): REF_MOH_2023_QD4416 (474), REF_MOH_2022_QD1832 (528), REF_MOH_2020_QD2767 (533), REF_MOH_2014_QD1904 (892).
