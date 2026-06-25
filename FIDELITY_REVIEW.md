@@ -2,7 +2,7 @@
 
 > Kho: `vn-medical-reference-library` · Công cụ: agent `ref-doc-fidelity-checker` (full vision, đọc 100% trang qua `pdftoppm`→PNG→vision, đối chứng số liệu).
 > Bắt đầu: 2026-06-25 · Phạm vi mục tiêu: **36/36 tài liệu** (raw_sources ↔ markdown_docs).
-> **Trạng thái: đã quét 28/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
+> **Trạng thái: đã quét 32/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
 >
 > ⚠️ **Nguyên tắc rà soát:** chỉ đọc, KHÔNG chỉnh sửa file gốc/markdown. PDF gốc là chuẩn. Mọi chỗ markdown khác bản gốc đều bị cờ — **kể cả khi markdown "tự sửa cho đúng y khoa"** (vd `ln10→log10`, `mmHg→mmol/L`, `Dưới→Từ`); khuyến nghị giữ đúng nguyên văn gốc (kèm chú thích), không tự ý sửa văn bản pháp quy.
 
@@ -49,6 +49,11 @@
 
 † #21 FAIL ở mức biên: chỉ 1 lỗi (ngưỡng "5cm"→"5mm") — thực chất markdown sửa lỗi typo gốc; xem chi tiết.
 ‡ #25 HIGH là **lỗi của PDF gốc** (mục lục ghi 90 bài nhưng thân chỉ 89), KHÔNG phải lỗi chuyển đổi → verdict vẫn PASS-WITH-WARNINGS.
+
+| 29 | REF_MOH_2014_QD361 | Cơ xương khớp (40 bài) | 218 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 1 | 1 |
+| 30 | REF_MOH_2015_QD708 | Sử dụng kháng sinh | 277 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 0 | 3 |
+| 31 | REF_MOH_2015_QD315 | Sản Phụ khoa (56 bài) | 285 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 3 | 3 |
+| 32 | REF_MOH_2015_QD5643 | Tai Mũi Họng (63 bài) | 299 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 2 | 3 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -261,9 +266,29 @@ Thân (phác đồ lao nhạy/kháng thuốc, lao trẻ em, lao tiềm ẩn, NTM
 - 🟠 **HIGH** — Sơ đồ 6 "Điều trị lao đa kháng" chỉ còn tiêu đề, thiếu lưu đồ (PDF tr.48 ⟶ MD 1216); thông tin vẫn có trong văn bản 2.2.2.
 - 🟡 MEDIUM — Sơ đồ 1 mermaid lệch thứ tự node (PDF tr.24 ⟶ MD 549). ⚪ LOW — sửa lỗi OCR tên thuốc (Streptomycin/Ketoconazole/Fluoroquinolone); chính tả "dung tính".
 
+## 29. REF_MOH_2014_QD361 — Các bệnh Cơ xương khớp (218 trang) — 🟡 PASS-WITH-WARNINGS
+Đủ **40 bài + phụ lục thuốc**, đúng thứ tự, không thiếu/ghép lai; mọi liều (DMARDs, sinh học, NSAID, corticoid), tiêu chuẩn (ACR/EULAR 2010, SLICC 2012, Yamaguchi, CASPAR), công thức DAS28 khớp.
+- 🟡 MEDIUM — Bảng tóm tắt phác đồ Viêm khớp vảy nến, cột "Viêm khớp trục" thiếu "DMARDs: Sulfasalazine, Cyclosporine A" (PDF tr.63 ⟶ MD 1385); thân bài đã có đủ.
+- ⚪ LOW — câu Diclofenac tối nghĩa là lỗi PDF gốc (MD chép trung thực, không cần sửa MD).
+
+## 30. REF_MOH_2015_QD708 — Hướng dẫn sử dụng kháng sinh (277 trang) — 🟡 PASS-WITH-WARNINGS
+Đủ **11 chương / 55 bài / 4 phụ lục**; mọi liều kháng sinh (nhi khoa, giang mai, viêm màng não, dự phòng phẫu thuật, bảng pha tiêm 50 thuốc) khớp.
+- 🟠 **HIGH** — Định nghĩa MDR/XDR: PDF "không nhạy cảm với **≤1** kháng sinh" → MD "**≥1**" (PDF tr.57 ⟶ MD 1150-1151). MD sửa lỗi typo gốc (chuẩn Magiorakos 2012 = ≥1). *Giữ "≤1" như gốc + chú thích [sic], để biên tập viên quyết.*
+- ⚪ LOW — sai số hiệu "Bảng I.2/I.3" (đúng I.8/I.9); STT bảng II.13; ký tự rác (`\n`, anchor).
+
+## 31. REF_MOH_2015_QD315 — Các bệnh Sản Phụ khoa (285 trang) — 🟡 PASS-WITH-WARNINGS
+Đủ **56 bài (27 Sản + 23 Phụ + 6 Sơ sinh) + 3 phụ lục**, không thiếu/ghép lai; mọi liều cấp cứu sản khoa (MgSO₄ tấn công 3-4,5g + duy trì 1-2g/h, oxytocin, misoprostol, betamethasone/dexamethasone) khớp.
+- 🟠 **HIGH** — **1 câu bị thay sang tiếng Anh** trong thân (mục ung thư cổ tử cung): PDF tiếng Việt → MD "On clinical presentation, uterine cervical cancer needs to be differentiated…" (PDF tr.181 ⟶ MD 3748). Chỗ duy nhất. *Thay lại bằng câu tiếng Việt gốc.*
+- 🟡 MEDIUM — bảng chẩn đoán ĐTĐ thai nghén **đảo nhãn phương pháp** NDDG↔Carpenter-Coustan (trị số cắt vẫn đúng) (PDF tr.61 ⟶ MD 1309); FIGO 1988 ung thư niêm mạc TC: MD căn lại hàng (gốc lệch — MD đúng y khoa nhưng khác layout); trùng H1 (ĐA ỐI/NGÔI MÔNG/SA SINH DỤC).
+- ⚪ LOW — thêm "<3" vào ô trống bảng tiên lượng WHO; thêm "<" trong khoảng βhCG; heading sai cấp bài Sẩy thai liên tiếp.
+
+## 32. REF_MOH_2015_QD5643 — Một số bệnh Tai Mũi Họng (299 trang) — 🟡 PASS-WITH-WARNINGS
+Đủ **63 bài / 5 phần**, không thiếu/ghép lai; mọi liều thuốc, TNM, thang RSI/Epworth, chống chỉ định cắt amidan (không đảo nghĩa) khớp.
+- 🟠 **HIGH (biên)** — Phân loại mức độ OSAS: **mất các mốc cắt AHI** (PDF: 0 / 5 / 15 / 30 → nhẹ 5-15, TB 15-30, nặng >30); MD chỉ còn nhãn nhẹ/TB/nặng (PDF tr.148 ⟶ MD 3497-3501). *Bổ sung ngưỡng AHI.*
+- 🟡 MEDIUM — tiêu đề bài #41 "Viêm tai giữa cấp tính trẻ em" bị tách nhầm thành 2 H1 (MD 5032); mermaid "Viêm tai ứ dịch" thêm node gốc + đổi topo tuần tự→song song (MD 497).
+- ⚪ LOW — lẫn từ tiếng Anh "with/many/and"; ký tự `\n`; vài chỗ sửa chính tả gốc (TNMS→TNM, Swabach→Schwabach).
+
 ---
 
-## Còn lại cần quét (8 file)
-218→299 trang (4 file): REF_MOH_2014_QD361, REF_MOH_2015_QD708, REF_MOH_2015_QD315, REF_MOH_2015_QD5643.
-
-Giant (474–892 trang, xử lý đặc biệt): REF_MOH_2023_QD4416 (474), REF_MOH_2022_QD1832 (528), REF_MOH_2020_QD2767 (533), REF_MOH_2014_QD1904 (892).
+## Còn lại cần quét (4 file — GIANT)
+**474–892 trang, xử lý đặc biệt (lấy mẫu có công bố phạm vi):** REF_MOH_2023_QD4416 (474tr, Da liễu), REF_MOH_2022_QD1832 (528tr, Huyết học), REF_MOH_2020_QD2767 (533tr, Nhi), REF_MOH_2014_QD1904 (892tr, Hồi sức cấp cứu).
