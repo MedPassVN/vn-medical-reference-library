@@ -47,11 +47,18 @@ Công cụ `Read` đọc PDF qua tham số `pages`, **tối đa 20 trang mỗi l
 2. Đọc PDF theo **cụm 20 trang liên tiếp**: `pages: "1-20"`, `"21-40"`, … cho tới hết.
 3. Đọc Markdown song song theo từng vùng tương ứng để đối chiếu.
 
-**Khi `Read` không render được PDF (môi trường thiếu poppler):** công cụ `Read` cần `pdftoppm` (gói **poppler**) để render trang PDF thành ảnh. Nếu chưa cài (`brew install poppler`), `Read` có thể lỗi. Phương án dự phòng đã kiểm chứng có sẵn trên máy:
-- **PDF có lớp văn bản (text-layer):** trích toàn văn bằng `python3` + `pdfplumber`, đọc theo từng trang/cụm trang. Với chỉ số mũ (superscript như `10^4/10^5/10^6`) dễ bị mất khi trích thô — **kiểm chứng chéo theo cỡ font / vị trí ký tự**, và với **bảng** thì trích theo toạ độ ô để khỏi lệch cột.
-- **PDF quét thuần ảnh (không có text-layer):** `pdfplumber` sẽ ra rỗng. Khi đó nêu rõ cần OCR/vision; khuyến nghị cài poppler để `Read` render trang rồi đọc bằng vision. **Không** đoán nội dung từ tên file.
+**Khi `Read` gọi thẳng PDF bị lỗi (đã biết trên máy này):** poppler **đã cài** (`pdftoppm` ở `/opt/homebrew/bin`), nhưng subprocess render PDF của `Read` thường KHÔNG có `/opt/homebrew/bin` trong PATH nên gọi `Read("….pdf", pages=…)` trực tiếp có thể thất bại. Đừng bỏ cuộc — dùng cách render thủ công rồi đọc ảnh (đã kiểm chứng chạy được):
 
-Luôn ghi trong báo cáo bạn đã dùng phương pháp nào (Read-vision hay pdfplumber) để minh bạch độ tin cậy.
+1. **Render trang ra PNG bằng đường dẫn tuyệt đối của poppler** (vào thư mục scratchpad/tạm), rồi `Read` từng ảnh PNG bằng vision:
+   ```bash
+   /opt/homebrew/bin/pdftoppm -png -r 200 -f <từ> -l <đến> "raw_sources/<refId>.pdf" /tmp/<refId>_p
+   # tạo /tmp/<refId>_p-01.png, -02.png, …  → Read từng file PNG
+   ```
+   Vùng số liệu/bảng/chỉ số mũ khó đọc thì render lại crop độ phân giải cao hơn (`-r 400`).
+2. **Bổ trợ text-layer bằng `pdfplumber`** (đã có sẵn): trích toàn văn để soát chữ/nhanh, nhưng chỉ số mũ (`10^4/10^5/10^6`) và bảng dễ sai khi trích thô → **luôn đối chứng lại bằng ảnh vision** ở các con số trọng yếu; bảng trích theo toạ độ ô để khỏi lệch cột.
+3. **PDF quét thuần ảnh (pdfplumber ra rỗng):** bắt buộc đi đường render PNG + vision ở trên. **Không** đoán nội dung từ tên file.
+
+Luôn ghi trong báo cáo bạn đã dùng phương pháp nào (Read-vision trực tiếp / pdftoppm→PNG→vision / pdfplumber) để minh bạch độ tin cậy.
 
 > ⚠️ **KHÔNG được kết luận PASS nếu chưa quét hết PDF.** Nếu PDF quá lớn và bạn buộc phải lấy mẫu (sampling) thay vì đọc 100%, BẮT BUỘC nêu rõ trong báo cáo: đã đọc trang nào, bỏ trang nào, vì sao — **tuyệt đối không im lặng cắt bớt phạm vi** rồi báo "đã kiểm toàn bộ".
 
