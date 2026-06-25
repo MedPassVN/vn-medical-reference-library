@@ -2,7 +2,7 @@
 
 > Kho: `vn-medical-reference-library` · Công cụ: agent `ref-doc-fidelity-checker` (full vision, đọc 100% trang qua `pdftoppm`→PNG→vision, đối chứng số liệu).
 > Bắt đầu: 2026-06-25 · Phạm vi mục tiêu: **36/36 tài liệu** (raw_sources ↔ markdown_docs).
-> **Trạng thái: đã quét 24/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
+> **Trạng thái: đã quét 28/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
 >
 > ⚠️ **Nguyên tắc rà soát:** chỉ đọc, KHÔNG chỉnh sửa file gốc/markdown. PDF gốc là chuẩn. Mọi chỗ markdown khác bản gốc đều bị cờ — **kể cả khi markdown "tự sửa cho đúng y khoa"** (vd `ln10→log10`, `mmHg→mmol/L`, `Dưới→Từ`); khuyến nghị giữ đúng nguyên văn gốc (kèm chú thích), không tự ý sửa văn bản pháp quy.
 
@@ -42,7 +42,13 @@
 | 23 | REF_MOH_2024_QD3312 | Đột quỵ não | 148 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 2 | 2 |
 | 24 | REF_MOH_2025_QD2598 | Dinh dưỡng lâm sàng | 169 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 0 | 3 |
 
+| 25 | REF_MOH_2016_QD4484 | PT Chấn thương Chỉnh hình (89 QT) | 186 | 🟡 PASS-WITH-WARNINGS | 0 | 1‡ | 2 | 3 |
+| 26 | REF_MOH_2024_QD2388 | Bệnh thận mạn | 192 | 🔴 **FAIL** | 2 | 3 | 5 | 4 |
+| 27 | REF_MOH_2020_QD2058 | Rối loạn tâm thần | 198 | 🔴 **FAIL** | 2 | 1 | 0 | 1 |
+| 28 | REF_MOH_2024_QD162 | Bệnh Lao | 213 | 🟡 PASS-WITH-WARNINGS | 0 | 2 | 1 | 2 |
+
 † #21 FAIL ở mức biên: chỉ 1 lỗi (ngưỡng "5cm"→"5mm") — thực chất markdown sửa lỗi typo gốc; xem chi tiết.
+‡ #25 HIGH là **lỗi của PDF gốc** (mục lục ghi 90 bài nhưng thân chỉ 89), KHÔNG phải lỗi chuyển đổi → verdict vẫn PASS-WITH-WARNINGS.
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -229,9 +235,35 @@ PDF quét thuần ảnh (pdfplumber rỗng) → đọc full vision. **Mọi li�
 - 🟠 **HIGH** — Mất toàn bộ công cụ sàng lọc **MUST** (Phụ lục 3, Quy trình 1) — MD chỉ còn "*(Nội dung trống)*" (PDF tr.7 ⟶ MD 423-425). Mất ngưỡng BMI (>20/18,5-20/<18,5) & % sụt cân (<5/5-10/>10%) + bước quản lý. *Tái dựng.*
 - ⚪ LOW — biểu mẫu SGA & PG-SGA (QT6) chỉ còn tiêu đề (MD 1151-1157); "PGS.TS"→"PGS.TS.BS" Lương Ngọc Khuê; lệch vị trí marker chú thích (2) bảng nhân trắc.
 
+## 25. REF_MOH_2016_QD4484 — QTKT Phẫu thuật Chấn thương Chỉnh hình (186 trang) — 🟡 PASS-WITH-WARNINGS
+Đủ **89/89 quy trình** trong thân, đúng thứ tự, không thiếu/ghép lai; phân độ Gustilo (I/II/IIIA-C) & Salter-Harris không đảo; số liệu (garô 200-250/350-400 mmHg…) khớp.
+- 🟠 **HIGH (lỗi PDF gốc, KHÔNG phải lỗi chuyển đổi)** — Mục lục PDF ghi "DANH SÁCH 90" & có #11 "KHX Monteggia", nhưng **thân PDF chỉ 89 bài, không có Monteggia** (quét toàn bộ = 0 lần). MD phản ánh trung thực thân (89 bài). *Ghi chú để đối chiếu nguồn; có thể bổ sung nếu tìm được bản đủ.*
+- 🟡 MEDIUM — tiêu đề #63 heading PDF "vùng I,II,III,IV" vs MD "I,III,IV,V" (theo thân PDF — bản gốc tự mâu thuẫn); cụm #76,78-82 dùng `###` thay `##` + 1 heading rỗng trùng (MD 3671).
+- ⚪ LOW — mở rộng "KHX"→"KẾT HỢP XƯƠNG", "Cal"→"Can", "Vis"→"Vít" ở tiêu đề; thiếu front matter.
+
+## 26. REF_MOH_2024_QD2388 — Bệnh thận mạn & bệnh lý thận (192 trang) — 🔴 FAIL
+Đa số bảng liều khớp (Bảng 42 ~40 kháng sinh theo CrCl, giai đoạn CKD theo eGFR/albumin niệu, lupus/ANCA). Nhưng:
+- 🔴 **CRITICAL** — Bảng 12: liều khởi đầu **Captopril** PDF "12,5-25 mg ×2-3/ngày" → MD "**50 mg ×3/ngày**" (chép nhầm liều tối đa vào ô khởi đầu → khởi trị quá liều) (PDF tr.38 ⟶ MD 864).
+- 🔴 **CRITICAL** — Bảng 12: liều khởi đầu **Candesartan** PDF "16 mg ×1" → MD "**8 mg ×1**" (giảm nửa) (PDF tr.39 ⟶ MD 872).
+- 🟠 **HIGH** — Bảng 26 lệch ô đích Canxi giữa KDOQI↔KDIGO (PDF tr.57 ⟶ MD 1303); Bảng 35 sai nhãn giai đoạn DAA viêm gan C ("G1-G3b" + "G4-G5" → gộp sai "G1-G5 không lọc máu", PDF tr.80 ⟶ MD 1759); **14 lưu đồ (Hình 1-14) mất hết nội dung node/nhánh** chỉ còn tiêu đề (gồm Hình 6 chỉnh liều metformin theo eGFR).
+- 🟡 MEDIUM ×5: nguồn "KDIGO 2024"→"2021"; ngưỡng chẩn đoán "≥30/≥150"→">30/>150"; thiếu giá trị bán thải đường TM (Bảng 16 ESA); thiếu "hoặc tăng" AST/ALT; A3 "≥1+"→">1+". ⚪ LOW: ngày QĐ 12→13/8; "≤110/75"→"<110/75"; nhãn BUN→Ure.
+
+## 27. REF_MOH_2020_QD2058 — Một số rối loạn tâm thần thường gặp (198 trang) — 🔴 FAIL
+Liều thuốc hướng thần ở 34/35 bài đã đọc đều khớp (TTPL, hưng cảm, trầm cảm, động kinh, tự kỷ, opioid…). Nhưng **mất/trộn nội dung điều trị**:
+- 🔴 **CRITICAL** — Bài 30 (ADHD/Tăng động giảm chú ý): **mục ĐIỀU TRỊ bị thay bằng nội dung ĐÁI DẦM** → mất toàn bộ phác đồ thuốc ADHD (Methylphenidate 18-72 mg/ngày, Atomoxetine 0,5→1,2 mg/kg tối đa 100 mg) (PDF tr.170-171 ⟶ MD 4913).
+- 🔴 **CRITICAL** — Bài 31 (Đái dầm): **mất 3 mục đầu** (định nghĩa/nguyên nhân/chẩn đoán) + không có heading, bị nhập vào Bài 30; mất mốc tuổi ≥5 & phân loại 3 thể (PDF tr.172-173).
+- 🟠 **HIGH** — Bài 8 (Opioid) & Bài 9 (Cần sa): dạng **text thô OCR** không heading/định dạng (liều vẫn đúng) (MD 1561-1738).
+- ⚪ LOW — lỗi OCR "Vã mồ oai", "PHÕNG BỆNH", "Sử copy cocain".
+
+## 28. REF_MOH_2024_QD162 — Chẩn đoán, điều trị & dự phòng bệnh Lao (213 trang) — 🟡 PASS-WITH-WARNINGS (gần FAIL)
+Thân (phác đồ lao nhạy/kháng thuốc, lao trẻ em, lao tiềm ẩn, NTM, đánh giá kết quả) **trung thực**; mọi liều theo cân nặng (H/R/Z/E/S hàng 1, FDC, trẻ em), ngưỡng (QTcF >450/>500, men gan ×3-5, CD4 <100), điểm chẩn đoán lao trẻ em đều khớp.
+- 🟠 **HIGH** — Bảng 10 (Phụ lục 6, liều thuốc hàng 2 theo cân nặng) + toàn bộ Phụ lục 7 (tương tác) **bung thành text rác, mất cấu trúc bảng** (752 dòng, 0 hàng bảng) → không tra được liều MDR/XDR theo cột cân nặng (PDF tr.185-196 ⟶ MD 3922-4673). *Dựng lại bảng con mỗi thuốc.*
+- 🟠 **HIGH** — Sơ đồ 6 "Điều trị lao đa kháng" chỉ còn tiêu đề, thiếu lưu đồ (PDF tr.48 ⟶ MD 1216); thông tin vẫn có trong văn bản 2.2.2.
+- 🟡 MEDIUM — Sơ đồ 1 mermaid lệch thứ tự node (PDF tr.24 ⟶ MD 549). ⚪ LOW — sửa lỗi OCR tên thuốc (Streptomycin/Ketoconazole/Fluoroquinolone); chính tả "dung tính".
+
 ---
 
-## Còn lại cần quét (12 file)
-186→299 trang (8 file): REF_MOH_2016_QD4484, REF_MOH_2024_QD2388, REF_MOH_2020_QD2058, REF_MOH_2024_QD162, REF_MOH_2014_QD361, REF_MOH_2015_QD708, REF_MOH_2015_QD315, REF_MOH_2015_QD5643.
+## Còn lại cần quét (8 file)
+218→299 trang (4 file): REF_MOH_2014_QD361, REF_MOH_2015_QD708, REF_MOH_2015_QD315, REF_MOH_2015_QD5643.
 
 Giant (474–892 trang, xử lý đặc biệt): REF_MOH_2023_QD4416 (474), REF_MOH_2022_QD1832 (528), REF_MOH_2020_QD2767 (533), REF_MOH_2014_QD1904 (892).
