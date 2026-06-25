@@ -2,7 +2,9 @@
 
 > Kho: `vn-medical-reference-library` · Công cụ: agent `ref-doc-fidelity-checker` (full vision, đọc 100% trang qua `pdftoppm`→PNG→vision, đối chứng số liệu).
 > Bắt đầu: 2026-06-25 · Phạm vi mục tiêu: **36/36 tài liệu** (raw_sources ↔ markdown_docs).
-> **Trạng thái: đã quét 4/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
+> **Trạng thái: đã quét 8/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
+>
+> ⚠️ **Nguyên tắc rà soát:** chỉ đọc, KHÔNG chỉnh sửa file gốc/markdown. PDF gốc là chuẩn. Mọi chỗ markdown khác bản gốc đều bị cờ — **kể cả khi markdown "tự sửa cho đúng y khoa"** (vd `ln10→log10`, `mmHg→mmol/L`, `Dưới→Từ`); khuyến nghị giữ đúng nguyên văn gốc (kèm chú thích), không tự ý sửa văn bản pháp quy.
 
 ## Quy ước mức độ
 | Mức | Ý nghĩa | Hành động |
@@ -19,11 +21,16 @@
 | 2 | REF_MOH_2021_QD5165 | Bệnh Lậu | 8 | 🟢 PASS | 0 | 0 | 0 | 2 |
 | 3 | REF_MOH_2025_QD1840 | Cúm mùa | 12 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 1 | 3 |
 | 4 | REF_MOH_2010_QD3192 | Tăng huyết áp | 19 | 🔴 **FAIL** | 2 | 2 | 0 | 2 |
+| 5 | REF_MOH_2023_QD1575 | Khám sàng lọc trước tiêm chủng trẻ em | 21 | 🔴 **FAIL** | 4 | 3 | 2 | 1 |
+| 6 | REF_MOH_2025_QD1019 | Bệnh Sởi | 21 | 🟡 PASS-WITH-WARNINGS | 0 | 2 | 2 | 2 |
+| 7 | REF_MOH_2020_QD4128 | DMKT hội chẩn từ xa | 23 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 2 | 1 |
+| 8 | REF_MOH_2022_QD2558 | Võng mạc đái tháo đường | 25 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 0 | 3 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
-1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file.
-2. **Markdown âm thầm "sửa" lỗi/diễn đạt của bản gốc** (vd `ln10`→`log10`, `Dưới`→`Từ`) — thường đúng y khoa nhưng khác nguyên văn văn bản pháp quy → để biên tập viên y khoa quyết, nên chú thích minh bạch.
-3. **Lưu đồ/sơ đồ trong PDF hay bị bỏ trống** (chỉ còn tiêu đề) hoặc chuyển thành danh sách — cần kiểm riêng.
+1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
+2. **Markdown âm thầm "sửa" lỗi/diễn đạt của bản gốc** (vd `ln10`→`log10`, `mmHg`→`mmol/L`, `Dưới`→`Từ`) — thường đúng y khoa nhưng khác nguyên văn văn bản pháp quy → giữ nguyên văn + chú thích, KHÔNG tự sửa.
+3. **Lưu đồ/sơ đồ trong PDF hay bị bỏ trống** (chỉ còn tiêu đề) hoặc chuyển thành danh sách — gặp ở 3192 (Sơ đồ 1, PL3), 1019 (PL1), 2558.
+4. **🔴 NGUY HIỂM NHẤT — Bảng bị lệch cột / mất hàng / đổi nhãn nhóm tuổi:** 3192 (lệch cột PL4 → sai ngưỡng dùng thuốc), 1575 (đổi nhãn nhóm tuổi bảng nhịp thở/nhịp tim + lệch ngưỡng CD4), 2558 (mất 2 hàng giai đoạn), 4128 (6 ô tên kỹ thuật trống). Đây là nhóm lỗi cần soi kỹ nhất ở các bảng.
 
 ---
 
@@ -65,9 +72,46 @@ Phần thân và **toàn bộ bảng liều thuốc** (uống PL6.1 + tĩnh mạ
 - ⚪ **LOW** — Phụ lục 5.1: thứ tự cột MD khác PDF (nội dung dấu X vẫn đúng). *Đề xuất:* giữ thứ tự cột như gốc.
 - ⚪ **LOW** — Phụ lục 5.3 "Sơ đồ phối hợp thuốc" (PDF tr.16) chỉ còn tiêu đề trong MD (dòng 225). *Đề xuất:* tái dựng quan hệ phối hợp.
 
+## 5. REF_MOH_2023_QD1575 — Khám sàng lọc trước tiêm chủng trẻ em (21 trang) — 🔴 FAIL
+Thân bài (mục I–IV) và 4 bảng kiểm (Phụ lục I–IV) trung thực. Nhưng các bảng phụ lục cuối sai nặng:
+
+- 🔴 **CRITICAL** — Bảng CD4 (Phụ lục VIII) sai ngưỡng tế bào tuyệt đối hàng "Suy giảm nặng" (PDF tr.20 ⟶ MD dòng 467). PDF: `<1500 / <750 / <350 / <200`; MD (sai, lệch): `<750 / <350 / <200 / <200`. → sai ngưỡng phân loại SGMD nặng quyết định chống chỉ định vắc xin sống. *Sửa về 1500/750/350/200.*
+- 🔴 **CRITICAL** — Bảng CD4 sai TÊN hàng: PDF "Suy giảm tiến triển" → MD "Suy giảm vừa" (MD dòng 466). *Đổi lại đúng thuật ngữ.*
+- 🔴 **CRITICAL** — Bảng nhịp thở (Phụ lục V) đổi nhãn nhóm tuổi sai (PDF tr.17 ⟶ MD 403–408): PDF cột "Tuổi (năm)" Sơ sinh/`<1`/`1-2`/`2-5`/`5-12`/`>12`; MD tự đổi sang "tháng" (`<2 tháng`/`2-11 tháng`/`12-24 tháng`…) → gán sai ngưỡng nhịp thở cho nhóm tuổi. *Khôi phục nhãn gốc theo năm.*
+- 🔴 **CRITICAL** — Bảng nhịp tim (Phụ lục VI) đổi nhãn nhóm tuổi sai tương tự (PDF tr.18 ⟶ MD 420–425). *Giá trị nhịp tim đúng nhưng gán sai độ tuổi → khôi phục nhãn gốc.*
+- 🟠 **HIGH** — Phụ lục VII mất cột "Phân loại" (dòng tế bào T/B/bổ thể/thực bào), bịa nhãn hàng khác gốc (PDF tr.19 ⟶ MD 435–441).
+- 🟠 **HIGH** — Phụ lục VII đảo nghĩa bệnh: PDF "Hội chứng **tăng** IgM" → MD "**giảm** IgM" (MD 437). *Sửa lại "tăng IgM".*
+- 🟠 **HIGH** — Danh sách ban biên soạn sai tên/thiếu/bịa thành viên + bịa cột "Vai trò" không có trong gốc (PDF tr.2–3 ⟶ MD 58–81). *Dựng lại đúng 3 nhóm + đủ 6 thư ký theo gốc.*
+- 🟡 MEDIUM: mâu thuẫn ngưỡng corticoid `≥2` vs `>2 mg/kg/ngày` — vốn có trong bản gốc, MD chép đúng (không phải lỗi MD). 🟡 chú thích nguồn rút gọn. ⚪ LOW: cấu trúc CVID nhỏ.
+- *Các số liệu trọng yếu khác đã soát chéo: khớp.*
+
+## 6. REF_MOH_2025_QD1019 — Bệnh Sởi (21 trang) — 🟡 PASS-WITH-WARNINGS
+Không có lỗi CRITICAL về liều. Mọi liều (vitamin A 50/100/200 nghìn IU, Paracetamol/Ibuprofen, Mannitol, IVIG, NaCl 3%...) khớp.
+
+- 🟠 **HIGH** — Bảng 1 đổi ranh giới tuổi liều **vitamin A** (PDF tr.11 ⟶ MD 230–231): PDF "6–11 tháng → 100.000 IU" & "≥12 tháng → 200.000 IU"; MD (sai) "6–12 tháng" & ">12 tháng" → trẻ đúng 12 tháng bị sai/mơ hồ liều. *Sửa đúng "6–11 tháng" và "≥12 tháng".*
+- 🟠 **HIGH** — Phụ lục 1 (lưu đồ phân loại & sàng lọc) bị lược bỏ toàn bộ nội dung, MD chỉ còn tiêu đề + nguồn (PDF tr.18 ⟶ MD 411–412). *Tái dựng đủ tiêu chí cảnh báo + 5 bước.*
+- 🟡 MEDIUM — Mermaid Phụ lục 2 node "chỉ định đặt NKQ" thiếu 2/4 tiêu chí (thiếu "Glasgow <10", "thất bại Oxy/NCPAP/HFNC") (PDF tr.19 ⟶ MD 420). 🟡 MEDIUM — Bảng 1 viết lại nhãn hàng 4 (MD 232).
+- ⚪ LOW — NaCl 3%: MD tự sửa đơn vị `mmHg`→`mmol/L` (lỗi gốc PDF tr.14) (MD 325) — nên chú thích; lỗi chính tả "Viêm thanh quan" (MD 159).
+- *Các số liệu trọng yếu khác đã soát chéo: khớp.*
+
+## 7. REF_MOH_2020_QD4128 — Danh mục KT hội chẩn/tư vấn KCB từ xa (23 trang) — 🟡 PASS-WITH-WARNINGS
+Tài liệu là danh mục/bảng (không có liều). Tổng hợp 99 Nội tiết / 249 Phụ sản / 248 Mắt = 596 KT; mã STT & tên kỹ thuật khớp ở mức rất cao.
+
+- 🟠 **HIGH** — 6 ô "Tên kỹ thuật" bị BỎ TRỐNG trong MD (PDF có đủ): STT 116 "Phẫu thuật cắt âm vật phì đại" (MD 288), 154 "Lấy dị vật âm đạo" (329), 156 "Làm lại thành âm đạo, tầng sinh môn" (331), 225 "Gây mê để khám" (595), 234 "Phẫu thuật điều trị hở mi" (601), 247 "Đo lưu huyết mạch máu đáy mắt bằng dople màu" (608). *Điền lại đúng nguyên văn.*
+- 🟡 MEDIUM — Thiếu tiêu đề nhóm "Ung bướu" (Mắt, trước STT 226). 🟡 MEDIUM — Nhãn cột bảng Nội tiết & Phụ sản mất nguồn TT21: PDF "STT theo TT 43, 21" → MD chỉ "Thông tư 43".
+- ⚪ LOW — mở rộng vài chữ viết tắt (DK→dịch kính, BVM→bong võng mạc...).
+- *Các nội dung trọng yếu khác đã soát chéo: khớp.*
+
+## 8. REF_MOH_2022_QD2558 — Bệnh võng mạc đái tháo đường (25 trang) — 🟡 PASS-WITH-WARNINGS
+Trung thực gần tuyệt đối về số liệu (phân độ giai đoạn, mục tiêu ĐTĐ, lịch tái khám, chống chỉ định FA MLCT<15, Fenofibrate 145–200mg). 
+
+- 🟠 **HIGH** — Bảng 5 (lịch tái khám) thiếu 2 dòng giai đoạn đầu: "Không có bệnh VMĐTĐ" và "Không tăng sinh - nhẹ" (PDF tr.20 ⟶ MD 382–388). Khoảng tái khám trùng dòng "vừa" nên rủi ro thấp, nhưng thiếu khuyến cáo so với gốc. *Thêm đủ 2 dòng.*
+- ⚪ LOW — Ban biên soạn bỏ tên riêng (chỉ giữ chức danh) (MD 61–66). ⚪ LOW — Sơ đồ phân tuyến dùng `$$\downarrow$$` LaTeX (có thể không hiển thị trên CDN) (MD 358–378). ⚪ LOW — Header trống số/ngày QĐ (MD 8, 52, 121).
+- *Các số liệu trọng yếu khác đã soát chéo: khớp.*
+
 ---
 
-## Còn lại cần quét (32 file)
-19→299 trang (28 file): REF_MOH_2023_QD1575, REF_MOH_2025_QD1019, REF_MOH_2020_QD4128, REF_MOH_2022_QD2558, REF_MOH_2024_QD1470, REF_MOH_2023_QD2248, REF_MOH_2020_QD1851, REF_MOH_2024_QD3777, REF_LAW_2023_KCB, REF_MOH_2020_QD5481, REF_MOH_2015_QD5642, REF_MOH_2023_QD2767, REF_MOH_2023_QD2760, REF_MOH_2017_TT51, REF_MOH_2017_QD5731, REF_MOH_2015_QD40, REF_MOH_2017_QD5590, REF_MOH_2021_QD5968, REF_MOH_2024_QD3312, REF_MOH_2025_QD2598, REF_MOH_2016_QD4484, REF_MOH_2024_QD2388, REF_MOH_2020_QD2058, REF_MOH_2024_QD162, REF_MOH_2014_QD361, REF_MOH_2015_QD708, REF_MOH_2015_QD315, REF_MOH_2015_QD5643.
+## Còn lại cần quét (28 file)
+31→299 trang (24 file): REF_MOH_2024_QD1470, REF_MOH_2023_QD2248, REF_MOH_2020_QD1851, REF_MOH_2024_QD3777, REF_LAW_2023_KCB, REF_MOH_2020_QD5481, REF_MOH_2015_QD5642, REF_MOH_2023_QD2767, REF_MOH_2023_QD2760, REF_MOH_2017_TT51, REF_MOH_2017_QD5731, REF_MOH_2015_QD40, REF_MOH_2017_QD5590, REF_MOH_2021_QD5968, REF_MOH_2024_QD3312, REF_MOH_2025_QD2598, REF_MOH_2016_QD4484, REF_MOH_2024_QD2388, REF_MOH_2020_QD2058, REF_MOH_2024_QD162, REF_MOH_2014_QD361, REF_MOH_2015_QD708, REF_MOH_2015_QD315, REF_MOH_2015_QD5643.
 
 Giant (474–892 trang, xử lý đặc biệt): REF_MOH_2023_QD4416 (474), REF_MOH_2022_QD1832 (528), REF_MOH_2020_QD2767 (533), REF_MOH_2014_QD1904 (892).
