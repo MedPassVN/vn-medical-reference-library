@@ -2,7 +2,7 @@
 
 > Kho: `vn-medical-reference-library` · Công cụ: agent `ref-doc-fidelity-checker` (full vision, đọc 100% trang qua `pdftoppm`→PNG→vision, đối chứng số liệu).
 > Bắt đầu: 2026-06-25 · Phạm vi mục tiêu: **36/36 tài liệu** (raw_sources ↔ markdown_docs).
-> **Trạng thái: đã quét 32/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
+> **Trạng thái: ✅ HOÀN TẤT 36/36.** File này để **double-check** và làm danh sách sửa. Xem phần TỔNG KẾT ở cuối.
 >
 > ⚠️ **Nguyên tắc rà soát:** chỉ đọc, KHÔNG chỉnh sửa file gốc/markdown. PDF gốc là chuẩn. Mọi chỗ markdown khác bản gốc đều bị cờ — **kể cả khi markdown "tự sửa cho đúng y khoa"** (vd `ln10→log10`, `mmHg→mmol/L`, `Dưới→Từ`); khuyến nghị giữ đúng nguyên văn gốc (kèm chú thích), không tự ý sửa văn bản pháp quy.
 
@@ -54,6 +54,10 @@
 | 30 | REF_MOH_2015_QD708 | Sử dụng kháng sinh | 277 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 0 | 3 |
 | 31 | REF_MOH_2015_QD315 | Sản Phụ khoa (56 bài) | 285 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 3 | 3 |
 | 32 | REF_MOH_2015_QD5643 | Tai Mũi Họng (63 bài) | 299 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 2 | 3 |
+| 33 | REF_MOH_2023_QD4416 | Da liễu (~84 bài) | 474 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 0 | 2 |
+| 34 | REF_MOH_2022_QD1832 | Huyết học (49 bài) | 528 | 🔴 **FAIL** | 1 | 0 | 4 | 0 |
+| 35 | REF_MOH_2020_QD2767 | Bệnh trẻ em/Nhi (101 bài) | 533 | 🔴 **FAIL** | 0 | 3 | 3 | 2 |
+| 36 | REF_MOH_2014_QD1904 | Hồi sức Cấp cứu Chống độc (232 QT) | 892 | 🟡 PASS-WITH-WARNINGS | 0 | 2 | 0 | 2 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -290,5 +294,57 @@ Thân (phác đồ lao nhạy/kháng thuốc, lao trẻ em, lao tiềm ẩn, NTM
 
 ---
 
-## Còn lại cần quét (4 file — GIANT)
-**474–892 trang, xử lý đặc biệt (lấy mẫu có công bố phạm vi):** REF_MOH_2023_QD4416 (474tr, Da liễu), REF_MOH_2022_QD1832 (528tr, Huyết học), REF_MOH_2020_QD2767 (533tr, Nhi), REF_MOH_2014_QD1904 (892tr, Hồi sức cấp cứu).
+## 33. REF_MOH_2023_QD4416 — Các bệnh Da liễu (474 trang) — 🟡 PASS-WITH-WARNINGS (gần FAIL)
+PDF **quét ảnh thuần** → đối chứng full vision. Đủ **12 chương / ~84 bài**, không thiếu/ghép lai; mọi liều (phong/MDT WHO 2018, giang mai, lậu, ghẻ, trứng cá isotretinoin 120-150 mg/kg tích lũy), tiêu chuẩn lupus EULAR/ACR 2019, lưu đồ khớp.
+- 🟠 **HIGH** — **Tài liệu tham khảo cắt cụt**: PDF ~249 mục (tr.456-474) → MD chỉ giữ **10 mục đầu** (mất ~239 mục / ~18 trang) (MD 11203-11214). *Khôi phục đủ.*
+- ⚪ LOW — mục lục MD "U lympho bào da" (đúng "U lympho B ở da", MD 123); mâu thuẫn liều Cyclosporin/Omalizumab là lỗi gốc (MD chép trung thực).
+
+## 34. REF_MOH_2022_QD1832 — Một số bệnh lý Huyết học (528 trang) — 🔴 FAIL
+49 bài có mặt; liều hóa trị các bài đã soát (APL, ALL, ITP, đa u tủy, thalassemia) khớp. Nhưng:
+- 🔴 **CRITICAL** — Bài 28 (HC rối loạn sinh tủy/MDS): **mất toàn bộ phần ĐIỀU TRỊ** (Azacitidine 75 mg/m², Decitabine, EPO, Lenalidomide, ghép TBG, thải sắt); Bài 29 (U lympho Hodgkin): **mất heading + đại cương/chẩn đoán**, bị **trộn vào Bài 28** (PDF tr.253-266 ⟶ MD 6609-6705). *Khôi phục điều trị MDS + tách lại Bài 29.*
+- 🟡 MEDIUM ×4: Bảng 9 phân biệt DIC/TTP/HUS/HELLP sai nhiều ô (hàng "Sốt": DIC "-"→"+"); chèn câu/từ tiếng Anh (MD 768, 4148, 4260); mermaid DIC thiếu nhánh "huyết khối"; sai cấp heading vài bài.
+- ⚠️ *Phạm vi (công bố):* lấy mẫu — bài 21-22 (LXM trẻ em), 30-32 (u lympho), 39-49 (truyền máu/xét nghiệm) **chưa soát từng liều**, cần vòng kiểm sau.
+
+## 35. REF_MOH_2020_QD2767 — Hướng dẫn chẩn đoán & điều trị bệnh trẻ em / Nhi (533 trang) — 🔴 FAIL
+Đủ **101/101 bài**; độ chính xác liều ở các bài đã soát (ngộ độc chì, co giật, TCM, SXH, bạch hầu, chu trình ure) rất cao. Nhưng **bỏ trọn nội dung quan trọng kèm chú thích sai**:
+- 🟠 **HIGH** — Bài SMA: **bỏ trọn bảng liều Zolgensma theo cân nặng** (~30 dòng) + chú thích **SAI** "*(không có trong tài liệu gốc)*" (PDF tr.216 ⟶ MD 4699). *Liều gen trị liệu theo cân nặng — khôi phục, xóa chú thích sai.*
+- 🟠 **HIGH** — CH16: **bỏ trọn Bảng 1 cách pha/bảo quản kháng sinh tiêm** (3 trang, ~30 thuốc) (PDF tr.508-511 ⟶ MD 11739).
+- 🟠 **HIGH** — Bài "Thiểu năng sinh dục" mất phần đầu (định nghĩa/phân loại/chẩn đoán) + gán nhãn sai "[phần tiếp của hướng dẫn khác]" + chú thích **SAI** "khuyết tr.199-201" (PDF tr.209-212 ⟶ MD 4618).
+- 🟡 MEDIUM — RLCH acid propionic mất mục 1-3.2 + đổi tiêu đề; **mermaid co giật sai liều** (Midazolam 0,5→đúng 0,3 mg/kg; Phenobarbital truyền 10-15→15-20 phút) (MD 537,544); trùng H1 5 chỗ. ⚪ LOW — đảo cột bảng ure; sửa "218"→"2018".
+
+## 36. REF_MOH_2014_QD1904 — QTKT Hồi sức - Cấp cứu - Chống độc (892 trang) — 🟡 PASS-WITH-WARNINGS (gần FAIL)
+PDF có text-layer → đối chứng văn bản 100% + vision liều/antidote. **Đủ 232/232 quy trình** (234 heading − 2 stub dôi). Mọi liều antidote khớp: gắp chì (BAL 24 mg/kg/24h, EDTA 50-75 mg/kg), methanol/ethylene glycol (ethanol loading 800 mg/kg + fomepizole 15→10 mg/kg), naloxone, bảng ARDS PEEP/FiO₂.
+- 🟠 **HIGH** — Quy trình "Giải độc ngộ độc rượu Ethanol" **bị tách sai** thành 1 stub + 1 quy trình **tên BỊA** "ĐIỀU TRỊ GIẢI ĐỘC RƯỢU CẤP" (vốn là câu mở đoạn đại cương) (PDF tr.707 ⟶ MD 19881-19886). *Gộp lại, giữ tên gốc.*
+- 🟠 **HIGH** — Heading CVVH **nhân đôi** (1 stub rỗng + 1 quy trình thật) (MD 11964 & 11968). Cả 2 lỗi là cấu trúc, **không mất nội dung**.
+- ⚪ LOW — sửa chính tả gốc ("SIÊU DOPPLER"→"SIÊU ÂM DOPPLER"); MD trung thực lỗi mục lục PDF.
+
+---
+
+# 📊 TỔNG KẾT (36/36 tài liệu)
+
+| Kết quả | Số lượng | Tài liệu |
+| :-- | :-: | :-- |
+| 🟢 PASS (sạch) | **1** | #2 Lậu |
+| 🟡 PASS-WITH-WARNINGS | **23** | (phần lớn — thân bài & liều thuốc trung thực, lỗi nhẹ ở bảng/lưu đồ/format) |
+| 🔴 **FAIL** | **12** | #4 THA, #5 Tiêm chủng, #10 Mạch vành mạn, #12 Dinh dưỡng nhân trắc, #15 Truyền nhiễm, #17 SXH Dengue, #21 PT Thần kinh (biên), #22 HIV/AIDS, #26 Thận mạn, #27 Tâm thần, #34 Huyết học, #35 Nhi |
+
+**Quy luật chung:** thân bài + liều thuốc thường **trung thực**; lỗi tập trung gần như hoàn toàn ở **BẢNG, LƯU ĐỒ, PHỤ LỤC**. 7 nhóm lỗi tái diễn:
+1. **🔴 Bảng lệch cột / mất hàng / đổi nhãn nhóm tuổi** → sai ngưỡng/chỉ định (THA, tiêm chủng nhịp thở-tim & CD4, mạch vành PTP, võng mạc, thận mạn).
+2. **🔴 Trộn/ghép nội dung 2 bài** (nguy hiểm nhất): Thương hàn↔Lỵ trực khuẩn (#15), ADHD↔Đái dầm (#27), MDS↔Hodgkin (#34).
+3. **🔴 Bảng tra/phụ lục bị phá hủy hoặc bỏ trọn**: Z-score nhân trắc (#12), liều hàng 2 lao PL6/7 (#28), Zolgensma & kháng sinh tiêm nhi (#35), tài liệu tham khảo da liễu (#33).
+4. **🔴 Sai liều thuốc**: Captopril/Candesartan khởi đầu (#26), ngưỡng CD4 (#5).
+5. **Lưu đồ bị bỏ trống / không tái dựng** (THA Sơ đồ 1, Sởi PL1, thận mạn 14 hình, HIV Sơ đồ 4/6...).
+6. **Markdown âm thầm "sửa" lỗi gốc** (ln10→log10, mmHg→mmol/L, 5cm→5mm, ≤1→≥1, Dưới→Từ) — đúng y khoa nhưng khác nguyên văn → cần giữ gốc + chú thích.
+7. **Header trống số/ngày; chèn câu tiếng Anh; chú thích SAI "không có trong bản gốc"** (#33,34,35).
+
+**Ưu tiên sửa ngay (nguy hiểm lâm sàng — CRITICAL):**
+- #26 Thận mạn: liều khởi đầu Captopril (50→12,5-25 mg) & Candesartan (8→16 mg).
+- #5 Tiêm chủng: ngưỡng CD4 "suy giảm nặng" (về 1500/750/350/200) + nhãn nhóm tuổi bảng nhịp thở/tim.
+- #4 THA: lệch cột Phụ lục 4 (chỉ định thuốc sai ngưỡng).
+- #15 Truyền nhiễm: tách lại Thương hàn/Lỵ trực khuẩn (khôi phục phác đồ thương hàn).
+- #27 Tâm thần: khôi phục điều trị ADHD + định nghĩa Đái dầm.
+- #34 Huyết học: khôi phục điều trị MDS + tách Bài 29 Hodgkin.
+- #22 HIV: dựng lại Bảng 15 (ARV bậc 2) & Bảng 5 (ARV trẻ).
+- #12 Dinh dưỡng nhân trắc & #35 Nhi: khôi phục bảng tra/liều bị bỏ.
+
+> *Phương pháp: agent `ref-doc-fidelity-checker`, full vision (pdftoppm→PNG→vision) + bổ trợ pdfplumber; mọi số liệu trọng yếu đối chứng bằng ảnh. Tài liệu >300 trang dùng lấy mẫu có công bố phạm vi (đặc biệt #34 Huyết học còn bài chưa soát từng liều). Chỉ đọc — không chỉnh sửa file gốc/markdown.*
