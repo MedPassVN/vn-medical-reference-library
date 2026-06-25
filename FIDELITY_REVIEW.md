@@ -2,7 +2,7 @@
 
 > Kho: `vn-medical-reference-library` · Công cụ: agent `ref-doc-fidelity-checker` (full vision, đọc 100% trang qua `pdftoppm`→PNG→vision, đối chứng số liệu).
 > Bắt đầu: 2026-06-25 · Phạm vi mục tiêu: **36/36 tài liệu** (raw_sources ↔ markdown_docs).
-> **Trạng thái: đã quét 8/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
+> **Trạng thái: đã quét 12/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
 >
 > ⚠️ **Nguyên tắc rà soát:** chỉ đọc, KHÔNG chỉnh sửa file gốc/markdown. PDF gốc là chuẩn. Mọi chỗ markdown khác bản gốc đều bị cờ — **kể cả khi markdown "tự sửa cho đúng y khoa"** (vd `ln10→log10`, `mmHg→mmol/L`, `Dưới→Từ`); khuyến nghị giữ đúng nguyên văn gốc (kèm chú thích), không tự ý sửa văn bản pháp quy.
 
@@ -25,6 +25,10 @@
 | 6 | REF_MOH_2025_QD1019 | Bệnh Sởi | 21 | 🟡 PASS-WITH-WARNINGS | 0 | 2 | 2 | 2 |
 | 7 | REF_MOH_2020_QD4128 | DMKT hội chẩn từ xa | 23 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 2 | 1 |
 | 8 | REF_MOH_2022_QD2558 | Võng mạc đái tháo đường | 25 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 0 | 3 |
+| 9 | REF_MOH_2024_QD1470 | ĐTĐ thai kỳ | 31 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 5 |
+| 10 | REF_MOH_2023_QD2248 | Hội chứng mạch vành mạn | 38 | 🔴 **FAIL** | 1 | 2 | 6 | 4 |
+| 11 | REF_MOH_2020_QD1851 | Hen phế quản (NL & ≥12t) | 48 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 0 | 2 |
+| 12 | REF_MOH_2024_QD3777 | Dinh dưỡng nhân trắc trẻ em | 54 | 🔴 **FAIL** | 3 | 1 | 0 | 0 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -109,9 +113,36 @@ Trung thực gần tuyệt đối về số liệu (phân độ giai đoạn, m�
 - ⚪ LOW — Ban biên soạn bỏ tên riêng (chỉ giữ chức danh) (MD 61–66). ⚪ LOW — Sơ đồ phân tuyến dùng `$$\downarrow$$` LaTeX (có thể không hiển thị trên CDN) (MD 358–378). ⚪ LOW — Header trống số/ngày QĐ (MD 8, 52, 121).
 - *Các số liệu trọng yếu khác đã soát chéo: khớp.*
 
+## 9. REF_MOH_2024_QD1470 — Đái tháo đường thai kỳ (31 trang) — 🟡 PASS-WITH-WARNINGS
+Trung thực cao — **không có CRITICAL/HIGH/MEDIUM**. Mọi ngưỡng glucose (OGTT 75g ≥92/180/153 mg/dL; mục tiêu mao mạch <95/140/120; ngưỡng 3 tháng đầu; Bảng 8 sau sinh), liều insulin (nền 0,1 IU/kg, chỉnh 1-2 IU/2-3 ngày, Bảng 7) đều **khớp**.
+- ⚪ LOW — Sơ đồ 3 nhánh "Bình thường": PDF dùng "hay" (OR) → MD đổi "và" (AND) (PDF tr.30 ⟶ MD 760). *Giữ "hoặc" như gốc hoặc ghi [sic].*
+- ⚪ LOW — Sơ đồ 2 thêm chữ "Đánh giá ở 38-39 tuần" + node "Trọng lượng thai nhi" không có nhãn trong gốc (MD 683-684); Sơ đồ 1 là bản tái diễn giải.
+- ⚪ LOW — Lỗi chính tả MD (không phải lỗi gốc): "bình nhiên" (428), "or" thay "hoặc" (642), "giảm nguy mắc" (497).
+
+## 10. REF_MOH_2023_QD2248 — Hội chứng mạch vành mạn (38 trang) — 🔴 FAIL
+Phần văn bản + liều thuốc (kháng kết tập tiểu cầu Bảng 5, statin LDL-C <1,4 mmol/L, Nitroglycerin, SYNTAX) **khớp**. Nhưng bảng & lưu đồ sai nặng:
+- 🔴 **CRITICAL** — Bảng 2 (Xác suất tiền nghiệm PTP) **MẤT TOÀN BỘ cột "Đau thắt ngực điển hình"** (Nam/Nữ, 5 hàng tuổi) (PDF tr.21 ⟶ MD 407-416). 3 cột còn lại đúng. *Khôi phục cột giá trị cao nhất.*
+- 🟠 **HIGH** — Hình 8 (ma trận chọn thuốc chống đau ngực) tái cấu trúc SAI: mất cột (Tần số tim ≥80, Rung nhĩ, ĐTĐ, Đau thắt ngực vi mạch), **lệch hàng phân loại** (đặt nhầm Ưu tiên↔Có thể↔CCĐ, vd Nhịp chậm/Huyết áp thấp/BĐM ngoại biên) (PDF tr.32-33 ⟶ MD 629-645). *Đặt nhầm CCĐ↔ưu tiên có thể gây hại — dựng lại đúng ma trận.*
+- 🟠 **HIGH** — Hình 11 (PCI/CABG thân chung ĐMV trái) mất nhánh "tổn thương thêm 1 nhánh" + 2 node con (hẹp lỗ vào/thân, hẹp lỗ chia đôi) (PDF tr.36 ⟶ MD 735-746).
+- 🟡 MEDIUM ×5: Hình 9 lệch nhánh "có thiếu máu"; Hình 10 thêm node "nguy cơ phẫu thuật thấp?" thừa; thiếu 2 mục "không khuyến cáo" (estrogen, liệu pháp chống oxy hóa, PDF tr.29); thiếu câu "Dipyridamole không khuyến cáo"; thiếu tài liệu tham khảo #6; **chú thích PDE tự thêm vào thân bài** (MD 581 — vi phạm nguyên tắc giữ nguyên văn).
+- ⚪ LOW: header trống số/ngày; iFR vs iwFR; tiêu đề mục 2.1.2; dính từ "with" (MD 328).
+
+## 11. REF_MOH_2020_QD1851 — Hen phế quản người lớn & trẻ ≥12 tuổi (48 trang) — 🟡 PASS-WITH-WARNINGS
+Trung thực rất cao: toàn bộ liều ICS (Bảng 6 theo hoạt chất thấp/TB/cao), bậc 1-5 (Bảng 7), đợt cấp (Bảng 9-11), sinh học (anti-IgE/IL5/IL4R) đều **khớp**.
+- 🟠 **HIGH** — Ngưỡng FENO trong "viêm type 2 dai dẳng": PDF "FENO **≥ 220 ppb**" → MD "FENO **≥ 20 ppb**" (PDF tr.42 ⟶ MD 689). MD tự "sửa" (220 nghi lỗi in gốc; GINA=20). *Theo nguyên tắc: giữ nguyên "220 ppb" + chú thích, không tự đổi số trong bản tra cứu.*
+- ⚪ LOW — dupilumab mất dấu `*` (ý nghĩa pháp lý kê đơn) (MD 750); OCS "prenisone"→"prednisone" markdown sửa thầm (MD 862).
+
+## 12. REF_MOH_2024_QD3777 — Đánh giá dinh dưỡng nhân trắc trẻ em (54 trang) — 🔴 FAIL
+**Thân bài (mục 1-6 + 9 bảng ngưỡng Bảng 2-9 + bảng MUAC) trung thực và đầy đủ.** Nhưng **toàn bộ Phụ lục 1-6 (≈32 trang bảng tra Z-score — nguồn số liệu cốt lõi) bị phá hủy:**
+- 🔴 **CRITICAL** — Bảng tra Z-score (cân nặng/tuổi, chiều cao/tuổi, CN/CC, BMI/tuổi — trai & gái) bị scramble: thiếu hàng tháng tuổi (bắt đầu sai từ 8, bỏ 0-7), **bịa "(Không có dữ liệu)"** ở cột mà PDF có đủ, giá trị lệch hàng/cột (PDF doc tr.19-50 ⟶ MD 506-638). *Dựng lại theo ảnh PDF từng trang.*
+- 🔴 **CRITICAL** — **Bịa chú thích trong phụ lục**: MD tự chèn "7,4 (có thể là lỗi OCR của 4,7…)", "(Không có dữ liệu)" — PDF không có. *Xóa, thay bằng số đọc trực tiếp.*
+- 🔴 **CRITICAL** — Mất hàng dữ liệu hàng loạt (nhiều cột chỉ còn 1-2 giá trị) → không thể tra phân loại SDD.
+- 🟠 **HIGH** — Mất cấu trúc bảng phụ lục (chuyển thành bullet rời, phá quan hệ tháng tuổi ↔ ngưỡng SD).
+- *Phạm vi:* phụ lục đọc kỹ doc tr.19,20,21,25,29,35,37,39,45 (mẫu đại diện, đủ kết luận lỗi hệ thống). Thân bài đọc 100%.
+
 ---
 
-## Còn lại cần quét (28 file)
-31→299 trang (24 file): REF_MOH_2024_QD1470, REF_MOH_2023_QD2248, REF_MOH_2020_QD1851, REF_MOH_2024_QD3777, REF_LAW_2023_KCB, REF_MOH_2020_QD5481, REF_MOH_2015_QD5642, REF_MOH_2023_QD2767, REF_MOH_2023_QD2760, REF_MOH_2017_TT51, REF_MOH_2017_QD5731, REF_MOH_2015_QD40, REF_MOH_2017_QD5590, REF_MOH_2021_QD5968, REF_MOH_2024_QD3312, REF_MOH_2025_QD2598, REF_MOH_2016_QD4484, REF_MOH_2024_QD2388, REF_MOH_2020_QD2058, REF_MOH_2024_QD162, REF_MOH_2014_QD361, REF_MOH_2015_QD708, REF_MOH_2015_QD315, REF_MOH_2015_QD5643.
+## Còn lại cần quét (24 file)
+75→299 trang (20 file): REF_LAW_2023_KCB, REF_MOH_2020_QD5481, REF_MOH_2015_QD5642, REF_MOH_2023_QD2767, REF_MOH_2023_QD2760, REF_MOH_2017_TT51, REF_MOH_2017_QD5731, REF_MOH_2015_QD40, REF_MOH_2017_QD5590, REF_MOH_2021_QD5968, REF_MOH_2024_QD3312, REF_MOH_2025_QD2598, REF_MOH_2016_QD4484, REF_MOH_2024_QD2388, REF_MOH_2020_QD2058, REF_MOH_2024_QD162, REF_MOH_2014_QD361, REF_MOH_2015_QD708, REF_MOH_2015_QD315, REF_MOH_2015_QD5643.
 
 Giant (474–892 trang, xử lý đặc biệt): REF_MOH_2023_QD4416 (474), REF_MOH_2022_QD1832 (528), REF_MOH_2020_QD2767 (533), REF_MOH_2014_QD1904 (892).
