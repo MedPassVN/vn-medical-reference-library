@@ -2,7 +2,7 @@
 
 > Kho: `vn-medical-reference-library` · Công cụ: agent `ref-doc-fidelity-checker` (full vision, đọc 100% trang qua `pdftoppm`→PNG→vision, đối chứng số liệu).
 > Bắt đầu: 2026-06-25 · Phạm vi mục tiêu: **36/36 tài liệu** (raw_sources ↔ markdown_docs).
-> **Trạng thái: đã quét 16/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
+> **Trạng thái: đã quét 20/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
 >
 > ⚠️ **Nguyên tắc rà soát:** chỉ đọc, KHÔNG chỉnh sửa file gốc/markdown. PDF gốc là chuẩn. Mọi chỗ markdown khác bản gốc đều bị cờ — **kể cả khi markdown "tự sửa cho đúng y khoa"** (vd `ln10→log10`, `mmHg→mmol/L`, `Dưới→Từ`); khuyến nghị giữ đúng nguyên văn gốc (kèm chú thích), không tự ý sửa văn bản pháp quy.
 
@@ -33,6 +33,10 @@
 | 14 | REF_MOH_2020_QD5481 | Đái tháo đường típ 2 | 77 | 🟡 PASS-WITH-WARNINGS | 0 | 2 | 1 | 2 |
 | 15 | REF_MOH_2015_QD5642 | Một số bệnh truyền nhiễm | 86 | 🔴 **FAIL** | 1 | 1 | 0 | 2 |
 | 16 | REF_MOH_2023_QD2767 | COPD | 87 | 🟡 PASS-WITH-WARNINGS | 0 | 3 | 2 | 2 |
+| 17 | REF_MOH_2023_QD2760 | Sốt xuất huyết Dengue | 104 | 🔴 **FAIL** | 1 | 2 | 3 | 2 |
+| 18 | REF_MOH_2017_TT51 | Phản vệ (Thông tư 51) | 112* | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 0 | 2 |
+| 19 | REF_MOH_2017_QD5731 | PT Tiết niệu (46 quy trình) | 114 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 1 | 4 |
+| 20 | REF_MOH_2015_QD40 | Các bệnh về Mắt (30 bài) | 143 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 1 | 2 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -171,9 +175,33 @@ Mọi liều thuốc (giãn PQ, ICS/LABA/LAMA, kháng sinh ngoại/nội trú & 
 - 🟡 MEDIUM — MD tự sửa tham chiếu "bảng 2"→"Bảng 3" (PDF tr.84 ⟶ MD 1937 — nên giữ gốc + chú thích); thiếu tiêu chí "(R/S ở V6 < 1)" dày thất phải (MD 260).
 - ⚪ LOW — đảo "Lo âu và trầm cảm"→"Trầm cảm và lo âu" (MD 1034); gộp vài heading/biểu mẫu điền tay.
 
+## 17. REF_MOH_2023_QD2760 — Sốt xuất huyết Dengue (104 trang) — 🔴 FAIL
+Thân chính (I-IV, A/B/C/D) + đa số phụ lục trung thực; mọi tốc độ truyền dịch, liều, ngưỡng trong **văn bản chính** khớp. Nhưng **phụ lục chống sốc** bị cắt:
+- 🔴 **CRITICAL** — Phụ lục 12 "Truyền dịch trong sốc SXHD NẶNG ở trẻ em" **mất toàn bộ lưu đồ** — MD chỉ còn 1 dòng "Albumin 5/10%: 5-20 ml/kg/giờ" (PDF tr.51 ⟶ MD 1316-1319). Mất bolus 20ml/kg/15ph + 3 nhánh CPT theo M/HA. *Dựng lại đầy đủ.*
+- 🟠 **HIGH** — Phụ lục 9 mục 2: mất 2 bảng tra cân nặng chống sốc người lớn (Nam/Nữ) + ghi sai "*(Không có nội dung chi tiết)*" (PDF tr.48 ⟶ MD 1218). *Trích lại bảng; xóa câu sai.*
+- 🟠 **HIGH** — mermaid PL4 (trẻ em) đổi ngưỡng nước tiểu "**≥5**"→"**≥0,5** ml/kg/giờ" (PDF tr.40 ⟶ MD 966) — MD tự sửa lỗi gốc. *Giữ "≥5" + chú thích [sic].*
+- 🟡 MEDIUM ×3: mermaid PL4 lược 2 node tốc độ; PL16.1/16.2 bỏ chuỗi tốc độ titrate (15→10→6→3→1,5); PL11 sai thời lượng taper. ⚪ LOW: "brain" thay "não" (MD 755); rác `\n` (MD 736).
+- Số liệu trong văn bản chính (chống sốc trẻ em/người lớn, xuất huyết nặng, suy gan): khớp.
+
+## 18. REF_MOH_2017_TT51 — Phòng, chẩn đoán & xử trí phản vệ (TT 51/2017) — 🟡 PASS-WITH-WARNINGS
+⚠️ *File markdown gộp 2 văn bản:* **TT51 = dòng 1-422 (PDF tr.1-16)**; phần còn lại (MD 424-2686, PDF tr.17-112) là **QĐ 4815 "Viêm phổi mắc phải cộng đồng"** — ngoài phạm vi refId TT51, chưa kiểm sâu (nên tách thành refId riêng).
+- 🟠 **HIGH** — Phụ lục X "Sơ đồ tóm tắt chẩn đoán & xử trí phản vệ" (PDF tr.16) **không tái dựng**, MD chỉ còn note in khổ A1/A2 (MD 417-420). Nội dung liều trùng Phụ lục III (đã có) nên không mất số liệu → không nâng CRITICAL. *Dựng lại bằng mermaid.*
+- ⚪ LOW — sơ đồ chi tiết tr.15 chỉ ghi chú; metadata file gộp.
+- **MỌI liều ADRENALIN khớp 100%** (tiêm bắp theo cân nặng, TM 1/10.000, truyền 0,1 µg/kg/phút, bảng pha loãng & tốc độ giọt, hộp thuốc cấp cứu).
+
+## 19. REF_MOH_2017_QD5731 — QTKT Phẫu thuật Tiết niệu (114 trang) — 🟡 PASS-WITH-WARNINGS
+Đủ **46/46 quy trình**, đúng thứ tự mục lục↔thân, đủ mục (đại cương/chỉ định/CCĐ/chuẩn bị/các bước/tai biến); mọi số liệu kỹ thuật khớp. *(Phương pháp: tr.1-3 + QT1-22 vision; tr.23+ pdfplumber text-layer PDF sạch + vision spot-check.)*
+- 🟡 MEDIUM — Quy trình 45 **nhân đôi tiêu đề** (thêm "# MỞ RỘNG MIỆNG SÁO" cạnh "# MỞ RỘNG LỖ SÁO") → 47 heading `#` (PDF tr.111 ⟶ MD 2939-2941). *Xóa heading thừa.*
+- ⚪ LOW — vài chỗ bỏ phần lặp của bản gốc (QT31, QT20); thêm chú thích "(Không có CCĐ tuyệt đối)" QT34; sửa chính tả OCR gốc (Farabeuf, Müller, Betadine…).
+
+## 20. REF_MOH_2015_QD40 — Các bệnh về Mắt (143 trang) — 🟡 PASS-WITH-WARNINGS
+Đủ **30 bài bệnh**, **không thiếu/không ghép lai/không bịa**; mọi liều thuốc & phác đồ khớp (kể cả mục lục gốc bỏ sót bài "Viêm loét giác mạc do vi khuẩn" — MD tái hiện trung thực lỗi mục lục gốc).
+- 🟡 MEDIUM — H1 "**VIÊM TÚI LỆ**" lặp 2 lần liên tiếp (MD 522, 524) — chỉ lỗi tiêu đề, nội dung không trùng. *Xóa 1 dòng.*
+- ⚪ LOW — mermaid glôcôm góc đóng thêm "nguyên phát" vào node gốc (MD 1820); sơ đồ glôcôm góc mở tái diễn giải tuyến tính (logic giữ đúng, mất vòng phản hồi).
+
 ---
 
-## Còn lại cần quét (20 file)
-104→299 trang (16 file): REF_MOH_2023_QD2760, REF_MOH_2017_TT51, REF_MOH_2017_QD5731, REF_MOH_2015_QD40, REF_MOH_2017_QD5590, REF_MOH_2021_QD5968, REF_MOH_2024_QD3312, REF_MOH_2025_QD2598, REF_MOH_2016_QD4484, REF_MOH_2024_QD2388, REF_MOH_2020_QD2058, REF_MOH_2024_QD162, REF_MOH_2014_QD361, REF_MOH_2015_QD708, REF_MOH_2015_QD315, REF_MOH_2015_QD5643.
+## Còn lại cần quét (16 file)
+145→299 trang (12 file): REF_MOH_2017_QD5590, REF_MOH_2021_QD5968, REF_MOH_2024_QD3312, REF_MOH_2025_QD2598, REF_MOH_2016_QD4484, REF_MOH_2024_QD2388, REF_MOH_2020_QD2058, REF_MOH_2024_QD162, REF_MOH_2014_QD361, REF_MOH_2015_QD708, REF_MOH_2015_QD315, REF_MOH_2015_QD5643.
 
 Giant (474–892 trang, xử lý đặc biệt): REF_MOH_2023_QD4416 (474), REF_MOH_2022_QD1832 (528), REF_MOH_2020_QD2767 (533), REF_MOH_2014_QD1904 (892).
