@@ -2,7 +2,7 @@
 
 > Kho: `vn-medical-reference-library` · Công cụ: agent `ref-doc-fidelity-checker` (full vision, đọc 100% trang qua `pdftoppm`→PNG→vision, đối chứng số liệu).
 > Bắt đầu: 2026-06-25 · Phạm vi mục tiêu: **36/36 tài liệu** (raw_sources ↔ markdown_docs).
-> **Trạng thái: đã quét 12/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
+> **Trạng thái: đã quét 16/36.** File này để **double-check** và làm danh sách sửa. Cập nhật dần khi quét tiếp.
 >
 > ⚠️ **Nguyên tắc rà soát:** chỉ đọc, KHÔNG chỉnh sửa file gốc/markdown. PDF gốc là chuẩn. Mọi chỗ markdown khác bản gốc đều bị cờ — **kể cả khi markdown "tự sửa cho đúng y khoa"** (vd `ln10→log10`, `mmHg→mmol/L`, `Dưới→Từ`); khuyến nghị giữ đúng nguyên văn gốc (kèm chú thích), không tự ý sửa văn bản pháp quy.
 
@@ -29,6 +29,10 @@
 | 10 | REF_MOH_2023_QD2248 | Hội chứng mạch vành mạn | 38 | 🔴 **FAIL** | 1 | 2 | 6 | 4 |
 | 11 | REF_MOH_2020_QD1851 | Hen phế quản (NL & ≥12t) | 48 | 🟡 PASS-WITH-WARNINGS | 0 | 1 | 0 | 2 |
 | 12 | REF_MOH_2024_QD3777 | Dinh dưỡng nhân trắc trẻ em | 54 | 🔴 **FAIL** | 3 | 1 | 0 | 0 |
+| 13 | REF_LAW_2023_KCB | Luật Khám bệnh, chữa bệnh | 75 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 4 | 2 |
+| 14 | REF_MOH_2020_QD5481 | Đái tháo đường típ 2 | 77 | 🟡 PASS-WITH-WARNINGS | 0 | 2 | 1 | 2 |
+| 15 | REF_MOH_2015_QD5642 | Một số bệnh truyền nhiễm | 86 | 🔴 **FAIL** | 1 | 1 | 0 | 2 |
+| 16 | REF_MOH_2023_QD2767 | COPD | 87 | 🟡 PASS-WITH-WARNINGS | 0 | 3 | 2 | 2 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -140,9 +144,36 @@ Trung thực rất cao: toàn bộ liều ICS (Bảng 6 theo hoạt chất thấ
 - 🟠 **HIGH** — Mất cấu trúc bảng phụ lục (chuyển thành bullet rời, phá quan hệ tháng tuổi ↔ ngưỡng SD).
 - *Phạm vi:* phụ lục đọc kỹ doc tr.19,20,21,25,29,35,37,39,45 (mẫu đại diện, đủ kết luận lỗi hệ thống). Thân bài đọc 100%.
 
+## 13. REF_LAW_2023_KCB — Luật Khám bệnh, chữa bệnh (75 trang) — 🟡 PASS-WITH-WARNINGS
+Văn bản pháp luật: đủ **12 Chương, 121 Điều** liên tục 1→121, không thiếu/thừa/đảo điều, không sai số liệu pháp lý (mọi mốc hiệu lực 01/01/2024-2032, hạn chuyển tiếp, số ngày thủ tục đều khớp).
+- 🟡 MEDIUM ×4 — Sai nhãn điểm chữ cái "**đ)**"→"**e)**" (1 chỗ phát sinh "f)" sai hệ tiếng Việt) ở Điều 31 (MD 421), Điều 35 (MD 500), Điều 96 (MD 1274), Điều 99 (MD 1340,1342). Nội dung điểm đầy đủ đúng thứ tự, chỉ sai định danh → ảnh hưởng tham chiếu chéo. *Sửa nhãn về "đ)".*
+- ⚪ LOW — khối chữ ký thêm "T.M. QUỐC HỘI" (MD 1736, gốc chỉ "CHỦ TỊCH QUỐC HỘI"); "Bác sĩ" vs "Bác sỹ".
+
+## 14. REF_MOH_2020_QD5481 — Đái tháo đường típ 2 (77 trang) — 🟡 PASS-WITH-WARNINGS
+Mọi liều thuốc & ngưỡng (Bảng 13-14 liều theo eGFR, mục tiêu HbA1c/glucose, DKA/HHS, thai kỳ, hạ ĐH) **khớp**.
+- 🟠 **HIGH** — Bảng 10: đổi nhãn FDA thai kỳ của **Glargine** — PDF ô gộp "Không có dữ liệu trên PNCT" → MD gán "**C**" (MD 1221). *Trả về đúng gốc (bảng an toàn thuốc thai kỳ).*
+- 🟠 **HIGH** — Cả 3 lưu đồ chỉ còn tiêu đề (không mermaid); đặc biệt **Hình 2 "lược đồ chọn thuốc" (lõi quyết định) mất nội dung** (MD 542); Hình 1 (MD 316). Hình 3 đã tái hiện bằng văn xuôi. *Bổ sung Hình 1 & 2.*
+- 🟡 MEDIUM — Phần 7 (DKA/HHS/toan lactic) dán nguyên văn **OCR thô**, Bảng 7 bẹp thành text chạy dòng (MD 989-1073); số liệu đúng nhưng cần chuẩn hóa + làm sạch rác OCR.
+- ⚪ LOW — header placeholder số/ngày (gốc 5481/QĐ-BYT, 30/12/2020) (MD 8-9); thiếu TLTK #27. *(Phụ: library.json không nhất quán ngày 24/12 vs 30/12 — nên rà.)*
+
+## 15. REF_MOH_2015_QD5642 — Một số bệnh truyền nhiễm (86 trang) — 🔴 FAIL
+PDF có **15 bài bệnh**; MD chỉ dựng **13 heading** — thiếu 1 bài + 1 bài bị ghép lai (làm sai lệch 2 bệnh liền kề).
+- 🔴 **CRITICAL** — Bài **THƯƠNG HÀN** bị ghép lai: từ mục 3.3 trở đi MD thay bằng nội dung **LỴ TRỰC KHUẨN** (PDF tr.40-43 ⟶ MD 824-968). Hậu quả: **mất phác đồ điều trị thương hàn thật** (cipro/oflox 15→20 mg/kg/ngày; cephalosporin III 2-3 g/ngày; azithromycin 1 g/ngày; dexamethason 3→1 mg/kg q6h ×8 liều; ampicillin 100 mg/kg + probenecid 30 mg/kg ×3 tháng); **chẩn đoán sai** (Widal ≥1:160 → "phân lập Shigella"); **biến chứng sai** (Sa trực tràng, HC Reiter). *Khôi phục mục 3.3→6 + TLTK của thương hàn từ PDF.*
+- 🟠 **HIGH** — Thiếu hẳn bài **LỴ TRỰC KHUẨN** (bài #7, PDF tr.44-48): phần đầu mất, phần sau bị "mượn" gắn vào bài Thương hàn. *Dựng lại bài độc lập.*
+- ⚪ LOW — "with"/"and" lẫn tiếng Anh (MD 1161,1455); "TÀI LIỆU THAM KHẢOR" thừa R (MD 1843).
+- 12/13 bài còn lại: khớp.
+
+## 16. REF_MOH_2023_QD2767 — COPD (87 trang) — 🟡 PASS-WITH-WARNINGS
+Mọi liều thuốc (giãn PQ, ICS/LABA/LAMA, kháng sinh ngoại/nội trú & đa kháng, Morphin, cai thuốc lá), ngưỡng FEV1 (GOLD 1-4), phân nhóm ABCD, CAT/mMRC, Rome/Anthonisen, NIV **khớp**. Không có CRITICAL.
+- 🟠 **HIGH** — Nghiệm pháp đi bộ 6 phút thiếu 2 chống chỉ định HA: "HA tâm thu ≥180", "HA tâm trương ≥100 mmHg" (+đổi ≥120→>120) (PDF tr.78 ⟶ MD 1637). *Bổ sung.*
+- 🟠 **HIGH** — Hình 2 (duy trì sau đợt cấp, cột "chưa điều trị duy trì") **thiếu Nhóm C: LAMA** (PDF tr.85 ⟶ MD 1945). (Bước 4 vẫn có đúng.)
+- 🟠 **HIGH** — Lưu đồ kháng sinh ngoại trú (Biểu đồ 3.1) node yếu tố nguy cơ **thiếu "FEV₁ < 50%"** (PDF tr.31 ⟶ MD 740).
+- 🟡 MEDIUM — MD tự sửa tham chiếu "bảng 2"→"Bảng 3" (PDF tr.84 ⟶ MD 1937 — nên giữ gốc + chú thích); thiếu tiêu chí "(R/S ở V6 < 1)" dày thất phải (MD 260).
+- ⚪ LOW — đảo "Lo âu và trầm cảm"→"Trầm cảm và lo âu" (MD 1034); gộp vài heading/biểu mẫu điền tay.
+
 ---
 
-## Còn lại cần quét (24 file)
-75→299 trang (20 file): REF_LAW_2023_KCB, REF_MOH_2020_QD5481, REF_MOH_2015_QD5642, REF_MOH_2023_QD2767, REF_MOH_2023_QD2760, REF_MOH_2017_TT51, REF_MOH_2017_QD5731, REF_MOH_2015_QD40, REF_MOH_2017_QD5590, REF_MOH_2021_QD5968, REF_MOH_2024_QD3312, REF_MOH_2025_QD2598, REF_MOH_2016_QD4484, REF_MOH_2024_QD2388, REF_MOH_2020_QD2058, REF_MOH_2024_QD162, REF_MOH_2014_QD361, REF_MOH_2015_QD708, REF_MOH_2015_QD315, REF_MOH_2015_QD5643.
+## Còn lại cần quét (20 file)
+104→299 trang (16 file): REF_MOH_2023_QD2760, REF_MOH_2017_TT51, REF_MOH_2017_QD5731, REF_MOH_2015_QD40, REF_MOH_2017_QD5590, REF_MOH_2021_QD5968, REF_MOH_2024_QD3312, REF_MOH_2025_QD2598, REF_MOH_2016_QD4484, REF_MOH_2024_QD2388, REF_MOH_2020_QD2058, REF_MOH_2024_QD162, REF_MOH_2014_QD361, REF_MOH_2015_QD708, REF_MOH_2015_QD315, REF_MOH_2015_QD5643.
 
 Giant (474–892 trang, xử lý đặc biệt): REF_MOH_2023_QD4416 (474), REF_MOH_2022_QD1832 (528), REF_MOH_2020_QD2767 (533), REF_MOH_2014_QD1904 (892).
