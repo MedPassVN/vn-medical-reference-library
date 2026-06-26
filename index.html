@@ -24,9 +24,10 @@
                 <h1>Thư viện Tài liệu Tham khảo Y khoa Trung tâm</h1>
                 <p class="subtitle">Cổng tra cứu tài liệu và CDN tĩnh phục vụ hệ thống đánh giá năng lực y khoa</p>
             </div>
-            <div class="status">
-                <span class="status-dot"></span>
-                <span>CDN Active</span>
+            <div style="display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;">
+                <div class="status">
+                    <span class="status-dot"></span>
+                    <span>CDN Active</span>
             </div>
         </header>
 
@@ -106,6 +107,13 @@
                     <div class="copy-box">
                         <input type="text" id="cdn-pdf-url" value="https://congminh1254.github.io/vn-medical-reference-library/raw_sources/<ref_id>.pdf" readonly>
                         <button onclick="copyText('cdn-pdf-url')">Copy</button>
+                    </div>
+                </div>
+                <div class="cdn-link-item">
+                    <span class="label">Xem trực tiếp Markdown (Direct Render Link):</span>
+                    <div class="copy-box">
+                        <input type="text" id="cdn-render-url" value="https://congminh1254.github.io/vn-medical-reference-library/#/render/<ref_id>" readonly>
+                        <button onclick="copyText('cdn-render-url')">Copy</button>
                     </div>
                 </div>
             </div>

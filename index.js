@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const currentOrigin = window.location.origin + window.location.pathname.replace(/\/$/, "");
     document.getElementById('cdn-json-url').value = `${currentOrigin}/library.json`;
     document.getElementById('cdn-pdf-url').value = `${currentOrigin}/raw_sources/<refId>.pdf`;
+    document.getElementById('cdn-render-url').value = `${currentOrigin}/#/render/<refId>`;
 
     // Fetch library data
     fetch('./library.json')
@@ -26,6 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
             documentsData = data;
             updateStats(data);
             renderTable(data);
+            handleHashRouting();
         })
         .catch(err => {
             console.error('Lỗi tải danh mục tài liệu:', err);
@@ -179,7 +181,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const actionNewTab = document.getElementById('viewer-action-newtab');
     const actionDownload = document.getElementById('viewer-action-download');
 
-    function openViewer(doc) {
+    function openViewer(doc, initialTab = 'pdf') {
         currentDoc = doc;
         
         // Metadata
@@ -197,14 +199,25 @@ document.addEventListener('DOMContentLoaded', () => {
             actionDownload.style.display = 'none';
         }
         
-        // Set default tab: PDF
-        tabBtnPdf.classList.add('active');
-        tabBtnMarkdown.classList.remove('active');
-        pdfTabContent.classList.add('active');
-        markdownTabContent.classList.remove('active');
-        
-        // Reset Markdown Render container load status
-        markdownRender.dataset.loadedRefId = '';
+        // Set active tab
+        if (initialTab === 'markdown') {
+            tabBtnPdf.classList.remove('active');
+            tabBtnMarkdown.classList.add('active');
+            pdfTabContent.classList.remove('active');
+            markdownTabContent.classList.add('active');
+            
+            // Reset Markdown Render container load status
+            markdownRender.dataset.loadedRefId = '';
+            loadMarkdownForCurrentDoc();
+        } else {
+            tabBtnPdf.classList.add('active');
+            tabBtnMarkdown.classList.remove('active');
+            pdfTabContent.classList.add('active');
+            markdownTabContent.classList.remove('active');
+            
+            // Reset Markdown Render container load status
+            markdownRender.dataset.loadedRefId = '';
+        }
         
         // Load PDF
         pdfFrame.src = doc.localPath || doc.sourceUrl;
@@ -219,6 +232,38 @@ document.addEventListener('DOMContentLoaded', () => {
         pdfFrame.src = '';
         document.body.style.overflow = '';
         currentDoc = null;
+        
+        // If hash matches the render route, clear it
+        if (window.location.hash.match(/^#\/?render\//)) {
+            window.history.pushState("", document.title, window.location.pathname + window.location.search);
+        }
+    }
+
+    // Hash Routing Handler
+    function handleHashRouting() {
+        const hash = window.location.hash;
+        const match = hash.match(/^#\/?render\/([a-zA-Z0-9_-]+)$/);
+        
+        if (match) {
+            const docId = match[1];
+            if (documentsData.length > 0) {
+                const doc = documentsData.find(d => d.refId === docId);
+                if (doc) {
+                    // Check if already open and showing this doc on the markdown tab
+                    if (currentDoc && currentDoc.refId === docId && markdownTabContent.classList.contains('active')) {
+                        return;
+                    }
+                    openViewer(doc, 'markdown');
+                } else {
+                    console.warn(`Không tìm thấy tài liệu với mã: ${docId}`);
+                }
+            }
+        } else {
+            // Close viewer if it's open and showing a route-loaded doc
+            if (viewer.style.display === 'flex' && currentDoc) {
+                closeViewer();
+            }
+        }
     }
 
     function loadMarkdownForCurrentDoc() {
@@ -351,6 +396,9 @@ document.addEventListener('DOMContentLoaded', () => {
     searchInput.addEventListener('input', filterData);
     filterDocType.addEventListener('change', filterData);
     filterStatus.addEventListener('change', filterData);
+
+    // Hash routing listeners
+    window.addEventListener('hashchange', handleHashRouting);
 });
 
 // Copy to Clipboard
