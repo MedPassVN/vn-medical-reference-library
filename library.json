@@ -135,7 +135,9 @@
     "issuingAuthority": "Bộ Y tế Việt Nam",
     "effectiveDate": "2023-07-04",
     "sourceUrl": "https://benhvienhatrung.vn/wp-content/uploads/2023/07/document-1.pdf",
-    "localPath": "raw_sources/REF_MOH_2023_QD2767.pdf"
+    "localPath": "raw_sources/REF_MOH_2023_QD2767.pdf",
+    "status": "superseded",
+    "supersededBy": "REF_MOH_2026_QD2131"
   },
   {
     "title": "Quyết định số 3192/QĐ-BYT ngày 31/08/2010 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Tăng huyết áp",
@@ -696,7 +698,7 @@
     "documentNumber": "2131/QĐ-BYT",
     "issuingAuthority": "Bộ Y tế Việt Nam",
     "effectiveDate": "2026-07-14",
-    "sourceUrl": "",
+    "sourceUrl": "https://luatvietnam.vn/y-te/quyet-dinh-2131-qd-byt-2026-huong-dan-chan-doan-va-dieu-tri-benh-phoi-tac-nghen-man-tinh-441140-d1.html",
     "localPath": "raw_sources/REF_MOH_2026_QD2131.pdf"
   },
   {
@@ -713,7 +715,7 @@
     "documentNumber": "2147/QĐ-BYT",
     "issuingAuthority": "Bộ Y tế Việt Nam",
     "effectiveDate": "2026-07-15",
-    "sourceUrl": "",
+    "sourceUrl": "https://trungtamthuoc.com/bai-viet/huong-dan-chan-doan-va-dieu-tri-viem-phoi-mac-phai-cong-dong-o-nguoi-lon-nam-2026",
     "localPath": "raw_sources/REF_MOH_2026_QD2147.pdf"
   }
 ]

@@ -1,0 +1,383 @@
+{
+  "generatedAt": "2026-10-10",
+  "summary": {
+    "entries": 43,
+    "localDocs": 38,
+    "errors": 0,
+    "warnings": 30
+  },
+  "documents": [
+    {
+      "refId": "REF_MOH_2017_TT51",
+      "pages": 112,
+      "mdLines": 2686
+    },
+    {
+      "refId": "REF_LAW_2023_KCB",
+      "pages": 75,
+      "mdLines": 1739
+    },
+    {
+      "refId": "REF_MOH_2014_QD1904",
+      "pages": 892,
+      "mdLines": 24576
+    },
+    {
+      "refId": "REF_MOH_2014_QD361",
+      "pages": 218,
+      "mdLines": 4622
+    },
+    {
+      "refId": "REF_MOH_2020_QD2767",
+      "pages": 533,
+      "mdLines": 12352
+    },
+    {
+      "refId": "REF_MOH_2020_QD4128",
+      "pages": 23,
+      "mdLines": 609
+    },
+    {
+      "refId": "REF_MOH_2020_QD1851",
+      "pages": 48,
+      "mdLines": 1040
+    },
+    {
+      "refId": "REF_MOH_2023_QD2767",
+      "pages": 87,
+      "mdLines": 1974
+    },
+    {
+      "refId": "REF_MOH_2010_QD3192",
+      "pages": 19,
+      "mdLines": 283
+    },
+    {
+      "refId": "REF_MOH_2020_QD5481",
+      "pages": 77,
+      "mdLines": 1655
+    },
+    {
+      "refId": "REF_MOH_2024_QD3312",
+      "pages": 148,
+      "mdLines": 3802
+    },
+    {
+      "refId": "REF_MOH_2019_QD3310",
+      "pages": 8,
+      "mdLines": 170
+    },
+    {
+      "refId": "REF_MOH_2023_QD1575",
+      "pages": 21,
+      "mdLines": 492
+    },
+    {
+      "refId": "REF_MOH_2023_QD2248",
+      "pages": 38,
+      "mdLines": 782
+    },
+    {
+      "refId": "REF_MOH_2024_QD1470",
+      "pages": 31,
+      "mdLines": 776
+    },
+    {
+      "refId": "REF_MOH_2024_QD2388",
+      "pages": 192,
+      "mdLines": 3978
+    },
+    {
+      "refId": "REF_MOH_2023_QD2760",
+      "pages": 104,
+      "mdLines": 2827
+    },
+    {
+      "refId": "REF_MOH_2015_QD708",
+      "pages": 277,
+      "mdLines": 6160
+    },
+    {
+      "refId": "REF_MOH_2024_QD162",
+      "pages": 213,
+      "mdLines": 5028
+    },
+    {
+      "refId": "REF_MOH_2021_QD5968",
+      "pages": 145,
+      "mdLines": 3270
+    },
+    {
+      "refId": "REF_MOH_2015_QD5642",
+      "pages": 86,
+      "mdLines": 2012
+    },
+    {
+      "refId": "REF_MOH_2021_QD5165",
+      "pages": 8,
+      "mdLines": 173
+    },
+    {
+      "refId": "REF_MOH_2025_QD1019",
+      "pages": 21,
+      "mdLines": 473
+    },
+    {
+      "refId": "REF_MOH_2025_QD1840",
+      "pages": 12,
+      "mdLines": 259
+    },
+    {
+      "refId": "REF_MOH_2022_QD1832",
+      "pages": 528,
+      "mdLines": 13538
+    },
+    {
+      "refId": "REF_MOH_2020_QD2058",
+      "pages": 198,
+      "mdLines": 5743
+    },
+    {
+      "refId": "REF_MOH_2015_QD40",
+      "pages": 143,
+      "mdLines": 3199
+    },
+    {
+      "refId": "REF_MOH_2022_QD2558",
+      "pages": 25,
+      "mdLines": 424
+    },
+    {
+      "refId": "REF_MOH_2015_QD5643",
+      "pages": 299,
+      "mdLines": 7274
+    },
+    {
+      "refId": "REF_MOH_2023_QD4416",
+      "pages": 474,
+      "mdLines": 11629
+    },
+    {
+      "refId": "REF_MOH_2016_QD4484",
+      "pages": 186,
+      "mdLines": 4474
+    },
+    {
+      "refId": "REF_MOH_2015_QD315",
+      "pages": 285,
+      "mdLines": 5920
+    },
+    {
+      "refId": "REF_MOH_2025_QD2598",
+      "pages": 169,
+      "mdLines": 4899
+    },
+    {
+      "refId": "REF_MOH_2024_QD3777",
+      "pages": 54,
+      "mdLines": 1993
+    },
+    {
+      "refId": "REF_MOH_2017_QD5590",
+      "pages": 145,
+      "mdLines": 4181
+    },
+    {
+      "refId": "REF_MOH_2017_QD5731",
+      "pages": 114,
+      "mdLines": 3050
+    },
+    {
+      "refId": "REF_MOH_2026_QD2131",
+      "pages": 130,
+      "mdLines": 3173
+    },
+    {
+      "refId": "REF_MOH_2026_QD2147",
+      "pages": 93,
+      "mdLines": 2394
+    }
+  ],
+  "findings": [
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2014_QD1904",
+      "check": "md-table-columns",
+      "message": "bảng ở dòng 21689 (3 cột) có 1 hàng lệch số cột, vd dòng [21693]"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2020_QD5481",
+      "check": "md-header-number",
+      "message": "80 dòng đầu không chứa số văn bản '5481' (5481/QĐ-BYT)"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2023_QD2760",
+      "check": "md-blank-header",
+      "message": "header trống số văn bản ('Số: /QĐ-BYT'): “Số:          /QĐ-BYT”"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2023_QD2760",
+      "check": "md-blank-header",
+      "message": "header trống ngày ('ngày tháng năm'): “ngày        tháng      năm 2023”"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2023_QD2760",
+      "check": "md-header-number",
+      "message": "80 dòng đầu không chứa số văn bản '2760' (2760/QĐ-BYT)"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2015_QD708",
+      "check": "md-table-columns",
+      "message": "bảng ở dòng 6095 (7 cột) có 44 hàng lệch số cột, vd dòng [6105, 6106, 6107, 6108, 6109]"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2024_QD162",
+      "check": "md-table-columns",
+      "message": "bảng ở dòng 2001 (11 cột) có 6 hàng lệch số cột, vd dòng [2019, 2020, 2024, 2025, 2026]"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2024_QD162",
+      "check": "md-table-columns",
+      "message": "bảng ở dòng 2043 (22 cột) có 5 hàng lệch số cột, vd dòng [2060, 2061, 2064, 2065, 2067]"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2024_QD162",
+      "check": "md-table-columns",
+      "message": "bảng ở dòng 3792 (3 cột) có 1 hàng lệch số cột, vd dòng [3798]"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2024_QD162",
+      "check": "md-table-columns",
+      "message": "bảng ở dòng 3824 (4 cột) có 2 hàng lệch số cột, vd dòng [3824, 3831]"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2024_QD162",
+      "check": "md-table-columns",
+      "message": "bảng ở dòng 3888 (5 cột) có 1 hàng lệch số cột, vd dòng [3888]"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2024_QD162",
+      "check": "md-table-columns",
+      "message": "bảng ở dòng 4947 (6 cột) có 1 hàng lệch số cột, vd dòng [4949]"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2024_QD162",
+      "check": "md-blank-header",
+      "message": "header trống số văn bản ('Số: /QĐ-BYT'): “Số:       /QĐ-BYT”"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2024_QD162",
+      "check": "md-blank-header",
+      "message": "header trống ngày ('ngày tháng năm'): “ngày     tháng    năm 2024”"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2024_QD162",
+      "check": "md-header-number",
+      "message": "80 dòng đầu không chứa số văn bản '162' (162/QĐ-BYT)"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2021_QD5165",
+      "check": "md-blank-header",
+      "message": "header trống số văn bản ('Số: /QĐ-BYT'): “Số:          /QĐ-BYT”"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2021_QD5165",
+      "check": "md-blank-header",
+      "message": "header trống ngày ('ngày tháng năm'): “ngày         tháng       năm 2021”"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2021_QD5165",
+      "check": "md-header-number",
+      "message": "80 dòng đầu không chứa số văn bản '5165' (5165/QĐ-BYT)"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2025_QD1840",
+      "check": "md-blank-header",
+      "message": "header trống số văn bản ('Số: /QĐ-BYT'): “Số:          /QĐ-BYT”"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2025_QD1840",
+      "check": "md-blank-header",
+      "message": "header trống ngày ('ngày tháng năm'): “ngày        tháng      năm 2025”"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2025_QD1840",
+      "check": "md-header-number",
+      "message": "80 dòng đầu không chứa số văn bản '1840' (1840/QĐ-BYT)"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2022_QD1832",
+      "check": "md-table-columns",
+      "message": "bảng ở dòng 6532 (4 cột) có 1 hàng lệch số cột, vd dòng [6540]"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2022_QD2558",
+      "check": "md-blank-header",
+      "message": "header trống ngày ('ngày tháng năm'): “ngày      tháng     năm 2022”"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2022_QD2558",
+      "check": "md-header-number",
+      "message": "80 dòng đầu không chứa số văn bản '2558' (2558/QĐ-BYT)"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2016_QD4484",
+      "check": "md-header-number",
+      "message": "80 dòng đầu không chứa số văn bản '4484' (4484/QĐ-BYT)"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2025_QD2598",
+      "check": "md-blank-header",
+      "message": "header trống số văn bản ('Số: /QĐ-BYT'): “Số:          /QĐ-BYT”"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2025_QD2598",
+      "check": "md-blank-header",
+      "message": "header trống ngày ('ngày tháng năm'): “ngày     tháng    năm 2025”"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2025_QD2598",
+      "check": "md-header-number",
+      "message": "80 dòng đầu không chứa số văn bản '2598' (2598/QĐ-BYT)"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2017_QD5590",
+      "check": "md-header-number",
+      "message": "80 dòng đầu không chứa số văn bản '5590' (5590/QĐ-BYT)"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2017_QD5731",
+      "check": "md-header-number",
+      "message": "80 dòng đầu không chứa số văn bản '5731' (5731/QĐ-BYT)"
+    }
+  ]
+}

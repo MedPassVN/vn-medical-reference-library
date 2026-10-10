@@ -94,7 +94,16 @@ document.addEventListener('DOMContentLoaded', () => {
             typeSpan.style.color = '#3b82f6';
             typeSpan.textContent = doc.documentType;
             tagsDiv.appendChild(typeSpan);
-            
+
+            // Superseded badge
+            if (doc.status === 'superseded') {
+                const supSpan = document.createElement('span');
+                supSpan.className = 'ref-tag';
+                supSpan.style.color = '#dc2626';
+                supSpan.textContent = doc.supersededBy ? `ĐÃ THAY THẾ BỞI ${doc.supersededBy}` : 'ĐÃ THAY THẾ';
+                tagsDiv.appendChild(supSpan);
+            }
+
             // Add other tags
             if (doc.tags && Array.isArray(doc.tags)) {
                 doc.tags.forEach(tag => {

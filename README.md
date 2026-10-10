@@ -51,7 +51,8 @@ if response.status_code == 200:
 
 ---
 
-## 🗂️ Tra cứu nhanh Danh mục Tài liệu hiện có (41 Tài liệu Cốt lõi)
+<!-- LIBRARY_TABLE_START (tự sinh bởi scripts/build_readme_table.py — không sửa tay) -->
+## 🗂️ Tra cứu nhanh Danh mục Tài liệu hiện có (43 Tài liệu Cốt lõi)
 
 Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn trong thư viện:
 
@@ -64,7 +65,7 @@ Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn 
 | **`REF_MOH_2020_QD2767`** | Tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị bệnh trẻ em (cập nhật năm 2020) của Bệnh viện Nhi Trung ương | `Hướng dẫn` | Bệnh viện Nhi Trung ương | 2020-01-01 | [Download 📥](raw_sources/REF_MOH_2020_QD2767.pdf) |
 | **`REF_MOH_2020_QD4128`** | Quyết định số 4128/QĐ-BYT ngày 30/08/2020 ban hành tạm thời bổ sung danh mục kỹ thuật áp dụng trong hội chẩn, tư vấn khám, chữa bệnh từ xa | `Quyết định` | Bộ Y tế Việt Nam | 2020-08-30 | [Download 📥](raw_sources/REF_MOH_2020_QD4128.pdf) |
 | **`REF_MOH_2020_QD1851`** | Quyết định số 1851/QĐ-BYT ngày 24/04/2020 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị hen phế quản người lớn và trẻ em >= 12 tuổi | `Quyết định` | Bộ Y tế Việt Nam | 2020-04-24 | [Download 📥](raw_sources/REF_MOH_2020_QD1851.pdf) |
-| **`REF_MOH_2023_QD2767`** | Quyết định số 2767/QĐ-BYT ngày 04/07/2023 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Bệnh phổi tắc nghẽn mạn tính | `Quyết định` | Bộ Y tế Việt Nam | 2023-07-04 | [Download 📥](raw_sources/REF_MOH_2023_QD2767.pdf) |
+| **`REF_MOH_2023_QD2767`** | Quyết định số 2767/QĐ-BYT ngày 04/07/2023 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Bệnh phổi tắc nghẽn mạn tính *(đã được thay thế bởi `REF_MOH_2026_QD2131`)* | `Quyết định` | Bộ Y tế Việt Nam | 2023-07-04 | [Download 📥](raw_sources/REF_MOH_2023_QD2767.pdf) |
 | **`REF_MOH_2010_QD3192`** | Quyết định số 3192/QĐ-BYT ngày 31/08/2010 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Tăng huyết áp | `Quyết định` | Bộ Y tế Việt Nam | 2010-08-31 | [Download 📥](raw_sources/REF_MOH_2010_QD3192.pdf) |
 | **`REF_MOH_2020_QD5481`** | Quyết định số 5481/QĐ-BYT ngày 24/12/2020 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị đái tháo đường typ 2 | `Quyết định` | Bộ Y tế Việt Nam | 2020-12-30 | [Download 📥](raw_sources/REF_MOH_2020_QD5481.pdf) |
 | **`REF_MOH_2024_QD3312`** | Quyết định số 3312/QĐ-BYT ngày 05/11/2024 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị đột quỵ não | `Quyết định` | Bộ Y tế Việt Nam | 2024-11-05 | [Download 📥](raw_sources/REF_MOH_2024_QD3312.pdf) |
@@ -98,6 +99,9 @@ Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn 
 | **`REF_MOH_2024_QD3777`** | Quyết định số 3777/QĐ-BYT ngày 16/12/2024 ban hành tài liệu Hướng dẫn chuyên môn Đánh giá tình trạng dinh dưỡng trẻ em bằng các chỉ số nhân trắc cơ bản tại cộng đồng | `Quyết định` | Bộ Y tế Việt Nam | 2024-12-16 | [Download 📥](raw_sources/REF_MOH_2024_QD3777.pdf) |
 | **`REF_MOH_2017_QD5590`** | Quyết định số 5590/QĐ-BYT ngày 13/12/2017 ban hành Hướng dẫn quy trình kỹ thuật Ngoại khoa, chuyên khoa Phẫu thuật Thần kinh | `Quyết định` | Bộ Y tế Việt Nam | 2017-12-13 | [Download 📥](raw_sources/REF_MOH_2017_QD5590.pdf) |
 | **`REF_MOH_2017_QD5731`** | Quyết định số 5731/QĐ-BYT ngày 21/12/2017 ban hành Hướng dẫn quy trình kỹ thuật Ngoại khoa, chuyên khoa Phẫu thuật Tiết niệu | `Quyết định` | Bộ Y tế Việt Nam | 2017-12-21 | [Download 📥](raw_sources/REF_MOH_2017_QD5731.pdf) |
+| **`REF_MOH_2026_QD2131`** | Quyết định số 2131/QĐ-BYT ngày 14/07/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị bệnh phổi tắc nghẽn mạn tính” | `Quyết định` | Bộ Y tế Việt Nam | 2026-07-14 | [Download 📥](raw_sources/REF_MOH_2026_QD2131.pdf) |
+| **`REF_MOH_2026_QD2147`** | Quyết định số 2147/QĐ-BYT ngày 15/07/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn” | `Quyết định` | Bộ Y tế Việt Nam | 2026-07-15 | [Download 📥](raw_sources/REF_MOH_2026_QD2147.pdf) |
+<!-- LIBRARY_TABLE_END -->
 
 ---
 
