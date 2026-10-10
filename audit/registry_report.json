@@ -1,8 +1,8 @@
 {
   "generatedAt": "2026-10-10",
   "summary": {
-    "entries": 43,
-    "localDocs": 38,
+    "entries": 48,
+    "localDocs": 40,
     "errors": 0,
     "warnings": 30
   },
@@ -30,7 +30,7 @@
     {
       "refId": "REF_MOH_2020_QD2767",
       "pages": 533,
-      "mdLines": 12352
+      "mdLines": 12381
     },
     {
       "refId": "REF_MOH_2020_QD4128",
@@ -50,7 +50,7 @@
     {
       "refId": "REF_MOH_2010_QD3192",
       "pages": 19,
-      "mdLines": 283
+      "mdLines": 382
     },
     {
       "refId": "REF_MOH_2020_QD5481",
@@ -70,12 +70,12 @@
     {
       "refId": "REF_MOH_2023_QD1575",
       "pages": 21,
-      "mdLines": 492
+      "mdLines": 498
     },
     {
       "refId": "REF_MOH_2023_QD2248",
       "pages": 38,
-      "mdLines": 782
+      "mdLines": 756
     },
     {
       "refId": "REF_MOH_2024_QD1470",
@@ -85,12 +85,12 @@
     {
       "refId": "REF_MOH_2024_QD2388",
       "pages": 192,
-      "mdLines": 3978
+      "mdLines": 4332
     },
     {
       "refId": "REF_MOH_2023_QD2760",
       "pages": 104,
-      "mdLines": 2827
+      "mdLines": 2884
     },
     {
       "refId": "REF_MOH_2015_QD708",
@@ -105,7 +105,7 @@
     {
       "refId": "REF_MOH_2021_QD5968",
       "pages": 145,
-      "mdLines": 3270
+      "mdLines": 3273
     },
     {
       "refId": "REF_MOH_2015_QD5642",
@@ -175,7 +175,7 @@
     {
       "refId": "REF_MOH_2024_QD3777",
       "pages": 54,
-      "mdLines": 1993
+      "mdLines": 1795
     },
     {
       "refId": "REF_MOH_2017_QD5590",
@@ -190,12 +190,22 @@
     {
       "refId": "REF_MOH_2026_QD2131",
       "pages": 130,
-      "mdLines": 3173
+      "mdLines": 2670
     },
     {
       "refId": "REF_MOH_2026_QD2147",
       "pages": 93,
-      "mdLines": 2394
+      "mdLines": 1907
+    },
+    {
+      "refId": "REF_MOH_2026_QD2989",
+      "pages": 44,
+      "mdLines": 1162
+    },
+    {
+      "refId": "REF_MOH_2026_QD1740",
+      "pages": 42,
+      "mdLines": 1102
     }
   ],
   "findings": [

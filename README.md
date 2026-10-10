@@ -52,7 +52,7 @@ if response.status_code == 200:
 ---
 
 <!-- LIBRARY_TABLE_START (tự sinh bởi scripts/build_readme_table.py — không sửa tay) -->
-## 🗂️ Tra cứu nhanh Danh mục Tài liệu hiện có (43 Tài liệu Cốt lõi)
+## 🗂️ Tra cứu nhanh Danh mục Tài liệu hiện có (48 Tài liệu Cốt lõi)
 
 Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn trong thư viện:
 
@@ -69,15 +69,15 @@ Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn 
 | **`REF_MOH_2010_QD3192`** | Quyết định số 3192/QĐ-BYT ngày 31/08/2010 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Tăng huyết áp | `Quyết định` | Bộ Y tế Việt Nam | 2010-08-31 | [Download 📥](raw_sources/REF_MOH_2010_QD3192.pdf) |
 | **`REF_MOH_2020_QD5481`** | Quyết định số 5481/QĐ-BYT ngày 24/12/2020 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị đái tháo đường typ 2 | `Quyết định` | Bộ Y tế Việt Nam | 2020-12-30 | [Download 📥](raw_sources/REF_MOH_2020_QD5481.pdf) |
 | **`REF_MOH_2024_QD3312`** | Quyết định số 3312/QĐ-BYT ngày 05/11/2024 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị đột quỵ não | `Quyết định` | Bộ Y tế Việt Nam | 2024-11-05 | [Download 📥](raw_sources/REF_MOH_2024_QD3312.pdf) |
-| **`REF_MOH_2019_QD3310`** | Quyết định số 3310/QĐ-BYT ngày 29/07/2019 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị viêm gan vi rút B | `Quyết định` | Bộ Y tế Việt Nam | 2019-07-29 | [Download 📥](raw_sources/REF_MOH_2019_QD3310.pdf) |
+| **`REF_MOH_2019_QD3310`** | Quyết định số 3310/QĐ-BYT ngày 29/07/2019 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị viêm gan vi rút B *(đã được thay thế bởi `REF_MOH_2026_QD1740`)* | `Quyết định` | Bộ Y tế Việt Nam | 2019-07-29 | [Download 📥](raw_sources/REF_MOH_2019_QD3310.pdf) |
 | **`REF_MOH_2023_QD1575`** | Quyết định số 1575/QĐ-BYT ngày 27/03/2023 ban hành Hướng dẫn khám sàng lọc trước tiêm chủng đối với trẻ em | `Quyết định` | Bộ Y tế Việt Nam | 2023-03-27 | [Download 📥](raw_sources/REF_MOH_2023_QD1575.pdf) |
 | **`REF_MOH_2023_QD2248`** | Quyết định số 2248/QĐ-BYT ngày 19/05/2023 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Hội chứng mạch vành mạn | `Quyết định` | Bộ Y tế Việt Nam | 2023-05-19 | [Download 📥](raw_sources/REF_MOH_2023_QD2248.pdf) |
 | **`REF_MOH_2024_QD1470`** | Quyết định số 1470/QĐ-BYT ngày 29/05/2024 ban hành Hướng dẫn quốc gia về sàng lọc và quản lý đái tháo đường thai kỳ | `Quyết định` | Bộ Y tế Việt Nam | 2024-05-29 | [Download 📥](raw_sources/REF_MOH_2024_QD1470.pdf) |
 | **`REF_MOH_2024_QD2388`** | Quyết định số 2388/QĐ-BYT ngày 12/08/2024 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị bệnh thận mạn và một số bệnh lý thận | `Quyết định` | Bộ Y tế Việt Nam | 2024-08-12 | [Download 📥](raw_sources/REF_MOH_2024_QD2388.pdf) |
 | **`REF_MOH_2023_QD2760`** | Quyết định số 2760/QĐ-BYT ngày 04/07/2023 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Sốt xuất huyết Dengue | `Quyết định` | Bộ Y tế Việt Nam | 2023-07-04 | [Download 📥](raw_sources/REF_MOH_2023_QD2760.pdf) |
-| **`REF_INT_GINA_2024`** | Global Strategy for Asthma Management and Prevention | `QST Quốc tế` | Global Initiative for Asthma (GINA) | 2024-05-01 | [Direct Link 🌐](https://ginasthma.org/wp-content/uploads/2024/05/GINA-2024-Strategy-Report-24_05_22_WMS.pdf) |
-| **`REF_INT_GOLD_2024`** | Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease | `QST Quốc tế` | Global Initiative for Chronic Obstructive Lung Disease (GOLD) | 2023-11-15 | [Direct Link 🌐](https://goldcopd.org/wp-content/uploads/2024/02/POCKET-GUIDE-GOLD-2024-ver-1.2-11Jan2024_WMV.pdf) |
-| **`REF_INT_ADA_2024`** | Standards of Care in Diabetes - 2024 | `QST Quốc tế` | American Diabetes Association (ADA) | 2024-01-01 | [Direct Link 🌐](https://diabetesjournals.org/care/article-pdf/47/Supplement_1/S179/740326/dc24s010.pdf) |
+| **`REF_INT_GINA_2024`** | Global Strategy for Asthma Management and Prevention *(đã được thay thế bởi `REF_INT_GINA_2026`)* | `QST Quốc tế` | Global Initiative for Asthma (GINA) | 2024-05-01 | [Direct Link 🌐](https://ginasthma.org/wp-content/uploads/2024/05/GINA-2024-Strategy-Report-24_05_22_WMS.pdf) |
+| **`REF_INT_GOLD_2024`** | Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease *(đã được thay thế bởi `REF_INT_GOLD_2026`)* | `QST Quốc tế` | Global Initiative for Chronic Obstructive Lung Disease (GOLD) | 2023-11-15 | [Direct Link 🌐](https://goldcopd.org/wp-content/uploads/2024/02/POCKET-GUIDE-GOLD-2024-ver-1.2-11Jan2024_WMV.pdf) |
+| **`REF_INT_ADA_2024`** | Standards of Care in Diabetes - 2024 *(đã được thay thế bởi `REF_INT_ADA_2026`)* | `QST Quốc tế` | American Diabetes Association (ADA) | 2024-01-01 | [Direct Link 🌐](https://diabetesjournals.org/care/article-pdf/47/Supplement_1/S179/740326/dc24s010.pdf) |
 | **`REF_INT_KDIGO_2024`** | KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease | `QST Quốc tế` | Kidney Disease: Improving Global Outcomes (KDIGO) | 2024-03-01 | [Direct Link 🌐](https://kdigo.org/wp-content/uploads/2024/03/KDIGO-2024-CKD-Guideline.pdf) |
 | **`REF_INT_ESC_2023`** | 2023 ESC Guidelines for the management of acute coronary syndromes | `QST Quốc tế` | European Society of Cardiology (ESC) | 2023-08-25 | [Direct Link 🌐](https://orbi.uliege.be/bitstream/2268/305943/1/ehad191.pdf) |
 | **`REF_MOH_2015_QD708`** | Quyết định số 708/QĐ-BYT ngày 02/03/2015 ban hành Hướng dẫn sử dụng kháng sinh | `Quyết định` | Bộ Y tế Việt Nam | 2015-03-02 | [Download 📥](raw_sources/REF_MOH_2015_QD708.pdf) |
@@ -101,6 +101,11 @@ Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn 
 | **`REF_MOH_2017_QD5731`** | Quyết định số 5731/QĐ-BYT ngày 21/12/2017 ban hành Hướng dẫn quy trình kỹ thuật Ngoại khoa, chuyên khoa Phẫu thuật Tiết niệu | `Quyết định` | Bộ Y tế Việt Nam | 2017-12-21 | [Download 📥](raw_sources/REF_MOH_2017_QD5731.pdf) |
 | **`REF_MOH_2026_QD2131`** | Quyết định số 2131/QĐ-BYT ngày 14/07/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị bệnh phổi tắc nghẽn mạn tính” | `Quyết định` | Bộ Y tế Việt Nam | 2026-07-14 | [Download 📥](raw_sources/REF_MOH_2026_QD2131.pdf) |
 | **`REF_MOH_2026_QD2147`** | Quyết định số 2147/QĐ-BYT ngày 15/07/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn” | `Quyết định` | Bộ Y tế Việt Nam | 2026-07-15 | [Download 📥](raw_sources/REF_MOH_2026_QD2147.pdf) |
+| **`REF_MOH_2026_QD2989`** | Quyết định số 2989/QĐ-BYT ngày 22/09/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị bệnh suy dinh dưỡng cấp tính ở trẻ em từ 0 đến 59 tháng tuổi” | `Quyết định` | Bộ Y tế Việt Nam | 2026-09-22 | [Download 📥](raw_sources/REF_MOH_2026_QD2989.pdf) |
+| **`REF_MOH_2026_QD1740`** | Quyết định số 1740/QĐ-BYT ngày 16/06/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán, điều trị viêm gan vi rút B” | `Quyết định` | Bộ Y tế Việt Nam | 2026-06-16 | [Download 📥](raw_sources/REF_MOH_2026_QD1740.pdf) |
+| **`REF_INT_GINA_2026`** | Global Strategy for Asthma Management and Prevention | `QST Quốc tế` | Global Initiative for Asthma (GINA) | 2026-05-05 | [Direct Link 🌐](https://ginasthma.org/2026-gina-strategy-report/) |
+| **`REF_INT_GOLD_2026`** | Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease | `QST Quốc tế` | Global Initiative for Chronic Obstructive Lung Disease (GOLD) | 2025-12-08 | [Direct Link 🌐](https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf) |
+| **`REF_INT_ADA_2026`** | Standards of Care in Diabetes - 2026 | `QST Quốc tế` | American Diabetes Association (ADA) | 2026-01-01 | [Direct Link 🌐](https://diabetesjournals.org/care/issue/49/Supplement_1) |
 <!-- LIBRARY_TABLE_END -->
 
 ---

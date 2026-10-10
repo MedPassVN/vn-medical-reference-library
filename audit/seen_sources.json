@@ -444,6 +444,100 @@
       "reason": "đã bị thay thế bởi QĐ 2147/QĐ-BYT (REF_MOH_2026_QD2147)",
       "firstSeen": "2026-10-10",
       "lastChecked": "2026-10-10"
+    },
+    {
+      "key": "2989/QĐ-BYT|2026",
+      "documentNumber": "2989/QĐ-BYT",
+      "title": "Quyết định số 2989/QĐ-BYT ngày 22/09/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị bệnh suy dinh dưỡng cấp tính ở trẻ em từ 0 đến 59 tháng tuổi”",
+      "status": "accepted",
+      "refId": "REF_MOH_2026_QD2989",
+      "note": "routine 2026-10-10; kiểm tra độc lập PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪1",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10"
+    },
+    {
+      "key": "1740/QĐ-BYT|2026",
+      "documentNumber": "1740/QĐ-BYT",
+      "title": "Quyết định số 1740/QĐ-BYT ngày 16/06/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán, điều trị viêm gan vi rút B”",
+      "status": "accepted",
+      "refId": "REF_MOH_2026_QD1740",
+      "note": "routine 2026-10-10; kiểm tra độc lập PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪1; thay thế QĐ 3310/QĐ-BYT (REF_MOH_2019_QD3310)",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10"
+    },
+    {
+      "key": "3073/QĐ-BYT|2026",
+      "documentNumber": "3073/QĐ-BYT",
+      "title": "Quyết định số 3073/QĐ-BYT ngày 02/10/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Tạo hình & Thẩm mỹ - Tập 1”",
+      "status": "queued",
+      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; PDF 1185 trang (>200, tính 2 tài liệu)",
+      "sourceUrl": "https://kcb.vn/upload/2005611/20261005/B__Y_T__1__T_o_h_nh_-_Th_m_m_____rA_____soA____t___Repaired_.signed_4b949.pdf",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10"
+    },
+    {
+      "key": "3074/QĐ-BYT|2026",
+      "documentNumber": "3074/QĐ-BYT",
+      "title": "Quyết định số 3074/QĐ-BYT ngày 02/10/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Tạo hình & Thẩm mỹ - Tập 2”",
+      "status": "queued",
+      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; PDF 242 trang (>200, tính 2 tài liệu)",
+      "sourceUrl": "https://kcb.vn/upload/2005611/20261005/T_P_2._Ta_o_hi_nh_tha__m_my___Repaired_.signed_7e010.pdf",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10"
+    },
+    {
+      "key": "2480/QĐ-BYT|2026",
+      "documentNumber": "2480/QĐ-BYT",
+      "title": "Quyết định số 2480/QĐ-BYT năm 2026 ban hành Hướng dẫn quy trình kỹ thuật Thần kinh - Tập 1.1",
+      "status": "queued",
+      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; mới thấy qua tin/luatvietnam, chưa tìm bản PDF chính thống",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10"
+    },
+    {
+      "key": "1269/QĐ-BYT|2026",
+      "documentNumber": "1269/QĐ-BYT",
+      "title": "Quyết định số 1269/QĐ-BYT năm 2026 ban hành Hướng dẫn quy trình kỹ thuật chăm sóc và điều trị sơ sinh - Tập 1",
+      "status": "queued",
+      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; mới thấy qua tin/luatvietnam, chưa tìm bản PDF chính thống",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10"
+    },
+    {
+      "key": "1359/QĐ-BYT|2026",
+      "documentNumber": "1359/QĐ-BYT",
+      "title": "Quyết định số 1359/QĐ-BYT ngày 12/05/2026 ban hành Hướng dẫn quốc gia về dịch vụ chăm sóc sức khỏe sinh sản",
+      "status": "queued",
+      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; mới thấy qua tin/luatvietnam, chưa tìm bản PDF chính thống",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10"
+    },
+    {
+      "key": "915/QĐ-BYT|2026",
+      "documentNumber": "915/QĐ-BYT",
+      "title": "Quyết định số 915/QĐ-BYT năm 2026 ban hành tài liệu Hướng dẫn quy trình kỹ thuật Mũi Họng Miệng - Tập 1",
+      "status": "queued",
+      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; mới thấy qua tin/luatvietnam, chưa tìm bản PDF chính thống",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10"
+    },
+    {
+      "key": "916/QĐ-BYT|2026",
+      "documentNumber": "916/QĐ-BYT",
+      "title": "Quyết định số 916/QĐ-BYT năm 2026 ban hành tài liệu Hướng dẫn quy trình kỹ thuật Tai - Tập 1",
+      "status": "queued",
+      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; mới thấy qua tin/luatvietnam, chưa tìm bản PDF chính thống",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10"
+    },
+    {
+      "key": "456/QĐ-BYT|2026",
+      "documentNumber": "456/QĐ-BYT",
+      "title": "Quyết định số 456/QĐ-BYT năm 2026 ban hành Hướng dẫn chẩn đoán và xử trí u xơ cơ tử cung",
+      "status": "queued",
+      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; mới thấy qua tin/luatvietnam, chưa tìm bản PDF chính thống",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10"
     }
   ]
 }

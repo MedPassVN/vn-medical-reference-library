@@ -310,7 +310,9 @@
     "issuingAuthority": "Global Initiative for Asthma (GINA)",
     "effectiveDate": "2024-05-01",
     "sourceUrl": "https://ginasthma.org/wp-content/uploads/2024/05/GINA-2024-Strategy-Report-24_05_22_WMS.pdf",
-    "remoteOnly": true
+    "remoteOnly": true,
+    "status": "superseded",
+    "supersededBy": "REF_INT_GINA_2026"
   },
   {
     "title": "Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",
@@ -327,7 +329,9 @@
     "issuingAuthority": "Global Initiative for Chronic Obstructive Lung Disease (GOLD)",
     "effectiveDate": "2023-11-15",
     "sourceUrl": "https://goldcopd.org/wp-content/uploads/2024/02/POCKET-GUIDE-GOLD-2024-ver-1.2-11Jan2024_WMV.pdf",
-    "remoteOnly": true
+    "remoteOnly": true,
+    "status": "superseded",
+    "supersededBy": "REF_INT_GOLD_2026"
   },
   {
     "title": "Standards of Care in Diabetes - 2024",
@@ -343,7 +347,9 @@
     "issuingAuthority": "American Diabetes Association (ADA)",
     "effectiveDate": "2024-01-01",
     "sourceUrl": "https://diabetesjournals.org/care/article-pdf/47/Supplement_1/S179/740326/dc24s010.pdf",
-    "remoteOnly": true
+    "remoteOnly": true,
+    "status": "superseded",
+    "supersededBy": "REF_INT_ADA_2026"
   },
   {
     "title": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease",
@@ -753,5 +759,56 @@
     "effectiveDate": "2026-06-16",
     "sourceUrl": "https://www.benhnhietdoi.vn/wp-content/uploads/2026/06/BYT.-QD-ban-hanh-HDCDT-viem-gan-vi-rut-B-final-2.signed.pdf",
     "localPath": "raw_sources/REF_MOH_2026_QD1740.pdf"
+  },
+  {
+    "title": "Global Strategy for Asthma Management and Prevention",
+    "tags": [
+      "PULMONOLOGY",
+      "VĐ 42",
+      "VĐ 44",
+      "Asthma",
+      "Hen phế quản"
+    ],
+    "version": "2026",
+    "refId": "REF_INT_GINA_2026",
+    "documentType": "INT_GUIDELINE",
+    "documentNumber": "GINA 2026 Report",
+    "issuingAuthority": "Global Initiative for Asthma (GINA)",
+    "effectiveDate": "2026-05-05",
+    "sourceUrl": "https://ginasthma.org/2026-gina-strategy-report/",
+    "remoteOnly": true
+  },
+  {
+    "title": "Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",
+    "tags": [
+      "PULMONOLOGY",
+      "VĐ 40",
+      "VĐ 44",
+      "COPD"
+    ],
+    "version": "2026",
+    "refId": "REF_INT_GOLD_2026",
+    "documentType": "INT_GUIDELINE",
+    "documentNumber": "GOLD 2026 Report (v1.3)",
+    "issuingAuthority": "Global Initiative for Chronic Obstructive Lung Disease (GOLD)",
+    "effectiveDate": "2025-12-08",
+    "sourceUrl": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf",
+    "remoteOnly": true
+  },
+  {
+    "title": "Standards of Care in Diabetes - 2026",
+    "tags": [
+      "ENDOCRINOLOGY_METABOLISM",
+      "VĐ 94",
+      "Đái tháo đường"
+    ],
+    "version": "2026",
+    "refId": "REF_INT_ADA_2026",
+    "documentType": "INT_GUIDELINE",
+    "documentNumber": "Diabetes Care 2026;49(Suppl. 1)",
+    "issuingAuthority": "American Diabetes Association (ADA)",
+    "effectiveDate": "2026-01-01",
+    "sourceUrl": "https://diabetesjournals.org/care/issue/49/Supplement_1",
+    "remoteOnly": true
   }
 ]
