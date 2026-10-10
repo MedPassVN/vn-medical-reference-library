@@ -4,6 +4,7 @@
 > Bắt đầu: 2026-06-25 · Phạm vi mục tiêu: **36/36 tài liệu** (raw_sources ↔ markdown_docs).
 > **Trạng thái: ✅ HOÀN TẤT 36/36.** File này để **double-check** và làm danh sách sửa. Xem phần TỔNG KẾT ở cuối.
 > **Cập nhật 2026-10-10:** thêm #37–#38 (2 tài liệu 2026) và phần **🔁 RE-REVIEW** kiểm tra lại 12 tài liệu FAIL sau commit sửa `2f8555f` — xem cuối file.
+> **✅ Cập nhật 2026-10-10 (sau):** đã **sửa trực tiếp** 10 tài liệu FAIL và kiểm tra độc lập từng bản sửa → **0 tài liệu FAIL** (3 PASS · 35 PASS-WITH-WARNINGS). Xem phần **🛠️ SỬA TRỰC TIẾP** ở cuối file.
 >
 > ⚠️ **Nguyên tắc rà soát:** chỉ đọc, KHÔNG chỉnh sửa file gốc/markdown. PDF gốc là chuẩn. Mọi chỗ markdown khác bản gốc đều bị cờ — **kể cả khi markdown "tự sửa cho đúng y khoa"** (vd `ln10→log10`, `mmHg→mmol/L`, `Dưới→Từ`); khuyến nghị giữ đúng nguyên văn gốc (kèm chú thích), không tự ý sửa văn bản pháp quy.
 
@@ -614,3 +615,32 @@ Sửa ở `2f8555f` (186 dòng, 5 vùng). Vision PDF tr.19, 22, 150, 209–211, 
 - ⚪ N6 — Sơ đồ 2.1 propionic chỉ còn chữ thay thế (MD 3588); "1: 20.00"→"20.000".
 
 > *Phương pháp re-review: agent `ref-doc-fidelity-checker`, vision (pdftoppm→PNG) cho mọi bảng/số liệu trọng yếu, text-layer để định vị; #12 so tự động 1.566 hàng với bảng WHO chính thức rồi phân xử ô lệch bằng ảnh PDF. Chỉ đọc — không chỉnh sửa file.*
+
+---
+# 🛠️ SỬA TRỰC TIẾP 10 tài liệu FAIL (2026-10-10)
+
+> Quy trình cho mỗi tài liệu: (1) agent sửa — **chép từ ảnh PDF, không tự sinh/tính số liệu**, giữ nguyên văn gốc (lỗi gốc → ghi chú biên tập), lưu đồ → mermaid đã kiểm cú pháp; (2) **agent `ref-doc-fidelity-checker` độc lập** đối chiếu mọi hunk của diff với ảnh PDF (bảng số lớn được chép lại độc lập rồi so tự động); (3) chỉ commit lên `main` khi đạt. Mọi lỗi 🔴/🟠/🟡 được giao đều đã đóng; cột ⚪ là lỗi nhỏ còn lại.
+
+| # | refId | Tài liệu | Trước | Sau sửa (đã kiểm độc lập) | 🔴 | 🟠 | 🟡 | ⚪ | Kiểm tra trọng yếu |
+| :-: | :-- | :-- | :-- | :-- | :-: | :-: | :-: | :-: | :-- |
+| 4 | REF_MOH_2010_QD3192 | Tăng huyết áp | 🔴 FAIL | 🟢 **PASS** | 0 | 0 | 0 | 1 | Sơ đồ 1, PL3 4 bước, PL5.3 15/15 cạnh |
+| 5 | REF_MOH_2023_QD1575 | Tiêm chủng trẻ em | 🔴 FAIL | 🟡 **PASS-WITH-WARNINGS** | 0 | 0 | 0 | 2 | PL VII từng ô (MMR/SCID, sốt vàng), ban biên soạn |
+| 10 | REF_MOH_2023_QD2248 | Hội chứng mạch vành mạn | 🔴 FAIL | 🟢 **PASS** | 0 | 0 | 0 | 1 | Hình 8 (60 ô), Hình 9–11 từng node/mũi tên |
+| 12 | REF_MOH_2024_QD3777 | Dinh dưỡng nhân trắc | 🔴 FAIL | 🟡 **PASS-WITH-WARNINGS** | 0 | 0 | 0 | 2 | Chép độc lập ~1.000 hàng → 0 ô lệch (BMI gái 132/132, PL3 151×2) |
+| 17 | REF_MOH_2023_QD2760 | Sốt xuất huyết Dengue | 🔴 FAIL | 🟡 **PASS-WITH-WARNINGS** | 0 | 0 | 0 | 4 | PL9 **724/724 ô** khớp; PL4/5/11/12/16.1/16.2 |
+| 22 | REF_MOH_2021_QD5968 | HIV/AIDS | 🔴 FAIL | 🟡 **PASS-WITH-WARNINGS** | 0 | 0 | 0 | 1 | Bảng 16 từng ô, Bảng 20/21, tổ biên tập |
+| 26 | REF_MOH_2024_QD2388 | Bệnh thận mạn | 🔴 FAIL | 🟡 **PASS-WITH-WARNINGS** | 0 | 0 | 0 | 2 | 14 hình (13 mermaid + 1 bảng), ngưỡng ≥ (Tolvaptan đối chứng ảnh tr.179) |
+| 35 | REF_MOH_2020_QD2767 | Bệnh trẻ em / Nhi | 🔴 FAIL | 🟡 **PASS-WITH-WARNINGS** | 0 | 0 | 0 | 4 | Bảng 1 kháng sinh tiêm **38/38 thuốc × 14 cột**; Bảng 4.2 ure; Zolgensma |
+| 37 | REF_MOH_2026_QD2131 | COPD 2026 | 🔴 FAIL | 🟡 **PASS-WITH-WARNINGS** | 0 | 0 | 0 | ~5 | 14/14 lưu đồ; PL10 mọi cặp Clcr↔liều; không mất con số nào so với PDF |
+| 38 | REF_MOH_2026_QD2147 | Viêm phổi cộng đồng 2026 | 🔴 FAIL | 🟡 **PASS-WITH-WARNINGS** | 0 | 0 | 0 | ~4 | Bảng Klebsiella về đúng mục; PL3 34 hàng; ~140 chỗ nối chữ đối chiếu text-layer |
+
+**Trạng thái toàn thư viện (38 tài liệu local):** 🟢 PASS 3 · 🟡 PASS-WITH-WARNINGS 35 · 🔴 FAIL **0**.
+
+**Cần biên tập viên y khoa quyết định (mâu thuẫn có sẵn trong bản gốc, đã giữ nguyên văn + ghi chú biên tập):**
+- #35 Nhi: lưu đồ co giật tr.22 (Midazolam 0,5 mg/kg; Phenobarbital 10–15 phút) ≠ chính văn tr.19 (0,3 mg/kg; 15–20 phút).
+- #26 Thận mạn Hình 3: ns-MRA "ACR ≥30 mg/g (≥30 mg/mmol)" — đơn vị mmol có vẻ là lỗi gốc (KDIGO: ≥3 mg/mmol).
+- #38 Viêm phổi: "Tobramycin 5 mg/kg mỗi 2 4 giờ" (in tách chữ số); procalcitonin "0.25 mg/dl".
+- #37 COPD: GOLD 1 "> 80%" (Biểu đồ) vs "≥ 80%" (bảng); CAT "8 câu hỏi" nhưng hình có 7 mục.
+- #4 THA PL3: ký hiệu so sánh trước "140/90mmHg" mờ trên bản quét (đọc theo ngữ cảnh "<"/"≥").
+
+**Sửa thêm toàn repo:** 13 khối mermaid lỗi cú pháp (không render trên web) ở QD1832, QD4416, QD2767, QD5968, QD2248, QD2760 → 131/131 khối hợp lệ; ký tự Private Use (glyph Symbol/Wingdings: ↓ ↑ → • ✓…) ở QD5481, QD2598, QD2147, QD2131 → Unicode chuẩn. CI nay chặn cả hai lỗi này (`scripts/check_mermaid.js`, `validate_library.py`).
