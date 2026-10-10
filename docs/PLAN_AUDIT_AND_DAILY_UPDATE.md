@@ -61,6 +61,9 @@ Với mỗi tài liệu: agent chỉ re-check **các finding đã ghi** + vùng 
 
 ## PHẦN B — Routine chạy hằng ngày cập nhật tài liệu mới
 
+> ✅ **Đã triển khai 2026-10-10.** Quy trình: [`.claude/routines/daily-update.md`](../.claude/routines/daily-update.md) · quy tắc chuyển đổi: [`.claude/routines/conversion-rules.md`](../.claude/routines/conversion-rules.md) · theo dõi: `audit/seen_sources.json`, `audit/routine_log.md`.
+> Khác với plan ban đầu theo quyết định của chủ repo: **commit thẳng lên `main`** sau khi bản chuyển đổi qua kiểm tra độc lập (🔴/🟠/🟡 = 0), **không tạo PR/issue**; tài liệu không đạt sau 2 vòng sửa → không commit, ghi `blocked`.
+
 ### B1. Hình thức
 - **Claude Code Routine** (scheduled trigger), mỗi lần chạy tạo **session mới** trên repo này.
 - Lịch đề xuất: `CRON_TZ=Asia/Ho_Chi_Minh 52 6 * * *` (06:52 sáng mỗi ngày giờ VN; lệch khỏi phút :00 để tránh giờ cao điểm).

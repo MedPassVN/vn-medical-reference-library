@@ -1,0 +1,449 @@
+{
+  "_schema": {
+    "status": "accepted | rejected | queued | blocked",
+    "key": "<documentNumber>|<năm ban hành>",
+    "attempts": "số lần thử (blocked: tối đa 3)"
+  },
+  "updatedAt": "2026-10-10",
+  "items": [
+    {
+      "key": "51/2017/TT-BYT|2017",
+      "documentNumber": "51/2017/TT-BYT",
+      "title": "Thông tư số 51/2017/TT-BYT ngày 29/12/2017 Hướng dẫn phòng, chẩn đoán và xử trí phản vệ",
+      "status": "accepted",
+      "refId": "REF_MOH_2017_TT51",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "15/2023/QH15|2024",
+      "documentNumber": "15/2023/QH15",
+      "title": "Luật Khám bệnh, chữa bệnh số 15/2023/QH15",
+      "status": "accepted",
+      "refId": "REF_LAW_2023_KCB",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "1904/QĐ-BYT|2014",
+      "documentNumber": "1904/QĐ-BYT",
+      "title": "Quyết định số 1904/QĐ-BYT ngày 30/05/2014 ban hành tài liệu Hướng dẫn quy trình kỹ thuật chuyên ngành Hồi sức - Cấp cứu và Chống độc",
+      "status": "accepted",
+      "refId": "REF_MOH_2014_QD1904",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "361/QĐ-BYT|2014",
+      "documentNumber": "361/QĐ-BYT",
+      "title": "Quyết định số 361/QĐ-BYT ngày 25/01/2014 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị các bệnh về Cơ xương khớp",
+      "status": "accepted",
+      "refId": "REF_MOH_2014_QD361",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "Cập nhật năm 2020|2020",
+      "documentNumber": "Cập nhật năm 2020",
+      "title": "Tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị bệnh trẻ em (cập nhật năm 2020) của Bệnh viện Nhi Trung ương",
+      "status": "accepted",
+      "refId": "REF_MOH_2020_QD2767",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "4128/QĐ-BYT|2020",
+      "documentNumber": "4128/QĐ-BYT",
+      "title": "Quyết định số 4128/QĐ-BYT ngày 30/08/2020 ban hành tạm thời bổ sung danh mục kỹ thuật áp dụng trong hội chẩn, tư vấn khám, chữa bệnh từ xa",
+      "status": "accepted",
+      "refId": "REF_MOH_2020_QD4128",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "1851/QĐ-BYT|2020",
+      "documentNumber": "1851/QĐ-BYT",
+      "title": "Quyết định số 1851/QĐ-BYT ngày 24/04/2020 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị hen phế quản người lớn và trẻ em >= 12 tuổi",
+      "status": "accepted",
+      "refId": "REF_MOH_2020_QD1851",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "2767/QĐ-BYT|2023",
+      "documentNumber": "2767/QĐ-BYT",
+      "title": "Quyết định số 2767/QĐ-BYT ngày 04/07/2023 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Bệnh phổi tắc nghẽn mạn tính",
+      "status": "accepted",
+      "refId": "REF_MOH_2023_QD2767",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "3192/QĐ-BYT|2010",
+      "documentNumber": "3192/QĐ-BYT",
+      "title": "Quyết định số 3192/QĐ-BYT ngày 31/08/2010 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Tăng huyết áp",
+      "status": "accepted",
+      "refId": "REF_MOH_2010_QD3192",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "5481/QĐ-BYT|2020",
+      "documentNumber": "5481/QĐ-BYT",
+      "title": "Quyết định số 5481/QĐ-BYT ngày 24/12/2020 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị đái tháo đường typ 2",
+      "status": "accepted",
+      "refId": "REF_MOH_2020_QD5481",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "3312/QĐ-BYT|2024",
+      "documentNumber": "3312/QĐ-BYT",
+      "title": "Quyết định số 3312/QĐ-BYT ngày 05/11/2024 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị đột quỵ não",
+      "status": "accepted",
+      "refId": "REF_MOH_2024_QD3312",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "3310/QĐ-BYT|2019",
+      "documentNumber": "3310/QĐ-BYT",
+      "title": "Quyết định số 3310/QĐ-BYT ngày 29/07/2019 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị viêm gan vi rút B",
+      "status": "accepted",
+      "refId": "REF_MOH_2019_QD3310",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "1575/QĐ-BYT|2023",
+      "documentNumber": "1575/QĐ-BYT",
+      "title": "Quyết định số 1575/QĐ-BYT ngày 27/03/2023 ban hành Hướng dẫn khám sàng lọc trước tiêm chủng đối với trẻ em",
+      "status": "accepted",
+      "refId": "REF_MOH_2023_QD1575",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "2248/QĐ-BYT|2023",
+      "documentNumber": "2248/QĐ-BYT",
+      "title": "Quyết định số 2248/QĐ-BYT ngày 19/05/2023 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Hội chứng mạch vành mạn",
+      "status": "accepted",
+      "refId": "REF_MOH_2023_QD2248",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "1470/QĐ-BYT|2024",
+      "documentNumber": "1470/QĐ-BYT",
+      "title": "Quyết định số 1470/QĐ-BYT ngày 29/05/2024 ban hành Hướng dẫn quốc gia về sàng lọc và quản lý đái tháo đường thai kỳ",
+      "status": "accepted",
+      "refId": "REF_MOH_2024_QD1470",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "2388/QĐ-BYT|2024",
+      "documentNumber": "2388/QĐ-BYT",
+      "title": "Quyết định số 2388/QĐ-BYT ngày 12/08/2024 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị bệnh thận mạn và một số bệnh lý thận",
+      "status": "accepted",
+      "refId": "REF_MOH_2024_QD2388",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "2760/QĐ-BYT|2023",
+      "documentNumber": "2760/QĐ-BYT",
+      "title": "Quyết định số 2760/QĐ-BYT ngày 04/07/2023 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị Sốt xuất huyết Dengue",
+      "status": "accepted",
+      "refId": "REF_MOH_2023_QD2760",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "GINA 2024 Report|2024",
+      "documentNumber": "GINA 2024 Report",
+      "title": "Global Strategy for Asthma Management and Prevention",
+      "status": "accepted",
+      "refId": "REF_INT_GINA_2024",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "GOLD 2024 Report|2023",
+      "documentNumber": "GOLD 2024 Report",
+      "title": "Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease",
+      "status": "accepted",
+      "refId": "REF_INT_GOLD_2024",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "Diabetes Care 2024;47(Suppl. 1)|2024",
+      "documentNumber": "Diabetes Care 2024;47(Suppl. 1)",
+      "title": "Standards of Care in Diabetes - 2024",
+      "status": "accepted",
+      "refId": "REF_INT_ADA_2024",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "KDIGO 2024 CKD|2024",
+      "documentNumber": "KDIGO 2024 CKD",
+      "title": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease",
+      "status": "accepted",
+      "refId": "REF_INT_KDIGO_2024",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "ESC ACS 2023|2023",
+      "documentNumber": "ESC ACS 2023",
+      "title": "2023 ESC Guidelines for the management of acute coronary syndromes",
+      "status": "accepted",
+      "refId": "REF_INT_ESC_2023",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "708/QĐ-BYT|2015",
+      "documentNumber": "708/QĐ-BYT",
+      "title": "Quyết định số 708/QĐ-BYT ngày 02/03/2015 ban hành Hướng dẫn sử dụng kháng sinh",
+      "status": "accepted",
+      "refId": "REF_MOH_2015_QD708",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "162/QĐ-BYT|2024",
+      "documentNumber": "162/QĐ-BYT",
+      "title": "Quyết định số 162/QĐ-BYT ngày 19/01/2024 ban hành Hướng dẫn Chẩn đoán, điều trị và dự phòng bệnh Lao",
+      "status": "accepted",
+      "refId": "REF_MOH_2024_QD162",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "5968/QĐ-BYT|2021",
+      "documentNumber": "5968/QĐ-BYT",
+      "title": "Quyết định số 5968/QĐ-BYT ngày 31/12/2021 ban hành Hướng dẫn điều trị và chăm sóc HIV/AIDS",
+      "status": "accepted",
+      "refId": "REF_MOH_2021_QD5968",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "5642/QĐ-BYT|2015",
+      "documentNumber": "5642/QĐ-BYT",
+      "title": "Quyết định số 5642/QĐ-BYT ngày 31/12/2015 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị một số bệnh truyền nhiễm",
+      "status": "accepted",
+      "refId": "REF_MOH_2015_QD5642",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "5165/QĐ-BYT|2021",
+      "documentNumber": "5165/QĐ-BYT",
+      "title": "Quyết định số 5165/QĐ-BYT ngày 09/11/2021 ban hành Hướng dẫn chẩn đoán và điều trị bệnh Lậu",
+      "status": "accepted",
+      "refId": "REF_MOH_2021_QD5165",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "1019/QĐ-BYT|2025",
+      "documentNumber": "1019/QĐ-BYT",
+      "title": "Quyết định số 1019/QĐ-BYT ngày 26/03/2025 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị bệnh Sởi",
+      "status": "accepted",
+      "refId": "REF_MOH_2025_QD1019",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "1840/QĐ-BYT|2025",
+      "documentNumber": "1840/QĐ-BYT",
+      "title": "Quyết định số 1840/QĐ-BYT ngày 03/06/2025 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị cúm mùa",
+      "status": "accepted",
+      "refId": "REF_MOH_2025_QD1840",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "1832/QĐ-BYT|2022",
+      "documentNumber": "1832/QĐ-BYT",
+      "title": "Quyết định số 1832/QĐ-BYT ngày 01/07/2022 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị một số bệnh lý Huyết học",
+      "status": "accepted",
+      "refId": "REF_MOH_2022_QD1832",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "2058/QĐ-BYT|2020",
+      "documentNumber": "2058/QĐ-BYT",
+      "title": "Quyết định số 2058/QĐ-BYT ngày 14/05/2020 ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị một số rối loạn tâm thần thường gặp",
+      "status": "accepted",
+      "refId": "REF_MOH_2020_QD2058",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "40/QĐ-BYT|2015",
+      "documentNumber": "40/QĐ-BYT",
+      "title": "Quyết định số 40/QĐ-BYT ngày 12/01/2015 ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị các bệnh về mắt",
+      "status": "accepted",
+      "refId": "REF_MOH_2015_QD40",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "2558/QĐ-BYT|2022",
+      "documentNumber": "2558/QĐ-BYT",
+      "title": "Quyết định số 2558/QĐ-BYT ngày 20/09/2022 ban hành tài liệu Hướng dẫn chẩn đoán, điều trị và quản lý bệnh võng mạc đái tháo đường",
+      "status": "accepted",
+      "refId": "REF_MOH_2022_QD2558",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "5643/QĐ-BYT|2015",
+      "documentNumber": "5643/QĐ-BYT",
+      "title": "Quyết định số 5643/QĐ-BYT ngày 31/12/2015 ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị một số bệnh về Tai Mũi Họng",
+      "status": "accepted",
+      "refId": "REF_MOH_2015_QD5643",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "4416/QĐ-BYT|2023",
+      "documentNumber": "4416/QĐ-BYT",
+      "title": "Quyết định số 4416/QĐ-BYT ngày 06/12/2023 ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị các bệnh Da liễu",
+      "status": "accepted",
+      "refId": "REF_MOH_2023_QD4416",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "4484/QĐ-BYT|2016",
+      "documentNumber": "4484/QĐ-BYT",
+      "title": "Quyết định số 4484/QĐ-BYT ngày 18/08/2016 ban hành tài liệu Hướng dẫn quy trình kỹ thuật Ngoại khoa, chuyên khoa Chấn thương Chỉnh hình",
+      "status": "accepted",
+      "refId": "REF_MOH_2016_QD4484",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "315/QĐ-BYT|2015",
+      "documentNumber": "315/QĐ-BYT",
+      "title": "Quyết định số 315/QĐ-BYT ngày 29/01/2015 ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị các bệnh Sản Phụ khoa",
+      "status": "accepted",
+      "refId": "REF_MOH_2015_QD315",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "2598/QĐ-BYT|2025",
+      "documentNumber": "2598/QĐ-BYT",
+      "title": "Quyết định số 2598/QĐ-BYT ngày 18/08/2025 ban hành tài liệu Hướng dẫn quốc gia về Dinh dưỡng lâm sàng",
+      "status": "accepted",
+      "refId": "REF_MOH_2025_QD2598",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "3777/QĐ-BYT|2024",
+      "documentNumber": "3777/QĐ-BYT",
+      "title": "Quyết định số 3777/QĐ-BYT ngày 16/12/2024 ban hành tài liệu Hướng dẫn chuyên môn Đánh giá tình trạng dinh dưỡng trẻ em bằng các chỉ số nhân trắc cơ bản tại cộng đồng",
+      "status": "accepted",
+      "refId": "REF_MOH_2024_QD3777",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "5590/QĐ-BYT|2017",
+      "documentNumber": "5590/QĐ-BYT",
+      "title": "Quyết định số 5590/QĐ-BYT ngày 13/12/2017 ban hành Hướng dẫn quy trình kỹ thuật Ngoại khoa, chuyên khoa Phẫu thuật Thần kinh",
+      "status": "accepted",
+      "refId": "REF_MOH_2017_QD5590",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "5731/QĐ-BYT|2017",
+      "documentNumber": "5731/QĐ-BYT",
+      "title": "Quyết định số 5731/QĐ-BYT ngày 21/12/2017 ban hành Hướng dẫn quy trình kỹ thuật Ngoại khoa, chuyên khoa Phẫu thuật Tiết niệu",
+      "status": "accepted",
+      "refId": "REF_MOH_2017_QD5731",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "2131/QĐ-BYT|2026",
+      "documentNumber": "2131/QĐ-BYT",
+      "title": "Quyết định số 2131/QĐ-BYT ngày 14/07/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị bệnh phổi tắc nghẽn mạn tính”",
+      "status": "accepted",
+      "refId": "REF_MOH_2026_QD2131",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "2147/QĐ-BYT|2026",
+      "documentNumber": "2147/QĐ-BYT",
+      "title": "Quyết định số 2147/QĐ-BYT ngày 15/07/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn”",
+      "status": "accepted",
+      "refId": "REF_MOH_2026_QD2147",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10",
+      "note": "có sẵn trong thư viện khi tạo routine"
+    },
+    {
+      "key": "4815/QĐ-BYT|2020",
+      "documentNumber": "4815/QĐ-BYT",
+      "title": "Quyết định 4815/QĐ-BYT ngày 20/11/2020 – Hướng dẫn chẩn đoán và điều trị viêm phổi mắc phải cộng đồng ở người lớn",
+      "status": "rejected",
+      "reason": "đã bị thay thế bởi QĐ 2147/QĐ-BYT (REF_MOH_2026_QD2147)",
+      "firstSeen": "2026-10-10",
+      "lastChecked": "2026-10-10"
+    }
+  ]
+}
