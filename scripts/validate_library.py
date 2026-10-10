@@ -7,7 +7,7 @@ Dùng:
     python3 scripts/validate_library.py --check-urls    # thêm kiểm tra sourceUrl còn sống (cần mạng)
 
 Mức độ:
-    ERROR   — chặn merge (sai schema, thiếu file, file mồ côi, Mermaid hở...)
+    ERROR   — chặn merge (sai schema, thiếu file, file mồ côi, code fence hở, ký tự Private Use...)
     WARNING — cần người xem (header trống số/ngày, bảng lệch cột, link chết...)
 """
 import argparse
@@ -131,6 +131,11 @@ def check_markdown(rep, ref_id, entry, text):
 
     if not any(l.startswith("#") for l in lines[:200]):
         rep.warn(ref_id, "md-structure", "200 dòng đầu không có heading Markdown — có thể là text thô chưa định dạng")
+
+    pua = [(n, hex(ord(ch))) for n, l in enumerate(lines, 1) for ch in l if 0xE000 <= ord(ch) <= 0xF8FF]
+    if pua:
+        rep.error(ref_id, "md-private-use-char",
+                  f"{len(pua)} ký tự Unicode Private Use (glyph font Symbol/Wingdings, không hiển thị trên web), vd dòng {pua[:5]}")
 
     for n, l in enumerate(lines, 1):
         if NOT_IN_SOURCE_RE.search(l):

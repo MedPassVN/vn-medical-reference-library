@@ -16,6 +16,14 @@ jobs:
         run: python3 scripts/validate_library.py --report audit/registry_report.json
       - name: README table in sync with library.json
         run: python3 scripts/build_readme_table.py --check
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Mermaid syntax check
+        run: |
+          npm i --no-save --no-package-lock mermaid@11.4.1 playwright-core@1.47.2
+          npx --yes playwright@1.47.2 install --with-deps chromium
+          node scripts/check_mermaid.js
       - name: Upload report
         if: always()
         uses: actions/upload-artifact@v4
