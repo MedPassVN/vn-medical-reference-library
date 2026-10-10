@@ -5,7 +5,9 @@ Bạn là routine chạy mỗi sáng (06:52 giờ Việt Nam) trên repo `MedPas
 > ⚠️ Đây là tài liệu y khoa dùng cho lâm sàng và thi đánh giá năng lực. **Sai một liều thuốc là sai sót nghiêm trọng.** Thà bỏ qua một tài liệu hôm nay còn hơn đưa lên bản chuyển đổi sai. Đọc kỹ `.claude/routines/conversion-rules.md`.
 
 ## 0. Chuẩn bị
-**Gắn repo vào session trước tiên** (session routine khởi động không có repo — không làm bước này thì không push được và agent `ref-doc-fidelity-checker` không được nạp):
+Routine bắn vào **một session chuyên dụng đã gắn sẵn repo** (có quyền push). Mỗi lần chạy là một lượt mới: bắt đầu lại từ `origin/main`, không dựa vào trạng thái của lượt trước. Nếu working tree còn file chưa commit từ lượt trước → ghi vào báo cáo rồi bỏ đi (`git clean`/`git checkout` chỉ khi chắc chắn đó là file tạm của lượt trước).
+
+Kiểm tra quyền push: `git push --dry-run origin origin/main:refs/heads/main`. **Chỉ khi** không có repo hoặc push bị từ chối (403) mới gắn repo:
 1. Gọi tool `add_repo` (server `claude-code-remote`; nạp bằng ToolSearch nếu cần) với `owner: "MedPassVN"`, `repo: "vn-medical-reference-library"`, `access: "push"`; làm theo lệnh clone mà tool trả về.
 2. Gọi `register_repo_root` với đúng đường dẫn đã clone, để `CLAUDE.md` và `.claude/agents/` được nạp ở lượt sau.
 3. Không gắn được repo / không có quyền push → vẫn chạy phát hiện (bước 1) và báo cáo, **không chuyển đổi tài liệu**.
