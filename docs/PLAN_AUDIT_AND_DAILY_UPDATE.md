@@ -87,6 +87,7 @@ Với mỗi tài liệu: agent chỉ re-check **các finding đã ghi** + vùng 
 
 ### B4. Điều kiện tiên quyết (cần kiểm tra trước khi bật routine)
 - **Network policy** của environment phải cho phép truy cập các host nguồn (`kcb.vn`, `moh.gov.vn`, `vbpl.vn`, `congbao.chinhphu.vn`, và các site quốc tế). Cần thử truy cập thật trong 1 lần chạy thủ công.
+  - `moh.gov.vn` chặn IP nước ngoài (reset kết nối) → tải qua MedPass fetch relay: `scripts/relay_fetch.py`, xem [`MEDPASS_FETCH_RELAY.md`](MEDPASS_FETCH_RELAY.md). Environment của routine cần biến `AGENT_AUTH_TOKEN`.
 - Công cụ chuyển đổi trong container: `poppler-utils` (`pdftoppm`, `pdfinfo`), `pdfplumber`; nếu thiếu → thêm vào setup script / SessionStart hook.
 - GitHub App có quyền push nhánh + mở PR trên `medpassvn/vn-medical-reference-library`.
 - Prompt của routine lưu thành file trong repo (`.claude/routines/daily-update.md`) để version hoá, routine chỉ cần "đọc & làm theo file này".
