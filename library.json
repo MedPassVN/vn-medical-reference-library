@@ -717,5 +717,21 @@
     "effectiveDate": "2026-07-15",
     "sourceUrl": "https://trungtamthuoc.com/bai-viet/huong-dan-chan-doan-va-dieu-tri-viem-phoi-mac-phai-cong-dong-o-nguoi-lon-nam-2026",
     "localPath": "raw_sources/REF_MOH_2026_QD2147.pdf"
+  },
+  {
+    "title": "Quyết định số 2989/QĐ-BYT ngày 22/09/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị bệnh suy dinh dưỡng cấp tính ở trẻ em từ 0 đến 59 tháng tuổi”",
+    "tags": [
+      "PEDIATRICS",
+      "Nhi khoa",
+      "Dinh dưỡng trẻ em"
+    ],
+    "version": "2026",
+    "refId": "REF_MOH_2026_QD2989",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "2989/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2026-09-22",
+    "sourceUrl": "https://kcb.vn/upload/2005611/20260924/Q__ban_hanh_TL.signed_6bdd3.pdf",
+    "localPath": "raw_sources/REF_MOH_2026_QD2989.pdf"
   }
 ]

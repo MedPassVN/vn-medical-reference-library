@@ -62,6 +62,7 @@
 | 36 | REF_MOH_2014_QD1904 | Hồi sức Cấp cứu Chống độc (232 QT) | 892 | 🟡 PASS-WITH-WARNINGS | 0 | 2 | 0 | 2 |
 | 37 | REF_MOH_2026_QD2131 | COPD 2026 | 130 | 🔴 **FAIL** | 0 | 8 | 5 | 4 |
 | 38 | REF_MOH_2026_QD2147 | Viêm phổi cộng đồng 2026 | 93 | 🔴 **FAIL** | 1 | 3 | 5 | 6 |
+| 39 | REF_MOH_2026_QD2989 | Suy dinh dưỡng cấp tính trẻ 0–59 tháng (2026) | 44 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -361,6 +362,15 @@ Header khớp `library.json` (2147/QĐ-BYT, 15/7/2026, KT. Bộ trưởng – Th
 - 🟡 Phụ lục 3 hàng 1–15: MD âm thầm đảo cột "Hậu quả" ↔ "Cơ chế" (PDF gốc in đảo tiêu đề, nhất quán); hàng 16–34 giữ thứ tự gốc → không nhất quán. Mẫu lỗi #6.
 - 🟡 Mục lục (MD 191–367) bị chuyển thành heading thật → cây heading nhân đôi; thiếu H1 tiêu đề tài liệu.
 - ⚪ Số hiệu heading chèn khoảng trắng ("5.4. 1.4."); rác tách chữ do trích text ("hô h ấp", "nghi ệm"…); bảng ATS và bảng căn nguyên tr.32 thành chữ; hàng SMX/TMP cuối Bảng 4.4 lặp 2 lần (MD 1231–1232); một số ô CrCl PL1 dời cột (không đổi nghĩa); lỗi của PDF gốc chép trung thực (procalcitonin "0.25 mg/dl", "(Bảng 2.2)" → 3.2, "Moxiflloxacin", "Clarithormycin", "henylephrin"); "Tóm tắt cập nhật" 4.1–4.3 bị nâng `##`.
+
+## 39. REF_MOH_2026_QD2989 — Suy dinh dưỡng cấp tính ở trẻ em 0–59 tháng (44 trang) — 🟡 PASS-WITH-WARNINGS
+> Routine hằng ngày 2026-10-10 · chuyển đổi mới từ ảnh PDF · kiểm tra độc lập bằng agent `ref-doc-fidelity-checker`: đọc 100% trang (44/44), bảng số chép độc lập từ ảnh rồi so tự động · 2 vòng (vòng 1: 🔴0 🟠0 🟡2 ⚪5 → sửa → vòng 2: 🔴0 🟠0 🟡0 ⚪1).
+
+Header khớp `library.json` (2989/QĐ-BYT, **22/9/2026** theo ảnh trang 1 — bài tin kcb.vn ghi 22/8/2026; **thay thế QĐ 4487/QĐ-BYT ngày 18/8/2016**, văn bản này không có trong thư viện). Bảng 1, PL4 (thành phần TPDDYH 1/2/3, khẩu phần TPDDYH 3 theo cân nặng 14 hàng, tr.40–41), PL5 so tự động **0 ô lệch**; Bảng 2, 3 và bảng "10 bước điều trị" (tr.17) khớp; 2 lưu đồ mermaid (PL2, PL3) khớp từng node/mũi tên. Liều/ngưỡng trọng yếu khớp: glucose 10% 50 ml / 5 ml/kg, sốc 15 ml/kg/giờ, ReSoMal 10 ml/kg/giờ, vitamin A 50.000/100.000/200.000 IU, kẽm, sắt 3 mg/kg/ngày, B1 2 mg/kg, F-75/F-100, MUAC 115/125 mm, WHZ −3/−2 SD.
+
+- 🟡 (vòng 1, đã sửa) Chưa có entry `library.json`; ghi chú PL2 mô tả sai gốc mũi tên tới NỘI TRÚ (hình vẽ từ khung 05) → mermaid sửa `B05 --> NT` theo hình.
+- ⚪ "*(Đã ký)*" ở dòng chữ ký (quy ước chung của thư viện).
+- **Mâu thuẫn trong bản gốc (giữ nguyên văn + ghi chú biên tập):** "truyền 10 ml khối hồng cầu trong 3 giờ" không có "/kg" (tr.20); "mạch tăng 25 lần/phút" (tr.20) vs "> 25/phút" (tr.23); Vitamin A "45-308" trong 100 kcal (tr.40) không nhất quán với 800–1600 mcg/100 g; pha 2 "Chuyển tiếp (Tuần 2 trở đi)" (PL3) vs "Hồi phục (Tuần 2–6)" (tr.17, mục III.1); "40–60% tổng nhu cầu" vs "½ đến 1/3 liều điều trị" (tr.29); PL5 mốc "15–29" rồi "Trên 30"; chú thích Bảng 1 định nghĩa BMI nhưng bảng không có BMI; mũi tên PL2 tới NỘI TRÚ từ khung 05 trong khi mục II.6 đặt ở bước 6.
 
 ---
 # 📊 TỔNG KẾT (36/36 tài liệu)
