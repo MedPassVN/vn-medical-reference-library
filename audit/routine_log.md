@@ -2,6 +2,12 @@
 
 Mỗi lần chạy có thay đổi thêm một mục (mới nhất ở trên). Quy trình: `.claude/routines/daily-update.md`.
 
+## 2026-10-10 — lượt chạy routine (lượt 2)
+- **Đã thêm (kiểm tra độc lập, 2 agent theo nửa tài liệu):** `REF_MOH_2026_QD3074` — QĐ 3074/QĐ-BYT ngày 02/10/2026, QTKT Tạo hình & Thẩm mỹ - Tập 2 (242 trang, 71 quy trình; hiệu lực 01/01/2028) — PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪5 (tính 2 tài liệu vì > 200 trang).
+- **Bị chặn:** QĐ 456/QĐ-BYT (u xơ cơ tử cung, 12/02/2026) — không có bản PDF chính thống đầy đủ (lần thử 1/3).
+- **Xếp hàng:** QĐ 3073 (QTKT Tạo hình & Thẩm mỹ Tập 1, 1185 trang); QĐ 2480, 1269, 1359, 915, 916 (chưa tìm bản PDF chính thống).
+- Không có văn bản mới ngoài hàng đợi; không có cập nhật quốc tế mới. Validator 0 ERROR; mermaid 136 khối, invalid 0.
+
 ## 2026-10-10 — lượt chạy routine
 - **Đã thêm (kiểm tra độc lập, 2 vòng):**
   - `REF_MOH_2026_QD2989` — QĐ 2989/QĐ-BYT ngày 22/09/2026, Suy dinh dưỡng cấp tính trẻ 0–59 tháng (44 trang) — PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪1.

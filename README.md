@@ -52,7 +52,7 @@ if response.status_code == 200:
 ---
 
 <!-- LIBRARY_TABLE_START (tự sinh bởi scripts/build_readme_table.py — không sửa tay) -->
-## 🗂️ Tra cứu nhanh Danh mục Tài liệu hiện có (48 Tài liệu Cốt lõi)
+## 🗂️ Tra cứu nhanh Danh mục Tài liệu hiện có (49 Tài liệu Cốt lõi)
 
 Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn trong thư viện:
 
@@ -106,6 +106,7 @@ Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn 
 | **`REF_INT_GINA_2026`** | Global Strategy for Asthma Management and Prevention | `QST Quốc tế` | Global Initiative for Asthma (GINA) | 2026-05-05 | [Direct Link 🌐](https://ginasthma.org/2026-gina-strategy-report/) |
 | **`REF_INT_GOLD_2026`** | Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease | `QST Quốc tế` | Global Initiative for Chronic Obstructive Lung Disease (GOLD) | 2025-12-08 | [Direct Link 🌐](https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf) |
 | **`REF_INT_ADA_2026`** | Standards of Care in Diabetes - 2026 | `QST Quốc tế` | American Diabetes Association (ADA) | 2026-01-01 | [Direct Link 🌐](https://diabetesjournals.org/care/issue/49/Supplement_1) |
+| **`REF_MOH_2026_QD3074`** | Quyết định số 3074/QĐ-BYT ngày 02/10/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Tạo hình & Thẩm mỹ - Tập 2” | `Quyết định` | Bộ Y tế Việt Nam | 2028-01-01 | [Download 📥](raw_sources/REF_MOH_2026_QD3074.pdf) |
 <!-- LIBRARY_TABLE_END -->
 
 ---

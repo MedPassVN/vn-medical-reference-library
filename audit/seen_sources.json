@@ -479,11 +479,12 @@
       "key": "3074/QĐ-BYT|2026",
       "documentNumber": "3074/QĐ-BYT",
       "title": "Quyết định số 3074/QĐ-BYT ngày 02/10/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Tạo hình & Thẩm mỹ - Tập 2”",
-      "status": "queued",
-      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; PDF 242 trang (>200, tính 2 tài liệu)",
+      "status": "accepted",
       "sourceUrl": "https://kcb.vn/upload/2005611/20261005/T_P_2._Ta_o_hi_nh_tha__m_my___Repaired_.signed_7e010.pdf",
       "firstSeen": "2026-10-10",
-      "lastChecked": "2026-10-10"
+      "lastChecked": "2026-10-10",
+      "refId": "REF_MOH_2026_QD3074",
+      "note": "routine 2026-10-10 (lượt 2); kiểm tra độc lập PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪5"
     },
     {
       "key": "2480/QĐ-BYT|2026",
@@ -534,10 +535,11 @@
       "key": "456/QĐ-BYT|2026",
       "documentNumber": "456/QĐ-BYT",
       "title": "Quyết định số 456/QĐ-BYT năm 2026 ban hành Hướng dẫn chẩn đoán và xử trí u xơ cơ tử cung",
-      "status": "queued",
-      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; mới thấy qua tin/luatvietnam, chưa tìm bản PDF chính thống",
+      "status": "blocked",
+      "reason": "không tìm được bản PDF đầy đủ chính thống (chỉ có bản .doc gõ lại trên files01.duytan.edu.vn; luatvietnam yêu cầu đăng nhập); ký ngày 12/02/2026, thay thế QĐ 3780/QĐ-BYT năm 2019",
       "firstSeen": "2026-10-10",
-      "lastChecked": "2026-10-10"
+      "lastChecked": "2026-10-10",
+      "attempts": 1
     }
   ]
 }

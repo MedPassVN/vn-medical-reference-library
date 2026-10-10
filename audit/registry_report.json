@@ -1,8 +1,8 @@
 {
   "generatedAt": "2026-10-10",
   "summary": {
-    "entries": 48,
-    "localDocs": 40,
+    "entries": 49,
+    "localDocs": 41,
     "errors": 0,
     "warnings": 30
   },
@@ -206,6 +206,11 @@
       "refId": "REF_MOH_2026_QD1740",
       "pages": 42,
       "mdLines": 1102
+    },
+    {
+      "refId": "REF_MOH_2026_QD3074",
+      "pages": 242,
+      "mdLines": 10325
     }
   ],
   "findings": [
