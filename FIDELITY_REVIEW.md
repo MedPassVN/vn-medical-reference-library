@@ -64,6 +64,7 @@
 | 38 | REF_MOH_2026_QD2147 | Viêm phổi cộng đồng 2026 | 93 | 🔴 **FAIL** | 1 | 3 | 5 | 6 |
 | 39 | REF_MOH_2026_QD2989 | Suy dinh dưỡng cấp tính trẻ 0–59 tháng (2026) | 44 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
 | 40 | REF_MOH_2026_QD1740 | Viêm gan vi rút B (2026) | 42 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
+| 41 | REF_MOH_2026_QD3074 | QTKT Tạo hình & Thẩm mỹ - Tập 2 (71 QT, 2026) | 242 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 5 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -381,6 +382,15 @@ Header khớp `library.json` (1740/QĐ-BYT, 16/6/2026, KT. Bộ trưởng – Th
 - 🟡 (vòng 1, đã sửa) Bảng "Các thuật ngữ" bị cắt đôi bởi dòng trống (10 thuật ngữ cuối mất định dạng bảng); chưa có entry `library.json`.
 - ⚪ "*(đã ký)*" ở dòng chữ ký (quy ước chung của thư viện).
 - **Mâu thuẫn trong bản gốc (giữ nguyên văn + ghi chú biên tập):** HBV DNA giai đoạn HBeAg âm "<10³" (PL1) vs "<2000 IU/mL" (Thuật ngữ); tần suất tầm soát HCC 4 mức khác nhau (4.3.1: 24–48 tuần; Bảng 5; 4.3.2b: 12–24 tuần; PL5: tối thiểu 24 tuần); PL5 ô "xơ gan" ghi ngưỡng F2 (APRI >0,5, >7 kPa); 4.2.6.d dự phòng TDF/TAF mọi thai phụ chưa đủ tiêu chuẩn vs PL6 "KHÔNG CẦN" khi HBV DNA <200.000 IU/mL hoặc HBeAg âm; 4.2.6.e "xơ hóa tiến triển (≥F2)" vs PL2 (tiến triển = ≥F3); PL5 "TAF ≥12 tuổi" vs Bảng 4 (≥6 tuổi, ≥25 kg); Bảng 3 tránh TDF khi MLCT <50 vs PL4 vẫn chỉnh liều TDF CrCl 10–49; mốc 3 tháng (thất bại ban đầu) vs 6 tháng (không đáp ứng vi rút); đánh số tiểu mục 4.2.6 bỏ "f", "j".
+
+## 41. REF_MOH_2026_QD3074 — QTKT Tạo hình & Thẩm mỹ - Tập 2 (242 trang, 71 quy trình) — 🟡 PASS-WITH-WARNINGS
+> Routine hằng ngày 2026-10-10 (lượt 2) · chuyển đổi mới từ ảnh PDF bởi 4 agent theo dải trang rồi ghép · kiểm tra độc lập bằng 2 agent `ref-doc-fidelity-checker` (tr.1–111 và tr.112–242), đọc 100% trang, so khớp từng từ với text-layer (ảnh là chuẩn) · nửa đầu: vòng 1 🔴0 🟠0 🟡2 ⚪5 → vòng 2 🔴0 🟠0 🟡0 ⚪2; nửa sau: vòng 1 🔴0 🟠0 🟡1 ⚪6 → vòng 2 🔴0 🟠0 🟡1 ⚪4 → vòng 3 (sau sửa lần 2) 🔴0 🟠0 🟡0 ⚪3. **Toàn tài liệu: 🔴0 🟠0 🟡0 ⚪5.**
+
+Header khớp `library.json` (3074/QĐ-BYT, 02/10/2026, KT. Bộ trưởng – Thứ trưởng thường trực Vũ Mạnh Hà; **hiệu lực từ 01/01/2028** theo Điều 2). Mục lục 73/73 mục và bảng Phụ lục 71 hàng × 3 cột (tr.10–13) chép độc lập từ ảnh, so tự động **0 lệch**. Đủ 71 quy trình theo đúng thứ tự; không phát hiện câu thiếu/bịa/đảo, không con số nào sai (số người thực hiện, thời gian, nồng độ thuốc tê/adrenalin, cỡ chỉ, kích thước, mốc theo dõi, kéo giãn xương 1 mm/ngày…). Tài liệu chỉ có chữ (không bảng số trong thân, không lưu đồ).
+
+- 🟡 (đã sửa) "*(Đã ký và đóng dấu)*" → "*(Đã ký)*" theo quy ước; mâu thuẫn adrenalin chưa được gắn ghi chú; cấp tiêu đề "6.x Bước n" QT50–71 không nhất quán; danh sách QT64/65 bị dàn phẳng sai cấp.
+- ⚪ Chuẩn hóa trình bày: "01tháng"→"01 tháng", "34.PHẪU"/"57.PHẪU" thêm khoảng trắng, glyph Symbol/Wingdings → "-"/"→"; chữ nghiêng "a./b./c." mục 5.8 không đồng đều; một số lỗ đánh số gốc (QT62–67 thiếu 5.4, QT69 thiếu 5.2, mục "4. THẬN TRỌNG" để trống ở QT61, 62, 66, 68, 69) chép nguyên văn không ghi chú.
+- **Mâu thuẫn trong bản gốc (giữ nguyên văn + ghi chú biên tập):** **lidocain adrenalin "1/20000" ở QT16–19** (tr.68, 69, 71, 74, 77; QT16 tiêm dưới da đầu trẻ nhỏ) vs "1/200000" ở QT1, QT8–12 — đậm đặc gấp 10 lần; QT50–52 "khoảng 10 đối với" (thiếu "%"?); QT44 (xương hàm trên) mục 5.4 ghi "xương hàm dưới"; QT52 (hội chứng Poland) chứa nội dung vét hạch nách/u tuyến vú chép từ quy trình cắt tuyến vú; QT23 (ghép xương đồng loại) bước 6 "lấy xương mào chậu tự thân"; QT2 (tạo hình âm đạo) ghi "âm hộ"; Phụ lục ghi TT 23/2023 vs Quyết định TT 23/2024; tiêu đề Phụ lục hàng 3, 12, 40 khác Mục lục; Lời nói đầu ghi "chuyên ngành Thần kinh"; QT61–69 mục 5.8 "đúng kích thước túi" ở quy trình không đặt túi; QT61 theo dõi "2 lần/ngày" vs QT62–65 "1 lần/ngày"; QT46/47 TLTK số 3 và 5 trùng nhau.
 
 ---
 # 📊 TỔNG KẾT (36/36 tài liệu)

@@ -810,5 +810,19 @@
     "effectiveDate": "2026-01-01",
     "sourceUrl": "https://diabetesjournals.org/care/issue/49/Supplement_1",
     "remoteOnly": true
+  },
+  {
+    "title": "Quyết định số 3074/QĐ-BYT ngày 02/10/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Tạo hình & Thẩm mỹ - Tập 2”",
+    "tags": [
+      "Ngoại khoa"
+    ],
+    "version": "2026",
+    "refId": "REF_MOH_2026_QD3074",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "3074/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2028-01-01",
+    "sourceUrl": "https://kcb.vn/upload/2005611/20261005/T_P_2._Ta_o_hi_nh_tha__m_my___Repaired_.signed_7e010.pdf",
+    "localPath": "raw_sources/REF_MOH_2026_QD3074.pdf"
   }
 ]
