@@ -19,5 +19,6 @@
 ## Kiểm tra bắt buộc trước khi báo xong
 - `python3 scripts/validate_library.py` → 0 ERROR; không có cảnh báo bảng lệch cột ở file của bạn.
 - Mermaid: `node scripts/check_mermaid.js markdown_docs/<refId>.md` → `invalid: 0` (cài đặt: xem `daily-update.md` mục Chuẩn bị).
+- Render ảnh vào **thư mục tạm riêng của bạn** (vd `/tmp/rt/<refId>-<vai trò>/`), không dùng chung với agent khác; trước khi đọc ảnh, xác nhận nội dung trang đúng tài liệu.
 - Không dùng `git stash`, `git checkout -- <file>`, `git reset` (working tree có thể dùng chung với agent khác).
 - Tự đọc lại vùng đã viết, đối chiếu ảnh lần cuối.

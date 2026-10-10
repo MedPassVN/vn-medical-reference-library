@@ -5,8 +5,13 @@ Bạn là routine chạy mỗi sáng (06:52 giờ Việt Nam) trên repo `MedPas
 > ⚠️ Đây là tài liệu y khoa dùng cho lâm sàng và thi đánh giá năng lực. **Sai một liều thuốc là sai sót nghiêm trọng.** Thà bỏ qua một tài liệu hôm nay còn hơn đưa lên bản chuyển đổi sai. Đọc kỹ `.claude/routines/conversion-rules.md`.
 
 ## 0. Chuẩn bị
+**Gắn repo vào session trước tiên** (session routine khởi động không có repo — không làm bước này thì không push được và agent `ref-doc-fidelity-checker` không được nạp):
+1. Gọi tool `add_repo` (server `claude-code-remote`; nạp bằng ToolSearch nếu cần) với `owner: "MedPassVN"`, `repo: "vn-medical-reference-library"`, `access: "push"`; làm theo lệnh clone mà tool trả về.
+2. Gọi `register_repo_root` với đúng đường dẫn đã clone, để `CLAUDE.md` và `.claude/agents/` được nạp ở lượt sau.
+3. Không gắn được repo / không có quyền push → vẫn chạy phát hiện (bước 1) và báo cáo, **không chuyển đổi tài liệu**.
+
 ```bash
-cd <repo>   # thường là /home/user/vn-medical-reference-library; nếu chưa có: git clone https://github.com/MedPassVN/vn-medical-reference-library
+cd <repo>
 git fetch origin main && git checkout -B main origin/main
 pip install -q pdfplumber
 mkdir -p /tmp/mmd && npm i -s --no-save --prefix /tmp/mmd mermaid@11.4.1 playwright-core@1.47.2
@@ -40,8 +45,8 @@ Tìm văn bản ban hành trong ~60 ngày gần đây (và bất kỳ văn bản
 ## 3. Với mỗi tài liệu Việt Nam được chọn
 1. **Tải PDF** từ nguồn chính thống nhất tìm được (ưu tiên moh.gov.vn / kcb.vn / vbpl.vn / cổng sở y tế, bệnh viện công; trang thứ cấp chỉ khi không có bản chính thống) bằng `scripts/relay_fetch.py` (tự thử trực tiếp trước, bị chặn mới qua relay; mã thoát ≠ 0 → file không dùng được). Lưu tạm, kiểm tra `pdfinfo` mở được, số trang hợp lý, trang 1 đúng số/ngày văn bản. Không tải được bản PDF đầy đủ → `blocked` (lý do), bỏ qua.
 2. **refId**: `REF_MOH_<năm ban hành>_QD<số>` (Thông tư: `_TT<số>`; Luật: `REF_LAW_<năm>_<viết tắt>`). Trùng refId đã có → thêm hậu tố chữ cái. Lưu PDF vào `raw_sources/<refId>.pdf`.
-3. **Chuyển đổi** → `markdown_docs/<refId>.md`: giao cho **subagent `general-purpose`**, prompt yêu cầu đọc và tuân thủ tuyệt đối `.claude/routines/conversion-rules.md`, đọc 100% trang PDF bằng ảnh, dựng mọi bảng/lưu đồ/phụ lục. Tài liệu lớn có thể chia nhiều subagent theo dải trang ghi vào các file tạm rồi ghép — mỗi subagent một file riêng.
-4. **Kiểm tra độc lập**: giao cho **subagent `ref-doc-fidelity-checker`** (chỉ đọc) rà soát đầy đủ theo quy trình của agent: đọc 100% trang; bảng số liệu dày phải **chép độc lập từ ảnh rồi so tự động**; mọi lưu đồ so từng node/mũi tên. Yêu cầu trả về verdict + số lỗi 🔴/🟠/🟡/⚪ + danh sách lỗi (dòng MD, trang PDF).
+3. **Chuyển đổi** → `markdown_docs/<refId>.md`: giao cho **subagent `general-purpose` với `model: "opus"`**, prompt yêu cầu đọc và tuân thủ tuyệt đối `.claude/routines/conversion-rules.md`, đọc 100% trang PDF bằng ảnh, dựng mọi bảng/lưu đồ/phụ lục. Tài liệu lớn có thể chia nhiều subagent theo dải trang ghi vào các file tạm rồi ghép — mỗi subagent một file riêng. **Mỗi subagent dùng thư mục tạm riêng** (vd `/tmp/rt/<refId>-<vai trò>/`) cho ảnh render — không dùng chung thư mục ảnh (lần chạy 2026-10-10 các agent đã ghi đè ảnh của nhau).
+4. **Kiểm tra độc lập**: giao cho **subagent `ref-doc-fidelity-checker`** (chỉ đọc; nếu loại agent này không có trong session — vd repo được clone sau khi session khởi động — dùng `general-purpose` với `model: "opus"`, prompt bắt đầu bằng toàn bộ nội dung `.claude/agents/ref-doc-fidelity-checker.md` và nhấn mạnh CHỈ ĐỌC; agent chuyển đổi và agent kiểm tra **phải khác nhau**) rà soát đầy đủ theo quy trình của agent: đọc 100% trang; bảng số liệu dày phải **chép độc lập từ ảnh rồi so tự động**; mọi lưu đồ so từng node/mũi tên. Yêu cầu trả về verdict + số lỗi 🔴/🟠/🟡/⚪ + danh sách lỗi (dòng MD, trang PDF).
 5. **Sửa & kiểm lại**: còn lỗi 🔴/🟠/🟡 → giao lại subagent chuyển đổi sửa đúng các lỗi đó (theo ảnh), rồi chạy lại kiểm tra độc lập **trên phần đã sửa**. Tối đa 2 vòng.
 6. **Điều kiện để commit:** verdict PASS hoặc PASS-WITH-WARNINGS với **🔴 0, 🟠 0, 🟡 0**; validator 0 ERROR; mermaid `invalid: 0`. Không đạt sau 2 vòng → **không commit tài liệu đó**: xoá PDF/MD tạm khỏi working tree, ghi `blocked` + lý do + `attempts` vào `seen_sources.json`.
 7. **Đăng ký** (khi đạt): thêm entry vào `library.json` (giữ định dạng `json.dumps(indent=2, ensure_ascii=False)`), các trường: `title` (nguyên văn trích yếu: "Quyết định số …/QĐ-BYT ngày dd/mm/yyyy ban hành …"), `tags` (dùng **từ vựng tag đã có** trong `library.json`: chuyên khoa `PULMONOLOGY`, `CARDIOLOGY`…; mã `VĐ xx` chỉ khi tài liệu cùng bệnh với entry đã có mã đó — không tự đặt mã mới), `version`, `refId`, `documentType` (`MOH_GUIDELINE` | `CIRCULAR` | `LAW` | `HOSPITAL_GUIDELINE`), `documentNumber`, `issuingAuthority`, `effectiveDate` (YYYY-MM-DD, theo "có hiệu lực" trong văn bản, thường là ngày ký), `sourceUrl`, `localPath`.
