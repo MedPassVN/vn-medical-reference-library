@@ -21,7 +21,7 @@ Nếu validator hoặc mermaid đang đỏ trên `main` từ trước → ghi v�
 ## 1. Phát hiện văn bản mới
 Tìm văn bản ban hành trong ~60 ngày gần đây (và bất kỳ văn bản nào chưa có trong `seen_sources.json`):
 
-**Nguồn trong nước** (truy cập được từ container: `kcb.vn`, `vbpl.vn`; `moh.gov.vn` và `congbao.chinhphu.vn` bị chặn — dùng WebSearch thay thế):
+**Nguồn trong nước.** Container ở nước ngoài: `kcb.vn`, `vbpl.vn` truy cập trực tiếp; `moh.gov.vn`, `congbao.chinhphu.vn` và nhiều cổng sở y tế chặn IP nước ngoài → dùng **MedPass fetch relay**: `python3 scripts/relay_fetch.py <URL> [--relay] -o <file>` (xem `CLAUDE.md` và `docs/MEDPASS_FETCH_RELAY.md`; không bao giờ in/log/commit `AGENT_AUTH_TOKEN`; relay lỗi → ghi vào báo cáo, không lặp lại; `sourceUrl` ghi URL gốc, không ghi URL relay). Trang chủ moh.gov.vn render bằng JS — cần URL văn bản/PDF cụ thể (tìm qua WebSearch).
 - Cục Quản lý Khám, chữa bệnh: `https://kcb.vn/van-ban/chi-dao-dieu-hanh/chi-thi-quyet-dinh` và `https://kcb.vn/van-ban` (đọc danh sách, tìm "Hướng dẫn chẩn đoán và điều trị", "Hướng dẫn quy trình kỹ thuật", "tài liệu chuyên môn").
 - WebSearch (mode "standard", tiếng Việt), ví dụ: `"QĐ-BYT" 2026 "Hướng dẫn chẩn đoán và điều trị"`, `Bộ Y tế ban hành hướng dẫn chẩn đoán điều trị tháng <MM>/<YYYY>`, `"tài liệu chuyên môn" Bộ Y tế <tháng> <năm>`.
 - Thông tư chuyên môn của Bộ Y tế, luật y tế mới (Quốc hội).
@@ -38,7 +38,7 @@ Tìm văn bản ban hành trong ~60 ngày gần đây (và bất kỳ văn bản
 - Không có gì mới → **không commit**, kết thúc với báo cáo 1 dòng "Không có văn bản mới".
 
 ## 3. Với mỗi tài liệu Việt Nam được chọn
-1. **Tải PDF** từ nguồn chính thống nhất tìm được (ưu tiên kcb.vn / vbpl.vn / cổng sở y tế, bệnh viện công; trang thứ cấp chỉ khi không có bản chính thống). Lưu tạm, kiểm tra `pdfinfo` mở được, số trang hợp lý, trang 1 đúng số/ngày văn bản. Không tải được bản PDF đầy đủ → `blocked` (lý do), bỏ qua.
+1. **Tải PDF** từ nguồn chính thống nhất tìm được (ưu tiên moh.gov.vn / kcb.vn / vbpl.vn / cổng sở y tế, bệnh viện công; trang thứ cấp chỉ khi không có bản chính thống) bằng `scripts/relay_fetch.py` (tự thử trực tiếp trước, bị chặn mới qua relay; mã thoát ≠ 0 → file không dùng được). Lưu tạm, kiểm tra `pdfinfo` mở được, số trang hợp lý, trang 1 đúng số/ngày văn bản. Không tải được bản PDF đầy đủ → `blocked` (lý do), bỏ qua.
 2. **refId**: `REF_MOH_<năm ban hành>_QD<số>` (Thông tư: `_TT<số>`; Luật: `REF_LAW_<năm>_<viết tắt>`). Trùng refId đã có → thêm hậu tố chữ cái. Lưu PDF vào `raw_sources/<refId>.pdf`.
 3. **Chuyển đổi** → `markdown_docs/<refId>.md`: giao cho **subagent `general-purpose`**, prompt yêu cầu đọc và tuân thủ tuyệt đối `.claude/routines/conversion-rules.md`, đọc 100% trang PDF bằng ảnh, dựng mọi bảng/lưu đồ/phụ lục. Tài liệu lớn có thể chia nhiều subagent theo dải trang ghi vào các file tạm rồi ghép — mỗi subagent một file riêng.
 4. **Kiểm tra độc lập**: giao cho **subagent `ref-doc-fidelity-checker`** (chỉ đọc) rà soát đầy đủ theo quy trình của agent: đọc 100% trang; bảng số liệu dày phải **chép độc lập từ ảnh rồi so tự động**; mọi lưu đồ so từng node/mũi tên. Yêu cầu trả về verdict + số lỗi 🔴/🟠/🟡/⚪ + danh sách lỗi (dòng MD, trang PDF).
