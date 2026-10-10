@@ -3,6 +3,7 @@
 > Kho: `vn-medical-reference-library` · Công cụ: agent `ref-doc-fidelity-checker` (full vision, đọc 100% trang qua `pdftoppm`→PNG→vision, đối chứng số liệu).
 > Bắt đầu: 2026-06-25 · Phạm vi mục tiêu: **36/36 tài liệu** (raw_sources ↔ markdown_docs).
 > **Trạng thái: ✅ HOÀN TẤT 36/36.** File này để **double-check** và làm danh sách sửa. Xem phần TỔNG KẾT ở cuối.
+> **Cập nhật 2026-10-10:** thêm #37–#38 (2 tài liệu 2026) và phần **🔁 RE-REVIEW** kiểm tra lại 12 tài liệu FAIL sau commit sửa `2f8555f` — xem cuối file.
 >
 > ⚠️ **Nguyên tắc rà soát:** chỉ đọc, KHÔNG chỉnh sửa file gốc/markdown. PDF gốc là chuẩn. Mọi chỗ markdown khác bản gốc đều bị cờ — **kể cả khi markdown "tự sửa cho đúng y khoa"** (vd `ln10→log10`, `mmHg→mmol/L`, `Dưới→Từ`); khuyến nghị giữ đúng nguyên văn gốc (kèm chú thích), không tự ý sửa văn bản pháp quy.
 
@@ -58,6 +59,8 @@
 | 34 | REF_MOH_2022_QD1832 | Huyết học (49 bài) | 528 | 🔴 **FAIL** | 1 | 0 | 4 | 0 |
 | 35 | REF_MOH_2020_QD2767 | Bệnh trẻ em/Nhi (101 bài) | 533 | 🔴 **FAIL** | 0 | 3 | 3 | 2 |
 | 36 | REF_MOH_2014_QD1904 | Hồi sức Cấp cứu Chống độc (232 QT) | 892 | 🟡 PASS-WITH-WARNINGS | 0 | 2 | 0 | 2 |
+| 37 | REF_MOH_2026_QD2131 | COPD 2026 | 130 | 🔴 **FAIL** | 0 | 8 | 5 | 4 |
+| 38 | REF_MOH_2026_QD2147 | Viêm phổi cộng đồng 2026 | 93 | 🔴 **FAIL** | 1 | 3 | 5 | 6 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -320,6 +323,45 @@ PDF có text-layer → đối chứng văn bản 100% + vision liều/antidote. 
 
 ---
 
+## 37. REF_MOH_2026_QD2131 — COPD 2026 (130 trang) — 🔴 FAIL
+> Rà soát 2026-10-10 · đọc 130/130 trang: text-layer `pdftotext` đối chiếu theo từ, theo dòng và đếm số lần xuất hiện mọi con số; vision cho mọi trang có bảng/hình/lưu đồ (tr.12, 15, 17, 20–22, 24, 26, 32, 34, 37, 40–41, 46, 49, 51–52, 59, 62, 68–82, 91, 95–107, 122–123). Trang văn xuôi thuần chỉ đối chiếu text-layer; PL11 (tr.108–121) chỉ xem ảnh mẫu tr.107.
+
+Header khớp `library.json` (2131/QĐ-BYT, 14/7/2026; **thay thế QĐ 2767/QĐ-BYT ngày 04/07/2023** → `REF_MOH_2023_QD2767` đã được đánh dấu `superseded`). **Phần chữ gần như đầy đủ 100%, không phát hiện sai liều hay sai ngưỡng.** Vấn đề lớn: **toàn bộ lưu đồ/bảng dạng ảnh bị mất** (chỉ còn chú thích), mọi bảng vỡ cấu trúc, không có khối mermaid nào. FAIL dù không có CRITICAL (tiền lệ #35): 8 HIGH thuộc mẫu lỗi #3, trong đó có bảng lõi chọn thuốc ban đầu và lưu đồ có liều chẹn beta.
+
+- 🟠 **Sơ đồ 1.1 Lưu đồ sàng lọc mất toàn bộ** (tr.12 → MD 389): "Tuổi ≥ 35", bộ câu hỏi LFQ/CDQ/COPD-PS/PUMA/CAPTURE, lưu lượng đỉnh kế, nhánh dương/âm tính.
+- 🟠 **Bảng 2.4 Lựa chọn thuốc ban đầu theo ABE mất toàn bộ** (tr.22 → MD 596–598): Nhóm A một thuốc giãn PQ; B LABA+LAMA; E LABA+LAMA, cân nhắc +ICS nếu BCAT ≥300. Cùng trang, **Sơ đồ 2.1 chọn dụng cụ phân phối thuốc** cũng mất (MD 590).
+- 🟠 **Biểu đồ 2.1 (chuyển đổi điều trị) & 2.2 (BN đang dùng ICS+LABA) mất** (tr.24, 26 → MD 629, 656): nhánh Eos <300/≥300/≥100/<100 → LABA+LAMA / +ICS / Roflumilast / Azithromycin; chú thích rút ICS.
+- 🟠 **Biểu đồ 3.1 & 3.2 kháng sinh ngoại/nội trú bị bẹp thành văn xuôi** (tr.37 → MD 855–876; tr.41 → MD 906–922): nhãn Có/Không dồn cụm, không xác định được nhánh nào dẫn tới thuốc nào; **chèn vào giữa câu** (MD 868/879, 911/925). Số liệu node đúng.
+- 🟠 **Biểu đồ 4.1, 4.2, 4.3 mất toàn bộ** (tr.49, 51, 52 → MD 1048, 1090, 1094) — **có liều thuốc chỉ nằm trong ảnh**: Metoprolol XL khởi đầu 12,5–25 → đích 200 mg/ngày; Bisoprolol 1,25 → 10 mg/ngày; tăng gấp đôi mỗi ≥2 tuần; CCĐ chẹn beta; LVEF ≤35% + nhịp xoang ≥70 → ivabradine. MD không có "Metoprolol XL", "ivabradine", "Nebivolol", "LVEF".
+- 🟠 **PL2 CAT mất các câu hỏi** (tr.70 → MD 1420–1425): thang 0–5 và ô tổng điểm (công cụ phân nhóm ABE).
+- 🟠 **PL9 mất phần lớn lưu đồ** (tr.96–99 → MD 1887–1969): Bước 3, Bước 4, "Liệu pháp dùng thuốc"; Hình 9.2p mất một phần (ICU, tiêu chuẩn ra viện, theo dõi 1–4/12–16 tuần); **Hình 9.3p mất toàn bộ**.
+- 🟠 **Các bảng liều bị bẹp/vỡ cột**: Bảng 2.2 liều ICS (MD 577 — "Fluticasone furoate 100 200": 100 là ô gộp Thấp+TB, dễ đọc nhầm 200 = TB); Bảng 3.4 kháng sinh nhập viện (MD 899–900); PL1, PL10 liều theo Clcr (MD 1981–2183), PL11 tương tác (MD 2189–2981) thành text chạy liền. Vision tr.100–107: mọi cặp Clcr↔liều vẫn đúng số và thứ tự.
+- 🟡 Các bảng khác vỡ format (Bảng 1.1 nằm trên 1 dòng MD 385; header lỗi MD 467, 484; Bảng 2.1, 2.3, 3.1, Rome 3.2, 3.3, 5.1–5.4, PL3, PL6, PL7, 6MWT; Bảng 5.1 nuốt mục "c" MD 1230).
+- 🟡 Cấu trúc heading: mục lục (MD 108–302) thành heading thật; không có H1; "## 1.6. 3.4." (MD 804).
+- 🟡 Hình mức ưu tiên thấp hơn mất: Biểu đồ 1.2 ABE (MD 508), Hình 4.1 (MD 1002), PL4 13 hình hướng dẫn dùng bình hít (MD 1448–1553), PL13 đo huyết áp (MD 3009).
+- 🟡 Công thức Cockcroft-Gault bị phân mảnh (tr.100 → MD 1976–1979 trống; mảnh chèn vào hàng amikacin MD 2000–2006).
+- 🟡 Biểu đồ 1.1 Lưu đồ chẩn đoán GOLD bị dời chỗ (tr.15 → MD 453–460, tiêu đề MD 444 trơ trọi).
+- ⚪ Mất ký hiệu "β2" → "2" (MD 825, 868), "0 → 40", "≤ 4 tuần" → "<"; rác OCR tách dấu ("th ế giới", "đ ợt"); tự chuẩn hoá "2131 QĐ/BYT" → "2131/QĐ-BYT"; **lỗi của chính PDF gốc** (đánh số chú thích "0.x", câu cụt tr.46, PL1 hàng PDE4 trống, CAT "8 câu hỏi" nhưng ảnh 7 mục, Turbuhaler bước 3 trắng, tham chiếu "mục 1.2.1" không tồn tại, GOLD 1 "> 80%" vs "≥ 80%").
+
+**Đã soát chéo, khớp:** FEV1/FVC <70%; GOLD 1–4; mMRC/CAT; ICS theo BCAT; oxy dài hạn (PaO2 ≤55/56–59, SaO2 ≤88%); NIV PaCO2 ≥53; LVRS; tiêu chuẩn Rome; prednisolon 30–40 mg × 5 ngày; kháng sinh ngoại/nội trú, colistin nạp 5 mg/kg; oseltamivir; SpO2 88–92%; NIV IPAP 8–12/EPAP 4–5; Morphin 0,5→1 mg; PL10 toàn bộ liều theo Clcr; PL11 35 cặp tương tác.
+
+## 38. REF_MOH_2026_QD2147 — Viêm phổi cộng đồng 2026 (93 trang) — 🔴 FAIL
+> Rà soát 2026-10-10 · đọc 100% (text-layer `pdftotext` đối chiếu 2 chiều theo dòng + vision tr.1, 22–24, 29–33, 40–45, 48–58, 70–91) · không lấy mẫu.
+
+Header khớp `library.json` (2147/QĐ-BYT, 15/7/2026, KT. Bộ trưởng – Thứ trưởng Trần Văn Thuấn; **thay thế QĐ 4815/QĐ-BYT ngày 20/11/2020**). Văn xuôi Chương 1–6 khớp, không phát hiện câu bịa; tài liệu tham khảo đủ 101/101. Số liệu trọng yếu **khớp**: CURB-65, PSI, ATS (2 chính/9 phụ), PES, corticoid (hydrocortison 200 mg/ngày hoặc methylprednisolon 0,5 mg/kg/12h, 8–14 ngày), liều mục 5.4, Bảng 4.4 (20 cặp TM→uống), Phụ lục 1 (40 thuốc theo CrCl), Phụ lục 2 (11 thuốc), Phụ lục 3 (34 cặp tương tác). Lỗi tập trung ở **BẢNG, LƯU ĐỒ và CẤU TRÚC**.
+
+- 🔴 **CRITICAL — Bảng phác đồ *Klebsiella pneumoniae* nằm dưới tiêu đề *Pseudomonas aeruginosa*** (PDF tr.51 → MD 1405–1448). MD 1405 heading Klebsiella, 1407 một câu, 1408 đã sang heading Pseudomonas; toàn bộ bảng Klebsiella (Ceftriaxon 1g/12h, Pip-tazo, Cipro 400mg, Levo 750mg, TMP-SMX, Amox/clav, aminoglycosid, nhánh ESBL−/ESBL+ ertapenem/imipenem/meropenem) ở MD 1413–1448. → Mục Klebsiella không còn phác đồ; người đọc hiểu Ceftriaxon/Amox-clav/TMP-SMX/Ertapenem là lựa chọn đầu tay cho Pseudomonas (**các thuốc này không có hoạt tính trên *P. aeruginosa***). *Sửa:* chuyển khối 1413–1448 lên sau dòng 1407, dựng lại bảng 3 cột.
+- 🟠 **HIGH — Bảng phác đồ 5.4.1.1–5.4.1.7 bị làm phẳng** (PDF tr.50–54 → MD 1348–1554): mất 3 cột "Đặc điểm nhạy cảm | Lựa chọn đầu tay | Lựa chọn khác" và ô gộp dọc (S. pneumoniae: phương án dị ứng β-lactam áp dụng cho cả MIC ≤2 và >4; H. influenzae: "Lựa chọn khác" áp dụng cho cả β-lactamase âm và dương).
+- 🟠 **HIGH — Lưu đồ "Xử trí khi không đáp ứng điều trị" không tái dựng** (PDF tr.57 → MD 1624, 1637–1658): 14 node thành danh sách phẳng, mất nhánh, **chèn vào giữa câu** mục 5.6.2. *Sửa:* khối mermaid sau MD 1621.
+- 🟠 **HIGH — Phụ lục 3: hàng 16–34 rơi khỏi bảng** (PDF tr.82–91 → MD 2154–2363), các cột đan xen; ô Xử trí hàng 25, 30 (Linezolid + levodopa/carbidopa) bị cắt rời. Không có cặp thuốc bị gán nhầm.
+- 🟡 Bảng 2.1 bị tách: 2 hàng cuối ("Cấy dịch màng phổi", "Kháng nguyên Legionella/S. pneumoniae – nước tiểu") nằm sau Bảng 2.2 (MD 664–674, 696–699).
+- 🟡 Phụ lục 1 hàng 40 SMX/TMP: ô CrCl <10 trống; câu "Không khuyến cáo (nhưng nếu sử dụng, 5–10 mg/kg mỗi 24h)" mồ côi ngoài bảng (MD 2070–2073, PDF tr.73).
+- 🟡 Phụ lục 2: các hàng từ Vancomycin (chế độ 2–3) tới Linezolid rơi khỏi bảng (MD 2104–2121); giá trị đúng.
+- 🟡 Phụ lục 3 hàng 1–15: MD âm thầm đảo cột "Hậu quả" ↔ "Cơ chế" (PDF gốc in đảo tiêu đề, nhất quán); hàng 16–34 giữ thứ tự gốc → không nhất quán. Mẫu lỗi #6.
+- 🟡 Mục lục (MD 191–367) bị chuyển thành heading thật → cây heading nhân đôi; thiếu H1 tiêu đề tài liệu.
+- ⚪ Số hiệu heading chèn khoảng trắng ("5.4. 1.4."); rác tách chữ do trích text ("hô h ấp", "nghi ệm"…); bảng ATS và bảng căn nguyên tr.32 thành chữ; hàng SMX/TMP cuối Bảng 4.4 lặp 2 lần (MD 1231–1232); một số ô CrCl PL1 dời cột (không đổi nghĩa); lỗi của PDF gốc chép trung thực (procalcitonin "0.25 mg/dl", "(Bảng 2.2)" → 3.2, "Moxiflloxacin", "Clarithormycin", "henylephrin"); "Tóm tắt cập nhật" 4.1–4.3 bị nâng `##`.
+
+---
 # 📊 TỔNG KẾT (36/36 tài liệu)
 
 | Kết quả | Số lượng | Tài liệu |
@@ -348,3 +390,227 @@ PDF có text-layer → đối chứng văn bản 100% + vision liều/antidote. 
 - #12 Dinh dưỡng nhân trắc & #35 Nhi: khôi phục bảng tra/liều bị bỏ.
 
 > *Phương pháp: agent `ref-doc-fidelity-checker`, full vision (pdftoppm→PNG→vision) + bổ trợ pdfplumber; mọi số liệu trọng yếu đối chứng bằng ảnh. Tài liệu >300 trang dùng lấy mẫu có công bố phạm vi (đặc biệt #34 Huyết học còn bài chưa soát từng liều). Chỉ đọc — không chỉnh sửa file gốc/markdown.*
+
+---
+# 🔁 RE-REVIEW sau commit sửa `2f8555f` (2026-10-10)
+
+> Commit `2f8555f` ("update documents", 2026-06-25 22:38 UTC — ~1 giờ sau khi review hoàn tất) đã sửa Markdown của 12 tài liệu FAIL. Lượt này dùng agent `ref-doc-fidelity-checker` kiểm tra lại **từng finding cũ** + **toàn bộ vùng diff** của commit (không đọc lại 100% tài liệu; phạm vi ghi ở từng mục). Chỉ đọc — không sửa file.
+>
+> Trạng thái: ✅ FIXED · ◐ PARTIAL · ❌ STILL-OPEN · ⛔ REGRESSED (sửa làm xấu hơn)
+
+## Bảng tổng hợp re-review
+| # | refId | Tài liệu | Verdict cũ | Verdict mới | 🔴 | 🟠 | 🟡 | ⚪ |
+| :-: | :-- | :-- | :-- | :-- | :-: | :-: | :-: | :-: |
+| 4 | REF_MOH_2010_QD3192 | Tăng huyết áp | 🔴 FAIL | 🔴 **FAIL** (hết CRITICAL; 2 lưu đồ còn trống) | 0 | 2 | 1 | 2 |
+| 5 | REF_MOH_2023_QD1575 | Tiêm chủng trẻ em | 🔴 FAIL | 🔴 **FAIL** (🔴 mới: MMR cho trẻ SCID) | 2 | 1 | 2 | 6 |
+| 10 | REF_MOH_2023_QD2248 | Hội chứng mạch vành mạn | 🔴 FAIL | 🔴 **FAIL** (hết CRITICAL; lưu đồ Hình 8–11) | 0 | 3 | 3 | 4 |
+| 12 | REF_MOH_2024_QD3777 | Dinh dưỡng nhân trắc trẻ em | 🔴 FAIL | 🔴 **FAIL** (🔴 mới: bảng BMI gái = bảng trai) | 2 | 1 | 1 | 2 |
+| 15 | REF_MOH_2015_QD5642 | Một số bệnh truyền nhiễm | 🔴 FAIL | 🟡 **PASS-WITH-WARNINGS** | 0 | 0 | 2 | 2 |
+| 17 | REF_MOH_2023_QD2760 | Sốt xuất huyết Dengue | 🔴 FAIL | 🔴 **FAIL** (🔴 mới: bảng cân nặng PL9; PL4/PL5 thoái lui) | 1 | 4 | 4 | 4 |
+| 21 | REF_MOH_2017_QD5590 | PT Thần kinh | 🔴 FAIL† | 🟡 **PASS-WITH-WARNINGS** | 0 | 0 | 1 | 2 |
+| 22 | REF_MOH_2021_QD5968 | HIV/AIDS | 🔴 FAIL | 🔴 **FAIL** (🔴 sót từ trước: Bảng 16) | 1 | 0 | 1 | 4 |
+| 26 | REF_MOH_2024_QD2388 | Bệnh thận mạn | 🔴 FAIL | 🔴 **FAIL** (hết sai liều; 14 lưu đồ trống) | 0 | 1 | 6 | 4 |
+| 27 | REF_MOH_2020_QD2058 | Rối loạn tâm thần | 🔴 FAIL | 🟡 **PASS-WITH-WARNINGS** | 0 | 0 | 1 | 3 |
+| 34 | REF_MOH_2022_QD1832 | Huyết học | 🔴 FAIL | 🟡 **PASS-WITH-WARNINGS** | 0 | 0 | 3 | 2 |
+| 35 | REF_MOH_2020_QD2767 | Bệnh trẻ em / Nhi | 🔴 FAIL | 🔴 **FAIL** (⛔ xấu hơn: bảng kháng sinh tiêm bịa) | 2 | 1 | 3 | 2 |
+
+**Trạng thái toàn thư viện sau lượt này (38 tài liệu local):** 🟢 PASS 1 · 🟡 PASS-WITH-WARNINGS 27 · 🔴 FAIL 10 (#4, #5, #10, #12, #17, #22, #26, #35, #37, #38).
+
+**Kết quả:** 4/12 lên PASS-WITH-WARNINGS. Toàn bộ 🔴 CRITICAL **gốc** đã được sửa đúng (liều Captopril/Candesartan, ngưỡng CD4, nhãn tuổi, PL4 THA, Thương hàn↔Lỵ, ADHD↔Đái dầm, MDS↔Hodgkin, Bảng 15/5 HIV, PTP mạch vành…). **Nhưng chính commit sửa đã tạo ra 🔴 CRITICAL mới** ở 4 tài liệu.
+
+**⚠️ Phát hiện quan trọng — kiểu lỗi mới "sinh số liệu thay vì chép":** các bảng được dựng lại trong `2f8555f` ở #12 (Z-score/BMI), #17 (cân nặng hiệu chỉnh PL9) và #35 (bảng pha kháng sinh tiêm) có dấu hiệu được **tính/sinh từ nguồn khác (vd. dữ liệu WHO) hoặc tự viết**, không chép từ PDF: sai lệch theo quy luật (thấp hơn 0,1 / 1 kg), sao chép nguyên bảng sang giới khác, thêm hàng/dòng liều không có trong gốc, ô nội dung tự viết. → **Quy tắc bắt buộc:** mọi bản sửa bảng số liệu phải chép từ ảnh PDF và được re-review trước khi merge.
+
+**🔴 CRITICAL còn mở (ưu tiên sửa ngay, tổng hợp cả #37–#38):**
+1. **#12 QD3777** — Bảng 7.6.1 BMI/tuổi trẻ gái 5–16 tuổi là bản sao bảng trai; 11 ô Z-score sai 0,1 (6 ô ở ngưỡng −2SD/−3SD).
+2. **#5 QD1575** — PL VII: ghi chú cho tiêm **MMR (vắc xin sống) ở trẻ SCID**; mất CCĐ vắc xin sốt vàng, bịa CCĐ MMR ở SGMD dịch thể.
+3. **#35 Nhi** — Bảng 1 pha/bảo quản kháng sinh tiêm phần lớn tự viết (Fosfomycin "Không dùng TB" đảo nghĩa, mất cảnh báo Amphotericin B ≤1,5 mg/kg/ngày…); Bảng 4.2 ure: liều tấn công N-carbamylglutamate 250 thay vì 100 mg/kg.
+4. **#17 QD2760** — PL9: 79/724 ô cân nặng hiệu chỉnh sai, 6 ô "-" thay vì cân hiệu chỉnh (lệch 4–8 kg khi tính dịch chống sốc).
+5. **#22 QD5968** — Bảng 16: lộ trình ARV bậc 1→2 bị dựng sai (mất bậc 2 DRV/r sau thất bại DTG).
+6. **#38 QD2147** — Bảng phác đồ *Klebsiella* nằm dưới tiêu đề *Pseudomonas*.
+
+### #4 REF_MOH_2010_QD3192 — Tăng huyết áp — 🔴 FAIL (đã hết CRITICAL) · còn 🔴0 🟠2 🟡1 ⚪2
+Sửa ở `2f8555f`: chỉ 2 dòng PL4. Kiểm bằng vision tr.6, 11–14, 16.
+| Finding gốc | Mức | Trạng thái | Bằng chứng |
+|---|---|---|---|
+| PL4 hàng "≥3 YTNCTM/HCCH/tổn thương cơ quan đích" lệch cột | 🔴 | ✅ FIXED | PDF tr.13 ↔ MD dòng 192 khớp 5 ô |
+| PL4 hàng "Có đái tháo đường" lệch cột | 🔴 | ✅ FIXED | PDF tr.13 ↔ MD dòng 193 khớp |
+| Sơ đồ 1 "Quy trình điều trị THA" bị bỏ | 🟠 | ❌ STILL-OPEN | MD dòng 99 chỉ có tiêu đề; PDF tr.6 có lưu đồ đầy đủ (mục tiêu <140/90, <130/80 nếu ĐTĐ/BTM; nhánh độ 1 / độ 2–3) |
+| PL3 "Quy trình 4 bước điều trị THA tuyến cơ sở" bị bỏ | 🟠 | ❌ STILL-OPEN | MD dòng 182–183 chỉ còn tiêu đề; PDF tr.11 có 4 bước + bảng 5 mức HA |
+| PL5.1 thứ tự cột khác PDF | ⚪ | STILL-OPEN | dấu X vẫn đúng |
+| PL5.3 sơ đồ phối hợp thuốc chỉ còn tiêu đề | ⚪ | STILL-OPEN | PDF tr.16 sơ đồ lục giác |
+**Finding mới:** 🟡 MD dòng 216 có dòng trống giữa bảng PL5.2 → 7 hàng cuối (kháng aldosterone, ƯCMC, ƯCTT, CKC, chẹn bêta, chẹn anpha – cột chống chỉ định) không render thành bảng. Sửa: xoá dòng 216. (Lỗi có từ trước, review cũ bỏ sót.)
+
+### #5 REF_MOH_2023_QD1575 — Khám sàng lọc trước tiêm chủng trẻ em — 🔴 FAIL · còn 🔴2 🟠1 🟡2 ⚪6
+Sửa ở `2f8555f`. Vision PDF tr.3–4, 19–20; text-layer tr.5, 9, 13, 15, 17–18.
+| Finding gốc | Mức | Trạng thái | Bằng chứng |
+|---|---|---|---|
+| PL VIII: ngưỡng CD4 "Suy giảm nặng" | 🔴 | ✅ FIXED | PDF tr.20 `<1500/<750/<350/<200` ↔ MD 471 |
+| PL VIII: tên hàng "Suy giảm tiến triển" | 🔴 | ✅ FIXED | MD 470 |
+| PL V nhịp thở: nhãn nhóm tuổi | 🔴 | ✅ FIXED | MD 405–413 khớp tr.17 |
+| PL VI nhịp tim: nhãn nhóm tuổi | 🔴 | ✅ FIXED | MD 422–430 khớp tr.18 |
+| PL VII mất cột "Phân loại", bịa nhãn hàng | 🟠 | ◐ PARTIAL → sinh lỗi 🔴 mới (N1, N2) | Cột/hàng đã có lại nhưng ô CCĐ/Ghi chú giữa hàng T và B bị xếp sai |
+| PL VII "tăng IgM" → "giảm IgM" | 🟠 | ✅ FIXED | MD 442 |
+| Ban biên soạn sai/thiếu/bịa tên | 🟠 | ◐ PARTIAL | Còn: "Mai Thị Trực" → **Lê Minh Trác**; thiếu TS. Đỗ Thị Nhàn; học vị Vũ Tề Đăng (BS.CKI), Lê Kiến Ngãi (TS); thư ký PDF có 7 người, MD 6 ("Nguyễn Thanh Huyền" → **Nguyễn Liên Hương**; thiếu ThS. Đỗ Thị Huyền Trang) |
+| Corticoid `≥2` vs `>2 mg/kg/ngày` | 🟡 | N/A | Mâu thuẫn có sẵn trong PDF (tr.5, 9 "≥"; tr.13, 15 ">"); MD chép đúng |
+| Chú thích nguồn rút gọn | 🟡 | ✅ FIXED | |
+| Cấu trúc CVID | ⚪ | ✅ FIXED | MD 443 |
+**Finding mới:**
+- 🔴 **N1 (do `2f8555f`)** — PL VII hàng "SGMD dòng tế bào T" (SCID, Wiskott-Aldrich, tăng IgM), MD 442: cột Ghi chú bị chèn câu thuộc hàng B "Trẻ có thể tiêm… **MMR**…" và "Thận trọng BCG" → MD tự mâu thuẫn: CCĐ "tất cả vắc xin sống" nhưng Ghi chú cho **tiêm MMR (vắc xin sống) cho trẻ SCID**. PDF tr.19: Ghi chú hàng T chỉ có câu tạm hoãn Rota, OPV. → chuyển 2 câu về hàng B.
+- 🔴 **N2** — Hàng "SGMD dịch thể" (dòng B), MD 443: CCĐ trong MD "OPV, **MMR**, VZV"; PDF tr.19 "**Vắc xin sốt vàng**, OPV, varicella zoster" (MMR thuộc cột có thể tiêm). → mất CCĐ sốt vàng, bịa CCĐ MMR.
+- 🟡 N3 — Ghi chú hàng B thiếu "Vắc xin phế cầu cộng hợp để tiêm liều cơ bản, polysaccharide để tiêm nhắc" + "Thận trọng BCG".
+- 🟡 N4 — PL VIII Lưu ý (MD 475–476) mất tiêu đề "Bệnh HIV tiến triển" và cụm "người lớn và" (PDF tr.20).
+- ⚪ N5 — thêm liệt kê "(lao - BCG… sốt vàng)" ở hàng T; "tiền sử"; ô CCĐ bổ thể PDF trống → MD "Không chống chỉ định"; "tiêm nhắc"→"tiêm"; "u hạt bẩm sinh"→"u hạt mạn tính"; bOPV "sau khi tiêm"→"sau khi uống".
+
+### #10 REF_MOH_2023_QD2248 — Hội chứng mạch vành mạn — 🔴 FAIL (hết CRITICAL; lưu đồ còn sai) · còn 🔴0 🟠3 🟡3 ⚪4
+Sửa ở `2f8555f`. Vision PDF tr.1, 5, 21, 27–29, 32–36, 38.
+| Finding gốc | Mức | Trạng thái | Bằng chứng |
+|---|---|---|---|
+| Bảng PTP thiếu cột "ĐTN điển hình" | 🔴 | ✅ FIXED | MD 409–416, 40 giá trị khớp tr.21 |
+| Hình 8 ma trận chọn thuốc dựng sai | 🟠 | ◐ PARTIAL | tr.33 khớp; tr.32 còn: ô "Huyết áp thấp / Có thể phối hợp" PDF **trống**, MD ghi "TRIM, IVAB, RAN, NITR" (mâu thuẫn: NITR cũng ở CCĐ); gộp cột "Suy tim" + "RLCN thất trái" → mất IVAB (MD 640) |
+| Hình 11 thiếu nhánh "thêm 1 nhánh" | 🟠 | ◐ PARTIAL | MD 736–754: mất "Hẹp lỗ vào/thân → Nguy cơ PT cao → PCI"; thêm cổng "Nguy cơ PT thấp?" và nhánh "Syntax≥33 Không/Cao → Hội chẩn" không có trong tr.36 |
+| Hình 9 sai nhánh "có thiếu máu" | 🟡→🟠 | ⛔ WORSE | Bịa kết cục "Điều trị nội khoa tối ưu" (mọi nhánh PDF tr.34 kết thúc ở "Cân nhắc tái thông"); mất quyết định "Bệnh nhiều thân ĐMV → FFR/iwFR" |
+| Hình 10 thừa node "nguy cơ PT thấp?" | 🟡 | ◐ PARTIAL | Nhánh 1–2 thân đã đúng; còn bịa "Syntax<23 → Nguy cơ PT thấp?" và "Syntax≥23 → Không → Hội chẩn" (tr.35) |
+| Thiếu "không khuyến cáo" (estrogen, chống oxy hoá) | 🟡 | ✅ FIXED | MD 568–574 |
+| Thiếu "Dipyridamole không khuyến cáo" | 🟡 | ◐ PARTIAL (⚪) | có câu nhưng đặt sai danh sách (MD 574) |
+| Thiếu tài liệu tham khảo #6 | 🟡 | ❌ STILL-OPEN | Visseren 2021 ESC prevention (tr.38) |
+| Chú thích PDE chèn thân bài | 🟡 | ✅ FIXED | MD 584 |
+| Header trống số/ngày | ⚪ | ◐ PARTIAL | có ngày; thiếu dòng "Số: 2248/QĐ-BYT" |
+| iFR vs iwFR | ⚪ | ❌ STILL-OPEN (+thoái lui nhẹ) | MD 107 "iFR"; thân bài bị đổi "iwFR"→"IwFR" (PDF thân bài dùng "iwFR") |
+| Heading 2.1.2; chữ "with" | ⚪ | ✅ FIXED | |
+**Finding mới:** 🟡 Chú thích c Bảng 5 mất ngưỡng: PDF tr.28 "mức lọc cầu thận **<15 mL/phút/1,73 m²**" → MD 550 "mức lọc cầu thận **thấp**" (ngưỡng định nghĩa nguy cơ chảy máu cao). Liều Rivaroxaban/Prasugrel/Ticagrelor/Clopidogrel, LDL-C <1,4, Nitroglycerin, CHA2DS2-VASc đã soát lại: khớp.
+
+### #12 REF_MOH_2024_QD3777 — Dinh dưỡng nhân trắc trẻ em — 🔴 FAIL · còn 🔴2 🟠1 🟡1 ⚪2
+Sửa ở `2f8555f` (phụ lục +~1500 dòng). PDF là bản quét thuần ảnh. **So tự động 100% (1.566 hàng) với bảng WHO chính thức** (0–5 tuổi: `pygrowup`; 5–19 tuổi: WHO 2007), ô nào lệch thì phân xử bằng ảnh PDF; bảng 7.4.2 đọc vision cả 60 hàng. Vision 18/32 trang phụ lục; 14 trang chưa xem bằng vision (tr.22, 24, 25, 27, 29, 32, 34–36, 39, 42, 44, 49, 50) — MD tại đó trùng 100% WHO.
+| Finding gốc | Mức | Trạng thái | Bằng chứng |
+|---|---|---|---|
+| Bảng Z-score scramble/lệch hàng-cột | 🔴 | ◐ PARTIAL | Bảng 0–5 tuổi trùng 100% WHO & PDF; nhưng xem N1, N2 |
+| Chú thích bịa ("có thể là lỗi OCR", "(Không có dữ liệu)") | 🔴 | ✅ FIXED | |
+| Mất hàng dữ liệu hàng loạt | 🔴 | ✅ FIXED | 7.1.x 61, 7.2.x 62, 7.4.x 60, 7.5.x 132, 7.6.x 132 hàng |
+| Mất cấu trúc bảng | 🟠 | ✅ FIXED | trừ Phụ lục 3 (N3) |
+**Finding mới (do `2f8555f`):**
+- 🔴 **N1 — Bảng 7.6.1 BMI/tuổi trẻ GÁI 5–16 tuổi là bản sao y hệt bảng TRAI 7.6.2** (132/132 hàng; MD 1708–1839). PDF tr.48 tháng 61: "11,8 | 12,7 | 13,9 | 15,2 | 16,9 | 18,9 | 21,3"; MD: "12,1 | 13,0 | 14,1 | 15,3 | 16,6 | 18,3 | 20,2" (số của trai, tr.51). Lệch tới 0,56 (−3SD) và 2,36 kg/m² (+3SD) → **phân loại sai gầy còm/thừa cân/béo phì cho mọi trẻ gái 5–16 tuổi**. Dựng lại từ PDF tr.48–50.
+- 🔴 **N2 — 11 ô sai 0,1 so với PDF** (PDF luôn trùng WHO; kiểu lỗi gợi ý bảng được **sinh bằng cách tự làm tròn số WHO, không chép từ PDF**): 7.4.1 tháng 80 −2SD 16,3→16,2 (MD 1317); 7.4.2 tháng 63 −3SD 13,0→12,9 (MD 1365); 7.5.1 tháng 118 +1SD 144,0→143,9 (MD 1488); 7.5.2 tháng 105 TV 131,3→131,2 (1612), 145 +2SD 163,9→163,8 (1652), 180 −2SD 153,4→153,3 (1687); 7.6.2 tháng 84 −3SD 12,3→12,2 (1868), 87 −1SD 14,3→14,2 (1871), 88 +3SD 22,0→21,9 (1872), 167 −1SD 17,0→16,9 (1951), 187 −3SD 15,0→14,9 (1971).
+- 🟠 **N3 — Phụ lục 3 (7.3.1/7.3.2) đổi cấu trúc + thêm dữ liệu không có trong PDF**: PDF mỗi giới 1 bảng 45,0–120,0 cm; MD tách "a. chiều dài nằm (45–110)" + "b. chiều cao đứng (65–120)", thêm 91 hàng/giới (65–110 cm, giá trị WHO weight-for-height) → bộ ngưỡng thứ hai khác bản gốc (vd. gái 65 cm: PDF −2SD 5,9; MD mục b 6,1 – dòng 925).
+- 🟡 N4 — 7.2.1/7.2.2 thêm hàng "24 (Chiều cao đứng)" không có trong PDF (MD 675, 742).
+- ⚪ Dấu thập phân "45.5" vs "45,5"; tiêu đề cột khác nguyên văn.
+
+### #15 REF_MOH_2015_QD5642 — Một số bệnh truyền nhiễm — 🟡 PASS-WITH-WARNINGS (trước: FAIL) · còn 🔴0 🟠0 🟡2 ⚪2
+Sửa ở `2f8555f` (+~173 dòng): tách lại Thương hàn / Lỵ trực khuẩn. 15/15 bài. Kiểm tr.38–49 (vision tr.41–42). 12 bài ngoài diff giữ kết luận review cũ.
+| Finding gốc | Mức | Trạng thái | Bằng chứng |
+|---|---|---|---|
+| Thương hàn bị ghép nội dung Lỵ, mất phác đồ | 🔴 | ✅ FIXED | MD 888–1005 khớp PDF tr.39–43: cipro/oflo 15–20 mg/kg/ngày, C3G 2–3 g/ngày, azithro 1 g/ngày, dexamethason 3 mg/kg rồi 1 mg/kg/6h × 8 liều, người mang khuẩn ampi/amox 100 mg/kg + probenecid 30 mg/kg × 3 tháng… |
+| Thiếu bài Lỵ trực khuẩn | 🟠 | ✅ FIXED | MD 1007–1131 khớp PDF tr.44–48 (liều cipro/peflo/oflo/levo, ampicillin, TMP-SMX) |
+| LOW: chèn "with"/"and" tiếng Anh; "TÀI LIỆU THAM KHẢOR" | ⚪ | STILL-OPEN | MD dòng 1326, 1620, 2008 |
+**Finding mới (trong phần sửa):**
+- 🟡 Thương hàn 5.5 mất "viêm xương" (PDF tr.42: "Hiếm gặp: viêm xương, viêm cầu thận…"; MD dòng 975).
+- 🟡 Liều paracetamol bài Lỵ bị tự sửa: PDF tr.47 "mỗi lần 10 mg/kg/ngày" → MD dòng 1101 "mỗi lần 10 mg/kg" (đúng lâm sàng nhưng khác nguyên văn, không chú thích).
+- ⚪ Chuẩn hoá chính tả: "tan máu"→"tán máu", "Leshmania"→"Leishmania".
+
+### #17 REF_MOH_2023_QD2760 — Sốt xuất huyết Dengue — 🔴 FAIL (xấu hơn ở PL9, PL4, PL5) · còn 🔴1 🟠4 🟡4 ⚪4
+Sửa ở `2f8555f`. Vision PDF tr.29–30, 40–41, 47–48 (300 dpi), 50–51, 55.
+| Finding gốc | Mức | Trạng thái | Bằng chứng |
+|---|---|---|---|
+| PL12 mất toàn bộ lưu đồ | 🔴 | ◐ PARTIAL (🟠) | MD 1380–1412 khớp nửa trên tr.51; nửa dưới (CVP ≤15/>15, Dopamin 5–10, Dobutamin 3–10, adrenalin 0,05–0,3, noradrenalin 0,05–1 µg/kg/phút, NKQ) dồn thành 1 node "Refractory"; mất "Hct giảm ≤10%", "ngưng dịch sau 24–48 giờ", "thở oxy" |
+| PL9 mục 2 thiếu bảng Nam/Nữ + chú thích sai | 🟠 | ⛔ → 🔴 mới | Bảng đã thêm (MD 1218–1280) nhưng **79/724 ô số sai** (44 Nam, 35 Nữ), phần lớn thấp hơn 1 kg theo quy luật (vd. Nam 147 cm: PDF 52/56/60/64/68 → MD 51/55/59/63/67) → **có vẻ tự tính chứ không chép**; **6 ô ghi "-" (dùng cân thực) trong khi PDF có cân hiệu chỉnh**: Nam 151/57→52, 159/63→59, 171/73→69; Nữ 151/57→49, 159/63→56, 171/73→67 (lệch 4–8 kg cân nặng tính dịch chống sốc) |
+| PL4 mermaid "≥5" → "≥0,5" | 🟠 | ⛔ REGRESSED | PDF tr.40: "≥5 ml/kg/giờ" chỉ ở cổng "M, HA ổn định, Hct giảm" trước bước 3 ml/kg/h; cổng cuối trước "NGƯNG DỊCH" là **≥0,5**. Commit đổi node ngưng dịch (MD 963, vốn **đúng 0,5**) thành "≥5 [sic] (bản gốc ghi 5…)" — **sai, gốc ghi 0,5**; và đổi node AssessStepUp1 (MD 966, không có trong PDF) thành "≥5 [sic]". Cổng ≥5 thật vẫn chưa vẽ |
+| PL4 bỏ 2 node tốc độ | 🟡 | ❌ STILL-OPEN | thiếu "Tổng dịch <60 ml/kg → RL 10–20/CPT 10–20 ml/kg/h × 1h" và "10 ml/kg/h không cải thiện → RL 20 ml/kg/h, xem phác đồ sốc" |
+| PL16.1/16.2 thiếu chuỗi chỉnh tốc độ | 🟡 | ❌ STILL-OPEN | MD 1483–1541 (tr.55) |
+| PL11 sai thời gian giảm dịch | 🟡 | ❌ STILL-OPEN | MD 1350–1351 (tr.50) |
+| "brain" thay "não"; `\n` thừa | ⚪ | ❌ STILL-OPEN | MD 755, 736 |
+**Finding mới (do `2f8555f`):**
+- 🟠 PL5 thoái lui: MD 1013 "≥0,5" → "nước tiểu ≥ 5 ml/kg/giờ [sic]"; lưu đồ PL5 tr.41 dùng **≥0,5** ở cả 3 cổng.
+- 🟠 PL9 chèn đoạn BMI + công thức cân lý tưởng "**0,9** × (chiều cao − 152,4)" không có ở tr.47–48; thân bài (tr.29–30, MD 690–691) ghi **0,91** → file tự mâu thuẫn.
+- 🟡 PL12 ghi chú albumin "< 2,5 g/dL … CPT ≥ 60 ml/kg" lấy từ thân bài; lưu đồ tr.51 ghi "Albumin **< 2 g/dl** kèm CPT ≥5–10 ml/kg/giờ…", chỉ ở nhánh CVP ≤15.
+- ⚪ PL9 đảo thứ tự Nữ/Nam; header PL11/16.1/16.2 trống số QĐ.
+
+### #21 REF_MOH_2017_QD5590 — QTKT Phẫu thuật Thần kinh — 🟡 PASS-WITH-WARNINGS (trước: FAIL biên) · còn 🔴0 🟠0 🟡1 ⚪2
+Sửa ở `2f8555f` (1 dòng). Vision PDF tr.1–4, 7.
+| Finding gốc | Mức | Trạng thái | Bằng chứng |
+|---|---|---|---|
+| QT #2 "> 5cm" bị đổi thành "> 5mm" | 🟠 | ✅ FIXED | MD 67 giữ "> 5cm" + chú thích [sic] |
+| Thiếu phần QĐ (tr.1–3) + danh mục 64 QT | 🟡 | ❌ STILL-OPEN | MD bắt đầu ở "# PHẪU THUẬT THẦN KINH" |
+| Chú thích "(Không có thông tin)"; chính tả gốc | ⚪ | ❌ STILL-OPEN | MD 594 |
+
+### #22 REF_MOH_2021_QD5968 — HIV/AIDS — 🔴 FAIL (chỉ còn 1 CRITICAL, ở Bảng 16) · còn 🔴1 🟠0 🟡1 ⚪4
+Sửa ở `2f8555f`. Vision PDF tr.1, 3, 18, 21, 29, 34, 36, 45–46, 55–56. Toàn bộ 2 🔴, 1 🟠, 5 🟡 gốc đã sửa.
+| Finding gốc | Mức | Trạng thái | Bằng chứng |
+|---|---|---|---|
+| Bảng 15 ARV bậc 2 sai cấu trúc/hàng | 🔴 | ✅ FIXED | MD 1106–1121 khớp tr.46, đủ chú thích 1–4 |
+| Bảng 5 đảo cột thay thế/đặc biệt trẻ <10 tuổi | 🔴 | ✅ FIXED | MD 793 khớp tr.34 |
+| Bảng 1 mất cột "≤11 tháng" | 🟠 | ✅ FIXED | MD 391–396 khớp tr.18 |
+| Bảng 2 creatinin thừa mốc T3 | 🟡 | ✅ FIXED | MD 484 |
+| Bảng 7 mất cột phác đồ; ">30"→"≥30 kg" | 🟡 | ✅ FIXED | MD 828–833, giữ "> 30 kg [sic]" |
+| Sơ đồ 4 PEP chưa tái dựng | 🟡 | ✅ FIXED | mermaid MD 658–671 |
+| Sơ đồ 6 thất bại điều trị chưa tái dựng | 🟡 | ✅ FIXED | mermaid MD 1079–1096 (≤50 / >50–≤1000 / >1000) |
+| Sai ngày QĐ 5300 | 🟡 | ✅ FIXED | MD 7 |
+| Ban biên soạn rút gọn tên | ⚪ | ❌ STILL-OPEN | MD 33–36 |
+| Nhãn chỉ số Bảng 20/21 | ⚪ | ❌ STILL-OPEN | MD 1330–1331, 1344–1345 |
+**Finding mới (có từ trước `2f8555f`, review cũ sót):**
+- 🔴 **Bảng 16 dựng sai hàng 2 nhóm ≥10 tuổi** (PDF tr.46 ↔ MD 1129). PDF: bậc 1 "2 NRTIs + DTG" (ô gộp) → bậc 2 "**2NRTIs + DRV/r**" → bậc 3 "XN gen kháng thuốc". MD: bậc 1 "2 NRTIs + LPV/r (hoặc DRV/r)" → bậc 2 "2 NRTIs + DTG" → **tạo lộ trình không có trong gốc và mất lựa chọn DRV/r sau thất bại DTG**.
+- 🟡 Bảng 16 hàng 3 ≥10 tuổi: PDF "2NRTIs + EFV" → MD thêm "(hoặc NVP)" (MD 1130).
+- ⚪ Bảng 16 nhóm <10 tuổi: chỉ số trên ^1,3/^2,4 → ³/⁴, thêm "2" (MD 1132–1133); Bảng 1 cột 36–59 tháng thêm "hoặc".
+
+### #26 REF_MOH_2024_QD2388 — Bệnh thận mạn — 🔴 FAIL (chỉ vì 14 lưu đồ trống; đã hết sai liều) · còn 🔴0 🟠1 🟡6 ⚪4
+Sửa ở `2f8555f` (4 ô). Vision PDF tr.26, 27, 37–39, 42–43, 57, 73, 80, 179. Không có lỗi mới do commit.
+| Finding gốc | Mức | Trạng thái | Bằng chứng |
+|---|---|---|---|
+| Bảng 12: liều khởi đầu Captopril | 🔴 | ✅ FIXED | PDF tr.38 "12,5–25 mg, 2–3 lần/ngày" ↔ MD 864 |
+| Bảng 12: liều khởi đầu Candesartan | 🔴 | ✅ FIXED | PDF tr.39 "16 mg, 1 lần/ngày" ↔ MD 872 |
+| Bảng 26: lệch ô Canxi KDOQI↔KDIGO | 🟠 | ✅ FIXED | MD 1303 khớp tr.57 |
+| Bảng 35: nhãn giai đoạn DAA | 🟠 | ✅ FIXED | MD 1759–1760 khớp tr.80 |
+| 14 lưu đồ (Hình 1–14) chỉ còn tiêu đề | 🟠 | ❌ STILL-OPEN | MD 830, 1492, 2911, 2933, 2937, 2939, 2998, 3055, 3069, 3111, 3116, 3138, 3567, 3644; Hình 6 (chỉnh liều metformin theo eGFR) trống |
+| "KDIGO 2024" → "2021" | 🟡 | ❌ STILL-OPEN | MD 846 (PDF tr.37) |
+| Ngưỡng "≥30 / ≥150" → ">" | 🟡 | ❌ STILL-OPEN | MD 641 (PDF tr.26 Bảng 6) |
+| Bảng 16 ESA thiếu bán thải đường TM | 🟡 | ❌ STILL-OPEN | MD 961–962 (PDF tr.43) |
+| Thiếu "hoặc tăng" AST/ALT | 🟡 | ❌ STILL-OPEN | MD 1647 (PDF tr.73) |
+| A3 "≥1+" → ">1+" | 🟡 | ❌ STILL-OPEN | MD 677 (PDF tr.27) |
+| Ngày QĐ 12 → 13/8 | ⚪ | ❌ STILL-OPEN | MD 6, 38 |
+| "≤110/75" → "<110/75" | ⚪ | ❌ STILL-OPEN | MD 3799 (PDF tr.179) |
+| BUN → Ure | ⚪ | ❌ STILL-OPEN | MD 459 (PDF tr.17) |
+**Finding mới (có từ trước, review cũ sót):** 🟡 Bảng 32 HBsAg "(+) ≥ 6 tháng" → MD "> 6 tháng" (MD 1646–1649, PDF tr.73); ⚪ "iPTH" → "PTH" (MD 1307).
+
+### #27 REF_MOH_2020_QD2058 — Rối loạn tâm thần — 🟡 PASS-WITH-WARNINGS (trước: FAIL) · còn 🔴0 🟠0 🟡1 ⚪3
+Sửa ở `2f8555f` (+266/−56). Vision PDF tr.57, 170–175. Chỉ soát finding cũ + vùng diff.
+| Finding gốc | Mức | Trạng thái | Bằng chứng |
+|---|---|---|---|
+| Bài 30 ADHD: phần ĐIỀU TRỊ bị thay bằng nội dung Đái dầm | 🔴 | ✅ FIXED | MD 5032–5070 khớp PDF tr.170–171: Methylphenidate 18–72 mg/ngày; Atomoxetine 0,5→~1,2 mg/kg/ngày, tối đa 100 mg; clonidin 0,1–0,25; valproat 30–50 mg/kg… |
+| Bài 31 Đái dầm: mất tiêu đề + mục 1–3, bị gộp vào Bài 30 | 🔴 | ✅ FIXED | `# Bài 31: ĐÁI DẦM` MD 5075; tiêu chuẩn ICD-10 A–E, F98.00/.01/.02 khớp tr.172–173; mermaid khớp lưu đồ tr.174 |
+| Bài 8 Opioid & Bài 9 Cần sa là text OCR thô | 🟠 | ✅ FIXED | MD 1552–1735 có heading đầy đủ; liều methadon/naltrexon khớp tr.57. Còn artefact số trang "58" ở MD 1812 |
+| Lỗi OCR "Vã mồ oai", "PHÕNG BỆNH", "Sử copy cocain" | ⚪ | ◐ PARTIAL | Còn ở MD 1346, 1521, 1995 |
+**Finding mới (do `2f8555f`):**
+- 🟡 MD 1701 "#### 4.3.1 [sic]. Chiến lược giảm hại bằng Methadon" — PDF tr.57 ghi đúng "4.3.3."; [sic] đổ lỗi sai cho bản gốc → sửa thành 4.3.3, bỏ [sic].
+- ⚪ Chèn nhiều "[sic]" không có trong PDF lên chữ đúng (MD 1587, 1670, 1807, 5050 "\(\alpha\)-adrenergic [sic]" – LaTeX có thể không render, 5100).
+- ⚪ Desmopressin: PDF tr.175 "0,2 – 06 mg" → MD "0,2 – 0,6 mg" (tự sửa typo gốc, cần biên tập viên xác nhận + chú thích). Bài 28 "# 4. ĐIỀU TRỊ" sai cấp heading (MD 4703).
+
+### #34 REF_MOH_2022_QD1832 — Huyết học — 🟡 PASS-WITH-WARNINGS (trước: FAIL) · còn 🔴0 🟠0 🟡3 ⚪2
+Sửa ở `2f8555f` (+195/−4). Vision PDF tr.83, 86, 253–261. Giới hạn lấy mẫu cũ (bài 21–22, 30–32, 39–49 chưa soát từng liều) vẫn giữ nguyên.
+| Finding gốc | Mức | Trạng thái | Bằng chứng |
+|---|---|---|---|
+| Bài 28 MDS mất toàn bộ ĐIỀU TRỊ; Bài 29 Hodgkin mất tiêu đề, bị gộp | 🔴 | ✅ FIXED | MD 6670–6823 khớp tr.253–259 (EPO 40.000–60.000 UI, Azacitidine 75 mg/m² × 7 ngày, Decitabine, hATG 40 mg/kg × 4, thải sắt…); `# 29. U LYMPHO HODGKIN` ở MD 6825 |
+| Bảng 9 DIC/TTP/HUS/HELLP sai ô | 🟡 | ✅ FIXED | MD 2112–2121 khớp 8×4 ô PDF tr.83 |
+| Chèn tiếng Anh (MD 768, 4148, 4260) | 🟡 | ❌ STILL-OPEN | "If possible, this treatment…", "cũng as", "ngày 15 and 22" |
+| Mermaid DIC thiếu nhánh "huyết khối" | 🟡 | ❌ STILL-OPEN | MD 2190–2201 chỉ 2 nhánh; PDF tr.86 có 3 nhánh + ô theo dõi 6h/lần |
+| Sai cấp heading | 🟡 | ❌ STILL-OPEN | "# 3. ĐIỀU TRỊ" cấp H1 ở MD 6611, 6780, 6784, 6897, 7065 |
+**Finding mới:** không có lỗi liều/bịa nội dung. ⚪ "[sic]" chèn lên chữ đúng ("APR-246 [sic]", "tế bào Sternberg [sic]"); ⚪ mục 5.2.1/5.2.2 bị dàn phẳng; tự sửa typo "40.00"→"40.000", "G-CFS"→"G-CSF" không chú thích.
+
+### #35 REF_MOH_2020_QD2767 — Bệnh trẻ em / Nhi (BV Nhi TW) — 🔴 FAIL (xấu hơn lần đầu) · còn 🔴2 🟠1 🟡3 ⚪2
+Sửa ở `2f8555f` (186 dòng, 5 vùng). Vision PDF tr.19, 22, 150, 209–211, 216, 509–511. Chỉ soát finding cũ + vùng diff.
+| Finding gốc | Mức | Trạng thái | Bằng chứng |
+|---|---|---|---|
+| SMA: bỏ bảng liều Zolgensma + chú thích sai | 🟠 | ◐ PARTIAL | 32 dòng 2,6–18,0 kg khớp tr.216; nhưng MD 4824 **thêm dòng "18,1–18,5 kg → 101,8 mL" không có trong PDF**; mất chú thích ᵃ/ᵇ |
+| CH16: bỏ Bảng 1 cách pha/bảo quản kháng sinh tiêm | 🟠 | ⛔ REGRESSED → 🔴 | MD 11866–11907: đúng tên 38 thuốc nhưng **nội dung ô phần lớn tự viết, sai số**; bỏ cột "Bảo quản" và toàn bộ tr.511 (tương kỵ, ký hiệu, lưu ý) |
+| Thiểu năng sinh dục mất phần đầu, nhãn sai | 🟠 | ✅ FIXED | MD 4666–4735 khớp tr.209–211 |
+| RL acid propionic mất mục 1–3.2 | 🟡 | ✅ FIXED | MD 3574 khớp tr.153–154 |
+| Mermaid co giật "sai liều" | 🟡 | ⚠️ finding gốc chẩn đoán sai | Lưu đồ PDF tr.22 ghi Midazolam 0,5 mg/kg & Phenobarbital 10–15 phút; chính văn tr.19 ghi 0,3 mg/kg & 15–20 phút → **mâu thuẫn có sẵn trong PDF**. Mermaid đã bị sửa theo chính văn, nay lệch lưu đồ |
+| Trùng H1 (5 chỗ) | 🟡 | ❌ STILL-OPEN | 4051/4055, 5753/5756, 6608/6611, 10206/10209, 10750/10753; + "# 3. BẤT THƯỜNG CẤU TRÚC NST" (4465) sai cấp |
+| Đảo cột bảng ure | ⚪ | ❌ STILL-OPEN → nâng 🔴 | xem N2 |
+| Tự sửa "218"→"2018" | ⚪ | ❌ STILL-OPEN | MD dòng 12 |
+**Finding mới:**
+- 🔴 **N1 — Bảng 1 kháng sinh tiêm bị bịa/sai số** (PDF tr.509–511 ↔ MD 11866–11907). Ví dụ đối chứng ảnh: Amikacin nồng độ PDF ≤10 mg/ml → MD ≤5; **Fosfomycin PDF "TB" → MD "Không dùng đường TB" (đảo nghĩa)**; Ceftriaxon ổn định PDF 10 ngày 2–8°C/3 ngày t° phòng → MD 24h/3 ngày, mất "sơ sinh TM >60'"; Benzylpenicillin PDF "DÙNG NGAY" → MD "24h/7 ngày"; **Amphotericin B mất cảnh báo "không quá 1,5 mg/kg/ngày"**; Vancomycin, Clindamycin, Cloramphenicol, Gentamicin, Metronidazol, Fluconazol, Imipenem, Ampicillin, Cefotaxim, Cefamandol, Piperacillin/Tazobactam đều sai/mất ô. → Bỏ toàn bộ, chép lại từng ô từ ảnh tr.509–511, giữ cột Bảo quản + tr.511.
+- 🔴 **N2 — Bảng 4.2 liều đợt cấp RL chu trình ure lệch ô** (PDF tr.150 ↔ MD 3523–3530): hàng NAGS, liều 250 mg/kg thuộc **L-arginine** nhưng MD gán cho **N-carbamylglutamate** (đúng là 100 mg/kg rồi 25–62,5 mg/kg/6h). Thứ tự cột sai; "trên 20kg: 5,5 g/m²/ngày" bị chép sang cột phenylacetate.
+- 🟠 N5 — Dòng Zolgensma 18,1–18,5 kg bịa (MD 4824) → xoá.
+- 🟡 N3 — Mermaid co giật (MD 537, 544): giữ giá trị lưu đồ tr.22 + chú thích mâu thuẫn với chính văn tr.19; biên tập viên y khoa quyết định.
+- 🟡 N4 — Thiểu năng sinh dục tự sửa nghĩa: gốc "tăng gonadotropin"/"(hypergonadism)" → MD "gonadotropin thấp"/"(hypogonadotropic hypogonadism)" (MD 4701, 4676) không chú thích.
+- ⚪ N6 — Sơ đồ 2.1 propionic chỉ còn chữ thay thế (MD 3588); "1: 20.00"→"20.000".
+
+> *Phương pháp re-review: agent `ref-doc-fidelity-checker`, vision (pdftoppm→PNG) cho mọi bảng/số liệu trọng yếu, text-layer để định vị; #12 so tự động 1.566 hàng với bảng WHO chính thức rồi phân xử ô lệch bằng ảnh PDF. Chỉ đọc — không chỉnh sửa file.*

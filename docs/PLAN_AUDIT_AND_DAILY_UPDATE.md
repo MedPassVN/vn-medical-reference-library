@@ -21,6 +21,8 @@
 
 ## PHẦN A — Audit lại tài liệu hiện có
 
+> ✅ **Đã thực hiện 2026-10-10** — kết quả: [`audit/AUDIT_2026-10-10.md`](../audit/AUDIT_2026-10-10.md), chi tiết fidelity trong `FIDELITY_REVIEW.md`.
+
 ### A1. Audit tự động: tính toàn vẹn của registry (ngày 1)
 Viết `scripts/validate_library.py` (không phụ thuộc gì ngoài stdlib + `pdfinfo`), chạy được cả local, CI và trong routine:
 - Schema: mọi entry có đủ `refId, title, documentType, documentNumber, issuingAuthority, effectiveDate, tags, sourceUrl`; `localPath` bắt buộc trừ khi `remoteOnly: true`.
