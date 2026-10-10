@@ -203,7 +203,9 @@
     "issuingAuthority": "Bộ Y tế Việt Nam",
     "effectiveDate": "2019-07-29",
     "sourceUrl": "https://benhvienhatrung.vn/wp-content/uploads/2022/06/3310-2019-hddt-viem-gan-b.pdf",
-    "localPath": "raw_sources/REF_MOH_2019_QD3310.pdf"
+    "localPath": "raw_sources/REF_MOH_2019_QD3310.pdf",
+    "status": "superseded",
+    "supersededBy": "REF_MOH_2026_QD1740"
   },
   {
     "title": "Quyết định số 1575/QĐ-BYT ngày 27/03/2023 ban hành Hướng dẫn khám sàng lọc trước tiêm chủng đối với trẻ em",
@@ -733,5 +735,23 @@
     "effectiveDate": "2026-09-22",
     "sourceUrl": "https://kcb.vn/upload/2005611/20260924/Q__ban_hanh_TL.signed_6bdd3.pdf",
     "localPath": "raw_sources/REF_MOH_2026_QD2989.pdf"
+  },
+  {
+    "title": "Quyết định số 1740/QĐ-BYT ngày 16/06/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán, điều trị viêm gan vi rút B”",
+    "tags": [
+      "GASTROENTEROLOGY",
+      "INFECTIOUS_DISEASES",
+      "VĐ 62",
+      "VĐ 63",
+      "Viêm gan B"
+    ],
+    "version": "2026",
+    "refId": "REF_MOH_2026_QD1740",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "1740/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2026-06-16",
+    "sourceUrl": "https://www.benhnhietdoi.vn/wp-content/uploads/2026/06/BYT.-QD-ban-hanh-HDCDT-viem-gan-vi-rut-B-final-2.signed.pdf",
+    "localPath": "raw_sources/REF_MOH_2026_QD1740.pdf"
   }
 ]

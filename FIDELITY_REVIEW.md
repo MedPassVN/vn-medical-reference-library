@@ -63,6 +63,7 @@
 | 37 | REF_MOH_2026_QD2131 | COPD 2026 | 130 | 🔴 **FAIL** | 0 | 8 | 5 | 4 |
 | 38 | REF_MOH_2026_QD2147 | Viêm phổi cộng đồng 2026 | 93 | 🔴 **FAIL** | 1 | 3 | 5 | 6 |
 | 39 | REF_MOH_2026_QD2989 | Suy dinh dưỡng cấp tính trẻ 0–59 tháng (2026) | 44 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
+| 40 | REF_MOH_2026_QD1740 | Viêm gan vi rút B (2026) | 42 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -371,6 +372,15 @@ Header khớp `library.json` (2989/QĐ-BYT, **22/9/2026** theo ảnh trang 1 —
 - 🟡 (vòng 1, đã sửa) Chưa có entry `library.json`; ghi chú PL2 mô tả sai gốc mũi tên tới NỘI TRÚ (hình vẽ từ khung 05) → mermaid sửa `B05 --> NT` theo hình.
 - ⚪ "*(Đã ký)*" ở dòng chữ ký (quy ước chung của thư viện).
 - **Mâu thuẫn trong bản gốc (giữ nguyên văn + ghi chú biên tập):** "truyền 10 ml khối hồng cầu trong 3 giờ" không có "/kg" (tr.20); "mạch tăng 25 lần/phút" (tr.20) vs "> 25/phút" (tr.23); Vitamin A "45-308" trong 100 kcal (tr.40) không nhất quán với 800–1600 mcg/100 g; pha 2 "Chuyển tiếp (Tuần 2 trở đi)" (PL3) vs "Hồi phục (Tuần 2–6)" (tr.17, mục III.1); "40–60% tổng nhu cầu" vs "½ đến 1/3 liều điều trị" (tr.29); PL5 mốc "15–29" rồi "Trên 30"; chú thích Bảng 1 định nghĩa BMI nhưng bảng không có BMI; mũi tên PL2 tới NỘI TRÚ từ khung 05 trong khi mục II.6 đặt ở bước 6.
+
+## 40. REF_MOH_2026_QD1740 — Viêm gan vi rút B 2026 (42 trang) — 🟡 PASS-WITH-WARNINGS
+> Routine hằng ngày 2026-10-10 · chuyển đổi mới từ ảnh PDF · kiểm tra độc lập bằng agent `ref-doc-fidelity-checker`: đọc 100% trang (42/42), bảng số chép độc lập từ ảnh rồi so tự động · 2 vòng (vòng 1: 🔴0 🟠0 🟡2 ⚪3 → sửa → vòng 2: 🔴0 🟠0 🟡0 ⚪1).
+
+Header khớp `library.json` (1740/QĐ-BYT, 16/6/2026, KT. Bộ trưởng – Thứ trưởng Trần Văn Thuấn; **thay thế QĐ 3310/QĐ-BYT ngày 29/7/2019** → `REF_MOH_2019_QD3310` đánh dấu `superseded`). Nguồn PDF: Bệnh viện Bệnh Nhiệt đới Trung ương (bản ký số; không tìm thấy bản trên kcb.vn/moh.gov.vn). Bảng 3, 4, 5, PL1, PL2, PL4 so tự động **0 ô lệch**; Bảng 1, 2, 6 khớp; 3 lưu đồ mermaid (PL3, PL5, PL6) khớp từng node/mũi tên. Liều/ngưỡng trọng yếu khớp: TDF 300 mg, ETV 0,5/1 mg, TAF 25 mg, Peg-IFN-α-2a 180 µg/tuần; trẻ 2–11 tuổi ETV 0,015 mg/kg, TDF 8 mg/kg; liều theo CrCl (PL4); HBV DNA >2000 IU/mL, ALT ULN 30/19 U/L, APRI >0,5/>1, kPa >7/>12,5; dự phòng mẹ con ngưỡng 200.000 IU/mL.
+
+- 🟡 (vòng 1, đã sửa) Bảng "Các thuật ngữ" bị cắt đôi bởi dòng trống (10 thuật ngữ cuối mất định dạng bảng); chưa có entry `library.json`.
+- ⚪ "*(đã ký)*" ở dòng chữ ký (quy ước chung của thư viện).
+- **Mâu thuẫn trong bản gốc (giữ nguyên văn + ghi chú biên tập):** HBV DNA giai đoạn HBeAg âm "<10³" (PL1) vs "<2000 IU/mL" (Thuật ngữ); tần suất tầm soát HCC 4 mức khác nhau (4.3.1: 24–48 tuần; Bảng 5; 4.3.2b: 12–24 tuần; PL5: tối thiểu 24 tuần); PL5 ô "xơ gan" ghi ngưỡng F2 (APRI >0,5, >7 kPa); 4.2.6.d dự phòng TDF/TAF mọi thai phụ chưa đủ tiêu chuẩn vs PL6 "KHÔNG CẦN" khi HBV DNA <200.000 IU/mL hoặc HBeAg âm; 4.2.6.e "xơ hóa tiến triển (≥F2)" vs PL2 (tiến triển = ≥F3); PL5 "TAF ≥12 tuổi" vs Bảng 4 (≥6 tuổi, ≥25 kg); Bảng 3 tránh TDF khi MLCT <50 vs PL4 vẫn chỉnh liều TDF CrCl 10–49; mốc 3 tháng (thất bại ban đầu) vs 6 tháng (không đáp ứng vi rút); đánh số tiểu mục 4.2.6 bỏ "f", "j".
 
 ---
 # 📊 TỔNG KẾT (36/36 tài liệu)
