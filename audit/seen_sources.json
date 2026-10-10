@@ -469,11 +469,12 @@
       "key": "3073/QĐ-BYT|2026",
       "documentNumber": "3073/QĐ-BYT",
       "title": "Quyết định số 3073/QĐ-BYT ngày 02/10/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Tạo hình & Thẩm mỹ - Tập 1”",
-      "status": "queued",
-      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; PDF 1185 trang (>200, tính 2 tài liệu)",
+      "status": "blocked",
+      "reason": "PDF chính thống (kcb.vn, 1185 trang, 350 quy trình) có khối trang lặp: tr.618–726 (QT195–227) lặp gần nguyên văn ở tr.727–829, khối đầu thiếu QT193–194 → cần biên tập viên quyết định cách chép (giữ trùng hay bỏ khối lặp) trước khi chuyển đổi; Điều 3 thay thế một phần QĐ 3449/QĐ-BYT ngày 07/06/2018",
       "sourceUrl": "https://kcb.vn/upload/2005611/20261005/B__Y_T__1__T_o_h_nh_-_Th_m_m_____rA_____soA____t___Repaired_.signed_4b949.pdf",
       "firstSeen": "2026-10-10",
-      "lastChecked": "2026-10-10"
+      "lastChecked": "2026-10-10",
+      "attempts": 1
     },
     {
       "key": "3074/QĐ-BYT|2026",
@@ -539,7 +540,7 @@
       "reason": "không tìm được bản PDF đầy đủ chính thống (chỉ có bản .doc gõ lại trên files01.duytan.edu.vn; luatvietnam yêu cầu đăng nhập); ký ngày 12/02/2026, thay thế QĐ 3780/QĐ-BYT năm 2019",
       "firstSeen": "2026-10-10",
       "lastChecked": "2026-10-10",
-      "attempts": 1
+      "attempts": 2
     }
   ]
 }
