@@ -509,10 +509,12 @@
       "key": "1359/QĐ-BYT|2026",
       "documentNumber": "1359/QĐ-BYT",
       "title": "Quyết định số 1359/QĐ-BYT ngày 12/05/2026 ban hành Hướng dẫn quốc gia về dịch vụ chăm sóc sức khỏe sinh sản",
-      "status": "queued",
-      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; mới thấy qua tin/luatvietnam, chưa tìm bản PDF chính thống",
+      "status": "accepted",
       "firstSeen": "2026-10-10",
-      "lastChecked": "2026-10-10"
+      "lastChecked": "2026-10-11",
+      "refId": "REF_MOH_2026_QD1359",
+      "note": "PDF do chủ thư viện cung cấp 2026-10-11; kiểm tra độc lập PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪5",
+      "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20260613/754_Quyet-dinh-1359-QD-BYT_076eec85bf.pdf"
     },
     {
       "key": "915/QĐ-BYT|2026",

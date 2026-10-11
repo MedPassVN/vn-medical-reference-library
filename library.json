@@ -839,5 +839,21 @@
     "effectiveDate": "2026-02-12",
     "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20260305/711_Quyet-dinh-456-QD-BYT_22549901f9.pdf",
     "localPath": "raw_sources/REF_MOH_2026_QD456.pdf"
+  },
+  {
+    "title": "Quyết định số 1359/QĐ-BYT ngày 12/05/2026 ban hành tài liệu chuyên môn “Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản nội dung Kế hoạch hóa gia đình và Phá thai an toàn”",
+    "tags": [
+      "OBSTETRICS",
+      "GYNECOLOGY_BREAST",
+      "Sản phụ khoa"
+    ],
+    "version": "2026",
+    "refId": "REF_MOH_2026_QD1359",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "1359/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2026-05-12",
+    "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20260613/754_Quyet-dinh-1359-QD-BYT_076eec85bf.pdf",
+    "localPath": "raw_sources/REF_MOH_2026_QD1359.pdf"
   }
 ]

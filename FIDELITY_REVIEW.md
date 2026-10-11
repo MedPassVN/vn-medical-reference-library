@@ -66,6 +66,7 @@
 | 40 | REF_MOH_2026_QD1740 | Viêm gan vi rút B (2026) | 42 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
 | 41 | REF_MOH_2026_QD3074 | QTKT Tạo hình & Thẩm mỹ - Tập 2 (71 QT, 2026) | 242 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 5 |
 | 42 | REF_MOH_2026_QD456 | U xơ cơ tử cung (2026) | 37 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
+| 43 | REF_MOH_2026_QD1359 | KHHGĐ & Phá thai an toàn (2026) | 95 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 5 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -401,6 +402,14 @@ Header khớp `library.json` (456/QĐ-BYT, 12/02/2026, KT. Bộ trưởng – Th
 - 🟡 (đã sửa) Tiêu đề cột bảng do agent tự thêm (bản gốc không có); ghi chú biên tập đưa kiến thức dược lý ngoài vào văn bản.
 - ⚪ "*(Đã ký)*" theo quy ước (ảnh có chữ ký và dấu).
 - **Mâu thuẫn trong bản gốc (giữ nguyên văn + ghi chú biên tập):** Elagolix, Relugolix (uống) xếp vào mục "GnRH đồng vận"; mục (5) và (6) trùng tên "Thuốc điều hòa chọn lọc thụ thể progesterone"; tranexamic acid "liều tối đa 750 mg – 2.000 mg/24 giờ" trong khi truyền 500–2.500 mg/24 giờ; **vasopressin "30–40 ml dung dịch" không ghi nồng độ**; chỉ tranexamic acid, misoprostol, oxytocin có liều — GnRH, mifepristone, ulipristal, progestin, NSAID không có liều; vỡ tử cung 0–4% (mổ mở) vs 0–10% (nội soi); NĐMTC "hiệu quả với cường kinh" nhưng "thiếu hiệu quả với xuất huyết tử cung bất thường"; US-HIFU cho UXCTC ghi "định vị khối adenomyosis"; L2 ở cả hai nhánh xử trí vô sinh; "ibuprofen (indomethacin)", NSAID gây "đa ối"; dấu trích dẫn "15)" nhưng không có tài liệu tham khảo.
+
+## 43. REF_MOH_2026_QD1359 — HDQG dịch vụ CSSKSS: Kế hoạch hóa gia đình và Phá thai an toàn (95 trang) — 🟡 PASS-WITH-WARNINGS
+> 2026-10-11 · nguồn PDF do chủ thư viện cung cấp (Bệnh viện Đa khoa Bạc Liêu, bản đăng lại) · chuyển đổi từ ảnh · kiểm tra độc lập `ref-doc-fidelity-checker`, đọc 95/95 trang bằng ảnh, so từng từ với text-layer (khớp 0,9946, mọi chênh lệch đã giải thích), 5 bảng chép độc lập và so tự động · 🔴0 🟠0 🟡1 ⚪5 → sửa 🟡 (bỏ tiêu đề cột tự thêm ở bảng ban biên soạn và viết tắt) → 🔴0 🟠0 🟡0.
+
+Header khớp `library.json` (1359/QĐ-BYT, 12/5/2026, KT. Bộ trưởng – Thứ trưởng Nguyễn Tri Thức; Điều 3 thay thế nội dung "Kế hoạch hóa gia đình" và "Phá thai an toàn" trong Hướng dẫn Quốc gia ban hành theo QĐ 4128/QĐ-BYT ngày 29/7/2016 — văn bản này không có trong thư viện; `REF_MOH_2020_QD4128` là văn bản khác). Liều/ngưỡng khớp: LNG 1,5/0,75 mg, UPA 30 mg, Yuzpe; mifepristone 200 mg, misoprostol 800/400/200/600 mcg theo tuổi thai; lidocaine 1% ≤ 4–5 mg/kg và ≤ 300 mg; doxycycline 200 mg/azithromycin 500 mg/metronidazole 1 g; hấp 121°C/106 kPa/30 phút, glutaraldehyde 2.4%.
+
+- ⚪ Mất in nghiêng/gạch chân ở vài nhãn; "*(Đã ký)*" theo quy ước.
+- **Mâu thuẫn trong bản gốc (giữ nguyên văn):** tr.62 triệt sản nữ "tối đa 4,5 mg/kg (phụ nữ 50 kg, tối đa 25 ml lidocain 1%)" — 4,5 mg/kg × 50 kg = 22,5 ml; COC "không cho bú trong 4 tuần sau sinh" vs bắt đầu "sau 21 ngày"; bài thuốc tiêm tr.39 ghi "tiếp tục sử dụng thuốc cấy"; tr.38 "chuyển đổi giữa thuốc tiêm tránh thai và NET-EN"; tr.82 "tháo DCTC trước khi dừng thuốc"; "thai ≤ 9 tuần" (tr.71) vs "< 9 tuần" (tr.83); thuốc cấy "đau nửa đầu không tiền triệu" ở hai nhóm, đánh số "2.2." hai lần.
 
 ---
 # 📊 TỔNG KẾT (36/36 tài liệu)
