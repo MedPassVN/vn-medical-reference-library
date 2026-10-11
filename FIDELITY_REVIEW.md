@@ -65,6 +65,7 @@
 | 39 | REF_MOH_2026_QD2989 | Suy dinh dưỡng cấp tính trẻ 0–59 tháng (2026) | 44 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
 | 40 | REF_MOH_2026_QD1740 | Viêm gan vi rút B (2026) | 42 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
 | 41 | REF_MOH_2026_QD3074 | QTKT Tạo hình & Thẩm mỹ - Tập 2 (71 QT, 2026) | 242 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 5 |
+| 42 | REF_MOH_2026_QD456 | U xơ cơ tử cung (2026) | 37 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -391,6 +392,15 @@ Header khớp `library.json` (3074/QĐ-BYT, 02/10/2026, KT. Bộ trưởng – T
 - 🟡 (đã sửa) "*(Đã ký và đóng dấu)*" → "*(Đã ký)*" theo quy ước; mâu thuẫn adrenalin chưa được gắn ghi chú; cấp tiêu đề "6.x Bước n" QT50–71 không nhất quán; danh sách QT64/65 bị dàn phẳng sai cấp.
 - ⚪ Chuẩn hóa trình bày: "01tháng"→"01 tháng", "34.PHẪU"/"57.PHẪU" thêm khoảng trắng, glyph Symbol/Wingdings → "-"/"→"; chữ nghiêng "a./b./c." mục 5.8 không đồng đều; một số lỗ đánh số gốc (QT62–67 thiếu 5.4, QT69 thiếu 5.2, mục "4. THẬN TRỌNG" để trống ở QT61, 62, 66, 68, 69) chép nguyên văn không ghi chú.
 - **Mâu thuẫn trong bản gốc (giữ nguyên văn + ghi chú biên tập):** **lidocain adrenalin "1/20000" ở QT16–19** (tr.68, 69, 71, 74, 77; QT16 tiêm dưới da đầu trẻ nhỏ) vs "1/200000" ở QT1, QT8–12 — đậm đặc gấp 10 lần; QT50–52 "khoảng 10 đối với" (thiếu "%"?); QT44 (xương hàm trên) mục 5.4 ghi "xương hàm dưới"; QT52 (hội chứng Poland) chứa nội dung vét hạch nách/u tuyến vú chép từ quy trình cắt tuyến vú; QT23 (ghép xương đồng loại) bước 6 "lấy xương mào chậu tự thân"; QT2 (tạo hình âm đạo) ghi "âm hộ"; Phụ lục ghi TT 23/2023 vs Quyết định TT 23/2024; tiêu đề Phụ lục hàng 3, 12, 40 khác Mục lục; Lời nói đầu ghi "chuyên ngành Thần kinh"; QT61–69 mục 5.8 "đúng kích thước túi" ở quy trình không đặt túi; QT61 theo dõi "2 lần/ngày" vs QT62–65 "1 lần/ngày"; QT46/47 TLTK số 3 và 5 trùng nhau.
+
+## 42. REF_MOH_2026_QD456 — Chẩn đoán và xử trí u xơ cơ tử cung (37 trang) — 🟡 PASS-WITH-WARNINGS
+> 2026-10-11 · nguồn PDF do chủ thư viện cung cấp (Bệnh viện Đa khoa Bạc Liêu, bản đăng lại; sha256 trùng khi tải lại) · chuyển đổi từ ảnh · kiểm tra độc lập bằng `ref-doc-fidelity-checker`, đọc 100% trang, so từng từ với text-layer · vòng 1 🔴0 🟠0 🟡2 ⚪7 → vòng 2 🔴0 🟠0 🟡0 ⚪1.
+
+Header khớp `library.json` (456/QĐ-BYT, 12/02/2026, KT. Bộ trưởng – Thứ trưởng Nguyễn Tri Thức; **thay thế QĐ 3780/QĐ-BYT ngày 26/8/2019**, không có trong thư viện). Trang bìa bản gốc để trống số/ngày quyết định (giữ nguyên). Bảng 1 (FIGO), Bảng 2 (siêu âm UXCTC vs bệnh tuyến cơ), bảng viết tắt chép độc lập từ ảnh → khớp; lưu đồ Phụ lục 5 ô/4 mũi tên khớp. Liều/ngưỡng khớp: tranexamic acid uống/tiêm/truyền, misoprostol 400 µg, oxytocin 30 đơn vị/500 ml, tranexamic acid 1 g; ngưỡng kích thước u, US-HIFU, MRgFUS, NĐMTC.
+
+- 🟡 (đã sửa) Tiêu đề cột bảng do agent tự thêm (bản gốc không có); ghi chú biên tập đưa kiến thức dược lý ngoài vào văn bản.
+- ⚪ "*(Đã ký)*" theo quy ước (ảnh có chữ ký và dấu).
+- **Mâu thuẫn trong bản gốc (giữ nguyên văn + ghi chú biên tập):** Elagolix, Relugolix (uống) xếp vào mục "GnRH đồng vận"; mục (5) và (6) trùng tên "Thuốc điều hòa chọn lọc thụ thể progesterone"; tranexamic acid "liều tối đa 750 mg – 2.000 mg/24 giờ" trong khi truyền 500–2.500 mg/24 giờ; **vasopressin "30–40 ml dung dịch" không ghi nồng độ**; chỉ tranexamic acid, misoprostol, oxytocin có liều — GnRH, mifepristone, ulipristal, progestin, NSAID không có liều; vỡ tử cung 0–4% (mổ mở) vs 0–10% (nội soi); NĐMTC "hiệu quả với cường kinh" nhưng "thiếu hiệu quả với xuất huyết tử cung bất thường"; US-HIFU cho UXCTC ghi "định vị khối adenomyosis"; L2 ở cả hai nhánh xử trí vô sinh; "ibuprofen (indomethacin)", NSAID gây "đa ối"; dấu trích dẫn "15)" nhưng không có tài liệu tham khảo.
 
 ---
 # 📊 TỔNG KẾT (36/36 tài liệu)

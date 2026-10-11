@@ -824,5 +824,20 @@
     "effectiveDate": "2028-01-01",
     "sourceUrl": "https://kcb.vn/upload/2005611/20261005/T_P_2._Ta_o_hi_nh_tha__m_my___Repaired_.signed_7e010.pdf",
     "localPath": "raw_sources/REF_MOH_2026_QD3074.pdf"
+  },
+  {
+    "title": "Quyết định số 456/QĐ-BYT ngày 12/02/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và xử trí u xơ cơ tử cung”",
+    "tags": [
+      "GYNECOLOGY_BREAST",
+      "Sản phụ khoa"
+    ],
+    "version": "2026",
+    "refId": "REF_MOH_2026_QD456",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "456/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2026-02-12",
+    "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20260305/711_Quyet-dinh-456-QD-BYT_22549901f9.pdf",
+    "localPath": "raw_sources/REF_MOH_2026_QD456.pdf"
   }
 ]

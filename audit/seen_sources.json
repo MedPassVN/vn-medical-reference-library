@@ -536,11 +536,12 @@
       "key": "456/QĐ-BYT|2026",
       "documentNumber": "456/QĐ-BYT",
       "title": "Quyết định số 456/QĐ-BYT năm 2026 ban hành Hướng dẫn chẩn đoán và xử trí u xơ cơ tử cung",
-      "status": "blocked",
-      "reason": "không tìm được bản PDF đầy đủ chính thống (chỉ có bản .doc gõ lại trên files01.duytan.edu.vn; luatvietnam yêu cầu đăng nhập); ký ngày 12/02/2026, thay thế QĐ 3780/QĐ-BYT năm 2019",
+      "status": "accepted",
       "firstSeen": "2026-10-10",
-      "lastChecked": "2026-10-10",
-      "attempts": 2
+      "lastChecked": "2026-10-11",
+      "refId": "REF_MOH_2026_QD456",
+      "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20260305/711_Quyet-dinh-456-QD-BYT_22549901f9.pdf",
+      "note": "PDF do chủ thư viện cung cấp 2026-10-11; kiểm tra độc lập PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪1"
     }
   ]
 }
