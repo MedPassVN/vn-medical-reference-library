@@ -2,6 +2,10 @@
 
 Mỗi lần chạy có thay đổi thêm một mục (mới nhất ở trên). Quy trình: `.claude/routines/daily-update.md`.
 
+## 2026-10-17 — quy định mới: bỏ tài liệu > 100 trang
+- Routine không chuyển đổi tài liệu > 100 trang PDF (commit 84a8caf). Bỏ bản chuyển đổi dở dang (chưa commit) của QĐ 916 (312 tr.), 2480 (437 tr.), 3073 (1185 tr.), 915 (720 tr.) → `skipped` trong `seen_sources.json`.
+- Lượt chạy 2026-10-12 → 2026-10-16: không có văn bản mới ngoài QĐ 1296/QĐ-BYT 2026 (QTKT Sản phụ khoa Tập 1) → `queued` (chưa có PDF chính thống, chưa biết số trang). Không có cập nhật quốc tế mới.
+
 ## 2026-10-10 — lượt chạy routine (lượt 3)
 - Không có văn bản mới; không thêm tài liệu.
 - **Bị chặn:** QĐ 3073/QĐ-BYT (QTKT Tạo hình & Thẩm mỹ Tập 1, 1185 trang) — PDF gốc có khối trang lặp tr.618–726 ↔ tr.727–829 (khối đầu thiếu QT193–194), cần biên tập viên quyết định; QĐ 456/QĐ-BYT — vẫn không có PDF chính thống (lần thử 2/3).

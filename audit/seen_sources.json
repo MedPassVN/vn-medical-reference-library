@@ -4,7 +4,7 @@
     "key": "<documentNumber>|<năm ban hành>",
     "attempts": "số lần thử (blocked: tối đa 3)"
   },
-  "updatedAt": "2026-10-10",
+  "updatedAt": "2026-10-17",
   "items": [
     {
       "key": "51/2017/TT-BYT|2017",
@@ -469,12 +469,13 @@
       "key": "3073/QĐ-BYT|2026",
       "documentNumber": "3073/QĐ-BYT",
       "title": "Quyết định số 3073/QĐ-BYT ngày 02/10/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Tạo hình & Thẩm mỹ - Tập 1”",
-      "status": "blocked",
-      "reason": "PDF chính thống (kcb.vn, 1185 trang, 350 quy trình) có khối trang lặp: tr.618–726 (QT195–227) lặp gần nguyên văn ở tr.727–829, khối đầu thiếu QT193–194 → cần biên tập viên quyết định cách chép (giữ trùng hay bỏ khối lặp) trước khi chuyển đổi; Điều 3 thay thế một phần QĐ 3449/QĐ-BYT ngày 07/06/2018",
+      "status": "skipped",
+      "reason": "> 100 trang (1185 tr.) — không chuyển đổi theo quy định routine (chủ repo quyết định 2026-10-17); bản chuyển đổi dở dang đã bỏ, chưa commit",
       "sourceUrl": "https://kcb.vn/upload/2005611/20261005/B__Y_T__1__T_o_h_nh_-_Th_m_m_____rA_____soA____t___Repaired_.signed_4b949.pdf",
       "firstSeen": "2026-10-10",
-      "lastChecked": "2026-10-10",
-      "attempts": 1
+      "lastChecked": "2026-10-17",
+      "attempts": 1,
+      "pages": 1185
     },
     {
       "key": "3074/QĐ-BYT|2026",
@@ -491,10 +492,12 @@
       "key": "2480/QĐ-BYT|2026",
       "documentNumber": "2480/QĐ-BYT",
       "title": "Quyết định số 2480/QĐ-BYT năm 2026 ban hành Hướng dẫn quy trình kỹ thuật Thần kinh - Tập 1.1",
-      "status": "queued",
-      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; mới thấy qua tin/luatvietnam, chưa tìm bản PDF chính thống",
+      "status": "skipped",
+      "reason": "> 100 trang (437 tr.) — không chuyển đổi theo quy định routine (chủ repo quyết định 2026-10-17); bản chuyển đổi dở dang đã bỏ, chưa commit",
       "firstSeen": "2026-10-10",
-      "lastChecked": "2026-10-10"
+      "lastChecked": "2026-10-17",
+      "pages": 437,
+      "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20261010/814_Quyet-dinh-2480-QD-BYT_a484d0e4d2.pdf"
     },
     {
       "key": "1269/QĐ-BYT|2026",
@@ -520,19 +523,23 @@
       "key": "915/QĐ-BYT|2026",
       "documentNumber": "915/QĐ-BYT",
       "title": "Quyết định số 915/QĐ-BYT năm 2026 ban hành tài liệu Hướng dẫn quy trình kỹ thuật Mũi Họng Miệng - Tập 1",
-      "status": "queued",
-      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; mới thấy qua tin/luatvietnam, chưa tìm bản PDF chính thống",
+      "status": "skipped",
+      "reason": "> 100 trang (720 tr.) — không chuyển đổi theo quy định routine (chủ repo quyết định 2026-10-17); bản chuyển đổi dở dang đã bỏ, chưa commit",
       "firstSeen": "2026-10-10",
-      "lastChecked": "2026-10-10"
+      "lastChecked": "2026-10-17",
+      "pages": 720,
+      "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20260507/734_Quyet-dinh-915-QD-BYT_2f00bd490c.pdf"
     },
     {
       "key": "916/QĐ-BYT|2026",
       "documentNumber": "916/QĐ-BYT",
       "title": "Quyết định số 916/QĐ-BYT năm 2026 ban hành tài liệu Hướng dẫn quy trình kỹ thuật Tai - Tập 1",
-      "status": "queued",
-      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; mới thấy qua tin/luatvietnam, chưa tìm bản PDF chính thống",
+      "status": "skipped",
+      "reason": "> 100 trang (312 tr.) — không chuyển đổi theo quy định routine (chủ repo quyết định 2026-10-17); bản chuyển đổi dở dang đã bỏ, chưa commit",
       "firstSeen": "2026-10-10",
-      "lastChecked": "2026-10-10"
+      "lastChecked": "2026-10-17",
+      "pages": 312,
+      "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20260507/735_Quyet-dinh-916-QD-BYT_08e37fdfdd.pdf"
     },
     {
       "key": "456/QĐ-BYT|2026",
@@ -544,6 +551,15 @@
       "refId": "REF_MOH_2026_QD456",
       "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20260305/711_Quyet-dinh-456-QD-BYT_22549901f9.pdf",
       "note": "PDF do chủ thư viện cung cấp 2026-10-11; kiểm tra độc lập PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪1"
+    },
+    {
+      "key": "1296/QĐ-BYT|2026",
+      "documentNumber": "1296/QĐ-BYT",
+      "title": "Quyết định số 1296/QĐ-BYT năm 2026 ban hành Hướng dẫn quy trình kỹ thuật về Sản phụ khoa - Tập 1",
+      "status": "queued",
+      "reason": "mới thấy qua luatvietnam; chưa tìm bản PDF chính thống, chưa biết số trang (> 100 trang → skipped)",
+      "firstSeen": "2026-10-17",
+      "lastChecked": "2026-10-17"
     }
   ]
 }
