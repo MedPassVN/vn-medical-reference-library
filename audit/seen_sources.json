@@ -1,6 +1,6 @@
 {
   "_schema": {
-    "status": "accepted | rejected | queued | blocked",
+    "status": "accepted | rejected | queued | blocked | skipped",
     "key": "<documentNumber>|<năm ban hành>",
     "attempts": "số lần thử (blocked: tối đa 3)"
   },

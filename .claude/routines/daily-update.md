@@ -23,7 +23,7 @@ python3 scripts/validate_library.py --quiet && node scripts/check_mermaid.js | t
 ```
 Nếu validator hoặc mermaid đang đỏ trên `main` từ trước → ghi vào báo cáo cuối, không sửa ngoài phạm vi (trừ lỗi cú pháp/ký tự hiển nhiên).
 
-Đọc: `library.json` (danh mục hiện có), `audit/seen_sources.json` (các văn bản đã xét — **không xét lại** mục đã `accepted`/`rejected`; mục `blocked` được thử lại tối đa 3 lần), `.claude/routines/conversion-rules.md`.
+Đọc: `library.json` (danh mục hiện có), `audit/seen_sources.json` (các văn bản đã xét — **không xét lại** mục đã `accepted`/`rejected`/`skipped`; mục `blocked` được thử lại tối đa 3 lần), `.claude/routines/conversion-rules.md`.
 
 ## 1. Phát hiện văn bản mới
 Tìm văn bản ban hành trong ~60 ngày gần đây (và bất kỳ văn bản nào chưa có trong `seen_sources.json`):
@@ -40,14 +40,15 @@ Tìm văn bản ban hành trong ~60 ngày gần đây (và bất kỳ văn bản
 **Khử trùng lặp:** so `documentNumber` + năm với `library.json` và `seen_sources.json`.
 
 ## 2. Giới hạn mỗi lần chạy
-- Tối đa **2 tài liệu Việt Nam mới** mỗi lần (ưu tiên mới nhất, liên quan lâm sàng rộng). Tài liệu > 200 trang tính là 2. Phần còn lại ghi `status: "queued"` cho ngày sau.
+- **Không chuyển đổi tài liệu > 100 trang PDF** (quyết định của chủ repo, 2026-10-17). Tải PDF vào thư mục tạm chỉ để đếm trang bằng `pdfinfo` (biết chắc số trang từ nguồn chính thống thì không cần tải), **không** lưu vào `raw_sources/`, không tạo Markdown, không đăng ký vào `library.json`. Ghi vào `seen_sources.json` với `status: "skipped"`, `reason: "> 100 trang (<số trang> tr.) — không chuyển đổi theo quy định routine"`, kèm `pages` và `sourceUrl` (URL gốc) nếu có; nêu trong báo cáo cuối. Mục `skipped` không xét lại ở các lượt sau. Áp dụng cả cho mục `queued`/`blocked` cũ khi đến lượt xử lý.
+- Tối đa **2 tài liệu Việt Nam mới** (≤ 100 trang) mỗi lần (ưu tiên mới nhất, liên quan lâm sàng rộng). Phần còn lại ghi `status: "queued"` cho ngày sau.
 - Cập nhật quốc tế (remoteOnly) không giới hạn — chỉ là metadata.
 - Không có gì mới → **không commit**, kết thúc với báo cáo 1 dòng "Không có văn bản mới".
 
 ## 3. Với mỗi tài liệu Việt Nam được chọn
-1. **Tải PDF** từ nguồn chính thống nhất tìm được (ưu tiên moh.gov.vn / kcb.vn / vbpl.vn / cổng sở y tế, bệnh viện công; trang thứ cấp chỉ khi không có bản chính thống) bằng `scripts/relay_fetch.py` (tự thử trực tiếp trước, bị chặn mới qua relay; mã thoát ≠ 0 → file không dùng được). Lưu tạm, kiểm tra `pdfinfo` mở được, số trang hợp lý, trang 1 đúng số/ngày văn bản. Không tải được bản PDF đầy đủ → `blocked` (lý do), bỏ qua.
+1. **Tải PDF** từ nguồn chính thống nhất tìm được (ưu tiên moh.gov.vn / kcb.vn / vbpl.vn / cổng sở y tế, bệnh viện công; trang thứ cấp chỉ khi không có bản chính thống) bằng `scripts/relay_fetch.py` (tự thử trực tiếp trước, bị chặn mới qua relay; mã thoát ≠ 0 → file không dùng được). Lưu tạm, kiểm tra `pdfinfo` mở được, số trang hợp lý, trang 1 đúng số/ngày văn bản. Không tải được bản PDF đầy đủ → `blocked` (lý do), bỏ qua. **> 100 trang → `skipped` theo mục 2, dừng xử lý tài liệu đó.**
 2. **refId**: `REF_MOH_<năm ban hành>_QD<số>` (Thông tư: `_TT<số>`; Luật: `REF_LAW_<năm>_<viết tắt>`). Trùng refId đã có → thêm hậu tố chữ cái. Lưu PDF vào `raw_sources/<refId>.pdf`.
-3. **Chuyển đổi** → `markdown_docs/<refId>.md`: giao cho **subagent `general-purpose` với `model: "opus"`**, prompt yêu cầu đọc và tuân thủ tuyệt đối `.claude/routines/conversion-rules.md`, đọc 100% trang PDF bằng ảnh, dựng mọi bảng/lưu đồ/phụ lục. Tài liệu lớn có thể chia nhiều subagent theo dải trang ghi vào các file tạm rồi ghép — mỗi subagent một file riêng. **Mỗi subagent dùng thư mục tạm riêng** (vd `/tmp/rt/<refId>-<vai trò>/`) cho ảnh render — không dùng chung thư mục ảnh (lần chạy 2026-10-10 các agent đã ghi đè ảnh của nhau).
+3. **Chuyển đổi** → `markdown_docs/<refId>.md`: giao cho **subagent `general-purpose` với `model: "opus"`**, prompt yêu cầu đọc và tuân thủ tuyệt đối `.claude/routines/conversion-rules.md`, đọc 100% trang PDF bằng ảnh, dựng mọi bảng/lưu đồ/phụ lục. Tài liệu dài (vd > 50 trang) có thể chia nhiều subagent theo dải trang ghi vào các file tạm rồi ghép — mỗi subagent một file riêng. **Mỗi subagent dùng thư mục tạm riêng** (vd `/tmp/rt/<refId>-<vai trò>/`) cho ảnh render — không dùng chung thư mục ảnh (lần chạy 2026-10-10 các agent đã ghi đè ảnh của nhau).
 4. **Kiểm tra độc lập**: giao cho **subagent `ref-doc-fidelity-checker`** (chỉ đọc; nếu loại agent này không có trong session — vd repo được clone sau khi session khởi động — dùng `general-purpose` với `model: "opus"`, prompt bắt đầu bằng toàn bộ nội dung `.claude/agents/ref-doc-fidelity-checker.md` và nhấn mạnh CHỈ ĐỌC; agent chuyển đổi và agent kiểm tra **phải khác nhau**) rà soát đầy đủ theo quy trình của agent: đọc 100% trang; bảng số liệu dày phải **chép độc lập từ ảnh rồi so tự động**; mọi lưu đồ so từng node/mũi tên. Yêu cầu trả về verdict + số lỗi 🔴/🟠/🟡/⚪ + danh sách lỗi (dòng MD, trang PDF).
 5. **Sửa & kiểm lại**: còn lỗi 🔴/🟠/🟡 → giao lại subagent chuyển đổi sửa đúng các lỗi đó (theo ảnh), rồi chạy lại kiểm tra độc lập **trên phần đã sửa**. Tối đa 2 vòng.
 6. **Điều kiện để commit:** verdict PASS hoặc PASS-WITH-WARNINGS với **🔴 0, 🟠 0, 🟡 0**; validator 0 ERROR; mermaid `invalid: 0`. Không đạt sau 2 vòng → **không commit tài liệu đó**: xoá PDF/MD tạm khỏi working tree, ghi `blocked` + lý do + `attempts` vào `seen_sources.json`.
@@ -73,7 +74,7 @@ git fetch origin main && git rebase origin/main && git push origin HEAD:main
 
 ## 6. Báo cáo cuối (ngắn, tiếng Việt — đây là nội dung thông báo gửi chủ repo)
 - Văn bản mới đã thêm (refId, tên, số trang, verdict, link commit).
-- Văn bản đang xếp hàng / bị chặn (lý do).
+- Văn bản đang xếp hàng / bị chặn / bỏ qua vì > 100 trang (lý do, số trang).
 - Cập nhật quốc tế, văn bản bị thay thế.
 - Mâu thuẫn trong bản gốc cần biên tập viên y khoa quyết định (đã giữ nguyên văn + ghi chú).
 - Không có gì mới → 1 dòng.
@@ -81,5 +82,6 @@ git fetch origin main && git rebase origin/main && git push origin HEAD:main
 ## Không bao giờ
 - Tự sinh/tính số liệu; dùng nguồn ngoài để "điền" bảng.
 - Commit tài liệu chưa qua kiểm tra độc lập hoặc còn lỗi 🔴/🟠/🟡.
+- Chuyển đổi tài liệu > 100 trang PDF.
 - Xoá/đổi `refId` của tài liệu đã có (phá link CDN của client).
 - Force-push, sửa lịch sử `main`, tạo PR/issue.
