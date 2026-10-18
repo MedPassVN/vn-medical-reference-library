@@ -2,6 +2,11 @@
 
 Mỗi lần chạy có thay đổi thêm một mục (mới nhất ở trên). Quy trình: `.claude/routines/daily-update.md`.
 
+## 2026-10-18 — lượt chạy routine
+- Không có tài liệu chuyên môn mới; không chuyển đổi.
+- Đã xét và loại (hành chính): QĐ 1986/QĐ-BYT (01/07/2026, sửa thời điểm áp dụng 20 QĐ QTKT — trong đó QĐ 2598/QĐ-BYT Dinh dưỡng lâm sàng có trong thư viện: áp dụng từ 01/01/2028), Công văn 7780/BYT-KCB.
+- Xếp hàng: QĐ 1269, 1296 (chưa có PDF chính thống). Không có cập nhật quốc tế mới.
+
 ## 2026-10-17 — quy định mới: bỏ tài liệu > 100 trang
 - Routine không chuyển đổi tài liệu > 100 trang PDF (commit 84a8caf). Bỏ bản chuyển đổi dở dang (chưa commit) của QĐ 916 (312 tr.), 2480 (437 tr.), 3073 (1185 tr.), 915 (720 tr.) → `skipped` trong `seen_sources.json`.
 - Lượt chạy 2026-10-12 → 2026-10-16: không có văn bản mới ngoài QĐ 1296/QĐ-BYT 2026 (QTKT Sản phụ khoa Tập 1) → `queued` (chưa có PDF chính thống, chưa biết số trang). Không có cập nhật quốc tế mới.
