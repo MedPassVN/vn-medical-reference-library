@@ -52,7 +52,7 @@ if response.status_code == 200:
 ---
 
 <!-- LIBRARY_TABLE_START (tự sinh bởi scripts/build_readme_table.py — không sửa tay) -->
-## 🗂️ Tra cứu nhanh Danh mục Tài liệu hiện có (49 Tài liệu Cốt lõi)
+## 🗂️ Tra cứu nhanh Danh mục Tài liệu hiện có (52 Tài liệu Cốt lõi)
 
 Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn trong thư viện:
 
@@ -107,6 +107,9 @@ Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn 
 | **`REF_INT_GOLD_2026`** | Global Strategy for the Diagnosis, Management, and Prevention of Chronic Obstructive Pulmonary Disease | `QST Quốc tế` | Global Initiative for Chronic Obstructive Lung Disease (GOLD) | 2025-12-08 | [Direct Link 🌐](https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf) |
 | **`REF_INT_ADA_2026`** | Standards of Care in Diabetes - 2026 | `QST Quốc tế` | American Diabetes Association (ADA) | 2026-01-01 | [Direct Link 🌐](https://diabetesjournals.org/care/issue/49/Supplement_1) |
 | **`REF_MOH_2026_QD3074`** | Quyết định số 3074/QĐ-BYT ngày 02/10/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Tạo hình & Thẩm mỹ - Tập 2” | `Quyết định` | Bộ Y tế Việt Nam | 2028-01-01 | [Download 📥](raw_sources/REF_MOH_2026_QD3074.pdf) |
+| **`REF_MOH_2026_QD456`** | Quyết định số 456/QĐ-BYT ngày 12/02/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và xử trí u xơ cơ tử cung” | `Quyết định` | Bộ Y tế Việt Nam | 2026-02-12 | [Download 📥](raw_sources/REF_MOH_2026_QD456.pdf) |
+| **`REF_MOH_2026_QD1359`** | Quyết định số 1359/QĐ-BYT ngày 12/05/2026 ban hành tài liệu chuyên môn “Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản nội dung Kế hoạch hóa gia đình và Phá thai an toàn” | `Quyết định` | Bộ Y tế Việt Nam | 2026-05-12 | [Download 📥](raw_sources/REF_MOH_2026_QD1359.pdf) |
+| **`REF_MOH_2026_QD493`** | Quyết định số 493/QĐ-BYT ngày 13/02/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị bệnh do vi rút Nipah” | `Quyết định` | Bộ Y tế Việt Nam | 2026-02-13 | [Download 📥](raw_sources/REF_MOH_2026_QD493.pdf) |
 <!-- LIBRARY_TABLE_END -->
 
 ---

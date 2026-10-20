@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-10",
+  "generatedAt": "2026-10-20",
   "summary": {
-    "entries": 49,
-    "localDocs": 41,
+    "entries": 52,
+    "localDocs": 44,
     "errors": 0,
-    "warnings": 30
+    "warnings": 31
   },
   "documents": [
     {
@@ -211,6 +211,21 @@
       "refId": "REF_MOH_2026_QD3074",
       "pages": 242,
       "mdLines": 10325
+    },
+    {
+      "refId": "REF_MOH_2026_QD456",
+      "pages": 37,
+      "mdLines": 1017
+    },
+    {
+      "refId": "REF_MOH_2026_QD1359",
+      "pages": 95,
+      "mdLines": 2851
+    },
+    {
+      "refId": "REF_MOH_2026_QD493",
+      "pages": 10,
+      "mdLines": 226
     }
   ],
   "findings": [
@@ -393,6 +408,12 @@
       "refId": "REF_MOH_2017_QD5731",
       "check": "md-header-number",
       "message": "80 dòng đầu không chứa số văn bản '5731' (5731/QĐ-BYT)"
+    },
+    {
+      "level": "WARNING",
+      "refId": "REF_MOH_2026_QD456",
+      "check": "md-blank-header",
+      "message": "header trống ngày ('ngày tháng năm'): “ngày tháng năm 2026”"
     }
   ]
 }
