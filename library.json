@@ -855,5 +855,21 @@
     "effectiveDate": "2026-05-12",
     "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20260613/754_Quyet-dinh-1359-QD-BYT_076eec85bf.pdf",
     "localPath": "raw_sources/REF_MOH_2026_QD1359.pdf"
+  },
+  {
+    "title": "Quyết định số 493/QĐ-BYT ngày 13/02/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị bệnh do vi rút Nipah”",
+    "tags": [
+      "INFECTIOUS_DISEASES",
+      "NEUROLOGY_SENSES",
+      "Truyền nhiễm"
+    ],
+    "version": "2026",
+    "refId": "REF_MOH_2026_QD493",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "493/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2026-02-13",
+    "sourceUrl": "https://datafiles.hanoi.gov.vn/gov-hni/6778/VanBan/2026/3/2/1721%20SYT.pdf",
+    "localPath": "raw_sources/REF_MOH_2026_QD493.pdf"
   }
 ]

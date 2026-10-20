@@ -4,7 +4,7 @@
     "key": "<documentNumber>|<năm ban hành>",
     "attempts": "số lần thử (blocked: tối đa 3)"
   },
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-19",
   "items": [
     {
       "key": "51/2017/TT-BYT|2017",
@@ -579,6 +579,27 @@
       "reason": "công văn hành chính",
       "firstSeen": "2026-10-17",
       "lastChecked": "2026-10-18"
+    },
+    {
+      "key": "493/QĐ-BYT|2026",
+      "documentNumber": "493/QĐ-BYT",
+      "title": "Quyết định số 493/QĐ-BYT ngày 13/02/2026 ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị bệnh do vi rút Nipah",
+      "status": "accepted",
+      "firstSeen": "2026-10-19",
+      "lastChecked": "2026-10-19",
+      "refId": "REF_MOH_2026_QD493",
+      "note": "nguồn: đính kèm CV 1721/SYT-NVY Sở Y tế Hà Nội (tr.2–11); kiểm tra độc lập PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪1",
+      "sourceUrl": "https://datafiles.hanoi.gov.vn/gov-hni/6778/VanBan/2026/3/2/1721%20SYT.pdf"
+    },
+    {
+      "key": "499/QĐ-BYT|2026",
+      "documentNumber": "499/QĐ-BYT",
+      "title": "Quyết định số 499/QĐ-BYT ngày 13/02/2026 ban hành “Hướng dẫn tạm thời giám sát và phòng, chống bệnh do vi rút Nipah ở người”",
+      "status": "rejected",
+      "reason": "hướng dẫn giám sát, phòng chống dịch (Cục Phòng bệnh) — không phải tài liệu chẩn đoán/điều trị lâm sàng",
+      "sourceUrl": "https://datafiles.hanoi.gov.vn/gov-hni/6778/VanBan/2026/3/2/1721%20SYT.pdf",
+      "firstSeen": "2026-10-19",
+      "lastChecked": "2026-10-19"
     }
   ]
 }

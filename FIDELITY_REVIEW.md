@@ -67,6 +67,7 @@
 | 41 | REF_MOH_2026_QD3074 | QTKT Tạo hình & Thẩm mỹ - Tập 2 (71 QT, 2026) | 242 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 5 |
 | 42 | REF_MOH_2026_QD456 | U xơ cơ tử cung (2026) | 37 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
 | 43 | REF_MOH_2026_QD1359 | KHHGĐ & Phá thai an toàn (2026) | 95 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 5 |
+| 44 | REF_MOH_2026_QD493 | Bệnh do vi rút Nipah (2026) | 10 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -410,6 +411,14 @@ Header khớp `library.json` (1359/QĐ-BYT, 12/5/2026, KT. Bộ trưởng – Th
 
 - ⚪ Mất in nghiêng/gạch chân ở vài nhãn; "*(Đã ký)*" theo quy ước.
 - **Mâu thuẫn trong bản gốc (giữ nguyên văn):** tr.62 triệt sản nữ "tối đa 4,5 mg/kg (phụ nữ 50 kg, tối đa 25 ml lidocain 1%)" — 4,5 mg/kg × 50 kg = 22,5 ml; COC "không cho bú trong 4 tuần sau sinh" vs bắt đầu "sau 21 ngày"; bài thuốc tiêm tr.39 ghi "tiếp tục sử dụng thuốc cấy"; tr.38 "chuyển đổi giữa thuốc tiêm tránh thai và NET-EN"; tr.82 "tháo DCTC trước khi dừng thuốc"; "thai ≤ 9 tuần" (tr.71) vs "< 9 tuần" (tr.83); thuốc cấy "đau nửa đầu không tiền triệu" ở hai nhóm, đánh số "2.2." hai lần.
+
+## 44. REF_MOH_2026_QD493 — Hướng dẫn chẩn đoán và điều trị bệnh do vi rút Nipah (10 trang) — 🟡 PASS-WITH-WARNINGS
+> 2026-10-19 · nguồn: QĐ 493/QĐ-BYT đính kèm công văn 1721/SYT-NVY ngày 02/3/2026 của Sở Y tế Hà Nội (datafiles.hanoi.gov.vn; tách tr.2–11 của bản 33 trang, phần còn lại là QĐ 499/QĐ-BYT về giám sát – phòng chống) · chuyển đổi từ ảnh · kiểm tra độc lập bằng `ref-doc-fidelity-checker`, đọc 100% trang, so từng từ và từng con số với text-layer · 🔴0 🟠0 🟡0 ⚪1.
+
+Header khớp `library.json` (493/QĐ-BYT, 13/02/2026, KT. Bộ trưởng – Thứ trưởng Trần Văn Thuấn; hiệu lực từ ngày ký; không thay thế văn bản nào). Mục lục 6 mục, ban biên soạn (1 chỉ đạo, 1 chủ biên, 24 thành viên), mục 1–5 và 5 tài liệu tham khảo khớp. Số liệu khớp: tử vong 40–75%, R0 0,2–0,4, ủ bệnh 3–14 ngày (đến 45 ngày), hôn mê sau 24–48 giờ, di chứng ~20%, IgM trong 5 ngày đầu, IgG 2–4 tuần, BSL-4, cửa sổ dịch tễ 14 ngày (logic "VÀ … HOẶC"), nâng đầu 30 độ. Bản gốc không có bảng/lưu đồ.
+
+- ⚪ Tài liệu tham khảo 4: ranh giới chữ nghiêng sát URL (giữ như bản gốc).
+- **Mâu thuẫn/điểm đáng ngờ trong bản gốc (giữ nguyên văn):** chống chỉ định NSAID "do nguy cơ gây biến chứng chảy máu hoặc hội chứng Reye" (hội chứng Reye kinh điển gắn với aspirin/salicylat); thuốc chống co giật không ghi liều; bìa lặp chữ "HƯỚNG DẪN" (có ghi chú biên tập).
 
 ---
 # 📊 TỔNG KẾT (36/36 tài liệu)
