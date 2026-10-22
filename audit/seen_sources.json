@@ -4,7 +4,7 @@
     "key": "<documentNumber>|<năm ban hành>",
     "attempts": "số lần thử (blocked: tối đa 3)"
   },
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-22",
   "items": [
     {
       "key": "51/2017/TT-BYT|2017",
@@ -600,6 +600,86 @@
       "sourceUrl": "https://datafiles.hanoi.gov.vn/gov-hni/6778/VanBan/2026/3/2/1721%20SYT.pdf",
       "firstSeen": "2026-10-19",
       "lastChecked": "2026-10-19"
+    },
+    {
+      "key": "1008/QĐ-BYT|2026",
+      "documentNumber": "1008/QĐ-BYT",
+      "title": "Quyết định số 1008/QĐ-BYT ngày 14/04/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Da và lớp bao phủ - Tập 2”",
+      "status": "queued",
+      "reason": "phát hiện qua QĐ 1986/QĐ-BYT (sửa thời điểm áp dụng → 01/01/2028); chưa có PDF chính thống, chưa biết số trang (≥ 100 trang → skipped)",
+      "seenVia": "https://kcb.vn/upload/2005611/20260702/uploadiframe_openFile_do_98755.pdf",
+      "firstSeen": "2026-10-22",
+      "lastChecked": "2026-10-22"
+    },
+    {
+      "key": "1035/QĐ-BYT|2026",
+      "documentNumber": "1035/QĐ-BYT",
+      "title": "Quyết định số 1035/QĐ-BYT ngày 16/04/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Hô hấp Tập 2.2”",
+      "status": "queued",
+      "reason": "phát hiện qua QĐ 1986/QĐ-BYT (sửa thời điểm áp dụng → 01/01/2028); chưa có PDF chính thống, chưa biết số trang (≥ 100 trang → skipped)",
+      "seenVia": "https://kcb.vn/upload/2005611/20260702/uploadiframe_openFile_do_98755.pdf",
+      "firstSeen": "2026-10-22",
+      "lastChecked": "2026-10-22"
+    },
+    {
+      "key": "1187/QĐ-BYT|2026",
+      "documentNumber": "1187/QĐ-BYT",
+      "title": "Quyết định số 1187/QĐ-BYT ngày 28/04/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Tiết niệu Tập 2.2”",
+      "status": "queued",
+      "reason": "phát hiện qua QĐ 1986/QĐ-BYT (sửa thời điểm áp dụng → 01/01/2028); chưa có PDF chính thống, chưa biết số trang (≥ 100 trang → skipped)",
+      "seenVia": "https://kcb.vn/upload/2005611/20260702/uploadiframe_openFile_do_98755.pdf",
+      "firstSeen": "2026-10-22",
+      "lastChecked": "2026-10-22"
+    },
+    {
+      "key": "1586/QĐ-BYT|2026",
+      "documentNumber": "1586/QĐ-BYT",
+      "title": "Quyết định số 1586/QĐ-BYT ngày 03/06/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Xạ trị - Tập 2”",
+      "status": "queued",
+      "reason": "phát hiện qua QĐ 1986/QĐ-BYT (sửa thời điểm áp dụng → 01/01/2028); chưa có PDF chính thống, chưa biết số trang (≥ 100 trang → skipped)",
+      "seenVia": "https://kcb.vn/upload/2005611/20260702/uploadiframe_openFile_do_98755.pdf",
+      "firstSeen": "2026-10-22",
+      "lastChecked": "2026-10-22"
+    },
+    {
+      "key": "374/QĐ-BYT|2026",
+      "documentNumber": "374/QĐ-BYT",
+      "title": "Quyết định số 374/QĐ-BYT ngày 05/02/2026 ban hành tài liệu chuyên môn Hướng dẫn quy trình kỹ thuật (tên tài liệu chưa xác định)",
+      "status": "queued",
+      "reason": "phát hiện qua QĐ 1986/QĐ-BYT (sửa thời điểm áp dụng → 01/01/2028); chưa có PDF chính thống, chưa biết số trang (≥ 100 trang → skipped)",
+      "seenVia": "https://kcb.vn/upload/2005611/20260702/uploadiframe_openFile_do_98755.pdf",
+      "firstSeen": "2026-10-22",
+      "lastChecked": "2026-10-22"
+    },
+    {
+      "key": "375/QĐ-BYT|2026",
+      "documentNumber": "375/QĐ-BYT",
+      "title": "Quyết định số 375/QĐ-BYT ngày 05/02/2026 ban hành tài liệu chuyên môn Hướng dẫn quy trình kỹ thuật (tên tài liệu chưa xác định)",
+      "status": "queued",
+      "reason": "phát hiện qua QĐ 1986/QĐ-BYT (sửa thời điểm áp dụng → 01/01/2028); chưa có PDF chính thống, chưa biết số trang (≥ 100 trang → skipped)",
+      "seenVia": "https://kcb.vn/upload/2005611/20260702/uploadiframe_openFile_do_98755.pdf",
+      "firstSeen": "2026-10-22",
+      "lastChecked": "2026-10-22"
+    },
+    {
+      "key": "1270/QĐ-BYT|2026",
+      "documentNumber": "1270/QĐ-BYT",
+      "title": "Quyết định số 1270/QĐ-BYT ngày 06/05/2026 ban hành tài liệu chuyên môn Hướng dẫn quy trình kỹ thuật (tên tài liệu chưa xác định)",
+      "status": "queued",
+      "reason": "phát hiện qua QĐ 1986/QĐ-BYT (sửa thời điểm áp dụng → 01/01/2028); chưa có PDF chính thống, chưa biết số trang (≥ 100 trang → skipped)",
+      "seenVia": "https://kcb.vn/upload/2005611/20260702/uploadiframe_openFile_do_98755.pdf",
+      "firstSeen": "2026-10-22",
+      "lastChecked": "2026-10-22"
+    },
+    {
+      "key": "1921/QĐ-BYT|2026",
+      "documentNumber": "1921/QĐ-BYT",
+      "title": "Quyết định số 1921/QĐ-BYT ngày 26/06/2026 ban hành tài liệu chuyên môn Hướng dẫn quy trình kỹ thuật (tên tài liệu chưa xác định)",
+      "status": "queued",
+      "reason": "phát hiện qua QĐ 1986/QĐ-BYT (sửa thời điểm áp dụng → 01/01/2028); chưa có PDF chính thống, chưa biết số trang (≥ 100 trang → skipped)",
+      "seenVia": "https://kcb.vn/upload/2005611/20260702/uploadiframe_openFile_do_98755.pdf",
+      "firstSeen": "2026-10-22",
+      "lastChecked": "2026-10-22"
     }
   ]
 }

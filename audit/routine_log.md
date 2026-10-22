@@ -2,6 +2,11 @@
 
 Mỗi lần chạy có thay đổi thêm một mục (mới nhất ở trên). Quy trình: `.claude/routines/daily-update.md`.
 
+## 2026-10-22 — lượt chạy routine (gộp 20–22/10)
+- Không có tài liệu mới được thêm.
+- **Xếp hàng mới** (phát hiện qua QĐ 1986/QĐ-BYT; chưa có PDF chính thống): QĐ 1008 (QTKT Da và lớp bao phủ T2), 1035 (Hô hấp T2.2), 1187 (Tiết niệu T2.2), 1586 (Xạ trị T2), 374, 375, 1270, 1921 (QTKT 2026, chưa rõ tên).
+- Vẫn xếp hàng: QĐ 1269, 1296. Không có cập nhật quốc tế mới.
+
 ## 2026-10-19 — lượt chạy routine
 - **Đã thêm (kiểm tra độc lập):** `REF_MOH_2026_QD493` — QĐ 493/QĐ-BYT ngày 13/02/2026, Hướng dẫn chẩn đoán và điều trị bệnh do vi rút Nipah (10 trang; nguồn: đính kèm CV 1721/SYT-NVY Sở Y tế Hà Nội) — PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪1.
 - Đã xét và loại: QĐ 499/QĐ-BYT (giám sát, phòng chống dịch Nipah — ngoài phạm vi lâm sàng).
