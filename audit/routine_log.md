@@ -2,6 +2,10 @@
 
 Mỗi lần chạy có thay đổi thêm một mục (mới nhất ở trên). Quy trình: `.claude/routines/daily-update.md`.
 
+## 2026-10-23 — thêm tài liệu theo link chủ repo cung cấp
+- **Đã thêm (kiểm tra độc lập, 2 agent theo dải trang):** `REF_MOH_2026_QD1269` — QĐ 1269/QĐ-BYT ngày 06/5/2026, QTKT chăm sóc và điều trị sơ sinh - Tập 1 (74 trang, 8 quy trình) — PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪3. QĐ 426/QĐ-BYT hết hiệu lực (không có trong thư viện).
+- Validator 0 ERROR; mermaid 137 khối, invalid 0.
+
 ## 2026-10-22 — lượt chạy routine (gộp 20–22/10)
 - Không có tài liệu mới được thêm.
 - **Xếp hàng mới** (phát hiện qua QĐ 1986/QĐ-BYT; chưa có PDF chính thống): QĐ 1008 (QTKT Da và lớp bao phủ T2), 1035 (Hô hấp T2.2), 1187 (Tiết niệu T2.2), 1586 (Xạ trị T2), 374, 375, 1270, 1921 (QTKT 2026, chưa rõ tên).
