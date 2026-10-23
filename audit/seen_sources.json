@@ -4,7 +4,7 @@
     "key": "<documentNumber>|<năm ban hành>",
     "attempts": "số lần thử (blocked: tối đa 3)"
   },
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-23",
   "items": [
     {
       "key": "51/2017/TT-BYT|2017",
@@ -503,10 +503,13 @@
       "key": "1269/QĐ-BYT|2026",
       "documentNumber": "1269/QĐ-BYT",
       "title": "Quyết định số 1269/QĐ-BYT năm 2026 ban hành Hướng dẫn quy trình kỹ thuật chăm sóc và điều trị sơ sinh - Tập 1",
-      "status": "queued",
-      "reason": "còn lại sau giới hạn 2 tài liệu/lần chạy; mới thấy qua tin/luatvietnam, chưa tìm bản PDF chính thống",
+      "status": "accepted",
       "firstSeen": "2026-10-10",
-      "lastChecked": "2026-10-18"
+      "lastChecked": "2026-10-23",
+      "refId": "REF_MOH_2026_QD1269",
+      "note": "PDF do chủ thư viện cung cấp 2026-10-23 (BVĐK Thuận Châu, bản ký số); kiểm tra độc lập PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪3",
+      "sourceUrl": "https://bvdkthuanchau.vn/upload/1002761/fck/files/Q___s____1269_-_Quy_trinh_ky_thuat_so_sinh-TAP_1_ban_hanh_signed_31f37.pdf",
+      "pages": 74
     },
     {
       "key": "1359/QĐ-BYT|2026",

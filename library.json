@@ -871,5 +871,20 @@
     "effectiveDate": "2026-02-13",
     "sourceUrl": "https://datafiles.hanoi.gov.vn/gov-hni/6778/VanBan/2026/3/2/1721%20SYT.pdf",
     "localPath": "raw_sources/REF_MOH_2026_QD493.pdf"
+  },
+  {
+    "title": "Quyết định số 1269/QĐ-BYT ngày 06/05/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về chăm sóc và điều trị sơ sinh - Tập 1”",
+    "tags": [
+      "PEDIATRICS",
+      "Sơ sinh"
+    ],
+    "version": "2026",
+    "refId": "REF_MOH_2026_QD1269",
+    "documentType": "MOH_GUIDELINE",
+    "documentNumber": "1269/QĐ-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2026-05-06",
+    "sourceUrl": "https://bvdkthuanchau.vn/upload/1002761/fck/files/Q___s____1269_-_Quy_trinh_ky_thuat_so_sinh-TAP_1_ban_hanh_signed_31f37.pdf",
+    "localPath": "raw_sources/REF_MOH_2026_QD1269.pdf"
   }
 ]

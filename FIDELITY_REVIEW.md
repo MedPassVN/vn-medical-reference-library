@@ -68,6 +68,7 @@
 | 42 | REF_MOH_2026_QD456 | U xơ cơ tử cung (2026) | 37 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
 | 43 | REF_MOH_2026_QD1359 | KHHGĐ & Phá thai an toàn (2026) | 95 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 5 |
 | 44 | REF_MOH_2026_QD493 | Bệnh do vi rút Nipah (2026) | 10 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
+| 45 | REF_MOH_2026_QD1269 | QTKT chăm sóc & điều trị sơ sinh - Tập 1 (8 QT, 2026) | 74 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 3 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -419,6 +420,15 @@ Header khớp `library.json` (493/QĐ-BYT, 13/02/2026, KT. Bộ trưởng – Th
 
 - ⚪ Tài liệu tham khảo 4: ranh giới chữ nghiêng sát URL (giữ như bản gốc).
 - **Mâu thuẫn/điểm đáng ngờ trong bản gốc (giữ nguyên văn):** chống chỉ định NSAID "do nguy cơ gây biến chứng chảy máu hoặc hội chứng Reye" (hội chứng Reye kinh điển gắn với aspirin/salicylat); thuốc chống co giật không ghi liều; bìa lặp chữ "HƯỚNG DẪN" (có ghi chú biên tập).
+
+## 45. REF_MOH_2026_QD1269 — Hướng dẫn QTKT về chăm sóc và điều trị sơ sinh - Tập 1 (74 trang) — 🟡 PASS-WITH-WARNINGS
+> 2026-10-23 · nguồn PDF do chủ thư viện cung cấp (Bệnh viện Đa khoa Thuận Châu, bản ký số) · chuyển đổi từ ảnh (2 agent theo dải trang) · kiểm tra độc lập bằng `ref-doc-fidelity-checker` (2 agent: tr.1–38, tr.39–74), đọc 100% trang, so từng từ với text-layer, bảng kiểm/bảng tai biến so từng ô · 🔴0 🟠0 🟡0 ⚪3 (2 mục ⚪ về mô tả hình đã sửa).
+
+Header khớp `library.json` (1269/QĐ-BYT, 06/5/2026, KT. Bộ trưởng – Thứ trưởng Nguyễn Tri Thức; hiệu lực từ ngày ký; **QĐ 426/QĐ-BYT ngày 11/02/2026 hết hiệu lực** — không có trong thư viện). 8 quy trình: thay máu, khám mắt sơ sinh non tháng, bơm surfactant (qua NKQ và LISA), đặt catheter tĩnh mạch rốn, chiếu đèn, khám sơ sinh, vệ sinh rốn, tắm sơ sinh. Danh mục kỹ thuật 8×7, 13 bảng kiểm, 3 bảng tai biến khớp từng ô. Công thức thể tích máu thay (viết một dòng, ngoặc vuông do biên tập thêm — có ghi chú), công thức chiều dài catheter tĩnh mạch rốn khớp. Biểu đồ ngưỡng bilirubin (NICE, AAP 2022, C–F) chỉ mô tả tiêu đề/trục/thang/chú giải, không chép giá trị đường cong.
+
+- ⚪ (đã sửa) Mô tả hình AAP có câu suy diễn về hình dạng đường cong; mô tả sơ đồ thay máu tự đặt tên "máy truyền" cho thiết bị không ghi nhãn.
+- ⚪ "*(Đã ký)*" theo quy ước (ảnh có dấu và chữ ký).
+- **Mâu thuẫn trong bản gốc (giữ nguyên văn + ghi chú biên tập):** công thức thay máu cho thiếu máu nặng dùng tử số "(Hct hiện tại – Hct mong muốn)" giống công thức đa hồng cầu (ra số âm khi thiếu máu); biểu đồ C–F ghi trục "(mg/dl)" với thang 0–350 trong khi phần chữ dùng µmol/L; tra thuốc giãn đồng tử 30–60 phút (mục 5.5) vs 45–60 phút (bảng tai biến); làm ấm surfactant 8 phút vs 5–8 phút; catheter tĩnh mạch rốn truyền 1 mL/giờ (6.6) vs 1–2 mL/giờ (bảng kiểm); bảng kiểm QT4 thiếu mục 10; đánh số mục lặp/đảo ở QT3, QT5, QT7; TLTK QT3 ghi (2025) nhưng DOI 2015.
 
 ---
 # 📊 TỔNG KẾT (36/36 tài liệu)
