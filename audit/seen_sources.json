@@ -686,6 +686,17 @@
       "seenVia": "https://kcb.vn/upload/2005611/20260702/uploadiframe_openFile_do_98755.pdf",
       "firstSeen": "2026-10-22",
       "lastChecked": "2026-10-22"
+    },
+    {
+      "key": "23/2024/TT-BYT|2024",
+      "documentNumber": "23/2024/TT-BYT",
+      "title": "Thông tư số 23/2024/TT-BYT ngày 18/10/2024 ban hành Danh mục kỹ thuật trong khám bệnh, chữa bệnh",
+      "status": "skipped",
+      "pages": 1023,
+      "reason": "≥ 100 trang (1023 tr.) — không chuyển đổi theo quy định routine; PDF do chủ repo cung cấp",
+      "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20241031/457_Thong_tu-23-2024-TT-BYT_fb58669347.pdf",
+      "firstSeen": "2026-10-27",
+      "lastChecked": "2026-10-27"
     }
   ]
 }
