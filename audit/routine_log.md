@@ -2,6 +2,9 @@
 
 Mỗi lần chạy có thay đổi thêm một mục (mới nhất ở trên). Quy trình: `.claude/routines/daily-update.md`.
 
+## 2026-10-27 — QĐ 1296 (link chủ repo cung cấp)
+- QĐ 1296/QĐ-BYT (QTKT Sản phụ khoa Tập 1, 239 quy trình) — PDF 843 trang → `skipped` (≥ 100 trang), không chuyển đổi.
+
 ## 2026-10-23 — thêm tài liệu theo link chủ repo cung cấp
 - **Đã thêm (kiểm tra độc lập, 2 agent theo dải trang):** `REF_MOH_2026_QD1269` — QĐ 1269/QĐ-BYT ngày 06/5/2026, QTKT chăm sóc và điều trị sơ sinh - Tập 1 (74 trang, 8 quy trình) — PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪3. QĐ 426/QĐ-BYT hết hiệu lực (không có trong thư viện).
 - Validator 0 ERROR; mermaid 137 khối, invalid 0.

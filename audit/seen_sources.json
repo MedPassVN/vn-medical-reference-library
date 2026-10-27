@@ -4,7 +4,7 @@
     "key": "<documentNumber>|<năm ban hành>",
     "attempts": "số lần thử (blocked: tối đa 3)"
   },
-  "updatedAt": "2026-10-23",
+  "updatedAt": "2026-10-27",
   "items": [
     {
       "key": "51/2017/TT-BYT|2017",
@@ -559,10 +559,12 @@
       "key": "1296/QĐ-BYT|2026",
       "documentNumber": "1296/QĐ-BYT",
       "title": "Quyết định số 1296/QĐ-BYT năm 2026 ban hành Hướng dẫn quy trình kỹ thuật về Sản phụ khoa - Tập 1",
-      "status": "queued",
-      "reason": "mới thấy qua luatvietnam; chưa tìm bản PDF chính thống, chưa biết số trang (> 100 trang → skipped)",
+      "status": "skipped",
+      "reason": "≥ 100 trang (843 tr., 239 quy trình) — không chuyển đổi theo quy định routine; PDF do chủ repo cung cấp (bản đăng lại, trang QĐ để trống số/ngày); Điều 3: QĐ 1377/QĐ-BYT ngày 24/4/2013 hết hiệu lực (không có trong thư viện)",
       "firstSeen": "2026-10-17",
-      "lastChecked": "2026-10-18"
+      "lastChecked": "2026-10-27",
+      "pages": 843,
+      "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20260613/753_Quyet-dinh-1296-QD-BYT_649e690a9c.pdf"
     },
     {
       "key": "1986/QĐ-BYT|2026",
