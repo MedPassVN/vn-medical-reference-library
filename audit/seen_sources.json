@@ -630,11 +630,12 @@
       "key": "1187/QĐ-BYT|2026",
       "documentNumber": "1187/QĐ-BYT",
       "title": "Quyết định số 1187/QĐ-BYT ngày 28/04/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Tiết niệu Tập 2.2”",
-      "status": "queued",
-      "reason": "phát hiện qua QĐ 1986/QĐ-BYT (sửa thời điểm áp dụng → 01/01/2028); chưa có PDF chính thống, chưa biết số trang (≥ 100 trang → skipped)",
-      "seenVia": "https://kcb.vn/upload/2005611/20260702/uploadiframe_openFile_do_98755.pdf",
+      "status": "skipped",
+      "reason": "≥ 100 trang (107 tr., 24 quy trình) — không chuyển đổi theo quy định routine; PDF do chủ repo cung cấp. Điều 2 gốc: áp dụng từ 01/07/2026 (QĐ 1986 dời sang 01/01/2028)",
       "firstSeen": "2026-10-22",
-      "lastChecked": "2026-10-22"
+      "lastChecked": "2026-10-27",
+      "pages": 107,
+      "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20260507/745_Quyet-dinh-1187-QD-BYT_7a2feaf445.pdf"
     },
     {
       "key": "1586/QĐ-BYT|2026",
