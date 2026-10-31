@@ -886,5 +886,20 @@
     "effectiveDate": "2026-05-06",
     "sourceUrl": "https://bvdkthuanchau.vn/upload/1002761/fck/files/Q___s____1269_-_Quy_trinh_ky_thuat_so_sinh-TAP_1_ban_hanh_signed_31f37.pdf",
     "localPath": "raw_sources/REF_MOH_2026_QD1269.pdf"
+  },
+  {
+    "title": "Thông tư số 55/2025/TT-BYT ngày 31/12/2025 quy định về kê đơn thuốc cổ truyền, thuốc dược liệu và kê đơn kết hợp thuốc cổ truyền, thuốc dược liệu với thuốc hóa dược trong cơ sở khám bệnh, chữa bệnh",
+    "tags": [
+      "MEDICAL_ETHICS_LAW",
+      "Chính sách y tế"
+    ],
+    "version": "2025",
+    "refId": "REF_MOH_2025_TT55",
+    "documentType": "CIRCULAR",
+    "documentNumber": "55/2025/TT-BYT",
+    "issuingAuthority": "Bộ Y tế Việt Nam",
+    "effectiveDate": "2026-03-01",
+    "sourceUrl": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/55-byt.pdf",
+    "localPath": "raw_sources/REF_MOH_2025_TT55.pdf"
   }
 ]
