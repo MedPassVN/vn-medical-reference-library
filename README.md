@@ -52,7 +52,7 @@ if response.status_code == 200:
 ---
 
 <!-- LIBRARY_TABLE_START (tự sinh bởi scripts/build_readme_table.py — không sửa tay) -->
-## 🗂️ Tra cứu nhanh Danh mục Tài liệu hiện có (53 Tài liệu Cốt lõi)
+## 🗂️ Tra cứu nhanh Danh mục Tài liệu hiện có (54 Tài liệu Cốt lõi)
 
 Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn trong thư viện:
 
@@ -111,6 +111,7 @@ Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn 
 | **`REF_MOH_2026_QD1359`** | Quyết định số 1359/QĐ-BYT ngày 12/05/2026 ban hành tài liệu chuyên môn “Hướng dẫn quốc gia về các dịch vụ chăm sóc sức khỏe sinh sản nội dung Kế hoạch hóa gia đình và Phá thai an toàn” | `Quyết định` | Bộ Y tế Việt Nam | 2026-05-12 | [Download 📥](raw_sources/REF_MOH_2026_QD1359.pdf) |
 | **`REF_MOH_2026_QD493`** | Quyết định số 493/QĐ-BYT ngày 13/02/2026 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị bệnh do vi rút Nipah” | `Quyết định` | Bộ Y tế Việt Nam | 2026-02-13 | [Download 📥](raw_sources/REF_MOH_2026_QD493.pdf) |
 | **`REF_MOH_2026_QD1269`** | Quyết định số 1269/QĐ-BYT ngày 06/05/2026 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về chăm sóc và điều trị sơ sinh - Tập 1” | `Quyết định` | Bộ Y tế Việt Nam | 2026-05-06 | [Download 📥](raw_sources/REF_MOH_2026_QD1269.pdf) |
+| **`REF_MOH_2025_TT55`** | Thông tư số 55/2025/TT-BYT ngày 31/12/2025 quy định về kê đơn thuốc cổ truyền, thuốc dược liệu và kê đơn kết hợp thuốc cổ truyền, thuốc dược liệu với thuốc hóa dược trong cơ sở khám bệnh, chữa bệnh | `Thông tư` | Bộ Y tế Việt Nam | 2026-03-01 | [Download 📥](raw_sources/REF_MOH_2025_TT55.pdf) |
 <!-- LIBRARY_TABLE_END -->
 
 ---

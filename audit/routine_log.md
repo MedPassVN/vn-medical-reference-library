@@ -2,6 +2,11 @@
 
 Mỗi lần chạy có thay đổi thêm một mục (mới nhất ở trên). Quy trình: `.claude/routines/daily-update.md`.
 
+## 2026-10-30 — lượt chạy routine
+- **Đã thêm (kiểm tra độc lập):** `REF_MOH_2025_TT55` — Thông tư 55/2025/TT-BYT ngày 31/12/2025, kê đơn thuốc cổ truyền, thuốc dược liệu và kê đơn kết hợp với thuốc hóa dược (15 trang; nguồn datafiles.chinhphu.vn; hiệu lực 01/3/2026, TT 44/2018 hết hiệu lực) — PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪2.
+- Ứng viên chưa xác định số hiệu: bộ hướng dẫn chẩn đoán, điều trị kết hợp YHCT–YHHĐ 16 bệnh (báo chí 25/01/2026).
+- Vẫn xếp hàng: QĐ 1008, 1035, 1586, 374, 375, 1270, 1921. Không có cập nhật quốc tế mới. Validator 0 ERROR.
+
 ## 2026-10-27 — QĐ 1296 (link chủ repo cung cấp)
 - QĐ 1296/QĐ-BYT (QTKT Sản phụ khoa Tập 1, 239 quy trình) — PDF 843 trang → `skipped` (≥ 100 trang), không chuyển đổi.
 - QĐ 1187/QĐ-BYT (QTKT Tiết niệu Tập 2.2, 24 quy trình) — PDF 107 trang → `skipped`. QĐ 3073: bản Bạc Liêu cũng 1185 trang, giữ `skipped`.
