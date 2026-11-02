@@ -58,7 +58,7 @@ Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn 
 
 | Mã Tài liệu (`ref_id`) | Tên Tài liệu Tham khảo | Loại văn bản | Cơ quan ban hành | Ngày hiệu lực | Tải PDF (Local CDN) |
 | :--- | :--- | :---: | :--- | :---: | :---: |
-| **`REF_MOH_2017_TT51`** | Thông tư số 51/2017/TT-BYT ngày 29/12/2017 Hướng dẫn phòng, chẩn đoán và xử trí phản vệ | `Thông tư` | Bộ Y tế Việt Nam | 2017-12-29 | [Download 📥](raw_sources/REF_MOH_2017_TT51.pdf) |
+| **`REF_MOH_2017_TT51`** | Thông tư số 51/2017/TT-BYT ngày 29/12/2017 Hướng dẫn phòng, chẩn đoán và xử trí phản vệ | `Thông tư` | Bộ Y tế Việt Nam | 2018-02-15 | [Download 📥](raw_sources/REF_MOH_2017_TT51.pdf) |
 | **`REF_LAW_2023_KCB`** | Luật Khám bệnh, chữa bệnh số 15/2023/QH15 | `Luật` | Quốc hội Việt Nam | 2024-01-01 | [Download 📥](raw_sources/REF_LAW_2023_KCB.pdf) |
 | **`REF_MOH_2014_QD1904`** | Quyết định số 1904/QĐ-BYT ngày 30/05/2014 ban hành tài liệu Hướng dẫn quy trình kỹ thuật chuyên ngành Hồi sức - Cấp cứu và Chống độc | `Quyết định` | Bộ Y tế Việt Nam | 2014-05-30 | [Download 📥](raw_sources/REF_MOH_2014_QD1904.pdf) |
 | **`REF_MOH_2014_QD361`** | Quyết định số 361/QĐ-BYT ngày 25/01/2014 ban hành tài liệu Hướng dẫn chẩn đoán và điều trị các bệnh về Cơ xương khớp | `Quyết định` | Bộ Y tế Việt Nam | 2014-01-25 | [Download 📥](raw_sources/REF_MOH_2014_QD361.pdf) |
@@ -95,7 +95,7 @@ Dưới đây là mục lục tra cứu nhanh các tài liệu y khoa có sẵn 
 | **`REF_MOH_2023_QD4416`** | Quyết định số 4416/QĐ-BYT ngày 06/12/2023 ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị các bệnh Da liễu | `Quyết định` | Bộ Y tế Việt Nam | 2023-12-06 | [Download 📥](raw_sources/REF_MOH_2023_QD4416.pdf) |
 | **`REF_MOH_2016_QD4484`** | Quyết định số 4484/QĐ-BYT ngày 18/08/2016 ban hành tài liệu Hướng dẫn quy trình kỹ thuật Ngoại khoa, chuyên khoa Chấn thương Chỉnh hình | `Quyết định` | Bộ Y tế Việt Nam | 2016-08-18 | [Download 📥](raw_sources/REF_MOH_2016_QD4484.pdf) |
 | **`REF_MOH_2015_QD315`** | Quyết định số 315/QĐ-BYT ngày 29/01/2015 ban hành tài liệu chuyên môn Hướng dẫn chẩn đoán và điều trị các bệnh Sản Phụ khoa | `Quyết định` | Bộ Y tế Việt Nam | 2015-01-29 | [Download 📥](raw_sources/REF_MOH_2015_QD315.pdf) |
-| **`REF_MOH_2025_QD2598`** | Quyết định số 2598/QĐ-BYT ngày 18/08/2025 ban hành tài liệu Hướng dẫn quốc gia về Dinh dưỡng lâm sàng | `Quyết định` | Bộ Y tế Việt Nam | 2025-08-18 | [Download 📥](raw_sources/REF_MOH_2025_QD2598.pdf) |
+| **`REF_MOH_2025_QD2598`** | Quyết định số 2598/QĐ-BYT ngày 18/08/2025 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Dinh dưỡng lâm sàng” | `Quyết định` | Bộ Y tế Việt Nam | 2028-01-01 | [Download 📥](raw_sources/REF_MOH_2025_QD2598.pdf) |
 | **`REF_MOH_2024_QD3777`** | Quyết định số 3777/QĐ-BYT ngày 16/12/2024 ban hành tài liệu Hướng dẫn chuyên môn Đánh giá tình trạng dinh dưỡng trẻ em bằng các chỉ số nhân trắc cơ bản tại cộng đồng | `Quyết định` | Bộ Y tế Việt Nam | 2024-12-16 | [Download 📥](raw_sources/REF_MOH_2024_QD3777.pdf) |
 | **`REF_MOH_2017_QD5590`** | Quyết định số 5590/QĐ-BYT ngày 13/12/2017 ban hành Hướng dẫn quy trình kỹ thuật Ngoại khoa, chuyên khoa Phẫu thuật Thần kinh | `Quyết định` | Bộ Y tế Việt Nam | 2017-12-13 | [Download 📥](raw_sources/REF_MOH_2017_QD5590.pdf) |
 | **`REF_MOH_2017_QD5731`** | Quyết định số 5731/QĐ-BYT ngày 21/12/2017 ban hành Hướng dẫn quy trình kỹ thuật Ngoại khoa, chuyên khoa Phẫu thuật Tiết niệu | `Quyết định` | Bộ Y tế Việt Nam | 2017-12-21 | [Download 📥](raw_sources/REF_MOH_2017_QD5731.pdf) |

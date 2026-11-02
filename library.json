@@ -12,7 +12,7 @@
     "documentType": "CIRCULAR",
     "documentNumber": "51/2017/TT-BYT",
     "issuingAuthority": "Bộ Y tế Việt Nam",
-    "effectiveDate": "2017-12-29",
+    "effectiveDate": "2018-02-15",
     "sourceUrl": "https://soyt.langson.gov.vn/upload/105380/20241107/1_BAC_SI_HANG_III__Y_KHOA__e05ea.pdf",
     "localPath": "raw_sources/REF_MOH_2017_TT51.pdf"
   },
@@ -627,7 +627,7 @@
     "localPath": "raw_sources/REF_MOH_2015_QD315.pdf"
   },
   {
-    "title": "Quyết định số 2598/QĐ-BYT ngày 18/08/2025 ban hành tài liệu Hướng dẫn quốc gia về Dinh dưỡng lâm sàng",
+    "title": "Quyết định số 2598/QĐ-BYT ngày 18/08/2025 ban hành tài liệu chuyên môn “Hướng dẫn quy trình kỹ thuật về Dinh dưỡng lâm sàng”",
     "tags": [
       "ENDOCRINOLOGY_METABOLISM",
       "MULTI_SYSTEM",
@@ -638,7 +638,7 @@
     "documentType": "MOH_GUIDELINE",
     "documentNumber": "2598/QĐ-BYT",
     "issuingAuthority": "Bộ Y tế Việt Nam",
-    "effectiveDate": "2025-08-18",
+    "effectiveDate": "2028-01-01",
     "sourceUrl": "https://bvdkbaclieu.gov.vn/upload/1000079/20250904/624_Quyet_dinh-2598-QD-BYT_8b5024744a.pdf",
     "localPath": "raw_sources/REF_MOH_2025_QD2598.pdf"
   },
