@@ -2,6 +2,11 @@
 
 Mỗi lần chạy có thay đổi thêm một mục (mới nhất ở trên). Quy trình: `.claude/routines/daily-update.md`.
 
+## 2026-11-03 — lượt chạy routine
+- Không có tài liệu mới được thêm.
+- **Xếp hàng mới** (chưa có PDF chính thống): QĐ 1505/QĐ-BYT (HD chẩn đoán, điều trị bệnh do vi rút Ebola, ~25/5/2026), QĐ 2056/QĐ-BYT (HD phòng và kiểm soát lây nhiễm Ebola trong cơ sở KBCB, 07/2026).
+- Không có cập nhật quốc tế mới.
+
 ## 2026-11-02 — chuẩn hoá effectiveDate (quyết định chủ repo: theo ngày có hiệu lực/áp dụng)
 - `REF_MOH_2025_QD2598`: effectiveDate 2025-08-18 → 2028-01-01 (Điều 2 gốc: áp dụng 01/07/2026; QĐ 1986/QĐ-BYT ngày 01/07/2026 dời sang 01/01/2028); title sửa theo trích yếu PDF "Hướng dẫn quy trình kỹ thuật về Dinh dưỡng lâm sàng".
 - `REF_MOH_2017_TT51`: effectiveDate 2017-12-29 → 2018-02-15 (Điều 7: hiệu lực từ 15/02/2018).

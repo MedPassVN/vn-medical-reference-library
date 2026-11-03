@@ -4,7 +4,7 @@
     "key": "<documentNumber>|<năm ban hành>",
     "attempts": "số lần thử (blocked: tối đa 3)"
   },
-  "updatedAt": "2026-10-31",
+  "updatedAt": "2026-11-03",
   "items": [
     {
       "key": "51/2017/TT-BYT|2017",
@@ -709,6 +709,24 @@
       "note": "nguồn: datafiles.chinhphu.vn; kiểm tra độc lập PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪2",
       "sourceUrl": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/01/55-byt.pdf",
       "pages": 15
+    },
+    {
+      "key": "1505/QĐ-BYT|2026",
+      "documentNumber": "1505/QĐ-BYT",
+      "title": "Quyết định số 1505/QĐ-BYT năm 2026 ban hành Hướng dẫn chẩn đoán và điều trị bệnh do vi rút Ebola",
+      "status": "queued",
+      "reason": "phát hiện qua báo chí (Đại Đoàn Kết, VnEconomy: ban hành ~25/5/2026, cập nhật bản 2014 — QĐ 2968/QĐ-BYT); chưa có PDF chính thống",
+      "firstSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
+    },
+    {
+      "key": "2056/QĐ-BYT|2026",
+      "documentNumber": "2056/QĐ-BYT",
+      "title": "Quyết định số 2056/QĐ-BYT năm 2026 ban hành Hướng dẫn phòng và kiểm soát lây nhiễm vi rút Ebola trong các cơ sở khám bệnh, chữa bệnh",
+      "status": "queued",
+      "reason": "hướng dẫn chuyên môn KSNK trong cơ sở KBCB; chưa có PDF chính thống (luatvietnam cần đăng nhập)",
+      "firstSeen": "2026-11-03",
+      "lastChecked": "2026-11-03"
     }
   ]
 }
