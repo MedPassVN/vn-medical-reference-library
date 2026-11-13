@@ -2,6 +2,11 @@
 
 Mỗi lần chạy có thay đổi thêm một mục (mới nhất ở trên). Quy trình: `.claude/routines/daily-update.md`.
 
+## 2026-11-13 — lượt chạy routine (gộp 04–13/11)
+- Không có tài liệu mới được thêm.
+- Đã xét và loại: Thông tư 16/2026/TT-BYT (chương trình hỗ trợ thuốc miễn phí — hành chính).
+- Vẫn xếp hàng (chưa có PDF chính thống): QĐ 1505, 2056 (Ebola); QĐ QTKT 1008, 1035, 1586, 374, 375, 1270, 1921. Không có cập nhật quốc tế mới.
+
 ## 2026-11-03 — lượt chạy routine
 - Không có tài liệu mới được thêm.
 - **Xếp hàng mới** (chưa có PDF chính thống): QĐ 1505/QĐ-BYT (HD chẩn đoán, điều trị bệnh do vi rút Ebola, ~25/5/2026), QĐ 2056/QĐ-BYT (HD phòng và kiểm soát lây nhiễm Ebola trong cơ sở KBCB, 07/2026).

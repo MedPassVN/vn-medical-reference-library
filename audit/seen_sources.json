@@ -4,7 +4,7 @@
     "key": "<documentNumber>|<năm ban hành>",
     "attempts": "số lần thử (blocked: tối đa 3)"
   },
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-13",
   "items": [
     {
       "key": "51/2017/TT-BYT|2017",
@@ -727,6 +727,16 @@
       "reason": "hướng dẫn chuyên môn KSNK trong cơ sở KBCB; chưa có PDF chính thống (luatvietnam cần đăng nhập)",
       "firstSeen": "2026-11-03",
       "lastChecked": "2026-11-03"
+    },
+    {
+      "key": "16/2026/TT-BYT|2026",
+      "documentNumber": "16/2026/TT-BYT",
+      "title": "Thông tư số 16/2026/TT-BYT ngày 25/5/2026 quy định thực hiện chương trình hỗ trợ thuốc miễn phí cho cơ sở khám bệnh, chữa bệnh để điều trị cho người bệnh",
+      "status": "rejected",
+      "reason": "văn bản quản lý chương trình hỗ trợ thuốc (hành chính), không phải tài liệu chuyên môn lâm sàng",
+      "sourceUrl": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/5/16-byt.pdf",
+      "firstSeen": "2026-11-13",
+      "lastChecked": "2026-11-13"
     }
   ]
 }
