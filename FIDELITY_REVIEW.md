@@ -70,6 +70,7 @@
 | 44 | REF_MOH_2026_QD493 | Bệnh do vi rút Nipah (2026) | 10 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 1 |
 | 45 | REF_MOH_2026_QD1269 | QTKT chăm sóc & điều trị sơ sinh - Tập 1 (8 QT, 2026) | 74 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 3 |
 | 46 | REF_MOH_2025_TT55 | Kê đơn thuốc cổ truyền, thuốc dược liệu (TT 55/2025) | 15 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 2 |
+| 47 | REF_MOH_2025_TT26 | Đơn thuốc & kê đơn hóa dược, sinh phẩm ngoại trú (TT 26/2025) | 26 | 🟡 PASS-WITH-WARNINGS | 0 | 0 | 0 | 2 |
 
 **Mẫu lỗi lặp lại (lưu ý chung):**
 1. **Header để trống số/ngày quyết định** (`Số: /QĐ-BYT`, `ngày tháng năm`) — gặp ở nhiều file (1575, 2558, 1840…).
@@ -438,6 +439,14 @@ Header khớp `library.json` (55/2025/TT-BYT, 31/12/2025, KT. Bộ trưởng –
 
 - ⚪ "*(Đã ký)*" theo quy ước; in đậm nhấn mạnh một số cụm từ/số (quy ước trình bày, không đổi chữ).
 - **Mâu thuẫn/điểm lệch trong bản gốc (giữ nguyên văn):** NĐ 163/2025 ghi "ngày 29 năm 06 tháng 2025" ở phần căn cứ (có ghi chú); "26/2025/TTBYT" thiếu gạch nối (có ghi chú); chú thích 1 Phụ lục II chép y Phụ lục I ("T: Đơn thuốc thang") (có ghi chú); chú thích 8 Phụ lục II đảo thứ tự dạng bào chế so với Điều 8 (có ghi chú); Điều 6.2 "bác sĩ chuyên khoa cơ bản" vs Điều 4.2.b "bác sĩ chuyên khoa".
+
+## 47. REF_MOH_2025_TT26 — Đơn thuốc và kê đơn thuốc hóa dược, sinh phẩm trong điều trị ngoại trú (26 trang) — 🟡 PASS-WITH-WARNINGS
+> 2026-11-16 · nguồn: cổng thông tin địa phương (storage-vnportal.vnpt.vn, bản ký số) · chuyển đổi từ ảnh · kiểm tra độc lập bằng `ref-doc-fidelity-checker` (2 agent: thân văn bản + Phụ lục I–VI; Phụ lục VII), đọc 100% trang, so từng từ với text-layer; bảng Phụ lục VII (252 mục, 16 chương) so tự động từng ô · vòng 1 🔴0 🟠0 🟡1 ⚪2 → đã sửa 🟡 (thứ tự khối ký ở Phụ lục I–IV, kiểm bằng so từ tự động: không đổi chữ) → 🔴0 🟠0 🟡0 ⚪2.
+
+Header khớp `library.json` (26/2025/TT-BYT, 30/06/2025, KT. Bộ trưởng – Thứ trưởng Trần Văn Thuấn; **hiệu lực 01/07/2025**; TT 52/2017, 18/2018, 04/2022, 27/2021 hết hiệu lực — không có trong thư viện). 14 Điều, 7 phụ lục. Số liệu khớp: kê đơn tối đa 30 ngày (bệnh thuộc PL VII: 90 ngày), thuốc gây nghiện cấp tính ≤ 07 ngày, giảm đau ung thư 30 ngày/3 đợt ≤ 10 ngày, hướng thần 10/30 ngày, trẻ < 72 tháng tuổi, lĩnh thuốc trong 05 ngày, mã đơn 14 ký tự, lộ trình kê đơn điện tử (bệnh viện trước 01/10/2025, cơ sở khác trước 01/01/2026).
+
+- ⚪ Số chú thích dùng số mũ Unicode; "*(Đã ký)*" theo quy ước.
+- **Mâu thuẫn/điểm đáng ngờ trong bản gốc (giữ nguyên văn):** Điều 13.2.d câu cụt "hết hiệu lực kể từ ngày." (có ghi chú); Phụ lục III chú thích nhảy 9 → 11 (có ghi chú); PL VII: ô ICD trống ở 6.26, 10.6; 10.27 trùng 10.18; "Đỏ da toàn than"; **mã ICD đáng ngờ**: 16.1/16.2 Z69.64/Z69.65 (nghi Z96.64/Z96.65), 10.8 S35.3, 10.28 Q44.5, 7.11 H44.5, 6.16 G51.3, 13.1 N01, 8.6 I10 trùng 8.10; mục xếp sai chương (4.22–4.24, 6.1, 14.1); chính tả "Crigler Naja", "Pateau".
 
 ---
 # 📊 TỔNG KẾT (36/36 tài liệu)
