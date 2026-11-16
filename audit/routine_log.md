@@ -2,6 +2,10 @@
 
 Mỗi lần chạy có thay đổi thêm một mục (mới nhất ở trên). Quy trình: `.claude/routines/daily-update.md`.
 
+## 2026-11-15 — lượt chạy routine
+- **Đã thêm (kiểm tra độc lập, 2 agent):** `REF_MOH_2025_TT26` — Thông tư 26/2025/TT-BYT ngày 30/06/2025, đơn thuốc và kê đơn thuốc hóa dược, sinh phẩm trong điều trị ngoại trú (26 trang; hiệu lực 01/07/2025; thay TT 52/2017, 18/2018, 04/2022, 27/2021) — PASS-WITH-WARNINGS 🔴0 🟠0 🟡0 ⚪2.
+- Vẫn xếp hàng: QĐ 1505, 2056 (Ebola); QĐ QTKT 1008, 1035, 1586, 374, 375, 1270, 1921. Không có cập nhật quốc tế mới. Validator 0 ERROR.
+
 ## 2026-11-13 — lượt chạy routine (gộp 04–13/11)
 - Không có tài liệu mới được thêm.
 - Đã xét và loại: Thông tư 16/2026/TT-BYT (chương trình hỗ trợ thuốc miễn phí — hành chính).
