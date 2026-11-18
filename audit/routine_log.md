@@ -2,6 +2,12 @@
 
 Mỗi lần chạy có thay đổi thêm một mục (mới nhất ở trên). Quy trình: `.claude/routines/daily-update.md`.
 
+## 2026-11-18 — lượt chạy routine
+- Không có tài liệu mới được thêm.
+- **Xếp hàng mới:** QĐ 3510/QĐ-BYT (11/11/2025, HD chẩn đoán và điều trị bệnh thần kinh đái tháo đường) — chỉ có bản đăng lại trên vnras.com, trang QĐ để trống số/ngày; chờ PDF chính thống.
+- Đã xét và loại: Thông tư 46/2026/TT-BYT (tiêu chuẩn chất lượng cơ sở KBCB không phải bệnh viện — quản lý).
+- Vẫn xếp hàng: QĐ 1505, 2056 (Ebola); QĐ QTKT 1008, 1035, 1586, 374, 375, 1270, 1921. Không có cập nhật quốc tế mới.
+
 ## 2026-11-16 — lượt chạy routine
 - Không có tài liệu mới được thêm. Đã xét và loại: Thông tư 06/2026/TT-BYT (mã hóa bệnh tật theo ICD-10 — quản lý thông tin).
 - Vẫn xếp hàng: QĐ 1505, 2056 (Ebola); QĐ QTKT 1008, 1035, 1586, 374, 375, 1270, 1921. Không có cập nhật quốc tế mới.

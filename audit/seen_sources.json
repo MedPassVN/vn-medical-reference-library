@@ -4,7 +4,7 @@
     "key": "<documentNumber>|<năm ban hành>",
     "attempts": "số lần thử (blocked: tối đa 3)"
   },
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-18",
   "items": [
     {
       "key": "51/2017/TT-BYT|2017",
@@ -758,6 +758,24 @@
       "sourceUrl": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/4/06-byt.pdf",
       "firstSeen": "2026-11-16",
       "lastChecked": "2026-11-16"
+    },
+    {
+      "key": "3510/QĐ-BYT|2025",
+      "documentNumber": "3510/QĐ-BYT",
+      "title": "Quyết định số 3510/QĐ-BYT ngày 11/11/2025 ban hành tài liệu chuyên môn “Hướng dẫn chẩn đoán và điều trị bệnh thần kinh đái tháo đường”",
+      "status": "queued",
+      "reason": "chỉ tìm được bản đăng lại trên vnras.com (40 tr., trang QĐ để trống số/ngày, có watermark trang thứ cấp) — chưa có PDF chính thống",
+      "firstSeen": "2026-11-18",
+      "lastChecked": "2026-11-18"
+    },
+    {
+      "key": "46/2026/TT-BYT|2026",
+      "documentNumber": "46/2026/TT-BYT",
+      "title": "Thông tư số 46/2026/TT-BYT ngày 16/11/2026 quy định tiêu chuẩn chất lượng cơ bản đối với cơ sở khám bệnh, chữa bệnh không phải bệnh viện",
+      "status": "rejected",
+      "reason": "tiêu chuẩn chất lượng cơ sở KBCB (quản lý), không phải tài liệu chuyên môn chẩn đoán – điều trị",
+      "firstSeen": "2026-11-18",
+      "lastChecked": "2026-11-18"
     }
   ]
 }
