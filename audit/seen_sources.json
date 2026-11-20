@@ -4,7 +4,7 @@
     "key": "<documentNumber>|<năm ban hành>",
     "attempts": "số lần thử (blocked: tối đa 3)"
   },
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-20",
   "items": [
     {
       "key": "51/2017/TT-BYT|2017",
@@ -776,6 +776,16 @@
       "reason": "tiêu chuẩn chất lượng cơ sở KBCB (quản lý), không phải tài liệu chuyên môn chẩn đoán – điều trị",
       "firstSeen": "2026-11-18",
       "lastChecked": "2026-11-18"
+    },
+    {
+      "key": "25/2026/TT-BYT|2026",
+      "documentNumber": "25/2026/TT-BYT",
+      "title": "Thông tư số 25/2026/TT-BYT ngày 30/6/2026 sửa đổi, bổ sung một số điều của các Thông tư 01/2013, 32/2023, 23/2024 và 42/2025/TT-BYT",
+      "status": "rejected",
+      "reason": "thông tư sửa đổi quy định quản lý (QLCL xét nghiệm, danh mục kỹ thuật, tiêu chuẩn sức khỏe) — không phải tài liệu chuyên môn chẩn đoán – điều trị",
+      "sourceUrl": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/25-byt.signed.pdf",
+      "firstSeen": "2026-11-20",
+      "lastChecked": "2026-11-20"
     }
   ]
 }
